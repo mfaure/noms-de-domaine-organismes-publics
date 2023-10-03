@@ -262,7 +262,6 @@ https://www.allauch.com
 http://alleins.com
 http://www.alleins.com
 http://allemansdudropt.com
-https://allemond.com
 https://www.allevard-les-bains.com
 https://www.alleyrac-mairie.com
 http://alos-sibas-abense.com
@@ -1286,6 +1285,7 @@ https://esquelbecq.com
 https://www.esquieze-sere.com
 https://esternay.com
 https://www.etablissement-opunohu.com
+https://etagnac.com
 https://etalans.com
 https://www.etalans.com
 https://www.etampes-sur-marne.com
@@ -2738,8 +2738,7 @@ https://www.paris-saclay.com
 https://www.parisot82commune.com
 http://parlement-bretagne.com
 https://passezalacte.com
-http://pastourisme71.com
-http://www.pastourisme71.com
+https://pastourisme71.com
 https://pauillac-medoc.com
 https://www.pauillac-medoc.com
 https://www.pays-ancenis.com
@@ -3097,7 +3096,6 @@ https://www.saintbarthelemy40.com
 https://www.saintbonnetdemure.com
 https://saintbonnetlechastel.com
 https://saintbonnetsurgironde.com
-https://www.saintbonnetsurgironde.com
 https://saintchaptes.com
 https://www.saintchaptes.com
 https://saintcoulomb.com
@@ -3166,7 +3164,6 @@ https://www.saintjuliendepeyrolas.com
 https://www.saintjuliendupuy.com
 https://www.saintjulienenbeauchene.com
 https://saintjunienlescombes.com
-http://www.saintjunienlescombes.com
 https://saintjust34.com
 https://www.saintlaurent74.com
 http://saintlaurentdesvignes.com
@@ -4029,7 +4026,6 @@ https://www.2edb-leclerc.fr
 https://3-moutiers.fr
 http://isle-arne.3cag.fr
 https://www.3cag.fr
-https://3cbo.fr
 https://www.3cbo.fr
 https://3cm.fr
 https://www.3cm.fr
@@ -4774,7 +4770,6 @@ https://daniellajeffry.lyc.ac-guadeloupe.fr
 https://ducharmoy.lyc.ac-guadeloupe.fr
 https://faustinfleret.lyc.ac-guadeloupe.fr
 https://gervillereache.lyc.ac-guadeloupe.fr
-https://hyacinthebastaraud.lyc.ac-guadeloupe.fr
 https://jardindessai.lyc.ac-guadeloupe.fr
 https://louisdelgres.lyc.ac-guadeloupe.fr
 https://paullacave.lyc.ac-guadeloupe.fr
@@ -5387,7 +5382,6 @@ http://www.clg-moulin-chaville.ac-versailles.fr
 http://www.clg-moulin-sannois.ac-versailles.fr
 http://www.clg-pagnol-montsoult.ac-versailles.fr
 http://www.clg-paparemborde-colombes.ac-versailles.fr
-http://www.clg-pasteur-lacelle.ac-versailles.fr
 http://www.clg-peguy-bondoufle.ac-versailles.fr
 http://www.clg-peguy-lechesnay.ac-versailles.fr
 http://www.clg-peguy-morsang.ac-versailles.fr
@@ -5429,7 +5423,6 @@ http://www.lyc-prevert-versailles.ac-versailles.fr
 http://www.lyc-rabelais-meudon.ac-versailles.fr
 http://www.lyc-renoir-asnieres.ac-versailles.fr
 http://www.lyc-stex-mantes.ac-versailles.fr
-http://www.lyc-verne-limours.ac-versailles.fr
 http://www.lyc-villaroy-guyancourt.ac-versailles.fr
 http://www.lyc-violletleduc.ac-versailles.fr
 http://www.lyc-voilin-puteaux.ac-versailles.fr
@@ -7305,6 +7298,7 @@ https://www.barreau-beziers-avocats.fr
 https://www.barreau-chalons.fr
 https://www.barreau-chambery.fr
 https://barreau-colmar.fr
+https://www.barreau-coutances-avranches.fr
 https://barreau-jura-avocats.fr
 https://www.barreau-jura-avocats.fr
 https://www.barreau-saintnazaire.fr
@@ -8500,7 +8494,6 @@ https://www.cachy.fr
 https://www.cacl-guyane.fr
 https://www.cadalen.fr
 https://cadarsac.fr
-https://www.cadarsac.fr
 https://www.caderousse.fr
 https://www.cades.fr
 https://cadillacsurgaronne.fr
@@ -10934,6 +10927,7 @@ https://www.commune-bressesurgrosne.fr
 https://commune-bretagne.fr
 https://commune-bussierepoitevine.fr
 https://www.commune-bussierepoitevine.fr
+http://www.commune-cailly.fr
 https://www.commune-cazals.fr
 https://commune-chateau-lhermitage.fr
 https://www.commune-chateau-lhermitage.fr
@@ -11254,6 +11248,7 @@ https://www.contamine-sarzin.fr
 https://www.contamine-sur-arve.fr
 https://www.conteville.fr
 https://contevillelb.fr
+https://www.continvoir.fr
 https://contrevoz.fr
 https://www.contrieres.fr
 https://www.contrisson.fr
@@ -11355,6 +11350,7 @@ https://www.cotelub.fr
 https://cotesdarmor.fr
 https://www.cotesdarmor.fr
 https://www.cottevrard.fr
+https://coubert.fr
 https://www.coubertin-meaux.fr
 https://www.coubisou.fr
 https://www.coublevie.fr
@@ -13427,7 +13423,7 @@ http://espinas.fr
 http://www.espinas.fr
 https://www.espirat.fr
 https://espoey-village.fr
-http://www.espoey-village.fr
+https://www.espoey-village.fr
 https://espondeilhan.fr
 https://esprels.fr
 https://esquennoy.fr
@@ -14813,6 +14809,7 @@ https://www.aveyron.gouv.fr
 https://airbag.aviation-civile.gouv.fr
 https://caramel.aviation-civile.gouv.fr
 https://redevances.dcs.aviation-civile.gouv.fr
+https://demarches-portailpn.aviation-civile.gouv.fr
 https://aeral.dg.aviation-civile.gouv.fr
 http://documentation.aviation-civile.gouv.fr
 https://droits-passagers-aeriens.aviation-civile.gouv.fr
@@ -15533,7 +15530,6 @@ https://equipage.defense.gouv.fr
 https://eureka.defense.gouv.fr
 http://forum-innovation.defense.gouv.fr
 http://www.forum-innovation.defense.gouv.fr
-https://geoderec.defense.gouv.fr
 https://habillement.defense.gouv.fr
 http://lafabrique.defense.gouv.fr
 https://logement.defense.gouv.fr
@@ -16458,7 +16454,6 @@ https://liste-diff.enseignementsup.gouv.fr
 https://data.enseignementsup-recherche.gouv.fr
 http://www.elections-pro.enseignementsup-recherche.gouv.fr
 https://galaxie.enseignementsup-recherche.gouv.fr
-http://www2.helios.enseignementsup-recherche.gouv.fr
 https://ines.enseignementsup-recherche.gouv.fr
 http://m.isoprod.enseignementsup-recherche.gouv.fr
 https://ldif.enseignementsup-recherche.gouv.fr
@@ -16790,7 +16785,6 @@ https://qualification.france-identite.gouv.fr
 https://france-renov.gouv.fr
 https://france-sesame.gouv.fr
 https://form.france-sesame.gouv.fr
-https://moa.france-sesame.gouv.fr
 https://pprod.france-sesame.gouv.fr
 https://www.france-sesame.gouv.fr
 https://guichet.france-visas.gouv.fr
@@ -17204,7 +17198,6 @@ http://comdalo.application.logement.gouv.fr
 https://galion.application.logement.gouv.fr
 http://comdalo.info.application.logement.gouv.fr
 https://sne.info.application.logement.gouv.fr
-https://spls.application.logement.gouv.fr
 https://www.atelier-territoires.logement.gouv.fr
 https://attributionlogementsocialetdalo.logement.gouv.fr
 http://extranet.crhh.auvergne-rhone-alpes.logement.gouv.fr
@@ -17222,7 +17215,6 @@ http://extranet.filactu.logement.gouv.fr
 https://www.financement-logement-social.logement.gouv.fr
 http://koalha.midi-pyrenees.logement.gouv.fr
 https://koalha.occitanie.logement.gouv.fr
-https://ops.logement.gouv.fr
 https://info.registre-coproprietes.logement.gouv.fr
 https://www.reseaunationalamenageurs.logement.gouv.fr
 https://siap.logement.gouv.fr
@@ -18159,7 +18151,6 @@ https://www.grandchambery.fr
 https://www.grandchambord.fr
 https://grandchamp.fr
 https://www.grandchamp.fr
-https://www.grandchampdesfontaines.fr
 https://www.grandchateaudun.fr
 https://grandcombechateleu.fr
 https://www.grandcombechateleu.fr
@@ -18851,6 +18842,7 @@ http://www.isdes.fr
 https://www.isere.fr
 https://isigny-omaha-intercom.fr
 https://isigny-omaha-tourisme.fr
+https://isigny-sur-mer.fr
 https://www.isigny-sur-mer.fr
 https://isle-et-crempse-en-perigord.fr
 https://www.isle-sur-serein.fr
@@ -21209,6 +21201,7 @@ https://www.lycee-montesquieu.fr
 http://lycee-nisard.fr
 https://lycee-oiselet.fr
 http://lycee-palissy-agen.fr
+http://www.lycee-paul-claudel.fr
 https://lycee-paul-cornu.fr
 https://www.lycee-paul-guerin.fr
 https://www.lycee-pavie.fr
@@ -21588,6 +21581,7 @@ http://mairie-arbent.fr
 http://www.mairie-arbent.fr
 https://www.mairie-arcambal.fr
 https://www.mairie-archamps.fr
+https://mairie-archigny.fr
 http://mairie-arcins.fr
 http://www.mairie-arcins.fr
 https://www.mairie-ardin.fr
@@ -21954,7 +21948,6 @@ https://mairie-claviers.fr
 https://mairie-cleon-andran.fr
 https://www.mairie-cleon-andran.fr
 https://mairie-cleres.fr
-https://www.mairie-cleres.fr
 https://www.mairie-climbach.fr
 https://www.mairie-clisson.fr
 https://www.mairie-coggia.fr
@@ -23121,7 +23114,6 @@ https://mairie-saintnicolasdemacherin.fr
 https://mairie-saintnicolaslachapelle.fr
 https://www.mairie-saintoffenge.fr
 https://www.mairie-saintpaldemons.fr
-http://mairie-saintpaul.fr
 https://mairie-saintpauldevarax.fr
 https://mairie-saintpaullesfonts.fr
 https://www.mairie-saintpaullesfonts.fr
@@ -26742,7 +26734,6 @@ https://mairie-osani.mairie.pagespro-orange.fr
 https://plessis-leveque.mairie.pagespro-orange.fr
 http://mairie.puicheric.mairie.pagespro-orange.fr
 https://quesnoysurairaines.mairie.pagespro-orange.fr
-https://saint-omer-capelle.mairie.pagespro-orange.fr
 https://saint-ouen-marchefroy.mairie.pagespro-orange.fr
 https://soligny-la-trappe.pagespro-orange.fr
 http://mairie.villers-aux-erables.pagespro-orange.fr
@@ -26761,7 +26752,7 @@ https://palaminy.fr
 https://paley.fr
 http://www.palhers.fr
 https://www.palise25.fr
-http://palleville81.fr
+https://palleville81.fr
 http://www.palleville81.fr
 https://palluau.fr
 https://www.palluausurindre.fr
@@ -26870,7 +26861,6 @@ https://paudy.fr
 https://paulbert.fr
 https://www.paulecommunedebretagne.fr
 https://paulhac.fr
-http://paulhac15.fr
 https://www.paulhan.fr
 https://paulin.fr
 http://www.paulin.fr
@@ -30092,7 +30082,6 @@ https://www.sandarville.fr
 https://www.sandillon.fr
 https://www.sandouville.fr
 https://sandrans.fr
-http://www.sandtoulon.fr
 http://www.sanilhac-perigord.fr
 https://sannat.fr
 https://www.sannes.fr
@@ -30729,7 +30718,6 @@ https://www.service-public.fr
 https://servicejeunesse-jarny.fr
 https://www.servicejeunesse-jarny.fr
 http://servies.fr
-http://www.servies.fr
 https://servignylessaintebarbe.fr
 https://servins.fr
 https://www.servon.fr
@@ -32133,6 +32121,7 @@ https://www.valdevesle.fr
 https://valdevienne.fr
 https://www.valdevirieu.fr
 https://www.valdevirvee.fr
+https://valdille.fr
 https://www.valdille-aubigne.fr
 https://www.valdisere.fr
 https://www.valdivienne.fr
@@ -32933,6 +32922,7 @@ https://ville-charmeil.fr
 https://ville-charmes.fr
 https://ville-charolles.fr
 https://www.ville-charolles.fr
+http://www.ville-chartres.fr
 http://ville-chartresdebretagne.fr
 https://ville-chateau-abbaye.fr
 https://www.ville-chateau-abbaye.fr
@@ -33551,7 +33541,6 @@ http://ville-pontacq.fr
 https://ville-pontamarcq.fr
 https://www.ville-pontarlier.fr
 https://www.ville-pontducasse.fr
-http://www.ville-pontgibaud.fr
 https://www.ville-pontoise.fr
 https://www.ville-pontrieux22.fr
 https://ville-pornichet.fr
@@ -34920,7 +34909,6 @@ http://laragne.net
 http://www.laragne.net
 https://lasallelesalpes.net
 https://www.lasallelesalpes.net
-http://lascazes.net
 http://www.lavardin.net
 https://www.le-grand-pressigny.net
 https://www.leonarddevinci.net
@@ -35062,6 +35050,7 @@ http://www.saintbonnetletroncy.net
 https://saintclement19.net
 http://www.sainte-suzanne-sur-vire.net
 https://saintefoylagrande.net
+https://www.saintjuery.net
 https://saintlaurent18.net
 https://www.saintlaurent18.net
 https://www.saintmenoux.net
@@ -35410,7 +35399,7 @@ http://www.udba68.benevolat.org
 http://bienvillers.org
 http://www.bienvillers.org
 https://www.bij-brest.org
-http://bij82.org
+https://bij82.org
 http://www.bij82.org
 https://bodilis.org
 https://www.bonson.org
