@@ -41,7 +41,6 @@ https://www.bretagne-ouest.cci.bzh
 https://www.ccpcp.bzh
 https://www.cdg29.bzh
 https://www.centremorbihancommunaute.bzh
-http://chateauneufdufaou.bzh
 https://www.chateauneufdufaou.bzh
 https://www.clcl.bzh
 https://collegekerdurand.bzh
@@ -408,7 +407,7 @@ http://www.azerat.com
 https://www.bagnolesdelorne.com
 https://www.baigtsdebearn.com
 https://www.bainvillesurmadon.com
-http://bajamont.com
+https://bajamont.com
 http://www.bajamont.com
 https://balaze.com
 https://www.balaze.com
@@ -652,7 +651,6 @@ https://www.cambre-d-aze.com
 https://www.cambronnelesribecourt.com
 https://www.campagnac-les-quercy.com
 https://camplong.com
-https://www.camplong.com
 https://campome.com
 https://www.campoussy.com
 https://auvetchapelotte.canalblog.com
@@ -2962,7 +2960,7 @@ https://www.rosieres-ardeche.com
 http://rosiers-egletons.com
 http://www.rosiers-egletons.com
 https://www.roubion.com
-http://www.rouffiac17.com
+https://www.rouffiac17.com
 http://www.rousset-fr.com
 https://roussinesencharente.com
 https://www.roussinesencharente.com
@@ -3346,6 +3344,7 @@ http://www.st-georges-de-levejac.com
 https://st-georges-lagricol.com
 https://www.st-georges-lagricol.com
 http://st-germain-de-montbron.com
+http://www.st-germain-de-montbron.com
 http://st-germain-laval.com
 http://www.st-honore-les-bains.com
 https://st-jean-mirabel.com
@@ -4718,6 +4717,7 @@ https://college-mariotte-st-simeon-de-bressieux.web.ac-grenoble.fr
 https://college-mlking-charvieu.web.ac-grenoble.fr
 https://college-olympique-grenoble.web.ac-grenoble.fr
 https://college-vallee-de-la-beaume-joyeuse.web.ac-grenoble.fr
+https://college-vergeron-moirans.web.ac-grenoble.fr
 https://lycee-henri-laurens-saint-vallier.web.ac-grenoble.fr
 https://lycee-vaucanson-grenoble.web.ac-grenoble.fr
 https://www1.ac-grenoble.fr
@@ -4939,7 +4939,7 @@ https://clg-faure-olonzac.ac-montpellier.fr
 https://www.ac-montpellier.fr
 https://id.ac-nancy-metz.fr
 https://www.ac-nancy-metz.fr
-https://www4.ac-nancy-metz.fr
+http://www4.ac-nancy-metz.fr
 https://www.ac-nantes.fr
 https://www.clg-albert-camus.ac-nice.fr
 https://www.clg-andre-maurois.ac-nice.fr
@@ -5054,7 +5054,6 @@ http://clg-le-clos-de-la-garenne-chabris.tice.ac-orleans-tours.fr
 http://clg-le-clos-ferbois-jargeau.tice.ac-orleans-tours.fr
 http://clg-le-colombier-dun-sur-auron.tice.ac-orleans-tours.fr
 http://clg-le-reflessoir-blere.tice.ac-orleans-tours.fr
-http://clg-leonard-de-vinci-tours.tice.ac-orleans-tours.fr
 http://clg-les-capucins-chateauroux.tice.ac-orleans-tours.fr
 http://clg-les-clorisseaux-poilly-lez-gien.tice.ac-orleans-tours.fr
 http://clg-les-petits-sentiers-luce.tice.ac-orleans-tours.fr
@@ -6011,7 +6010,7 @@ http://www.apt.fr
 https://rejoignez-nantes.aquatonic.fr
 https://rejoignez-paris.aquatonic.fr
 https://rejoignez-rennes.aquatonic.fr
-https://www.aquatropic-equalia.fr
+http://www.aquatropic-equalia.fr
 https://www.aracheslafrasse.fr
 https://aragonencabardes.fr
 https://www.aramits.fr
@@ -8590,7 +8589,7 @@ https://cappellelagrande.fr
 https://www.cappellelagrande.fr
 https://www.caprovenceverte.fr
 https://caps.fr
-http://www.caps.fr
+https://www.caps.fr
 https://capso.fr
 https://captieux.fr
 https://www.captieux.fr
@@ -10023,7 +10022,6 @@ https://chaussan.fr
 https://www.chaussan.fr
 https://www.chaussenac.fr
 https://chausseterre.fr
-http://chaussoy-epagny-hainneville.fr
 https://www.chauve.fr
 https://www.chauvigny.fr
 https://chauvry.fr
@@ -10118,7 +10116,6 @@ https://www.chessy77.fr
 https://www.cheu.fr
 https://cheux.fr
 https://chevagnyleschevrieres.fr
-http://chevanceaux.fr
 https://www.chevanceaux.fr
 http://chevannes.fr
 http://www.chevannes.fr
@@ -11122,6 +11119,7 @@ https://condecourt.fr
 http://www.condeissiat.fr
 https://condenormandie.fr
 https://www.condenormandie.fr
+https://condes.fr
 https://www.condes.fr
 https://www.condesurlescaut.fr
 https://www.condesursarthe.fr
@@ -11414,6 +11412,7 @@ https://cozes.fr
 https://cphv41.fr
 https://cpie-centrecorse.fr
 http://cpiepaysbasque.fr
+http://www.cr-guadeloupe.fr
 https://www.craincourt.fr
 http://www.craintilleux.fr
 https://cramant.fr
@@ -13201,6 +13200,7 @@ http://www.epeigne-les-bois.fr
 https://epercieux-saint-paul.fr
 https://www.epercieux-saint-paul.fr
 http://www.eperlecques.fr
+https://epernay.fr
 https://epernay-agglo.fr
 http://www.epervans.fr
 https://epeugney.fr
@@ -18276,7 +18276,6 @@ https://haravilliers.fr
 https://www.harbonnieres.fr
 http://www.harcanville.fr
 https://hardricourt.fr
-https://www.hardricourt.fr
 https://www.hareville.fr
 https://www.harfleur.fr
 https://hargnies.fr
@@ -18876,7 +18875,7 @@ https://www.jublains.fr
 https://www.jugeals-nazareth.fr
 https://jugonleslacs-communenouvelle.fr
 http://www.juigne-sur-loire.fr
-http://www.juigne-sur-sarthe.fr
+https://www.juigne-sur-sarthe.fr
 https://www.juignedesmoutiers.fr
 http://www.juillac19.fr
 https://www.juillan.fr
@@ -20257,7 +20256,6 @@ https://www.lesarques.fr
 https://www.lesattaques.fr
 https://www.lesauthieuxsurcalonne.fr
 http://lesauthieuxsurleportsaintouen.fr
-https://www.lesauthieuxsurleportsaintouen.fr
 https://www.lesauxons.fr
 https://www.lesauzedulac.fr
 https://www.lesavanchers.fr
@@ -20799,7 +20797,6 @@ http://www.lpverdier.fr
 http://lpvinci-perigueux.fr
 https://www.lsoagglo.fr
 https://www.luant.fr
-https://luberonmontsdevaucluse.fr
 https://www.luberonmontsdevaucluse.fr
 https://lubersacpompadour.fr
 https://www.lubersacpompadour.fr
@@ -21472,7 +21469,7 @@ http://www.mairie-avene.fr
 http://www.mairie-avesneslecomte.fr
 https://www.mairie-avessac.fr
 http://mairie-avirons.fr
-http://www.mairie-avirons.fr
+https://www.mairie-avirons.fr
 http://mairie-ax.fr
 http://www.mairie-ax.fr
 https://mairie-azas.fr
@@ -21580,7 +21577,6 @@ https://mairie-blaye.fr
 https://www.mairie-blaye.fr
 http://mairie-blesignac.fr
 https://www.mairie-blesignac.fr
-https://www.mairie-blicourt.fr
 https://www.mairie-blou.fr
 https://www.mairie-bohars.fr
 https://www.mairie-boissiere-ecole.fr
@@ -22333,7 +22329,6 @@ http://www.mairie-lenax.fr
 https://mairie-lens-lestang.fr
 https://www.mairie-lentilly.fr
 https://mairie-leognan.fr
-https://www.mairie-leognan.fr
 http://www.mairie-lepine51.fr
 https://mairie-leplessisgassot.fr
 https://www.mairie-leplessisgassot.fr
@@ -22979,7 +22974,7 @@ https://www.mairie-salies-salat.fr
 http://mairie-salindres.fr
 http://www.mairie-salindres.fr
 https://www.mairie-salinslesbains.fr
-http://mairie-salome.fr
+https://mairie-salome.fr
 https://www.mairie-sameon.fr
 https://mairie-samerey.fr
 https://www.mairie-sammarcolles.fr
@@ -25670,7 +25665,6 @@ http://www.morzine.fr
 https://www.moselle.fr
 https://www.mosnac16.fr
 https://www.mossigvignoble.fr
-https://mostuejouls.fr
 https://www.motreff.fr
 https://motteville-infos.fr
 https://www.motteville-infos.fr
@@ -25728,7 +25722,6 @@ http://mouthiers-sur-boeme.fr
 https://www.mouthiers-sur-boeme.fr
 https://mouthoumet.fr
 http://moutierrozeille.fr
-http://www.moutierrozeille.fr
 https://moutiers-les-mauxfaits.fr
 https://moutiers-saint-jean.fr
 https://www.moutiers-saint-jean.fr
@@ -28939,6 +28932,7 @@ https://www.saint-witz.fr
 https://saint-yan.fr
 https://www.saint-yan.fr
 https://www.saint-ybard.fr
+https://www.saint-ybars.fr
 https://www.saint-yon.fr
 https://saint-yrieix.fr
 https://www.saint-yrieix-sous-aixe.fr
@@ -35102,12 +35096,10 @@ http://webmail.ambafrance-gt.org
 http://webmail.ambafrance-gw.org
 http://webmail.ambafrance-hr.org
 http://webmail.ambafrance-id.org
-http://webmail.ambafrance-in.org
 http://ambafrance-kp.org
 http://webmail.ambafrance-kw.org
 http://webmail.ambafrance-kz.org
 http://webmail.ambafrance-lk.org
-http://webmail.ambafrance-mx.org
 http://webmail.ambafrance-pl.org
 http://webmail.ambafrance-rsa.org
 http://www.ambafrance-sd.org
@@ -35334,7 +35326,6 @@ http://www.glonville.org
 https://gorron.org
 https://www.gorron.org
 http://www.grandris.org
-https://gravelotte.org
 https://www.graye-sur-mer.org
 https://www.grim69.org
 http://mairie.guainville.org
