@@ -406,7 +406,7 @@ https://www.bagnolesdelorne.com
 https://www.baigtsdebearn.com
 https://www.bainvillesurmadon.com
 https://bajamont.com
-http://www.bajamont.com
+https://www.bajamont.com
 https://balaze.com
 https://www.balaze.com
 https://www.ban-sur-meurthe-clefcy.com
@@ -2427,7 +2427,6 @@ https://meteofrance.com
 http://www.metropole-savoie.com
 https://meung-sur-loire.com
 http://www.meyrie-village.com
-http://www.mezieres78.com
 https://www.midicorrezien.com
 https://millay-morvan.com
 https://www.mirabel-ardeche.com
@@ -3374,7 +3373,6 @@ https://www.stpierredesnids53.com
 https://www.stpriestligoure.com
 http://stseurinsurlisle.com
 http://www.stseurinsurlisle.com
-https://www.stsimin.com
 https://stsorlinenvalloire.com
 http://sudaisne.com
 https://www.sudaisne.com
@@ -4697,6 +4695,7 @@ https://cio.web.ac-grenoble.fr
 https://cite-scolaire-du-diois.web.ac-grenoble.fr
 https://college-alex-mezenc-le-pouzin.web.ac-grenoble.fr
 https://college-alexandre-fleming-sassenage.web.ac-grenoble.fr
+https://college-chartreuse-st-martin-le-vinoux.web.ac-grenoble.fr
 https://college-de-lisle-vienne.web.ac-grenoble.fr
 https://college-du-cheran-rumilly.web.ac-grenoble.fr
 https://college-europa-montelimar.web.ac-grenoble.fr
@@ -5716,7 +5715,6 @@ https://www.amue.fr
 https://amure79.fr
 https://www.amure79.fr
 https://www.amy-oise.fr
-https://clavis.anah.fr
 https://nouv.anceaudegarlande77.fr
 https://ancenis-saint-gereon.fr
 http://anche.fr
@@ -7928,7 +7926,6 @@ http://www.boudou.fr
 https://www.bouee.fr
 https://www.bouex.fr
 https://www.bougainville.fr
-https://bougarber.fr
 http://www.bouge-chambalud.fr
 https://www.bougneau.fr
 https://bougnon.fr
@@ -8229,6 +8226,7 @@ https://www.brion-sur-ource.fr
 https://www.brion-yonne.fr
 https://www.brion01.fr
 https://www.brion86.fr
+https://www.briord.fr
 https://brioude.fr
 https://www.brioude.fr
 https://briquebec.fr
@@ -9212,7 +9210,6 @@ http://www.ccpaysmaiche.fr
 https://www.ccpaysniederbronn.fr
 https://www.ccpaysrochois.fr
 https://www.ccpaysroussillonnais.fr
-https://www.ccpb01.fr
 https://www.ccpbs.fr
 https://ccpc51.fr
 https://www.ccpcp.fr
@@ -10539,8 +10536,6 @@ https://www.coinsurseille.fr
 https://coise.fr
 http://coisesaintjeanpiedgauthier.fr
 http://www.coisesaintjeanpiedgauthier.fr
-http://coisia.fr
-http://www.coisia.fr
 https://www.coivert17.fr
 https://www.colayrac-saint-cirq.fr
 https://www.colembert.fr
@@ -16412,7 +16407,6 @@ http://www.vaucluse.equipement-agriculture.gouv.fr
 https://enqueteur.yonne.equipement-agriculture.gouv.fr
 https://esante.gouv.fr
 https://ans-test-1.esante.gouv.fr
-https://datalab.bi.esante.gouv.fr
 https://authentication.psc.bi.esante.gouv.fr
 https://authorization.psc.bi.esante.gouv.fr
 https://dashboard.psc.bi.esante.gouv.fr
@@ -16481,6 +16475,7 @@ https://support-industriels.esante.gouv.fr
 https://support-industriels-preprod.esante.gouv.fr
 https://validation-enreg.esante.gouv.fr
 http://ws.esante.gouv.fr
+http://ldap.ws.esante.gouv.fr
 https://data.esr.gouv.fr
 https://esgbu.esr.gouv.fr
 http://scanr-api.esr.gouv.fr
@@ -16534,7 +16529,6 @@ http://conferences.finances.gouv.fr
 https://concours.dgccrf.finances.gouv.fr
 https://concours-preprod.dgccrf.finances.gouv.fr
 https://mobile.dgccrf.finances.gouv.fr
-https://mobile-preprod.dgccrf.finances.gouv.fr
 https://teleassistance.dgccrf.finances.gouv.fr
 https://telecertex.dgccrf.finances.gouv.fr
 https://telecertex-preprod.dgccrf.finances.gouv.fr
@@ -17581,7 +17575,6 @@ https://enfants-du-spectacle.fabrique.social.gouv.fr
 https://fce.fabrique.social.gouv.fr
 https://formulaire-enfants-du-spectacle.fabrique.social.gouv.fr
 https://gitlab.fabrique.social.gouv.fr
-https://gitlab-dev.fabrique.social.gouv.fr
 https://grafana.fabrique.social.gouv.fr
 https://graphiql-fce.fabrique.social.gouv.fr
 https://guyane-tumeplay.fabrique.social.gouv.fr
@@ -18370,6 +18363,7 @@ http://www.haute-somme.fr
 https://www.haute-vienne.fr
 http://hauteamance.fr
 http://www.hauteamance.fr
+https://hauteavesnes.fr
 https://hautecour-savoie.fr
 http://hautecourt-romaneche.fr
 http://www.hautecourt-romaneche.fr
@@ -18948,7 +18942,6 @@ https://kolbsheim.fr
 https://www.kourou.fr
 https://www.kreiz-breizh.fr
 https://www.kremlinbicetre.fr
-https://www.kriegsheim.fr
 https://kruth.fr
 https://www.kruth.fr
 https://www.kunheim.fr
@@ -19639,7 +19632,6 @@ https://lapostolle89.fr
 https://www.lapoutroie.fr
 https://www.laprade16.fr
 https://laproiseliereetlangle.fr
-http://lapte43.fr
 http://www.lapte43.fr
 https://lapuye.fr
 https://www.laqueuille.fr
@@ -19793,7 +19785,6 @@ https://www.lavalenbrie.fr
 https://www.lavalette-tude-dronne.fr
 https://www.lavalette83.fr
 https://lavallee-avon77.fr
-https://lavalleedelacreuse.fr
 http://www.lavalleedelacreuse.fr
 http://www.lavancia-epercy.fr
 http://lavannes.fr
@@ -21443,7 +21434,7 @@ https://www.mairie-avelin.fr
 http://www.mairie-avene.fr
 http://www.mairie-avesneslecomte.fr
 https://www.mairie-avessac.fr
-http://mairie-avirons.fr
+https://mairie-avirons.fr
 https://www.mairie-avirons.fr
 http://mairie-ax.fr
 http://www.mairie-ax.fr
@@ -22800,6 +22791,7 @@ https://mairie-royeredevassiviere.fr
 https://www.mairie-rozerieulles.fr
 http://mairie-rozier-en-donzy.fr
 https://www.mairie-rozier-en-donzy.fr
+https://www.mairie-ruelisheim.fr
 http://www.mairie-ruffec.fr
 https://mairie-ruffeylesbeaune.fr
 https://www.mairie-ruffeylesbeaune.fr
@@ -22957,7 +22949,6 @@ https://www.mairie-sanvigneslesmines.fr
 https://mairie-sapignicourt.fr
 https://www.mairie-saramon.fr
 https://www.mairie-satillieu.fr
-https://www.mairie-saucats.fr
 https://mairie-sault-84.fr
 http://www.mairie-sault-84.fr
 https://mairie-saultlesrethel.fr
@@ -25853,6 +25844,7 @@ https://www.nauviale.fr
 https://www.naveil.fr
 https://www.navenne.fr
 http://naves-19.fr
+https://www.naves19.fr
 https://www.nazellesnegron.fr
 https://neac.fr
 https://www.neac.fr
@@ -25906,7 +25898,7 @@ https://www.neuillysurseine.fr
 https://www.neulise.fr
 https://www.neung-sur-beuvron.fr
 https://www.neussarguesenpinatelle.fr
-http://www.neuve-eglise.fr
+https://www.neuve-eglise.fr
 https://neuvechapelle.fr
 https://www.neuvechapelle.fr
 https://www.neuveglisesurtruyere.fr
@@ -26258,6 +26250,7 @@ https://www.ondres.fr
 https://ondreville-sur-essonne.fr
 https://www.onesse-laharie.fr
 https://www.onet-le-chateau.fr
+https://onf.fr
 https://www.onf.fr
 https://lameac.onlc.fr
 https://pournoychetive.onlc.fr
@@ -26332,7 +26325,6 @@ https://ormes27.fr
 https://ormesson.fr
 https://www.ormesson.fr
 https://ormoy.fr
-https://www.ormoy.fr
 https://ormoy-70.fr
 https://ormoy-la-riviere.fr
 https://www.ormoy-la-riviere.fr
@@ -26356,7 +26348,6 @@ https://ortale.fr
 https://www.orthevielle.fr
 http://www.orthoux-serignac-quilhan.fr
 https://ortiporio.fr
-https://orvault.fr
 https://www.orvault.fr
 https://www.osenbach.fr
 http://www.oslon.fr
@@ -26585,7 +26576,6 @@ https://pavezin.fr
 https://www.pavie.fr
 https://www.pavilly.fr
 https://payns.fr
-https://www.payrignac.fr
 https://www.pays-brie-champagne.fr
 https://www.pays-chataigneraie.fr
 https://www.pays-chatillonnais.fr
@@ -27038,6 +27028,7 @@ https://www.pluduno.fr
 https://www.plumaudan.fr
 https://plumaugat.fr
 https://www.plumergat.fr
+https://plumetot.fr
 https://www.plumetot.fr
 https://www.pluneret.fr
 https://pluvet.fr
@@ -29886,7 +29877,6 @@ https://paca.sport.sante.fr
 https://www.sante.fr
 https://www.santepubliquefrance.fr
 https://www.santes.fr
-https://santeuil95.fr
 https://www.santeuil95.fr
 https://santilly.fr
 https://www.santilly.fr
@@ -30007,7 +29997,6 @@ https://www.saussay.fr
 https://www.sausseron-impressionnistes.fr
 https://www.sausses.fr
 http://www.saussey.fr
-https://www.saussignacfrance.fr
 https://www.saussines.fr
 https://sautron.fr
 https://www.sauvagnon.fr
@@ -32212,7 +32201,6 @@ https://www.verzenay.fr
 https://verzy.fr
 https://www.vesancy.fr
 https://vescovato.fr
-https://vesdun.fr
 https://www.vesly27.fr
 https://vesoul.fr
 https://www.vesoul.fr
@@ -32466,6 +32454,7 @@ https://www.ville-bazas.fr
 https://www.ville-baziege.fr
 https://ville-beauchamp.fr
 https://ville-beaumont-sur-sarthe.fr
+https://www.ville-beaumont-sur-sarthe.fr
 https://www.ville-beaupuy.fr
 https://www.ville-beauzac.fr
 https://www.ville-bedee.fr
@@ -33049,6 +33038,7 @@ http://www.ville-maille.fr
 https://www.ville-mainvilliers.fr
 https://www.ville-maizieres-les-metz.fr
 https://www.ville-malicorne.fr
+https://ville-mandres-les-roses.fr
 https://www.ville-manosque.fr
 https://ville-marange-silvange.fr
 http://www.ville-marans.fr
@@ -33328,7 +33318,6 @@ https://ville-saint-laurent-daigouze.fr
 https://www.ville-saint-laurent-daigouze.fr
 https://www.ville-saint-leonard.fr
 https://www.ville-saint-lubin-des-joncherets.fr
-https://www.ville-saint-malo.fr
 https://www.ville-saint-martin-le-vinoux.fr
 https://www.ville-saint-mathieu-de-treviers.fr
 https://www.ville-saint-meloir-des-ondes.fr
@@ -35033,7 +35022,6 @@ https://zw.ambafrance.org
 http://webmail.ambafrance-at.org
 http://webmail.ambafrance-be.org
 http://webmail.ambafrance-cn.org
-http://webmail.ambafrance-et.org
 http://webmail.ambafrance-ga.org
 http://webmail.ambafrance-gt.org
 http://webmail.ambafrance-gw.org
