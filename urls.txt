@@ -41,6 +41,7 @@ https://www.bretagne-ouest.cci.bzh
 https://www.ccpcp.bzh
 https://www.cdg29.bzh
 https://www.centremorbihancommunaute.bzh
+https://www.ch2p.bzh
 https://www.chateauneufdufaou.bzh
 https://www.clcl.bzh
 https://collegekerdurand.bzh
@@ -1964,7 +1965,6 @@ https://www.lycee-jouffroydabbans.com
 https://www.lycee-langevin-wallon.com
 https://www.lycee-lavoisier.com
 https://lycee-marchal.com
-https://www.lycee-marchal.com
 http://www.lycee-marechal-leclerc.com
 https://www.lycee-maritime-paimpol.com
 http://www.lycee-maupertuis.com
@@ -2138,6 +2138,7 @@ http://www.mairie-lalheue.com
 https://www.mairie-landry.com
 https://www.mairie-lautenbachzell-sengern.com
 https://www.mairie-laveuve.com
+http://www.mairie-lavieuxrue.com
 http://mairie-lehommetdarthenay.com
 http://www.mairie-lehommetdarthenay.com
 https://www.mairie-leluc.com
@@ -3050,6 +3051,7 @@ https://www.saint-sauveur-21270.com
 https://saint-sauveur-medoc.com
 https://www.saint-sauveur-medoc.com
 https://www.saint-savin65.com
+https://saint-saviol.com
 http://www.saint-saviol.com
 https://www.saint-savournin.com
 https://www.saint-series.com
@@ -3532,7 +3534,7 @@ https://vert-le-grand.com
 https://www.vert-le-grand.com
 https://verteuil-agenais.com
 https://www.verteuil-agenais.com
-https://www.vertheuil-medoc.com
+http://www.vertheuil-medoc.com
 https://vertlegrand.com
 https://www.vertlegrand.com
 http://vesubian.com
@@ -5730,7 +5732,6 @@ https://www.andancette.fr
 https://www.ande.fr
 https://www.andel.fr
 https://www.andelat.fr
-https://andelot-morval.fr
 https://www.andernoslesbains.fr
 http://andertetcondon.fr
 http://www.andertetcondon.fr
@@ -6363,6 +6364,7 @@ https://www.asv-cdc.fr
 https://www.atd31.fr
 https://athee-21.fr
 https://www.athee-21.fr
+https://www.athee-mayenne.fr
 https://www.athee-sur-cher.fr
 https://www.athies.fr
 https://www.athis.fr
@@ -6986,6 +6988,7 @@ https://avignonet-lauragais.fr
 https://avioth.fr
 https://www.avioth.fr
 https://www.avirey-lingey.fr
+https://www.aviron-eure.fr
 https://www.avizeviticampus.fr
 http://www.barreau-amiens.avocat.fr
 https://barreau-avignon.avocat.fr
@@ -8285,7 +8288,6 @@ https://www.brusvily.fr
 https://www.brux.fr
 https://bruyeres-et-montberault.fr
 https://brysurmarne.fr
-https://www.brysurmarne.fr
 https://www.bsa-ville.fr
 https://bu-28.fr
 https://www.bu-28.fr
@@ -10107,7 +10109,6 @@ https://www.cheu.fr
 https://chevagnyleschevrieres.fr
 https://www.chevanceaux.fr
 http://chevannes.fr
-http://www.chevannes.fr
 https://chevannes-yonne.fr
 https://www.chevigny-saint-sauveur.fr
 https://www.chevilly.fr
@@ -15243,7 +15244,7 @@ https://pop.culture.gouv.fr
 https://api.pop.culture.gouv.fr
 http://production.pop.culture.gouv.fr
 http://www.production.pop.culture.gouv.fr
-https://www.pop.culture.gouv.fr
+http://www.pop.culture.gouv.fr
 http://prod.culture.gouv.fr
 http://admin.prod.culture.gouv.fr
 https://recherche-anom.culture.gouv.fr
@@ -15554,6 +15555,7 @@ http://www.webcams-dir.centre-est.developpement-durable.gouv.fr
 https://www.dir.centre-ouest.developpement-durable.gouv.fr
 https://www.acte.centre-val-de-loire.developpement-durable.gouv.fr
 https://www.centre-val-de-loire.developpement-durable.gouv.fr
+http://canaf.cetmef.developpement-durable.gouv.fr
 http://etatsdemerfuturs.cetmef.developpement-durable.gouv.fr
 http://polmar.cetmef.developpement-durable.gouv.fr
 https://www.cetu.developpement-durable.gouv.fr
@@ -16095,6 +16097,7 @@ http://www.grand-est.drdjscs.gouv.fr
 http://www.normandie.drdjscs.gouv.fr
 http://www.nouvelle-aquitaine.drdjscs.gouv.fr
 http://www.paca.drdjscs.gouv.fr
+http://www.pays-de-la-loire.drdjscs.gouv.fr
 https://dreets.gouv.fr
 https://auvergne-rhone-alpes.dreets.gouv.fr
 https://bourgogne-franche-comte.dreets.gouv.fr
@@ -16476,7 +16479,7 @@ https://status.mie.esante.gouv.fr
 https://moncompte-enreg.esante.gouv.fr
 https://mos.esante.gouv.fr
 https://o3sis.esante.gouv.fr
-http://o3sis-pprod.esante.gouv.fr
+https://o3sis-pprod.esante.gouv.fr
 https://observatoire.esante.gouv.fr
 https://preprod.observatoire.esante.gouv.fr
 https://participez.esante.gouv.fr
@@ -16559,7 +16562,6 @@ https://concours-preprod.dgccrf.finances.gouv.fr
 https://mobile.dgccrf.finances.gouv.fr
 https://teleassistance.dgccrf.finances.gouv.fr
 https://telecertex.dgccrf.finances.gouv.fr
-https://telecertex-preprod.dgccrf.finances.gouv.fr
 https://telefel.dgccrf.finances.gouv.fr
 https://telefel-sandbox.dgccrf.finances.gouv.fr
 https://teleicare.dgccrf.finances.gouv.fr
@@ -18233,6 +18235,7 @@ https://gumond.fr
 https://www.gumond.fr
 https://www.gundershoffen.fr
 https://www.gundolsheim.fr
+http://gungwiller.fr
 http://www.gungwiller.fr
 https://gunsbach.fr
 https://www.gunsbach.fr
@@ -18856,6 +18859,7 @@ https://www.journiac.fr
 https://jouvencon.fr
 https://www.jouvencon.fr
 http://www.joux.fr
+http://jouy-aux-arches.fr
 https://www.jouy-en-josas.fr
 http://www.jouy-en-pithiverais.fr
 https://jouy-le-potier.fr
@@ -19662,7 +19666,7 @@ https://lapostolle89.fr
 https://www.lapoutroie.fr
 https://www.laprade16.fr
 https://laproiseliereetlangle.fr
-http://www.lapte43.fr
+https://www.lapte43.fr
 https://lapuye.fr
 https://www.laqueueenbrie.fr
 https://www.laqueuille.fr
@@ -20150,6 +20154,7 @@ https://www.leognan.fr
 https://leon.fr
 https://www.leon.fr
 https://www.lepailly52.fr
+https://www.lepalais.fr
 https://lepalaissurvienne.fr
 https://www.lepallet.fr
 https://www.lepangessurvologne.fr
@@ -20620,7 +20625,6 @@ https://www.loisin.fr
 https://loisy54.fr
 https://www.loivre.fr
 https://loix.fr
-https://www.lombers.fr
 https://lombreuil.fr
 https://lommerange.fr
 https://www.lommerange.fr
@@ -21074,6 +21078,7 @@ http://www.lycee-sully-nogent.fr
 https://lycee-terrasson.fr
 http://lycee-tristanbernard.fr
 https://www.lycee-val-de-bievre.fr
+https://www.lycee-valery-larbaud.fr
 https://www.lycee-valognes.fr
 http://www.lycee-vangogh.fr
 http://www.lycee-vauquelin.fr
@@ -23849,7 +23854,6 @@ https://marboue.fr
 https://marcais.fr
 https://www.marcelcave.fr
 https://www.marcellaz-albanais.fr
-http://marcellus47.fr
 http://www.marcellus47.fr
 http://www.marcenat15.fr
 http://www.marcenod.fr
@@ -25416,7 +25420,6 @@ https://www.montesquieu-des-alberes.fr
 https://www.montesson.fr
 https://www.montet-et-bouxal.fr
 http://monteton.fr
-http://www.monteton.fr
 https://www.monteux.fr
 https://monteynard.fr
 https://www.montfa81.fr
@@ -29996,7 +29999,6 @@ https://www.sauliac-sur-cele.fr
 https://saulieu.fr
 https://saulieu-morvan.fr
 https://www.saulieu-morvan.fr
-http://saulnay36.fr
 https://www.saulnes.fr
 http://www.saulnieres28.fr
 https://www.saulnieres35.fr
@@ -31987,6 +31989,7 @@ https://www.varzay.fr
 https://varzy.fr
 https://www.vasles.fr
 https://www.vassel.fr
+https://vasselay.fr
 https://www.vasselay.fr
 http://www.vasselin.fr
 https://www.vassieuxenvercors.fr
@@ -32966,6 +32969,7 @@ https://www.ville-le-barp.fr
 https://ville-le-cheylas.fr
 https://www.ville-le-cheylas.fr
 http://www.ville-le-marclet.fr
+http://ville-le-perray-en-yvelines.fr
 http://www.ville-le-perray-en-yvelines.fr
 https://ville-le-plessis-bouchard.fr
 https://www.ville-le-treport.fr
@@ -33908,7 +33912,6 @@ https://vion72.fr
 https://www.vion72.fr
 https://www.vira.fr
 https://virazeil.fr
-https://www.virazeil.fr
 https://vire-en-maconnais.fr
 https://www.vire-en-maconnais.fr
 https://www.vire-sur-lot.fr
@@ -34103,7 +34106,6 @@ http://www.college-travaillangevin.websco.fr
 http://collegealienor.websco.fr
 http://www.collegelassagne.websco.fr
 http://www.collegetelchid.websco.fr
-http://las.websco.fr
 https://www.weckolsheim.fr
 https://weislingen.fr
 https://www.weitbruch.fr
@@ -34461,7 +34463,7 @@ https://www.chalais.net
 https://chamberet.net
 https://www.chamberet.net
 http://champcevinel.net
-https://www.champcevinel.net
+http://www.champcevinel.net
 https://champdray.net
 https://www.champdray.net
 https://www.changersyndic.net
