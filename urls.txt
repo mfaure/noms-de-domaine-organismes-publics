@@ -10,7 +10,7 @@ https://weinbourg.hanau-lapetitepierre.alsace
 https://www.hanau-lapetitepierre.alsace
 https://handschuheim.alsace
 https://www.hatten.alsace
-http://www.holtzheim.alsace
+https://www.holtzheim.alsace
 https://lohr.alsace
 https://www.lohr.alsace
 https://mlsaverne.alsace
@@ -1080,7 +1080,6 @@ https://coyelaforet.com
 https://www.coyelaforet.com
 http://coyolles.com
 http://www.coyolles.com
-http://cravant-les-coteaux.com
 https://www.cravant-les-coteaux.com
 https://creches-sur-saone.com
 http://creissan.com
@@ -1753,7 +1752,6 @@ http://www.lameyze.com
 https://www.lameziere.com
 https://lamissionlocale.com
 https://www.lamothe-goas.com
-http://lamotte22.com
 http://www.lamotte22.com
 https://lamottechalancon.com
 https://www.lamottedurhone.com
@@ -2588,7 +2586,6 @@ http://www.nempont-saint-firmin.com
 https://commune-de-beauvoisin.neopse-site.com
 https://commune-de-saint-genis-les-ollieres.neopse-site.com
 http://neufmanil.com
-http://www.neufmanil.com
 http://neuve-maison.com
 https://neuville-de-poitou.com
 https://www.neuville-de-poitou.com
@@ -3543,7 +3540,7 @@ https://vert-le-grand.com
 https://www.vert-le-grand.com
 https://verteuil-agenais.com
 https://www.verteuil-agenais.com
-http://www.vertheuil-medoc.com
+https://www.vertheuil-medoc.com
 https://vertlegrand.com
 https://www.vertlegrand.com
 http://vesubian.com
@@ -5349,7 +5346,6 @@ http://www.lyc-voilin-puteaux.ac-versailles.fr
 http://www.reseau-wallon-garges.ac-versailles.fr
 https://www.ac-versailles.fr
 https://www.acajou1.fr
-https://www.accons-ardeche.fr
 https://www.accoord.fr
 https://www.accord-ages.fr
 https://accous.fr
@@ -5538,6 +5534,7 @@ https://www.aillonlevieux.fr
 https://ailly27.fr
 https://www.ailly27.fr
 https://www.aillysurnoye.fr
+https://www.aimargues.fr
 https://www.ain.fr
 https://www.ain-cerdon.fr
 https://www.ain-profession-sport.fr
@@ -7129,6 +7126,7 @@ http://www.ballersdorf.fr
 https://www.ballonsaintmars.fr
 https://www.ballots.fr
 https://www.balschwiller.fr
+https://balsieges.fr
 https://www.baltzenheim.fr
 https://balzac.fr
 http://lpo.balzac-dalembert.fr
@@ -8277,6 +8275,7 @@ https://www.brusvily.fr
 https://www.brux.fr
 https://bruyeres-et-montberault.fr
 https://brysurmarne.fr
+https://www.brysurmarne.fr
 https://www.bsa-ville.fr
 https://bu-28.fr
 https://www.bu-28.fr
@@ -9059,7 +9058,6 @@ https://www.ccbjc.fr
 https://www.ccbl32.fr
 https://www.ccbresseetsaone.fr
 https://www.ccbresserevermont71.fr
-https://www.ccbrianconnais.fr
 https://www.ccbuechdevoluy.fr
 https://www.cccauxaustreberthe.fr
 https://www.ccce.fr
@@ -9702,6 +9700,7 @@ https://www.champeaux35.fr
 http://champetieres.fr
 http://www.champetieres.fr
 http://www.champey70.fr
+http://champfleur.fr
 https://www.champfleur.fr
 https://www.champfleury.fr
 https://www.champforgeuil.fr
@@ -13728,6 +13727,7 @@ https://www.forez-est.fr
 https://www.forges-les-bains.fr
 https://forges49.fr
 https://www.forges49.fr
+https://www.forgesdelanouee.fr
 https://www.forgesleseaux.fr
 https://www.formagri-65-vic.fr
 https://www.formagri38.fr
@@ -15214,7 +15214,6 @@ http://www.visite.culture.gouv.fr
 https://www.culture.gouv.fr
 https://www.culturecheznous.gouv.fr
 https://data.culturecommunication.gouv.fr
-http://fetedelamusique2016.culturecommunication.gouv.fr
 http://www.pantheon2015.culturecommunication.gouv.fr
 https://pprd2020.cybermalveillance.gouv.fr
 https://quiz.cybermalveillance.gouv.fr
@@ -15740,6 +15739,7 @@ http://ha14.developpement-durable.gouv.fr
 http://ha15.developpement-durable.gouv.fr
 http://ha16.developpement-durable.gouv.fr
 http://ha17.developpement-durable.gouv.fr
+http://ha19.developpement-durable.gouv.fr
 http://ha2.developpement-durable.gouv.fr
 http://ha20.developpement-durable.gouv.fr
 http://ha21.developpement-durable.gouv.fr
@@ -19104,7 +19104,6 @@ https://www.lacanau.fr
 https://lacapelle-biron.fr
 https://www.lacapelle-biron.fr
 https://www.lacapelle-marival.fr
-https://www.lacapelle-masmolene.fr
 https://lacapelle-segalar.fr
 https://lacapelle-viescamp.fr
 https://www.lacapelle02.fr
@@ -19463,7 +19462,7 @@ https://www.landesdarmagnac.fr
 http://www.landevennec.fr
 https://landevieille.fr
 https://landivisiau.fr
-https://www.landivy.fr
+http://www.landivy.fr
 https://www.landogne.fr
 https://www.landos.fr
 http://www.landrethun-le-nord.fr
@@ -20521,6 +20520,7 @@ https://www.loisin.fr
 https://loisy54.fr
 https://www.loivre.fr
 https://www.loix.fr
+https://www.lombers.fr
 https://lombreuil.fr
 https://lommerange.fr
 https://www.lommerange.fr
@@ -20648,7 +20648,7 @@ https://www.lovagny.fr
 https://loyat.fr
 http://www.loyat.fr
 https://lozanne.fr
-https://www.lozanne.fr
+http://www.lozanne.fr
 https://lozere.fr
 http://www.lp-charles-de-gonzague.fr
 https://lp-elsa-triolet.fr
@@ -21951,6 +21951,7 @@ https://mairie-francois.fr
 https://www.mairie-francois.fr
 https://mairie-frasnoy.fr
 https://www.mairie-frasnoy.fr
+https://mairie-frayssinet.fr
 https://www.mairie-frayssinet.fr
 https://www.mairie-fraze.fr
 https://mairie-frejairolles.fr
@@ -23764,6 +23765,7 @@ http://www.marbois.fr
 https://marboue.fr
 https://marcais.fr
 https://www.marcellaz-albanais.fr
+https://marcellus47.fr
 http://www.marcellus47.fr
 http://www.marcenat15.fr
 http://www.marcenod.fr
@@ -23887,7 +23889,7 @@ https://marolles-en-hurepoix.fr
 https://www.marolles-les-brault.fr
 https://www.marolles-les-braults.fr
 https://marolles-les-buis.fr
-https://www.marolles-sous-lignieres.fr
+http://www.marolles-sous-lignieres.fr
 https://www.marolles-sur-seine.fr
 http://www.marolles14.fr
 https://marolles41.fr
@@ -25317,6 +25319,7 @@ https://www.montesquieu-des-alberes.fr
 https://www.montesson.fr
 https://www.montet-et-bouxal.fr
 http://monteton.fr
+http://www.monteton.fr
 https://www.monteux.fr
 https://monteynard.fr
 https://www.montfa81.fr
@@ -26198,7 +26201,6 @@ https://oraison.fr
 http://mairie.orange.fr
 http://glanon.monsite.orange.fr
 http://www.glanon.monsite.orange.fr
-http://la-collancelle.monsite.orange.fr
 http://obsonville.monsite.orange.fr
 http://perso.orange.fr
 https://pages.perso.orange.fr
@@ -28931,7 +28933,6 @@ https://www.saintclementdevalorgue.fr
 https://saintclementlesplaces.fr
 https://www.saintcloud.fr
 https://saintcomedefresne.fr
-https://saintconstant-fournoules.fr
 https://www.saintconstant-fournoules.fr
 https://www.saintcrepin.fr
 https://www.saintcricqchalosse.fr
@@ -29500,7 +29501,6 @@ https://www.saintpierrelevieux71.fr
 http://www.saintpierrequiberon.fr
 https://www.saintpoint.fr
 https://saintpointlac.fr
-http://www.saintpois-bocagevuesurlemont.fr
 http://saintpoldeleon.fr
 https://www.saintpolsurternoise.fr
 https://saintpompon-commune.fr
@@ -30411,7 +30411,6 @@ http://www.signy-abbaye.fr
 https://www.signy-signets.fr
 https://www.sigonce.fr
 https://sigoules-et-flaugeac.fr
-http://sigournais.fr
 http://www.sigournais.fr
 http://www.siig.fr
 https://sij-montauban.fr
@@ -32706,7 +32705,6 @@ https://www.ville-frejus.fr
 https://ville-frelinghien.fr
 https://www.ville-fretin.fr
 https://www.ville-friville-escarbotin.fr
-https://www.ville-gaillac.fr
 https://www.ville-gallardon.fr
 https://ville-gannat.fr
 https://www.ville-gannat.fr
@@ -33803,6 +33801,7 @@ https://vion72.fr
 https://www.vion72.fr
 https://www.vira.fr
 https://virazeil.fr
+https://www.virazeil.fr
 https://vire-en-maconnais.fr
 https://www.vire-en-maconnais.fr
 https://www.vire-sur-lot.fr
@@ -34363,7 +34362,6 @@ https://www.chalais.net
 https://chamberet.net
 https://www.chamberet.net
 http://champcevinel.net
-http://www.champcevinel.net
 https://champdray.net
 https://www.champdray.net
 https://www.changersyndic.net
