@@ -450,6 +450,7 @@ https://www.belgeard.com
 https://www.bellecombe-en-bauges.com
 https://www.belleville-sur-meuse.com
 http://www.bellevue-la-montagne.com
+http://www.bellouletrichard.com
 https://belmontdazergues.com
 https://www.belmontdazergues.com
 https://belves-en-perigord.com
@@ -1059,7 +1060,6 @@ http://courtemont-varennes.com
 https://www.courzieu.com
 https://coyelaforet.com
 https://www.coyelaforet.com
-https://www.coyolles.com
 https://www.cravant-les-coteaux.com
 https://creches-sur-saone.com
 http://creissan.com
@@ -1423,7 +1423,6 @@ https://www.greneville-en-beauce.com
 https://www.greoux-les-bains.com
 https://gresy-sur-isere.com
 https://www.greta-besancon.com
-http://www.greta-dracenie.com
 https://www.greta-gard.com
 https://gretaamiens.com
 https://gretametehor.com
@@ -2469,8 +2468,6 @@ https://montarnaud.com
 https://www.montarnaud.com
 https://www.montauban.com
 http://www.montautlescreneaux.com
-https://montbard.com
-https://www.montbard.com
 https://montcresson.com
 https://montelier.com
 https://www.montelier.com
@@ -3389,7 +3386,6 @@ https://www.tourisme-paysdelaon.com
 http://www.tourisme-salies-du-salat.com
 https://tournissan.com
 https://www.tournon-savoie.com
-https://tournondagenais.com
 https://www.tournondagenais.com
 https://tourrettessurloup.com
 https://touzac-lot.com
@@ -3451,6 +3447,7 @@ https://www.vallespir.com
 https://vallieres-sur-fier.com
 https://valmarnaysien.com
 https://www.valmeinier.com
+https://www.valmont76.com
 https://www.valravillon.com
 https://www.varambon.com
 https://varetz.com
@@ -3774,6 +3771,7 @@ https://www.isula.corsica
 https://clg-casinca.leia.corsica
 https://clg-giraud.leia.corsica
 https://clg-montesoro.leia.corsica
+https://lyc-fesch.leia.corsica
 https://www.mairie-furiani.corsica
 https://mairie-grosseto-prugna-porticcio.corsica
 https://mairiecastirla.corsica
@@ -3815,6 +3813,7 @@ http://www.conde-sainte-libiaire.csime.eu
 https://lumigny-nesles-ormeaux.csime.eu
 https://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
+https://www.enim.eu
 https://www.europol.europa.eu
 https://www.fraize.eu
 https://www.genille.eu
@@ -6369,7 +6368,6 @@ https://www.aulhat-flat.fr
 https://aulhat-saint-privat.fr
 https://www.aulnay-de-saintonge.fr
 https://www.aulnay-sous-bois.fr
-http://aulnois.fr
 https://aulnoy.fr
 https://www.aulnoy.fr
 https://aulnoye-aymeries.fr
@@ -7105,7 +7103,6 @@ https://www.bargemon.fr
 https://www.barges.fr
 https://www.barievillage.fr
 https://barisisauxbois.fr
-https://www.barjac.fr
 https://barjols.fr
 https://barjouville.fr
 https://www.barleduc.fr
@@ -10425,7 +10422,6 @@ https://college-colette.fr
 http://www.college-colette.fr
 https://college-coubertin.fr
 https://college-coutras.fr
-https://college-de-france.fr
 https://www.college-de-france.fr
 https://college-delattre94.fr
 http://college-denecourt.fr
@@ -14908,7 +14904,6 @@ https://sparta-val.defense.gouv.fr
 https://stages.defense.gouv.fr
 https://www.stages.defense.gouv.fr
 https://www.c-dec.terre.defense.gouv.fr
-https://www.c-entac.terre.defense.gouv.fr
 https://www.cfmt.terre.defense.gouv.fr
 https://www.dlem.terre.defense.gouv.fr
 https://www.em-d.terre.defense.gouv.fr
@@ -15227,6 +15222,7 @@ http://dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr
 https://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr
 https://www.dir.nord-ouest.developpement-durable.gouv.fr
 http://www.nord-pas-de-calais.developpement-durable.gouv.fr
+http://www.nord-pas-de-calais-picardie.developpement-durable.gouv.fr
 https://www.donnees.normandie.developpement-durable.gouv.fr
 https://www.normandie.developpement-durable.gouv.fr
 https://www.sinp.nouvelle-aquitaine.developpement-durable.gouv.fr
@@ -16172,6 +16168,7 @@ https://formation.sia.registres.interieur.gouv.fr
 https://www.resultats-elections.interieur.gouv.fr
 https://sca-rga.interieur.gouv.fr
 https://www.sca-rga.interieur.gouv.fr
+https://qualification.securite.interieur.gouv.fr
 https://www.securite.interieur.gouv.fr
 https://www.sgltd.interieur.gouv.fr
 https://formation.sidca.interieur.gouv.fr
@@ -17464,7 +17461,7 @@ https://www.harteloire.fr
 https://www.hartmannswiller.fr
 https://has-sante.fr
 http://hasnon.fr
-https://hasparren.fr
+http://hasparren.fr
 https://haspelschiedt.fr
 https://www.hastingues.fr
 https://hattenville.fr
@@ -18244,6 +18241,7 @@ https://la-roche-en-brenil.fr
 https://www.la-roche-en-brenil.fr
 https://la-roche-vanneau.fr
 https://www.la-roche-vanneau.fr
+http://la-rochette-ardeche.fr
 https://la-romieu.fr
 https://la-roquebrussanne.fr
 https://www.la-roquebrussanne.fr
@@ -18735,6 +18733,7 @@ https://www.landes.fr
 https://www.landesdarmagnac.fr
 http://www.landevennec.fr
 https://landevieille.fr
+https://www.landiras.fr
 https://landivisiau.fr
 https://www.landivy.fr
 https://www.landogne.fr
@@ -20660,6 +20659,7 @@ https://www.mairie-beaucourt.fr
 http://mairie-beaufort.fr
 https://mairie-beaufou.fr
 https://www.mairie-beaufou.fr
+https://www.mairie-beaulieu.fr
 https://www.mairie-beaurains.fr
 https://mairie-beaurecueil.fr
 https://www.mairie-beaurecueil.fr
@@ -20816,7 +20816,6 @@ https://mairie-carrylerouet.fr
 https://mairie-castelginest.fr
 https://www.mairie-castelginest.fr
 https://mairie-casteljaloux.fr
-https://www.mairie-casteljaloux.fr
 https://www.mairie-castellane.fr
 https://mairie-castelnau-medoc.fr
 https://www.mairie-castelnau-medoc.fr
@@ -21487,7 +21486,6 @@ https://www.mairie-lherm.fr
 http://www.mairie-lhoumeau.fr
 http://www.mairie-lieu-saint-amand.fr
 https://www.mairie-ligny-le-chatel-89.fr
-https://mairie-ligsdorf.fr
 https://www.mairie-ligsdorf.fr
 http://mairie-lihons.fr
 https://www.mairie-lihons.fr
@@ -21617,6 +21615,7 @@ https://www.mairie-mercus-garrabet.fr
 https://www.mairie-merdrignac.fr
 https://www.mairie-merenvielle.fr
 https://mairie-mericourt.fr
+https://mairie-mervillefranceville.fr
 https://www.mairie-mesnilenthelle.fr
 https://mairie-meursault.fr
 https://www.mairie-meursault.fr
@@ -22490,12 +22489,10 @@ http://beille.mairie72.fr
 http://www.bonnetable.mairie72.fr
 http://chemireencharnie.mairie72.fr
 http://www.courdemanche.mairie72.fr
-http://www.crosmieres.mairie72.fr
 http://www.mairie20.paris.frvillaineslagonais.mairie72.fr
 http://guecelard.mairie72.fr
 http://www.guecelard.mairie72.fr
 http://le-luart.mairie72.fr
-http://www.lebailleul.mairie72.fr
 http://www.saintaubindescoudrais.mairie72.fr
 http://saintgervaisenbelin.mairie72.fr
 http://www.saintgervaisenbelin.mairie72.fr
@@ -22593,7 +22590,6 @@ https://www.mairiedecireysurvezouze.fr
 https://mairiedeclairvauxdaveyron.fr
 https://www.mairiedecobonne.fr
 https://mairiedecomigne.fr
-https://www.mairiedecomigne.fr
 https://www.mairiedecompans.fr
 https://mairiedecos.fr
 https://www.mairiedecos.fr
@@ -22803,7 +22799,7 @@ https://mairiepralong.fr
 http://www.mairieproyart.fr
 http://mairiepse.fr
 http://www.mairiepse.fr
-http://www.mairiepussay.fr
+https://www.mairiepussay.fr
 https://www.mairiequintfonsegrives.fr
 https://mairiereal.fr
 https://mairiereventinvaugris.fr
@@ -24385,6 +24381,7 @@ http://www.clic-royan-marennes.monsite-orange.fr
 http://www.mairieecorcei.monsite-orange.fr
 https://mairienueilsousfaye.monsite-orange.fr
 https://precey.monsite-orange.fr
+http://www.precey.monsite-orange.fr
 https://monslatrivalle.fr
 https://www.monslatrivalle.fr
 https://monsteroux-milieu.fr
@@ -25210,6 +25207,7 @@ https://www.notredamedevaulx.fr
 http://www.notredamedupre.fr
 https://dienne.notremairie.fr
 https://www.saintgervais86.notremairie.fr
+https://www.stpierredechignac.notremairie.fr
 https://vitray.notremairie.fr
 https://notremairiegolinhac.fr
 https://nouainville.fr
@@ -25530,6 +25528,7 @@ https://www.ozenx-montestrucq.fr
 http://www.paars.fr
 https://www.padirac.fr
 https://www.pageas.fr
+http://laguenne.19.pagesperso-orange.fr
 http://saint.ange77.pagesperso-orange.fr
 https://chateau-sur-allier.pagesperso-orange.fr
 https://cheppeslaprairie.pagesperso-orange.fr
@@ -25543,6 +25542,7 @@ https://saint-marc-a-loubaud.pagesperso-orange.fr
 http://mairie.thennes.pagesperso-orange.fr
 http://villereglan.pagesperso-orange.fr
 https://villers-saint-genest.pagesperso-orange.fr
+http://saint-ouen-marchefroy.mairie.pagespro-orange.fr
 http://templeux-la-fosse.mairie.pagespro-orange.fr
 https://pagnylechateau.fr
 https://www.pagnylechateau.fr
@@ -26022,7 +26022,6 @@ https://planaise.fr
 https://www.plancherine.fr
 https://plancoet.fr
 https://www.plancoet.fr
-http://www.plancy-abbaye.fr
 https://www.plandecuques.fr
 https://www.plandorgon.fr
 https://planfoy.fr
@@ -28431,7 +28430,7 @@ http://www.saintlager.fr
 https://www.saintlambertdesbois.fr
 https://www.saintlambertlapotherie.fr
 https://saintlaurent18.fr
-http://saintlaurent47.fr
+https://saintlaurent47.fr
 http://www.saintlaurent47.fr
 https://www.saintlaurentdarce.fr
 https://www.saintlaurentdecerdans.fr
@@ -29994,6 +29993,7 @@ http://www.stmichel-entraygues.fr
 https://www.stmicheldedeze.fr
 https://www.stnicolasdupelem.fr
 http://www.stnizierdazergues.fr
+https://www.stpalaissurmer.fr
 https://www.stpaterneracan.fr
 https://www.stpaul.fr
 https://www.stpaul60.fr
@@ -31557,6 +31557,7 @@ https://www.ville-bron.fr
 http://www.ville-brouvelieures88.fr
 http://www.ville-broze.fr
 https://www.ville-bruyeres.fr
+https://www.ville-bruz.fr
 http://www.ville-bucheres.fr
 https://ville-bueil.fr
 https://ville-buhl.fr
@@ -33347,6 +33348,7 @@ https://socialgouv.github.io
 https://rejoignez.werecruit.io
 https://www.lak.edu.lb
 https://www.albertharris.me
+https://www.collectivitedemartinique.mq
 https://cio.ac-noumea.nc
 https://webbaudoux.ac-noumea.nc
 https://webdsm.ac-noumea.nc
@@ -34482,6 +34484,7 @@ https://www.victor-duruy.org
 https://www.vignot.org
 https://www.ville-loonplage.org
 http://www.ville-saint-martin-auxigny.org
+http://ville-verberie.org
 http://ville-verdon.org
 http://www.ville-verdon.org
 https://villeseque.org
@@ -34519,6 +34522,7 @@ https://default.prod02.stratis.pro
 https://default.prod03.stratis.pro
 https://www.arep.re
 https://www.artisanat974.re
+https://www.barreau-saint-pierre-reunion.re
 https://www.braspanon.re
 https://www.casud.re
 https://www.cinor.re
