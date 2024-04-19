@@ -1132,7 +1132,7 @@ https://auchyleshesdin.e-monsite.com
 https://bertaucourt.e-monsite.com
 http://bethonvilliers28330.e-monsite.com
 http://blainvillecrevon-unvillagedynamique.e-monsite.com
-http://brabant-en-argonne.e-monsite.com
+https://brabant-en-argonne.e-monsite.com
 https://brousseval.e-monsite.com
 http://cfillievres.e-monsite.com
 http://chandon.e-monsite.com
@@ -1180,7 +1180,7 @@ http://mairielarbroye.e-monsite.com
 http://mairiepure.e-monsite.com
 https://mairievilleny.e-monsite.com
 http://malicorneallier.e-monsite.com
-http://marcille.e-monsite.com
+https://marcille.e-monsite.com
 http://mareuil.e-monsite.com
 http://notredamedaliermont.e-monsite.com
 http://origny-sainte-benoite.e-monsite.com
@@ -1884,6 +1884,7 @@ https://lougratte.com
 https://www.collegevedas.louisgermain34.com
 http://louppy-sur-loison.com
 http://www.louppy-sur-loison.com
+http://www.lourenties.com
 https://lourmarin.com
 https://louvignedebais.com
 https://www.lozerepeche.com
@@ -3218,7 +3219,7 @@ https://www.signy-le-petit.com
 https://mairie.sigoyer.com
 http://www.mairie.sigoyer.com
 https://sillans-la-cascade.com
-http://www.sillans-la-cascade.com
+https://www.sillans-la-cascade.com
 https://www.simorre.com
 https://sionviller.com
 https://www.siredom.com
@@ -3487,7 +3488,6 @@ https://www.village-comps.com
 https://village-goudet.com
 https://www.village-sablieres.com
 http://www.village-saint-valentin.com
-https://www.village-vacances-cantal.com
 https://villagedesissy.com
 https://www.villagedesissy.com
 https://villampuy.com
@@ -4609,6 +4609,7 @@ https://lyc71-astier.ac-dijon.fr
 https://lyc71-cassin.ac-dijon.fr
 https://lyc89-amyot.ac-dijon.fr
 https://parcdeschaumes.ac-dijon.fr
+https://col71-pierrevaux.sd.ac-dijon.fr
 https://col71-rogerboyer.sd.ac-dijon.fr
 https://lyc21-hfontaine.sd.ac-dijon.fr
 https://www.ac-dijon.fr
@@ -5029,7 +5030,6 @@ https://pia.ac-paris.fr
 http://clg-beranger.scola.ac-paris.fr
 http://clg-doisneau.scola.ac-paris.fr
 http://clg-sonia-delaunay.scola.ac-paris.fr
-http://clg-yvonne-le-tac.scola.ac-paris.fr
 http://lyc-camille-see.scola.ac-paris.fr
 http://lyc-claude-bernard.scola.ac-paris.fr
 http://lyc-hector-guimard.scola.ac-paris.fr
@@ -7830,7 +7830,6 @@ https://bourbach-le-bas.fr
 http://www.bourberain.fr
 https://bourbon-lancy.fr
 https://www.bourbourg.fr
-http://bourcefranc-le-chapus.fr
 http://www.bourcefranc-le-chapus.fr
 https://bourdalat.fr
 https://www.bourdalat.fr
@@ -9087,7 +9086,7 @@ https://ccvexincentre.fr
 https://www.ccvg.fr
 https://ccvhs.fr
 https://ccvimeu.fr
-http://www.ccvl.fr
+https://www.ccvl.fr
 https://ccvlv.fr
 https://www.ccvo.fr
 https://www.ccvo3f.fr
@@ -9134,7 +9133,6 @@ https://www.cdg06.fr
 https://cdg08.fr
 https://www.cdg08.fr
 https://cdg09.fr
-https://www.cdg09.fr
 https://www.cdg10.fr
 https://www.cdg11.fr
 https://cdg14.fr
@@ -14122,6 +14120,7 @@ https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://ulm.dsac.aviation-civile.gouv.fr
 https://cadas-dev.dsna.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
+https://newspirit.dsna.aviation-civile.gouv.fr
 https://drive.dsna-dti.aviation-civile.gouv.fr
 http://gevol3.dsna-dti.aviation-civile.gouv.fr
 https://pfisng.dsna-dti.aviation-civile.gouv.fr
@@ -15277,7 +15276,6 @@ https://wps-psc.rc4.dmp.gouv.fr
 https://www.rc4.dmp.gouv.fr
 https://wpa.rc5.dmp.gouv.fr
 https://wps-psc.rc5.dmp.gouv.fr
-https://www.rc5.dmp.gouv.fr
 https://wpa.rc6.dmp.gouv.fr
 https://wps-psc.rc6.dmp.gouv.fr
 https://www.rc6.dmp.gouv.fr
@@ -16115,7 +16113,6 @@ https://dev-extranet.ira-nantes.gouv.fr
 https://dev-gefira.ira-nantes.gouv.fr
 https://devops.ira-nantes.gouv.fr
 https://doc-gefira.ira-nantes.gouv.fr
-https://e-learning.ira-nantes.gouv.fr
 https://employeurs.ira-nantes.gouv.fr
 https://extranet.ira-nantes.gouv.fr
 https://fas.ira-nantes.gouv.fr
@@ -20100,7 +20097,6 @@ http://www.lycee-pierre-gueguin.fr
 https://www.lycee-pierre-marie-curie.fr
 https://lycee-pontarcher.fr
 https://www.lycee-prieur.fr
-https://www.lycee-pro-marcel-dassault.fr
 http://www.lycee-quetigny.fr
 https://lycee-raynouard.fr
 https://www.lycee-reaumur.fr
@@ -20453,7 +20449,7 @@ https://www.mairie-arcambal.fr
 https://www.mairie-archamps.fr
 https://mairie-archigny.fr
 http://mairie-arcins.fr
-http://www.mairie-arcins.fr
+https://www.mairie-arcins.fr
 https://www.mairie-ardin.fr
 https://mairie-ardres.fr
 https://www.mairie-ardres.fr
@@ -21940,7 +21936,6 @@ https://mairie-saintnicolaslachapelle.fr
 https://www.mairie-saintoffenge.fr
 https://www.mairie-saintpaldemons.fr
 https://mairie-saintpauldevarax.fr
-https://www.mairie-saintpaullesfonts.fr
 http://mairie-saintpere.fr
 http://www.mairie-saintpere.fr
 https://www.mairie-saintprivatdallier.fr
@@ -23303,6 +23298,7 @@ https://www.messimysursaone.fr
 https://www.messincourt.fr
 https://www.messy.fr
 https://mesves-sur-loire.fr
+https://www.mesves-sur-loire.fr
 https://metabief.fr
 https://www.metabief.fr
 https://methamis.fr
@@ -23855,23 +23851,18 @@ https://monbahus.fr
 https://www.monbazillac.fr
 http://www.monbequi.fr
 https://monbrun32.fr
-https://cite-haute-bruche.monbureaunumerique.fr
 https://cite-hermite.monbureaunumerique.fr
 https://cite-kastler.monbureaunumerique.fr
 https://cite-maurois.monbureaunumerique.fr
-https://cite-schwendi.monbureaunumerique.fr
 https://cite-vouziers.monbureaunumerique.fr
 https://clg-allamont.monbureaunumerique.fr
-https://clg-aragon.monbureaunumerique.fr
 https://clg-baccarat.monbureaunumerique.fr
 https://clg-belgrand.monbureaunumerique.fr
 https://clg-beurnonville.monbureaunumerique.fr
 https://clg-bourbon.monbureaunumerique.fr
-https://clg-braque.monbureaunumerique.fr
 https://clg-breuil.monbureaunumerique.fr
 https://clg-brossolette-rehon.monbureaunumerique.fr
 https://clg-bugatti.monbureaunumerique.fr
-https://clg-buvignier.monbureaunumerique.fr
 https://clg-carles.monbureaunumerique.fr
 https://clg-cassin-cernay.monbureaunumerique.fr
 https://clg-castel.monbureaunumerique.fr
@@ -23882,7 +23873,6 @@ https://clg-de-gaulle-sierck.monbureaunumerique.fr
 https://clg-de-l-ill.monbureaunumerique.fr
 https://clg-de-la-villeneuve.monbureaunumerique.fr
 https://clg-delaunay.monbureaunumerique.fr
-https://clg-deux-sarres.monbureaunumerique.fr
 https://clg-dolto-reichshoffen.monbureaunumerique.fr
 https://clg-dore.monbureaunumerique.fr
 https://clg-dreux.monbureaunumerique.fr
@@ -23894,7 +23884,6 @@ https://clg-galilee.monbureaunumerique.fr
 https://clg-galois.monbureaunumerique.fr
 https://clg-goncourt.monbureaunumerique.fr
 https://clg-grunewald.monbureaunumerique.fr
-https://clg-herapel.monbureaunumerique.fr
 https://clg-hoffmann.monbureaunumerique.fr
 https://clg-kochersberg.monbureaunumerique.fr
 https://clg-la-retourne.monbureaunumerique.fr
@@ -23925,11 +23914,9 @@ https://clg-ramon.monbureaunumerique.fr
 https://clg-rhenanus.monbureaunumerique.fr
 https://clg-rimbaud.monbureaunumerique.fr
 https://clg-rollin.monbureaunumerique.fr
-https://clg-rostand-chatenois.monbureaunumerique.fr
 https://clg-schoelcher.monbureaunumerique.fr
 https://clg-schuman-benfeld.monbureaunumerique.fr
 https://clg-signy-le-petit.monbureaunumerique.fr
-https://clg-sorbon.monbureaunumerique.fr
 https://clg-st-exupery-avize.monbureaunumerique.fr
 https://clg-st-exupery-st-nicolas-de-port.monbureaunumerique.fr
 https://clg-st-exupery-thierville.monbureaunumerique.fr
@@ -23957,7 +23944,6 @@ https://lyc-koeberle.monbureaunumerique.fr
 https://lyc-kopa.monbureaunumerique.fr
 https://lyc-labroise.monbureaunumerique.fr
 https://lyc-lapie.monbureaunumerique.fr
-https://lyc-leclerc.monbureaunumerique.fr
 https://lyc-les-lombards.monbureaunumerique.fr
 https://lyc-libergier.monbureaunumerique.fr
 https://lyc-lurcat.monbureaunumerique.fr
@@ -25205,22 +25191,17 @@ https://www.ozenx-montestrucq.fr
 https://www.paars.fr
 https://www.padirac.fr
 https://www.pageas.fr
-http://saint.aubin.pagesperso-orange.fr
 http://www.mairie.bouchoir.pagesperso-orange.fr
-http://cadimairie.pagesperso-orange.fr
 https://chateau-sur-allier.pagesperso-orange.fr
 http://chenimenil.pagesperso-orange.fr
 https://cheppeslaprairie.pagesperso-orange.fr
 https://davaye.pagesperso-orange.fr
 http://graissessac.pagesperso-orange.fr
-http://lpo.paul.lacave.pagesperso-orange.fr
 http://mairie.laroquevieille.pagesperso-orange.fr
 https://mairie-boury.pagesperso-orange.fr
-http://mairiedegenis.pagesperso-orange.fr
 https://mairiedemamey.pagesperso-orange.fr
 http://mairiedemoyemont.pagesperso-orange.fr
 http://paluel.pagesperso-orange.fr
-http://revestdubion.pagesperso-orange.fr
 https://saint-marc-a-loubaud.pagesperso-orange.fr
 http://st-genes-champespe.pagesperso-orange.fr
 https://villers-saint-genest.pagesperso-orange.fr
@@ -26495,7 +26476,6 @@ https://www.rivesdemoselle.fr
 https://www.rivesdesaone.fr
 https://www.rivesducouesnon.fr
 https://rivesduloirenanjou.fr
-https://riviera-francaise.fr
 https://www.riviera-francaise.fr
 https://www.rivieradulevant.fr
 https://www.rivieres-angoumois.fr
@@ -29069,7 +29049,6 @@ https://serignac-sur-garonne.fr
 https://www.serignac-sur-garonne.fr
 https://www.serignac46.fr
 http://serignac82.fr
-http://www.serignac82.fr
 https://www.serignanducomtat.fr
 https://www.serigne.fr
 https://serilhac.fr
@@ -29619,6 +29598,7 @@ https://www.stlaurentdesbois41.fr
 https://www.stlaurentdubois.fr
 https://www.stlaurentnouan.fr
 https://www.stluminedecoutais.fr
+http://www.stmaixentsurvie.fr
 https://www.stmalo-agglomeration.fr
 https://stmarsdoutille.fr
 https://www.stmartial.fr
@@ -29662,6 +29642,7 @@ http://www.stpierredesfleurs.fr
 https://www.stpierredetrivisy.fr
 https://www.stpierreforcats.fr
 https://stprivatdevallongue.fr
+https://stromain76.fr
 https://www.stromain76.fr
 https://stromainlavirvee.fr
 https://www.stromainlavirvee.fr
@@ -31324,6 +31305,7 @@ https://www.ville-coudekerque-branche.fr
 https://www.ville-coueron.fr
 https://www.ville-coulogne.fr
 https://www.ville-coulon.fr
+https://www.ville-coulonges-sur-lautize.fr
 https://www.ville-courbevoie.fr
 https://ville-courcoury.fr
 https://ville-courdimanche.fr
@@ -31902,6 +31884,7 @@ https://ville-poussan.fr
 https://www.ville-poussan.fr
 https://ville-presles.fr
 https://www.ville-prigonrieux.fr
+https://www.ville-puimisson.fr
 http://www.ville-putanges.fr
 https://ville-quarante.fr
 https://www.ville-quiberon.fr
@@ -33986,6 +33969,7 @@ https://mlab-mlidf.org
 https://www.mlaveyron.org
 https://mlbdm.org
 https://www.mlbdm.org
+https://www.mlcaraibes.org
 https://www.mlchambery.org
 https://www.mlcp.org
 https://www.mldieppe.org
