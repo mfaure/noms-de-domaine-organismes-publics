@@ -413,6 +413,7 @@ https://www.barredescevennes.com
 https://www.bassin-de-marennes.com
 https://bastidedesjourdans.com
 https://batie-montgascon.com
+https://baudre.com
 https://baudreix.com
 https://www.baudreix.com
 https://www.bazaaretcompagnie.com
@@ -430,7 +431,6 @@ https://www.beaupuy47.com
 https://www.beausoleil-tourisme.com
 https://beauvoir-de-marc.com
 https://www.becherel.com
-https://www.begrolles-en-mauges.com
 https://www.belairvaldance.com
 http://belcodene.com
 http://www.belcodene.com
@@ -1007,7 +1007,6 @@ https://communedesaintgermain.com
 http://communedesaugon.com
 http://www.communedesaugon.com
 https://www.communedethesee.com
-https://communedevers.com
 http://conceze.com
 http://www.conceze.com
 http://conde-sur-vire.com
@@ -1156,7 +1155,7 @@ https://mairiecourcy.e-monsite.com
 https://mairiedecestayrols81.e-monsite.com
 https://mairiederemereville.e-monsite.com
 https://mairiedevaudeville.e-monsite.com
-http://mairielarbroye.e-monsite.com
+https://mairielarbroye.e-monsite.com
 https://mairiepure.e-monsite.com
 https://mairievilleny.e-monsite.com
 https://malicorneallier.e-monsite.com
@@ -2700,7 +2699,6 @@ https://www.peri-village.com
 https://www.perignac17.com
 https://perigneux.com
 http://www.peronnas.com
-https://www.peronne-bourgogne.com
 https://perpezac-le-blanc.com
 https://www.perros-guirec.com
 https://peujard.com
@@ -3716,6 +3714,8 @@ https://www.fdc2a.corsica
 https://focicchia.corsica
 https://www.isula.corsica
 https://clg-casinca.leia.corsica
+https://clg-du-cap.leia.corsica
+https://clg-propriano.leia.corsica
 https://erea-ajaccio.leia.corsica
 https://lyc-fesch.leia.corsica
 https://www.mairie-furiani.corsica
@@ -5943,7 +5943,6 @@ https://albertcamus.arsene76.fr
 https://andregide.arsene76.fr
 https://barbeydaurevilly.arsene76.fr
 https://boieldieu.arsene76.fr
-https://charlesgounod.arsene76.fr
 https://claudemonet.arsene76.fr
 https://commandantcharcot.arsene76.fr
 https://coteblanche.arsene76.fr
@@ -5970,7 +5969,6 @@ https://lesacacias.arsene76.fr
 https://leshautsdusaffimbec.arsene76.fr
 https://loiseaublanc.arsene76.fr
 https://louisemichel.arsene76.fr
-https://pablopicasso-harfleur.arsene76.fr
 https://paulbert.arsene76.fr
 https://pauleluard.arsene76.fr
 https://pierremendesfrance.arsene76.fr
@@ -6166,7 +6164,6 @@ https://audierne.fr
 https://audignies.fr
 https://www.audignies.fr
 http://www.audincthun.fr
-http://audinghen-capgrisnez.fr
 https://www.audruicq.fr
 https://www.audun-le-tiche.fr
 https://audunleroman.fr
@@ -7637,6 +7634,7 @@ https://www.boucbelair.fr
 https://www.bouchain.fr
 https://www.bouchet-mont-charvin.fr
 https://bouclans.fr
+https://www.bouclenorddeseine.fr
 https://www.boucoiranetnozieres.fr
 http://boudou.fr
 http://www.boudou.fr
@@ -8041,6 +8039,7 @@ https://www.busigny.fr
 https://busnes.fr
 https://www.busque.fr
 https://bussac-foret.fr
+https://bussac-sur-charente.fr
 https://www.bussang.fr
 https://www.busseol.fr
 https://www.busserolles.fr
@@ -10271,7 +10270,6 @@ http://www.collegegoya.fr
 https://www.collegegrandparc.fr
 http://www.collegeguillevic.fr
 https://www.collegegujan.fr
-https://collegeguymoquetvillejuif.fr
 https://www.collegeherriot.fr
 https://www.collegeherriotlivry.fr
 http://collegejacquesprevertromille.fr
@@ -10302,6 +10300,7 @@ https://www.collegepagnolplouay.fr
 https://www.collegeparcfrot.fr
 http://www.collegepaulvaillantcouturier.fr
 https://collegerabelais.fr
+http://collegerabelaismetzsablon.fr
 https://www.collegerdl67.fr
 https://collegesainthilaire06.fr
 https://collegesaintsaens.fr
@@ -12579,7 +12578,6 @@ https://etang-de-lers.fr
 https://www.etang-de-lers.fr
 https://etang-sur-arroux.fr
 https://www.etang-sur-arroux.fr
-https://etaples-sur-mer.fr
 https://etaules21.fr
 https://www.etauliers.fr
 https://eteaux.fr
@@ -14563,8 +14561,8 @@ http://diagnostiqueurs.application.developpement-durable.gouv.fr
 https://carto.geo-ide.application.developpement-durable.gouv.fr
 http://igc.application.developpement-durable.gouv.fr
 https://interface-trafic2000.application.developpement-durable.gouv.fr
-https://loup.application.developpement-durable.gouv.fr
-https://loup-ng.application.developpement-durable.gouv.fr
+http://loup.application.developpement-durable.gouv.fr
+http://loup-ng.application.developpement-durable.gouv.fr
 http://rafael.application.developpement-durable.gouv.fr
 http://rdvsantemarin.application.developpement-durable.gouv.fr
 https://www.archives.developpement-durable.gouv.fr
@@ -14772,6 +14770,7 @@ http://prd59.documentation.developpement-durable.gouv.fr
 http://repertoiresites.documentation.developpement-durable.gouv.fr
 https://temis.documentation.developpement-durable.gouv.fr
 https://temix.documentation.developpement-durable.gouv.fr
+http://thesurb.documentation.developpement-durable.gouv.fr
 http://www.donnees-communales.developpement-durable.gouv.fr
 https://www.msr25.doubs.developpement-durable.gouv.fr
 https://enqueteur.dreal-auvergne-rhone-alpes.developpement-durable.gouv.fr
@@ -16428,6 +16427,7 @@ https://andes.valid.social.gouv.fr
 https://messagerie.valid.social.gouv.fr
 https://autodiscover.premsociauxfr.valid.social.gouv.fr
 https://messagerie.premsociauxfr.valid.social.gouv.fr
+https://inscription.social-sante.gouv.fr
 http://qr.social-sante.gouv.fr
 https://sisve.social-sante.gouv.fr
 https://societenumerique.gouv.fr
@@ -18357,7 +18357,6 @@ https://www.lanvenegen.fr
 https://www.lanvollon.fr
 http://lanzac.fr
 https://laon.fr
-https://www.laon.fr
 https://laons.fr
 https://www.lap61.fr
 http://lapan.fr
@@ -18537,6 +18536,7 @@ http://lavalette-31.fr
 https://www.lavalette-tude-dronne.fr
 https://www.lavalette83.fr
 https://lavallee-avon77.fr
+https://lavallee17.fr
 https://www.lavallee17.fr
 http://www.lavalleedelacreuse.fr
 http://www.lavancia-epercy.fr
@@ -19252,7 +19252,6 @@ http://www.linthal.fr
 https://linthes.fr
 https://www.linthes.fr
 https://lionensullias.fr
-https://lionsurmer.fr
 https://www.liorac-sur-louyre.fr
 https://www.liposthey.fr
 https://www.lipsheim.fr
@@ -19467,7 +19466,6 @@ http://www.lp-charles-de-gonzague.fr
 https://lp-elsa-triolet.fr
 https://lp-gauguin.fr
 https://lp-henribrulle.fr
-https://www.lp-lomet.fr
 https://www.lp-louis-armand.fr
 https://lp-philibert-de-l-orme.fr
 https://www.lp-sud-gironde.fr
@@ -20507,7 +20505,6 @@ http://mairie-coussa.fr
 http://www.mairie-coussa.fr
 https://mairie-coutevroult.fr
 http://www.mairie-coutiches.fr
-http://www.mairie-cox.fr
 http://mairie-crampagna.fr
 http://www.mairie-crampagna.fr
 https://www.mairie-crans.fr
@@ -22326,6 +22323,7 @@ https://mairiesaintsiffret.fr
 http://www.mairiesaintvincentsurjard.fr
 https://mairiesauveterre.fr
 https://www.mairieserrieresdebriord.fr
+https://mairiesevelinges.fr
 https://mairiest-ilpize.fr
 https://www.mairiest-mamertdugard.fr
 https://www.mairiestegemme.fr
@@ -23809,7 +23807,6 @@ https://www.montoirdebretagne.fr
 http://www.montoison.fr
 https://montoulieu.fr
 http://www.montoulieu.fr
-https://www.montournais.fr
 https://www.montpellier.fr
 https://www.montpellier3m.fr
 https://www.montpellierdemedillan.fr
@@ -24853,7 +24850,6 @@ https://passavantlarochere.fr
 https://www.passins.fr
 https://passy71.fr
 https://www.patay.fr
-https://aressy.pau.fr
 https://www.pau.fr
 https://paudy.fr
 https://paulbert.fr
@@ -25690,7 +25686,6 @@ https://queige.fr
 https://www.queige.fr
 https://quelaines-saint-gault.fr
 https://www.quelaines-saint-gault.fr
-https://www.quercycaussadais.fr
 https://www.quercyvertaveyron.fr
 https://www.querenaing.fr
 https://www.querigut-levillage.fr
@@ -26575,7 +26570,6 @@ https://www.saint-genies-bellevue.fr
 http://www.saint-geniez-o-merle-mairie.fr
 https://www.saint-genis-des-fontaines.fr
 https://saint-genis-sur-menthon.fr
-https://www.saint-georges-buttavent.fr
 https://www.saint-georges-cantal.fr
 https://saint-georges-d-aurac.fr
 https://www.saint-georges-d-aurac.fr
@@ -27163,7 +27157,6 @@ https://saintandrelebouchoux.fr
 https://saintandrelegaz.fr
 https://saintandresursevre.fr
 https://saintangel03.fr
-http://saintaout36.fr
 http://www.saintaout36.fr
 https://saintaquilin.fr
 https://www.saintaquilin.fr
@@ -29472,7 +29465,7 @@ https://torignylesvilles.fr
 http://www.tornac.fr
 https://www.torpes.fr
 http://torreilles.fr
-http://www.torreilles.fr
+https://www.torreilles.fr
 https://www.torsac.fr
 https://tortequesne.fr
 https://www.tortequesne.fr
@@ -30229,6 +30222,7 @@ https://www.ventiseri.fr
 https://ventron.fr
 https://verac.fr
 https://veranne.fr
+https://www.vercel-villedieu-le-camp.fr
 https://vercheny.fr
 https://www.verdalle.fr
 https://www.verdelais.fr
@@ -31694,6 +31688,7 @@ https://villedefourques.fr
 https://villedefroges.fr
 https://www.villedegarges.fr
 http://villedegermaine.fr
+http://www.villedegermaine.fr
 https://www.villedegien.fr
 https://villedegourbeyre.fr
 https://www.villedegourbeyre.fr
@@ -32040,7 +32035,6 @@ http://www.voillans.fr
 https://www.voiron.fr
 https://voisenon.fr
 https://www.voisins78.fr
-https://www.voiteur.fr
 https://www.voivres-les-le-mans.fr
 https://volesvres.fr
 https://www.volesvres.fr
@@ -32285,6 +32279,7 @@ https://www.avie83.info
 http://ayzac-ost.info
 http://www.ayzac-ost.info
 https://barst.info
+https://www.barst.info
 http://berstett.info
 http://www.berstett.info
 https://www.brousurchantereine.info
@@ -32421,6 +32416,7 @@ http://www.romelfing.info
 https://www.sailly.info
 https://saint-sorlin-en-bugey.info
 https://www.sainte-eulalie.info
+https://savieres.info
 https://stiring-wendel.info
 https://www.stiring-wendel.info
 https://strazeele.info
@@ -32677,7 +32673,6 @@ https://www.lyceeameliezurcher.net
 https://ats.lyceearago.net
 https://www.lyceecamilleclaudel.net
 https://www.lyceecivray.net
-http://lyceecotton.net
 http://lyceedebaudre.net
 https://lyceefrancois1.net
 https://lyceegimond.net
