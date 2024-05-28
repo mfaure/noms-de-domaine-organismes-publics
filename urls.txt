@@ -108,7 +108,6 @@ https://lycee-maritime-guilvinec.bzh
 https://mairie-de-becherel.bzh
 https://www.mairie-gael.bzh
 https://mairie-gouesnach.bzh
-https://www.mairie-plouye.bzh
 https://mellac.bzh
 https://www.melle.bzh
 https://mesnilroch.bzh
@@ -2469,7 +2468,6 @@ https://www.mousson.com
 http://www.moussoulens.com
 http://moustier-en-fagne.com
 http://www.moustier-en-fagne.com
-https://moutiers-savoie.com
 https://www.moutiers-savoie.com
 https://mouzeuilsaintmartin.com
 https://www.mrcholland.com
@@ -3044,7 +3042,7 @@ http://www.saintlaurentdesvignes.com
 http://www.saintlaurentlaconche.com
 https://saintmalodubois.com
 https://rejoignez.saintmalogolf.com
-http://saintmalonsurmel.com
+https://saintmalonsurmel.com
 https://www.saintmarcel.com
 http://saintmarceldardeche.com
 http://www.saintmarceldardeche.com
@@ -3894,7 +3892,7 @@ http://www.bretteville-sur-laize.a3w.fr
 http://breuilaufa.a3w.fr
 http://www.breuilaufa.a3w.fr
 http://busserollesenperigordvert.a3w.fr
-https://castillonmassas.a3w.fr
+http://castillonmassas.a3w.fr
 http://champvallon.a3w.fr
 http://www.champvallon.a3w.fr
 http://commune-saint-vaize.a3w.fr
@@ -4901,6 +4899,7 @@ http://clg-lorris.tice.ac-orleans-tours.fr
 http://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
 http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
+http://clg-louis-pergaud-ste-severe-sur-indre.tice.ac-orleans-tours.fr
 http://clg-marcel-pagnol-vernouillet.tice.ac-orleans-tours.fr
 http://clg-marcel-proust-illiers-combray.tice.ac-orleans-tours.fr
 http://clg-marie-curie-saint-laurent-nouan.tice.ac-orleans-tours.fr
@@ -5115,7 +5114,6 @@ http://lp-roches-maigres.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
 http://lycee-patu.ac-reunion.fr
 https://www.ac-reunion.fr
-http://cio.ac-rouen.fr
 https://braque-col.spip.ac-rouen.fr
 https://cio.spip.ac-rouen.fr
 https://emulation-lyc.spip.ac-rouen.fr
@@ -6770,7 +6768,6 @@ https://bage-dommartin.fr
 https://bagelechatel.fr
 https://www.bages.fr
 https://www.bages66.fr
-https://bagnac.fr
 https://www.bagneauxsurloing.fr
 https://www.bagneux92.fr
 https://www.bagnols63.fr
@@ -7202,7 +7199,7 @@ https://www.bergetcoiron.fr
 https://www.bergholtz.fr
 http://www.bergues.fr
 https://www.berlaimont.fr
-https://berlesaubois.fr
+http://berlesaubois.fr
 https://www.berlesaubois.fr
 https://bermericourt.fr
 https://www.bermericourt.fr
@@ -7454,7 +7451,6 @@ https://www.boege.fr
 https://www.boeil-bezing.fr
 http://www.boeschepe.fr
 http://www.boeseghem.fr
-http://boesenbiesen.fr
 https://www.boffres.fr
 https://www.bogeve.fr
 https://www.bognysurmeuse.fr
@@ -9259,7 +9255,6 @@ https://extranet-ardeche.chambres-agriculture.fr
 https://extranet-cantal.chambres-agriculture.fr
 https://extranet-isere.chambres-agriculture.fr
 https://extranet-loire.chambres-agriculture.fr
-https://extranet-pays-de-la-loire.chambres-agriculture.fr
 https://extranet-puy-de-dome.chambres-agriculture.fr
 https://extranet-savoie-mont-blanc.chambres-agriculture.fr
 https://paca.chambres-agriculture.fr
@@ -9884,6 +9879,7 @@ https://www.clemensat.fr
 https://clemont.fr
 https://www.clemont.fr
 https://clenay.fr
+http://www.clerey.fr
 https://www.clerieux.fr
 https://clerimois.fr
 https://www.clerimois.fr
@@ -10571,6 +10567,7 @@ https://communedeplerneuf.fr
 https://communedeplou.fr
 https://www.communedeprunet15.fr
 https://www.communederai.fr
+https://communedereveillon.fr
 https://www.communedereveillon.fr
 https://www.communederis.fr
 https://www.communederoquebrune.fr
@@ -11297,7 +11294,6 @@ http://delunevilleabaccarat.fr
 http://deluz.fr
 http://www.demandolx.fr
 https://www.demarches-simplifiees.fr
-https://www.demi-quartier.fr
 https://demigny.fr
 https://www.demigny.fr
 https://demouville.fr
@@ -12260,11 +12256,6 @@ https://www.ennordres.fr
 https://www.enquinlezguinegatte.fr
 https://www.enrx.fr
 https://sso.enssib.fr
-https://aime-charpentier.ent27.fr
-https://deux-amants.ent27.fr
-https://evariste-galois.ent27.fr
-https://la-fontaine.ent27.fr
-https://maupassant.ent27.fr
 https://roger-gaudeau.ent27.fr
 https://entauvergne.fr
 https://benjaminbord.entcreuse.fr
@@ -13838,7 +13829,6 @@ https://consultation.stac.aviation-civile.gouv.fr
 https://noisedb.stac.aviation-civile.gouv.fr
 https://piaf.stac.aviation-civile.gouv.fr
 https://www.stac.aviation-civile.gouv.fr
-http://bopp.stitch.aviation-civile.gouv.fr
 https://info.stitch.aviation-civile.gouv.fr
 https://popp.stitch.aviation-civile.gouv.fr
 http://portos.validation.aviation-civile.gouv.fr
@@ -15505,6 +15495,7 @@ https://archive.fse.gouv.fr
 https://www.pre-plateforme-eolys.fse.gouv.fr
 https://www.gard.gouv.fr
 https://garde-nationale.gouv.fr
+https://www.geoportail.gouv.fr
 https://www.geoportail-urbanisme.gouv.fr
 https://georisques.gouv.fr
 https://www.georisques.gouv.fr
@@ -16232,6 +16223,7 @@ https://www.securite-routiere.gouv.fr
 http://segur.gouv.fr
 https://www.seine-et-marne.gouv.fr
 https://www.seine-maritime.gouv.fr
+https://www.seine-saint-denis.gouv.fr
 https://www.semaine-industrie.gouv.fr
 http://www.semainedudeveloppementdurable.gouv.fr
 https://elisa.service-civique.gouv.fr
@@ -16679,7 +16671,6 @@ https://grand-langres.fr
 https://www.grand-saint-emilionnais.fr
 https://www.grand-senonais.fr
 https://www.grand-villeneuvois.fr
-https://www.grandangouleme.fr
 https://www.grandannecy.fr
 http://www.grandauch.fr
 https://www.grandautunoismorvan.fr
@@ -19694,7 +19685,6 @@ https://www.lycee-sauxmarais.fr
 https://www.lycee-savary-ferry-arras.fr
 https://www.lycee-sevigne-tg.fr
 https://www.lycee-sidoine-apollinaire.fr
-http://lycee-signoret.fr
 https://www.lycee-silvia-monfort.fr
 https://www.lycee-stanislas.fr
 https://www.lycee-sud-perigord.fr
@@ -20455,6 +20445,7 @@ https://www.mairie-damprichard.fr
 http://www.mairie-danestal.fr
 https://mairie-darcey.fr
 https://www.mairie-darcey.fr
+https://mairie-darnetal.fr
 https://www.mairie-darnetal.fr
 https://mairie-darvault.fr
 http://mairie-de-beaumes-de-venise.fr
@@ -21701,6 +21692,7 @@ http://www.mairie-triel78.fr
 https://www.mairie-trignac.fr
 https://mairie-tromborn.fr
 https://www.mairie-truyes.fr
+https://mairie-tsingoni.fr
 https://www.mairie-turretot.fr
 https://www.mairie-ucel.fr
 https://www.mairie-ungersheim.fr
@@ -22075,7 +22067,6 @@ https://www.mairiedemtsangamouji.fr
 https://www.mairiedeneuille.fr
 https://www.mairiedeneuvy41.fr
 http://www.mairiedeniherne.fr
-https://www.mairiedepauilhac.fr
 https://www.mairiedepierrerue.fr
 https://www.mairiedepolignac.fr
 https://www.mairiedepomerol.fr
@@ -22511,6 +22502,7 @@ https://marsat.fr
 https://marsaz.fr
 https://www.marseille.fr
 https://www.marseille1-7.fr
+https://marseille1112.fr
 https://marseille9-10.fr
 https://marsillargues.fr
 https://www.marsilly.fr
@@ -22959,7 +22951,6 @@ https://mise-en-fourriere.fr
 https://miserey-salines.fr
 https://miserieux.fr
 https://www.miserieux.fr
-https://misse79.fr
 https://www.misse79.fr
 http://missecle.fr
 https://www.missillac.fr
@@ -22970,6 +22961,7 @@ https://www.mission-locale-csa.fr
 https://mission-locale-de-venissieux.fr
 https://www.mission-locale-epinal.fr
 https://mission-locale-ivry-vitry.fr
+https://www.mission-locale-limoges.fr
 https://www.mission-locale-montlucon.fr
 https://mission-locale-nord-ouest-aubois.fr
 https://www.mission-locale-taverny.fr
@@ -26201,7 +26193,6 @@ https://sains-en-gohelle.fr
 https://sains-richaumont.fr
 https://www.sains-richaumont.fr
 http://www.sainsenamienois.fr
-https://saint-abit.fr
 https://www.saint-abraham.fr
 https://www.saint-agnant.fr
 https://www.saint-agnant-pres-crocq.fr
@@ -26357,6 +26348,7 @@ https://www.saint-christophe-du-ligneron.fr
 https://saint-christophe-tarn.fr
 https://www.saint-christophe17.fr
 https://www.saint-cibard.fr
+https://www.saint-cierge-sous-le-cheylard.fr
 https://saint-ciers.fr
 http://saint-ciers-champagne.fr
 http://www.saint-ciers-champagne.fr
@@ -27131,6 +27123,7 @@ https://saintclementdesbaleines.fr
 https://www.saintclementdevalorgue.fr
 https://saintclementlesplaces.fr
 https://www.saintcloud.fr
+http://saintcomedefresne.fr
 https://www.saintconstant-fournoules.fr
 https://www.saintcrepin.fr
 https://www.saintcricqchalosse.fr
@@ -28966,7 +28959,6 @@ https://stmarsdoutille.fr
 https://www.stmartial.fr
 https://www.stmartin-lieue.fr
 https://www.stmartindemieux.fr
-http://stmartindesmonts.fr
 https://www.stmartindesmonts.fr
 https://stmartindutertreyonne.fr
 https://www.stmartindutertreyonne.fr
@@ -29560,6 +29552,7 @@ https://trigance.fr
 http://www.trigny.fr
 https://trilbardou.fr
 http://www.trilport.fr
+https://trith.fr
 https://www.trith.fr
 https://www.trizac.fr
 http://www.trogues.fr
@@ -29863,7 +29856,6 @@ http://www.neuvillerlaroche.valleedelabruche.fr
 http://ranrupt.valleedelabruche.fr
 http://www.ranrupt.valleedelabruche.fr
 http://saintblaiselaroche.valleedelabruche.fr
-http://www.saintblaiselaroche.valleedelabruche.fr
 http://saulxures.valleedelabruche.fr
 http://solbach.valleedelabruche.fr
 http://www.wildersbach.valleedelabruche.fr
@@ -30262,6 +30254,7 @@ https://vieillesmaisons.fr
 http://www.vieillespesse.fr
 https://www.vieilley.fr
 https://www.viella.fr
+https://viellesaintgirons.fr
 https://www.viellesaintgirons.fr
 http://www.viellesegure.fr
 https://www.viels-maisons.fr
@@ -31330,6 +31323,7 @@ https://www.ville-saintecroix.fr
 https://www.ville-saintemarguerite.fr
 https://www.ville-saintemarie.fr
 https://www.ville-saintes.fr
+https://ville-saintgelydufesc.fr
 https://www.ville-saintgelydufesc.fr
 https://www.ville-saintgratien.fr
 https://www.ville-saintjeandelaruelle.fr
@@ -31697,7 +31691,7 @@ https://www.villeneuvedemarc.fr
 https://villeneuvedemarsan.fr
 https://www.villeneuvedemarsan.fr
 https://villeneuveenretz.fr
-http://www.villeneuveenretz.fr
+https://www.villeneuveenretz.fr
 https://villeneuvelesbouloc.fr
 https://www.villeneuvelesmaguelone.fr
 https://www.villeneuveloubet.fr
@@ -32585,6 +32579,7 @@ https://montagrier.net
 https://montenay.net
 https://www.montenay.net
 https://www.montesoro.net
+https://montespan.net
 https://moosch.net
 https://www.mouans-sartoux.net
 https://www.moulinet.net
@@ -32997,7 +32992,6 @@ http://bazoches-en-dunois.org
 http://www.bazoches-en-dunois.org
 https://benamenil.org
 http://benerville.org
-http://www.benerville.org
 https://www.beneventlabbaye.org
 http://udba68.benevolat.org
 http://www.udba68.benevolat.org
