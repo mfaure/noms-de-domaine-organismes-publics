@@ -574,6 +574,7 @@ https://www.brehand.com
 http://brennilis.com
 http://www.brennilis.com
 https://www.brenod.com
+https://www.bretagnenet.com
 https://www.breuilpont.com
 https://www.briare-le-canal.com
 https://brignais.com
@@ -1341,6 +1342,7 @@ https://www.frontenas.com
 https://www.fumel-fr.com
 https://www.fumelvalleedulot.com
 https://cassagnoles.funimag.com
+https://www.gagnieres.com
 https://www.gaillac-toulza.com
 http://gamarde-les-bains.com
 http://www.gamarde-les-bains.com
@@ -2924,7 +2926,6 @@ https://www.saint-maur.com
 https://www.saint-maurice-la-souterraine.com
 https://saint-maurice-les-couches.com
 http://www.saint-medard36.com
-http://saint-menges.com
 https://www.saint-menges.com
 https://www.saint-mery.com
 https://www.saint-michel-de-maurienne.com
@@ -3329,7 +3330,6 @@ https://www.tournon-savoie.com
 https://www.tournondagenais.com
 https://touzac-lot.com
 https://trebry.com
-http://www.trebry.com
 https://www.trefflean.com
 http://tremblaylesvillages.com
 https://trementines.com
@@ -4907,7 +4907,6 @@ http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-ste-severe-sur-indre.tice.ac-orleans-tours.fr
 http://clg-marcel-pagnol-vernouillet.tice.ac-orleans-tours.fr
 http://clg-marcel-proust-illiers-combray.tice.ac-orleans-tours.fr
-http://clg-marie-curie-saint-laurent-nouan.tice.ac-orleans-tours.fr
 http://clg-martial-taugourdeau-dreux.tice.ac-orleans-tours.fr
 http://clg-maurice-genevoix-romorantin.tice.ac-orleans-tours.fr
 http://clg-michelet-tours.tice.ac-orleans-tours.fr
@@ -5923,12 +5922,9 @@ https://ars-sur-formans.fr
 https://www.ars-sur-formans.fr
 https://www.arsac.fr
 https://www.arsacenvelay.fr
-https://albertcalmette.arsene76.fr
-https://albertcamus.arsene76.fr
 https://andregide.arsene76.fr
 https://boieldieu.arsene76.fr
 https://emilechartier.arsene76.fr
-https://emilezola.arsene76.fr
 https://francoisvillon.arsene76.fr
 https://gerardphilipe.arsene76.fr
 https://henrimatisse.arsene76.fr
@@ -6792,7 +6788,6 @@ https://bailleau-le-pin.fr
 https://www.bailleau-le-pin.fr
 https://bailleau-leveque.fr
 https://www.baillestavy.fr
-https://bailleulval.fr
 https://www.bailleval.fr
 https://www.bailly-romainvilliers.fr
 https://www.baincthun.fr
@@ -7707,7 +7702,6 @@ https://boury-en-vexin.fr
 https://www.boury-en-vexin.fr
 https://bousbecque.fr
 https://www.bousbecque.fr
-https://www.bouscat.fr
 https://bousies.fr
 https://www.bousies.fr
 https://www.boussac-aveyron.fr
@@ -14035,7 +14029,6 @@ https://stats.santepsyetudiant.beta.gouv.fr
 https://track.santepsyetudiant.beta.gouv.fr
 https://stats.signaux-faibles.beta.gouv.fr
 https://stats.beta.gouv.fr
-https://stop-punaises.beta.gouv.fr
 https://tchap.beta.gouv.fr
 https://f.courriel.tchap.beta.gouv.fr
 https://s.courriel.tchap.beta.gouv.fr
@@ -14083,6 +14076,7 @@ https://www.tipi-client.budget.gouv.fr
 https://www.budget.gouv.fr
 https://integ-pva-certificat.ca.gouv.fr
 https://pva-certificat.ca.gouv.fr
+https://rct-pva-certificat.ca.gouv.fr
 http://spi-equipement.ca.gouv.fr
 http://spi-racine.ca.gouv.fr
 https://cadastre.gouv.fr
@@ -15221,6 +15215,7 @@ http://comdalo.application.equipement.gouv.fr
 http://www.bison-fute.equipement.gouv.fr
 http://www.bisonfute.equipement.gouv.fr
 http://www.cetmef.equipement.gouv.fr
+http://cataloguecdu.documentation.equipement.gouv.fr
 http://developpementdurable.documentation.equipement.gouv.fr
 http://pastel.documentation.equipement.gouv.fr
 http://www.msr25.doubs.equipement.gouv.fr
@@ -16288,7 +16283,6 @@ https://aime-tumeplay.fabrique.social.gouv.fr
 https://api-monsuivipsy.fabrique.social.gouv.fr
 https://api-ozensemble.fabrique.social.gouv.fr
 https://api-recherche-entreprises.fabrique.social.gouv.fr
-https://archifiltre-statistics.fabrique.social.gouv.fr
 https://backend-tumeplay.fabrique.social.gouv.fr
 https://backoffice-les1000jours.fabrique.social.gouv.fr
 https://bo-tumeplay.fabrique.social.gouv.fr
@@ -16362,6 +16356,7 @@ https://messagerie.premsociauxfr.valid.social.gouv.fr
 https://inscription.social-sante.gouv.fr
 http://qr.social-sante.gouv.fr
 https://sisve.social-sante.gouv.fr
+https://www.social-sante.gouv.fr
 https://societenumerique.gouv.fr
 https://agenda.societenumerique.gouv.fr
 https://baserow.societenumerique.gouv.fr
@@ -17208,6 +17203,7 @@ https://hochfelden.fr
 http://hochstatt.fr
 https://www.hochstatt.fr
 http://www.hochstett.fr
+https://www.hodeng-hodenger.fr
 https://hodent.fr
 https://www.hoerdt.fr
 https://www.hohengoeft.fr
@@ -17778,7 +17774,6 @@ http://www.labastide-du-temple.fr
 https://www.labastide-du-vert.fr
 https://www.labastide-marnhac.fr
 https://labastide-saint-georges.fr
-http://labastide-st-pierre.fr
 http://www.labastide-st-pierre.fr
 http://labastide-villefranche.fr
 http://www.labastide-villefranche.fr
@@ -18005,6 +18000,7 @@ https://www.laferrieresurrisle.fr
 http://www.laferte-sur-amance.fr
 https://www.lafertealais.fr
 https://laferteimbault.fr
+https://www.laferteimbault.fr
 https://lafertemace.fr
 https://lafertemilon.fr
 https://www.lafertesaintaubin.fr
@@ -18625,6 +18621,7 @@ https://www.lebrusquet.fr
 http://www.lebugue.fr
 https://www.lebuissondecadouin.fr
 https://lecailar.fr
+https://www.lecailar.fr
 https://lecannet.fr
 https://www.lecannet.fr
 https://www.lecateau.fr
@@ -21793,6 +21790,7 @@ https://www.mairie-villedavray.fr
 https://www.mairie-villefranchedelauragais.fr
 https://mairie-villegailhenc.fr
 https://www.mairie-villegailhenc.fr
+https://www.mairie-villematier31.fr
 https://www.mairie-villemur-sur-tarn.fr
 https://mairie-villeneuvedelariviere.fr
 https://www.mairie-villeneuvesurverberie.fr
@@ -22145,6 +22143,7 @@ https://www.mairiefontenailles.fr
 https://www.mairiefouilloy.fr
 https://www.mairiefrozes.fr
 https://www.mairiegaillefontaine.fr
+https://www.mairiegerville.fr
 https://mairiehamonville.fr
 https://mairiehardinvast.fr
 https://www.mairiehardinvast.fr
@@ -22696,6 +22695,7 @@ https://mef-beauvaisis.fr
 https://www.mefi-2rives.fr
 https://mairie.megeve.fr
 http://www.megevette.fr
+https://www.megrit.fr
 https://www.meilhac.fr
 https://www.meilhan40.fr
 https://www.meilhansurgaronne.fr
@@ -23390,7 +23390,6 @@ http://www.monbequi.fr
 https://monbrun32.fr
 https://cite-hermite.monbureaunumerique.fr
 https://clg-allamont.monbureaunumerique.fr
-https://clg-ban-de-vagney.monbureaunumerique.fr
 https://clg-colombey.monbureaunumerique.fr
 https://clg-cote-legris.monbureaunumerique.fr
 https://clg-de-gaulle-sierck.monbureaunumerique.fr
@@ -23410,10 +23409,7 @@ https://clg-monod-villerupt.monbureaunumerique.fr
 https://clg-plante-gribe.monbureaunumerique.fr
 https://clg-portier.monbureaunumerique.fr
 https://clg-rimbaud.monbureaunumerique.fr
-https://clg-salengro.monbureaunumerique.fr
 https://clg-schoelcher.monbureaunumerique.fr
-https://clg-schuman-hombourg-haut.monbureaunumerique.fr
-https://clg-signy-l-abbaye.monbureaunumerique.fr
 https://clg-st-exupery-st-nicolas-de-port.monbureaunumerique.fr
 https://clg-trois-fontaines.monbureaunumerique.fr
 https://clg-val-ornois.monbureaunumerique.fr
@@ -23421,7 +23417,6 @@ https://lyc-bayle.monbureaunumerique.fr
 https://lyc-galle.monbureaunumerique.fr
 https://lyc-kastler-guebwiller.monbureaunumerique.fr
 https://lyc-lurcat.monbureaunumerique.fr
-https://lyc-majorelle.monbureaunumerique.fr
 https://lyc-meurthe-sanon.monbureaunumerique.fr
 https://lyc-pm-curie-freyming.monbureaunumerique.fr
 https://lyc-roosevelt-reims.monbureaunumerique.fr
@@ -24937,8 +24932,6 @@ https://www.perigny.fr
 https://perigny-sur-yerres.fr
 https://www.perigord-limousin.fr
 https://www.perigord-nontronnais.fr
-https://perigueux.fr
-https://www.perigueux.fr
 https://www.perigueux-jeunesse.fr
 https://www.pern46.fr
 https://www.pernandvergelesses.fr
@@ -25558,7 +25551,6 @@ https://puycelsi.fr
 https://puygouzon.fr
 https://www.puygouzon.fr
 https://www.puyjourdes.fr
-http://puylagarde.fr
 http://www.puylagarde.fr
 https://www.puylaroque.fr
 http://www.puylaurens.fr
@@ -28109,6 +28101,7 @@ https://saulzet.fr
 http://www.saulzet-le-froid.fr
 http://www.saulzoir.fr
 https://www.saumane-de-vaucluse.fr
+https://saumane-en-cevennes.fr
 https://www.saumos.fr
 https://www.saumurvaldeloire.fr
 https://www.saunay.fr
@@ -28442,7 +28435,6 @@ https://www.sergy.fr
 https://serignac-sur-garonne.fr
 https://www.serignac-sur-garonne.fr
 https://www.serignac46.fr
-http://serignac82.fr
 https://www.serignanducomtat.fr
 https://www.serigne.fr
 https://serilhac.fr
@@ -28800,6 +28792,7 @@ https://spay.fr
 https://spechbach.fr
 http://www.spechbach.fr
 https://www.speloncato.fr
+https://www.speracedes.fr
 https://sqyway1625.fr
 https://srdcbs.fr
 https://www.srdcbs.fr
@@ -30187,6 +30180,7 @@ https://vers74.fr
 https://www.vers74.fr
 https://www.versailles.fr
 https://www.versaillesgrandparc.fr
+https://www.versantsdaime.fr
 https://versaugues.fr
 https://www.versaugues.fr
 https://verseilles-le-bas.fr
@@ -31113,7 +31107,7 @@ https://www.ville-montgermont.fr
 https://ville-montgiscard.fr
 https://www.ville-montivilliers.fr
 https://www.ville-montlouis-loire.fr
-https://ville-montluel.fr
+http://ville-montluel.fr
 https://www.ville-montluel.fr
 https://www.ville-montmorency.fr
 https://www.ville-montreuil-bellay.fr
@@ -32707,7 +32701,7 @@ http://veneuxlessablons.net
 http://www.veneuxlessablons.net
 https://www.venterol.net
 https://www.verzenay.net
-https://www.villars-le-sec.net
+http://www.villars-le-sec.net
 https://www.ville-fumay.net
 https://www.villefranche.net
 https://www.vitry-le-francois.net
@@ -33235,6 +33229,7 @@ https://ligueparis.org
 http://www.linieres-bouton.org
 https://www.louisemichelepinay.org
 https://www.louvignedudesert.org
+https://www.luz.org
 http://www.lyc-atlantique.org
 https://www.lycee-andre-malraux.org
 https://lycee-emile-james.org
