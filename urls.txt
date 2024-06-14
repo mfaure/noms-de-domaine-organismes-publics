@@ -428,6 +428,7 @@ http://beaulieu-en-argonne.com
 http://www.beaulieu-en-argonne.com
 https://beaulieu-sur-layon.com
 http://beaulieu-sur-oudon.com
+https://beaulon.com
 http://www.beaumerie-saint-martin.com
 https://www.beaunecoteetsud.com
 https://www.beaupuy47.com
@@ -450,6 +451,7 @@ http://benonces.com
 http://www.benonces.com
 http://www.berneuil-en-bray.com
 https://www.bernieres-sur-mer.com
+http://bernouville.com
 https://bertignat.com
 https://www.bertignat.com
 https://www.bessans.com
@@ -526,6 +528,7 @@ https://stcapraisbx.blogspot.com
 https://ventalonencevennes.blogspot.com
 https://www.bois-jerome-saint-ouen27.com
 https://www.boisemont.com
+https://www.boisleroy27.com
 https://boisleuxaumont.com
 https://info.boisleveque.com
 https://www.boismont-pinchefalise-bretel.com
@@ -672,7 +675,6 @@ http://capemploi88.com
 http://www.capemploi88.com
 https://www.capemploi91.com
 https://www.carentoir.com
-https://www.carla-bayle.com
 https://www.carlades.com
 https://www.carlucet-lot.com
 https://www.carnoux-en-provence.com
@@ -784,7 +786,6 @@ https://www.centre-corse.com
 https://www.centredanimationlesunelles.com
 https://www.centregutenberg.com
 https://www.centresocial-valduloir.com
-https://centresociallatoupie.com
 http://www.centresociallatoupie.com
 http://www.cerbere-village.com
 https://www.cervione.com
@@ -1046,6 +1047,7 @@ https://www.crij-montpellier.com
 https://crij-reunion.com
 https://www.crij-reunion.com
 https://crijpa.com
+https://croettwiller.com
 https://www.croissy.com
 http://www.croissysurcelle.com
 https://www.croscorse.com
@@ -1950,7 +1952,6 @@ https://www.mairie-ahuille.com
 https://mairie-aigne34.com
 https://mairie-aiguilles.com
 https://www.mairie-aiguilles.com
-https://www.mairie-allegre.com
 http://mairie-allex.com
 http://www.mairie-allex.com
 https://www.mairie-amelie.com
@@ -2768,7 +2769,7 @@ http://portbarcares.com
 https://ports-37.com
 https://www.pougny01.com
 https://pouzauges.com
-http://prades.com
+https://prades.com
 https://www.prades.com
 http://mairie.pralognan.com
 https://www.pralognan.com
@@ -3271,7 +3272,6 @@ https://stop-punaises-delit.com
 https://stpierre-lafeuille.com
 https://stpierre71.com
 https://www.stpierre71.com
-https://www.stpierredesnids53.com
 https://stpriestligoure.com
 https://www.stpriestligoure.com
 http://stseurinsurlisle.com
@@ -3525,7 +3525,6 @@ http://ville-pontderoide-vermondans.com
 http://www.ville-pontderoide-vermondans.com
 https://www.ville-puisserguier.com
 http://ville-quissac.com
-http://www.ville-quissac.com
 https://www.ville-saint-maurice.com
 https://ville-saint-pourcain-sur-sioule.com
 https://www.ville-saint-pourcain-sur-sioule.com
@@ -3561,7 +3560,6 @@ https://www.villedomain.com
 https://villeducarbet.com
 https://www.villefort-cevennes.com
 https://villefrancoeur.com
-https://villeherviers.com
 https://villelongue-dels-monts.com
 https://www.villeneuve-minervois.com
 https://www.villeneuve92.com
@@ -4506,6 +4504,7 @@ https://col71-enbagatelle.ac-dijon.fr
 https://col71-ferdinandsarrien.ac-dijon.fr
 https://col71-fleurette.ac-dijon.fr
 https://col71-gabrielbouthiere.ac-dijon.fr
+https://col71-guillaumedesautels.ac-dijon.fr
 https://col71-hubertreeves.ac-dijon.fr
 https://col71-jeanmoulin.ac-dijon.fr
 https://col71-julesferrygenelard.ac-dijon.fr
@@ -4539,6 +4538,7 @@ https://col89-malraux-paron.ac-dijon.fr
 https://col89-marcelayme.ac-dijon.fr
 https://col89-puisaye.ac-dijon.fr
 https://col89-ramon.ac-dijon.fr
+https://erea71-claudebrosse.ac-dijon.fr
 https://lp58-rostand.ac-dijon.fr
 https://lyc21-annajudic.ac-dijon.fr
 https://lyc21-antoine.ac-dijon.fr
@@ -5657,10 +5657,8 @@ https://affairesjuridiques.aphp.fr
 https://ageps.aphp.fr
 https://ambroisepare.aphp.fr
 https://anomaliescervelet.aphp.fr
-https://aphp.aphp.fr
 https://soutenir.aphp-centre.aphp.fr
 https://soutenir.aphp-sorbonne-universite.aphp.fr
-https://archives.aphp.fr
 https://blogs.aphp.fr
 https://bo-myaphp.aphp.fr
 https://calipsso.aphp.fr
@@ -5699,7 +5697,6 @@ https://fertilite-bichat.aphp.fr
 https://fertilitepariscentre.aphp.fr
 https://ghparis10.aphp.fr
 https://hopital-antoine-beclere.aphp.fr
-https://hopital-beaujon.aphp.fr
 https://hopital-bicetre.aphp.fr
 https://hopital-bichat.aphp.fr
 https://hopital-bretonneau.aphp.fr
@@ -5717,7 +5714,6 @@ https://hospitalisationadomicile.aphp.fr
 https://huep.aphp.fr
 https://hupifo.aphp.fr
 https://institut-e3m.aphp.fr
-https://institut-memoire.aphp.fr
 https://lactarium-idf.aphp.fr
 https://langage-apprentissages.aphp.fr
 https://larocheguyon.aphp.fr
@@ -7812,6 +7808,7 @@ https://brettevillesurodon.fr
 https://www.brettevillesurodon.fr
 http://www.breuches.fr
 http://breuil-barret.fr
+http://www.breuil-barret.fr
 https://www.breuil-bois-robert.fr
 https://www.breuil-la-reorte.fr
 https://www.breuillesec.fr
@@ -8798,7 +8795,6 @@ https://www.ccmrr.fr
 https://ccmsl.fr
 https://www.ccmsl.fr
 http://ccnoblat.fr
-http://www.ccnoblat.fr
 https://www.ccoa.fr
 https://www.ccoisans.fr
 https://www.ccop.fr
@@ -9010,6 +9006,7 @@ https://www.cea.fr
 https://www.ceaulmont.fr
 https://ceaux.fr
 http://www.cebazan.fr
+https://www.cebazat.fr
 https://www.cefdg.fr
 https://ceffonds.fr
 https://ceillac.fr
@@ -12435,6 +12432,7 @@ https://esparron.fr
 https://www.esparron.fr
 https://esparrondeverdon.fr
 http://www.esparros.fr
+http://www.esparsac.fr
 https://www.espedaillac.fr
 http://www.espeluche.fr
 https://esperaza.fr
@@ -14348,7 +14346,6 @@ https://mayotte.deets.gouv.fr
 https://reunion.deets.gouv.fr
 https://mail.academie.def.gouv.fr
 https://dems.academie.defense.gouv.fr
-https://air.defense.gouv.fr
 https://www.alidade.defense.gouv.fr
 https://archives.defense.gouv.fr
 https://armement.defense.gouv.fr
@@ -14753,7 +14750,6 @@ https://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr
 https://www.dir.nord-ouest.developpement-durable.gouv.fr
 http://www.nord-pas-de-calais.developpement-durable.gouv.fr
 http://www.nord-pas-de-calais-picardie.developpement-durable.gouv.fr
-https://www.donnees.normandie.developpement-durable.gouv.fr
 https://www.normandie.developpement-durable.gouv.fr
 https://www.sinp.nouvelle-aquitaine.developpement-durable.gouv.fr
 https://www.nouvelle-aquitaine.developpement-durable.gouv.fr
@@ -15524,7 +15520,6 @@ https://idp.impots.gouv.fr
 http://org-static.impots.gouv.fr
 http://static.impots.gouv.fr
 https://taxesejour.impots.gouv.fr
-https://timbres.impots.gouv.fr
 https://consommation.timbres.impots.gouv.fr
 https://www.impots.gouv.fr
 http://www2.impots.gouv.fr
@@ -15711,7 +15706,6 @@ https://extranet.ira-lyon.gouv.fr
 https://olympe.ira-lyon.gouv.fr
 https://wiki.ira-lyon.gouv.fr
 https://www.ira-lyon.gouv.fr
-https://classe-virtuelle.ira-metz.gouv.fr
 https://dev-extranet.ira-metz.gouv.fr
 https://dev-gefira.ira-metz.gouv.fr
 https://employeurs.ira-metz.gouv.fr
@@ -16175,6 +16169,7 @@ https://www.socialecole-collecte.sante.gouv.fr
 https://tacle.sante.gouv.fr
 https://transparence.sante.gouv.fr
 https://www.transparence.sante.gouv.fr
+https://urgences-collecte.sante.gouv.fr
 https://www.urgences-collecte.sante.gouv.fr
 https://siseauth.valid.sante.gouv.fr
 https://vrb.sante.gouv.fr
@@ -17633,6 +17628,7 @@ https://la-chapelle-en-lafaye.fr
 https://la-chapelle-en-serval.fr
 https://la-chapelle-glain.fr
 https://la-chapelle-montmartin.fr
+https://la-chapelle-mouliere.fr
 https://www.la-chapelle-rablais.fr
 https://www.la-chapelle-rambaud.fr
 https://la-chapelle-saint-sulpice.fr
@@ -19738,6 +19734,7 @@ https://www.lyceefleger.fr
 http://lyceefloratristan.fr
 https://www.lyceefulbert.fr
 https://www.lyceegaramont.fr
+http://www.lyceegeorgesand36.fr
 https://lyceegrandmont.fr
 https://www.lyceegrippeaux.fr
 https://www.lyceeguillaumetirel.fr
@@ -20779,6 +20776,7 @@ https://mairie-lachapellesaintandre.fr
 https://www.mairie-laclayette.fr
 http://www.mairie-lacouture.fr
 https://www.mairie-ladesirade.fr
+https://mairie-lafox.fr
 https://www.mairie-lagarde31.fr
 https://www.mairie-lagracedieu.fr
 http://www.mairie-laigneville.fr
@@ -26154,7 +26152,7 @@ https://www.sainghin-en-melantois.fr
 https://www.sainghin-en-weppes.fr
 https://sainnevillesurseine.fr
 https://sainpuits.fr
-https://www.sains.fr
+http://www.sains.fr
 https://sains-en-gohelle.fr
 https://sains-richaumont.fr
 https://www.sains-richaumont.fr
@@ -27743,7 +27741,6 @@ https://saintvarent.fr
 http://www.saintvaury.fr
 http://www.saintverand.fr
 https://saintviance.fr
-http://www.saintviance.fr
 https://saintvictordecessieu.fr
 http://www.saintvictordemorestel.fr
 http://www.saintvictordesoules.fr
@@ -28106,6 +28103,7 @@ http://www.savigneux.fr
 https://savigny-le-sec.fr
 https://www.savigny-le-sec.fr
 https://www.savigny-le-temple.fr
+https://savigny-levescault.fr
 https://www.savigny-sous-faye.fr
 https://savigny-sous-malain.fr
 http://www.savigny-sur-ardres.fr
@@ -31164,6 +31162,7 @@ https://www.ville-poligny.fr
 http://www.ville-pompadour.fr
 https://www.ville-pompignan82.fr
 https://ville-pont-a-mousson.fr
+https://www.ville-pont-audemer.fr
 https://ville-pont-eveque.fr
 https://www.ville-pont-eveque.fr
 https://www.ville-pont-labbe-darnoult.fr
@@ -31186,6 +31185,7 @@ https://ville-poussan.fr
 https://www.ville-poussan.fr
 https://ville-presles.fr
 https://www.ville-prigonrieux.fr
+https://www.ville-publier.fr
 https://www.ville-puimisson.fr
 http://www.ville-putanges.fr
 https://ville-quarante.fr
@@ -31452,6 +31452,7 @@ http://www.ville-ur.fr
 https://www.ville-vacqueyras.fr
 https://www.ville-vailhauques.fr
 https://www.ville-valbonne.fr
+https://ville-valdeblore.fr
 https://www.ville-valrasplage.fr
 http://ville-vanves.fr
 https://ville-varennes-vauzelles.fr
@@ -32565,6 +32566,7 @@ https://www.murdebretagne.net
 https://navailles-angos.net
 http://neuilly-saint-front.net
 https://www.neuvic-correze.net
+http://niaux.net
 http://www.niaux.net
 https://noizay.net
 https://www.noizay.net
@@ -33176,7 +33178,6 @@ https://lepoetlaval.org
 https://www.lespepsra.org
 https://lesplans.org
 https://www.lespossibles.org
-https://www.lethoronet.org
 http://www.levet.org
 https://www.lyceejaures.levillage.org
 https://ligue18.org
