@@ -957,6 +957,7 @@ https://www.commune-de-fayet.com
 https://commune-de-mardeuil.com
 https://www.commune-de-mardeuil.com
 https://www.commune-de-menat.com
+http://www.commune-de-mereville.com
 https://www.commune-de-plesse.com
 http://www.commune-de-soye.com
 http://www.commune-farinole.com
@@ -1329,7 +1330,6 @@ https://www.garnerans.com
 https://gerdemonclocher.com
 https://www.gervanne-sye.com
 https://gevaudan.com
-https://www.gevaudan.com
 https://gevingey.com
 http://www.gevrey-chambertin.com
 https://ghissignies.com
@@ -1420,7 +1420,6 @@ http://www.neuilly-en-donjon.interco-abl.com
 https://ipeicc.com
 https://www.ipeicc.com
 http://islesaintgeorges.com
-https://islesurlasorguetourisme.com
 https://isolacciodifiumorbu.com
 https://www.issarles-village.com
 https://www.issendolus.com
@@ -1711,7 +1710,6 @@ http://www.le-perthus.com
 http://le-pouget.com
 http://www.le-pouget.com
 https://www.le-sport35.com
-http://le-tranger.com
 http://www.le-tranger.com
 http://www.le-trevoux.com
 https://www.lebastit-village.com
@@ -1964,6 +1962,7 @@ https://www.mairie-cassagnes66.com
 https://www.mairie-cast.com
 https://mairie-castagniers.com
 https://www.mairie-castagniers.com
+https://mairie-castelnaudelevis.com
 https://www.mairie-castelnaudelevis.com
 https://www.mairie-centuri.com
 https://www.mairie-ceret.com
@@ -2057,6 +2056,7 @@ http://www.mairie-marthon.com
 https://mairie-mauvezinsurgupie.com
 https://www.mairie-mercury.com
 https://www.mairie-mere-89.com
+https://mairie-mesnilrouxelin.com
 https://www.mairie-mesnilrouxelin.com
 https://www.mairie-mondoubleau.com
 https://mairie-mons.com
@@ -2229,7 +2229,6 @@ https://mairiedesaillans.com
 http://www.mairiedesaintblimont.com
 http://mairiedesmayons.com
 http://www.mairiedesmayons.com
-http://mairiedevars.com
 https://www.mairiediesen.com
 https://www.mairieencourtiech.com
 https://www.mairieerre.com
@@ -2421,6 +2420,7 @@ https://www.montelier.com
 https://www.montesquieu-volvestre.com
 https://montfleur39.com
 https://www.montfleur39.com
+https://www.montfort-en-chalosse.com
 http://montfrin.com
 http://www.montfrin.com
 https://montgenevre.com
@@ -4076,6 +4076,7 @@ https://www.clg-gassendi.ac-aix-marseille.fr
 https://www.clg-gauthier.ac-aix-marseille.fr
 https://www.clg-giono.ac-aix-marseille.fr
 https://www.clg-giono-marseille.ac-aix-marseille.fr
+https://www.clg-giono-orange.ac-aix-marseille.fr
 https://www.clg-girardot.ac-aix-marseille.fr
 https://www.clg-giraudes.ac-aix-marseille.fr
 https://www.clg-glanum.ac-aix-marseille.fr
@@ -4759,10 +4760,10 @@ http://www.clg-la-fontonne.ac-nice.fr
 https://www.clg-les-breguieres.ac-nice.fr
 https://www.clg-les-campelieres.ac-nice.fr
 http://www.clg-les-muriers.ac-nice.fr
-https://www.clg-maurice-jaubert.ac-nice.fr
+http://www.clg-maurice-jaubert.ac-nice.fr
 https://www.clg-pierre-bonnard.ac-nice.fr
 http://www.clg-rene-cassin.ac-nice.fr
-https://www.clg-reynier.ac-nice.fr
+http://www.clg-reynier.ac-nice.fr
 http://www.clg-saint-exupery.ac-nice.fr
 http://www.greta.ac-nice.fr
 http://www.lyc-albert-camus.ac-nice.fr
@@ -5670,6 +5671,7 @@ https://maladiesrares-cochin-hotel-dieu.aphp.fr
 https://maladiesrares-necker.aphp.fr
 https://maladiesrares-paris-saclay.aphp.fr
 https://maladiessystemenerveux-psl.aphp.fr
+http://mamea.aphp.fr
 https://maritimeberck.aphp.fr
 https://maternite-beclere.aphp.fr
 https://maternite-lariboisiere.aphp.fr
@@ -6083,7 +6085,7 @@ https://aumont-crezancy-verdilly.fr
 https://www.aumont-en-halatte.fr
 http://aunac.fr
 https://www.aunac.fr
-https://www.aunay-les-bois.fr
+http://www.aunay-les-bois.fr
 https://www.aunay-sous-auneau.fr
 https://aunay-sous-crecy.fr
 https://auneuil.fr
@@ -6666,7 +6668,6 @@ http://www.ayron.fr
 https://www.aytre.fr
 https://ayze.fr
 https://www.ayze.fr
-https://azaylebrule.fr
 https://www.azaylebrule.fr
 https://www.azaylerideau.fr
 https://www.azaysurcher.fr
@@ -7141,6 +7142,7 @@ https://bernes-sur-oise.fr
 http://berneuil.fr
 http://www.berneuil.fr
 https://berneuil-charente.fr
+https://www.berneuil17.fr
 http://www.berneval.fr
 https://berneville.fr
 https://www.bernin.fr
@@ -7480,7 +7482,6 @@ https://www.bordes64.fr
 https://www.bordes65.fr
 https://bordesuchentein.fr
 http://www.bords.fr
-https://boree.fr
 https://www.borest.fr
 https://boretbar.fr
 https://borgo.fr
@@ -7773,7 +7774,6 @@ https://www.brie35.fr
 https://www.brie80.fr
 https://www.briecomterobert.fr
 https://www.briedesrivieresetchateaux.fr
-https://www.brielles.fr
 https://brienangissienne.fr
 https://www.brienangissienne.fr
 https://www.brienne71.fr
@@ -8669,6 +8669,7 @@ https://cci28.fr
 https://www.cci28.fr
 https://www.cci47.fr
 https://www.cci89.fr
+https://ccidl.fr
 https://ccilap.fr
 https://www.ccinordisere.fr
 http://ccirb.fr
@@ -9157,6 +9158,7 @@ https://www.chambre-agriculture-14.fr
 https://www.chambre-agriculture-61.fr
 https://www.chambre-agriculture-76.fr
 https://chambres-agriculture.fr
+https://ain.chambres-agriculture.fr
 http://www.ain.chambres-agriculture.fr
 https://bourgognefranchecomte.chambres-agriculture.fr
 https://centre-valdeloire.chambres-agriculture.fr
@@ -9418,7 +9420,6 @@ https://www.chatel-moron.fr
 http://www.chatel-saint-germain.fr
 https://www.chatelaillon-plage-tourisme.fr
 https://chatelaudren-plouagat.fr
-https://chatelay-jura.fr
 https://www.chatelet-en-brie.fr
 https://www.chatelneuf.fr
 http://www.chatelraould-saint-louvent.fr
@@ -9815,7 +9816,6 @@ https://www.clg-genevoix.fr
 http://www.clg-lesalberes.fr
 https://www.clg-lesaulnes.fr
 https://www.clg-pierre-martin-rauzan.fr
-https://clg-pneruda.fr
 https://www.clg-republique-bobigny.fr
 https://clg-simonedebeauvoir.fr
 https://www.clg06-jromains.fr
@@ -10434,7 +10434,6 @@ https://communedejessains.fr
 https://www.communedejuilley.fr
 https://communedelacanche.fr
 https://www.communedelacanche.fr
-https://communedeleoville.fr
 https://www.communedelerrain.fr
 https://www.communedelery.fr
 http://www.communedemarac.fr
@@ -10744,7 +10743,6 @@ http://courmes.fr
 http://www.courmes.fr
 https://www.cournols.fr
 https://www.cournon-auvergne.fr
-https://cournonsec.fr
 https://courpalay.fr
 https://www.courpalay.fr
 https://coursac.fr
@@ -10787,7 +10785,6 @@ http://coutures.fr
 http://www.coutures.fr
 https://coutures-sur-drot.fr
 https://www.couvron.fr
-https://coux.fr
 https://www.coux.fr
 https://couxetbigaroque-mouzens.fr
 https://www.couxetbigaroque-mouzens.fr
@@ -11030,7 +11027,7 @@ https://www.cutry.fr
 https://cuts.fr
 http://cuttoli.fr
 https://www.cuttoli.fr
-http://www.cuverville.fr
+https://www.cuverville.fr
 https://cuvry.fr
 https://www.cuxac-cabardes.fr
 http://cuzac.fr
@@ -15187,7 +15184,7 @@ https://www.minefiterm.finances.gouv.fr
 https://odyssee.finances.gouv.fr
 https://oo.finances.gouv.fr
 https://osi.finances.gouv.fr
-https://pda-catalogue.finances.gouv.fr
+http://pda-catalogue.finances.gouv.fr
 https://prevaction.finances.gouv.fr
 https://form.prevaction.finances.gouv.fr
 https://test.prevaction.finances.gouv.fr
@@ -18496,7 +18493,6 @@ https://www.lemoustoir22.fr
 https://lemoutaret.fr
 https://www.lempire.fr
 https://lemps-ardeche.fr
-https://www.lemps-ardeche.fr
 https://www.lempty63.fr
 http://www.lemud.fr
 https://www.lemung.fr
@@ -18894,7 +18890,6 @@ https://www.lingreville.fr
 https://www.linguizzetta.fr
 https://www.liniers.fr
 https://www.linsdorf.fr
-http://www.linthal.fr
 https://linthes.fr
 https://www.linthes.fr
 https://lionensullias.fr
@@ -20429,7 +20424,6 @@ https://mairie-huelgoat.fr
 https://mairie-hunting.fr
 https://www.mairie-hunting.fr
 http://mairie-huriel.fr
-https://www.mairie-huriel.fr
 https://mairie-huttendorf.fr
 https://mairie-huttenheim.fr
 https://www.mairie-huttenheim.fr
@@ -20524,6 +20518,7 @@ http://www.mairie-lamballe.fr
 https://www.mairie-lamotteservolex.fr
 https://www.mairie-lampaul-guimiliau.fr
 http://www.mairie-lamurette.fr
+https://www.mairie-lancieux.fr
 https://www.mairie-landas.fr
 http://www.mairie-laneuvillesuressonne.fr
 https://mairie-lange.fr
@@ -20821,6 +20816,7 @@ http://www.mairie-morienval.fr
 http://www.mairie-moringhem.fr
 https://www.mairie-morlaas.fr
 https://mairie-mornac-sur-seudre.fr
+https://mairie-morsangsurseine.fr
 https://www.mairie-morsangsurseine.fr
 https://mairie-morsbach.fr
 https://mairie-motz.fr
@@ -21874,6 +21870,7 @@ http://www.mairiemontbizot.fr
 https://mairiemontbolo.fr
 https://mairiemouzens.fr
 https://www.mairienangy.fr
+https://mairieneffes.fr
 https://mairieneuvic.fr
 https://www.mairieneuvic.fr
 https://mairieneuvy.fr
@@ -24121,7 +24118,6 @@ https://www.orcines.fr
 https://www.orcival.fr
 https://ordan-larroque.fr
 https://ordre-avocats-cherbourg.fr
-http://www.ordre-avocats-cherbourg.fr
 https://www.ordre-avocats-meuse.fr
 https://www.ordre-avocats-orleans.fr
 https://www.ordre-avocats-rennes.fr
@@ -25798,6 +25794,7 @@ https://www.saillant63.fr
 https://saillenard.fr
 https://www.saillenard.fr
 https://sailly-labourse.fr
+https://saillyenostrevent.fr
 https://www.saillyflibeaucourt.fr
 https://www.saillylezlannoy.fr
 https://sain-bel.fr
@@ -28494,6 +28491,7 @@ https://www.stmichel-charente.fr
 http://www.stmichel-entraygues.fr
 https://www.stmicheldedeze.fr
 https://www.stnicolasdupelem.fr
+https://stnizierdazergues.fr
 http://www.stnizierdazergues.fr
 https://www.stpalaissurmer.fr
 https://www.stpaterneracan.fr
@@ -28767,7 +28765,6 @@ https://thorame-haute.fr
 https://www.thorame-haute.fr
 https://www.thorasenmargeride.fr
 https://thoreyenplaine.fr
-https://www.thoreyenplaine.fr
 https://www.thorigny.fr
 https://thorrenc.fr
 https://thouars.fr
@@ -29361,6 +29358,7 @@ http://neuvillerlaroche.valleedelabruche.fr
 http://www.neuvillerlaroche.valleedelabruche.fr
 http://ranrupt.valleedelabruche.fr
 http://www.ranrupt.valleedelabruche.fr
+http://saintblaiselaroche.valleedelabruche.fr
 http://www.saintblaiselaroche.valleedelabruche.fr
 http://saulxures.valleedelabruche.fr
 http://solbach.valleedelabruche.fr
@@ -31640,7 +31638,6 @@ https://calvados.cidff.info
 https://cher.cidff.info
 http://www.cher.cidff.info
 https://cotedor.cidff.info
-http://www.cotedor.cidff.info
 https://cotesdarmor.cidff.info
 https://eure.cidff.info
 https://finistere.cidff.info
@@ -31915,6 +31912,7 @@ https://www.ercuis-village.net
 https://escoutoux.net
 https://www.espace-citoyens.net
 https://espaceinfojeunes.net
+http://www.espaceinfojeunes.net
 https://www.espacemailiso.net
 https://www.esquaynotredame.net
 https://etablissementbertrandeborn.net
