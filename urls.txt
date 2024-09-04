@@ -1031,7 +1031,6 @@ https://www.croettwiller.com
 https://www.croissy.com
 http://www.croissysurcelle.com
 https://www.croscorse.com
-https://www.cruas.com
 https://www.crugny.com
 https://www.cscs-rivesdecharente.com
 https://www.csrcantonauneuil.com
@@ -1995,6 +1994,7 @@ http://mairie-de-mesnil-st-denis.com
 https://www.mairie-de-sisco.com
 https://www.mairie-de-vezins.com
 https://www.mairie-de-voinsles.com
+https://mairie-delacoquille.com
 https://www.mairie-dorans.com
 http://www.mairie-enveitg.com
 https://www.mairie-equemauville.com
@@ -2858,7 +2858,6 @@ https://saint-auvent.com
 https://www.saint-basile-et-ses-hameaux.com
 https://www.saint-beauzire.com
 https://saint-carne.com
-https://www.saint-carne.com
 https://www.saint-cassin.com
 https://saint-chamas.com
 https://www.saint-chamas.com
@@ -3166,8 +3165,6 @@ https://sionviller.com
 https://www.siredom.com
 http://www.communedefrontenay.sitew.com
 http://www.deneze-sous-doue.sitew.com
-http://www.saint-saturnin.lozere.sitew.com
-http://www.montbouy.sitew.com
 https://www.sitom-sud-rhone.com
 https://www.sivom-sioule-bouble.com
 https://www.smadesep.com
@@ -3181,7 +3178,6 @@ http://sorgeat.com
 http://www.sorgeat.com
 https://www.sorges-perigord.com
 https://www.sorgues-du-comtat.com
-https://sorrus.com
 https://www.soues.com
 https://www.sougysurloire.com
 https://soulangis.com
@@ -4433,6 +4429,7 @@ https://www.ac-clermont.fr
 https://llb.ac-corse.fr
 http://web.ac-corse.fr
 https://www.ac-corse.fr
+https://charcot-joinville.ac-creteil.fr
 http://collegehippolyteremy.ac-creteil.fr
 https://condorcet.ac-creteil.fr
 https://www.ia94.ac-creteil.fr
@@ -4453,6 +4450,7 @@ https://col71-copernic.ac-dijon.fr
 https://col71-enbagatelle.ac-dijon.fr
 https://col71-fleurette.ac-dijon.fr
 https://col71-gabrielbouthiere.ac-dijon.fr
+https://col71-julesferrygenelard.ac-dijon.fr
 https://col71-lavarandaine.ac-dijon.fr
 https://col71-leschenesrouges.ac-dijon.fr
 https://col71-lesdimes.ac-dijon.fr
@@ -4461,6 +4459,7 @@ https://col71-petitpretan.ac-dijon.fr
 https://col71-prudhon.ac-dijon.fr
 https://col71-renecassin.ac-dijon.fr
 https://col71-rogervailland.ac-dijon.fr
+https://col71-saintcyr.ac-dijon.fr
 https://col71-schuman.ac-dijon.fr
 https://col71-stexupery.ac-dijon.fr
 https://col71-vallon.ac-dijon.fr
@@ -5647,8 +5646,10 @@ https://maternite-necker.aphp.fr
 https://maternitelouismourier.aphp.fr
 https://medecinechinoise.aphp.fr
 https://migraine-robertdebre.aphp.fr
+https://mon.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
 https://obesite-robertdebre.aphp.fr
+http://oncomolpath.aphp.fr
 https://orl-rothschild.aphp.fr
 https://otms-g02.aphp.fr
 https://patho-pro-garches.aphp.fr
@@ -7100,7 +7101,6 @@ https://www.bernaville.fr
 https://bernay-vilbert.fr
 http://bernay27.fr
 http://www.bernay27.fr
-https://www.bernaylaville.fr
 https://bernayneuvy.fr
 https://bernaynormandie.fr
 http://bernaysaintmartin.fr
@@ -8497,7 +8497,6 @@ http://cc-valdeaisne.fr
 http://www.cc-valdeaisne.fr
 https://www.cc-valdegers.fr
 https://www.cc-valdegray.fr
-https://cc-valdeligne.fr
 https://www.cc-valdemorteau.fr
 http://cc-valdesarthe.fr
 https://cc-valdorne.fr
@@ -9979,6 +9978,7 @@ https://www.college-de-france.fr
 https://college-delattre94.fr
 http://college-denecourt.fr
 https://www.college-diderot-massy.fr
+https://college-dunois.fr
 http://college-edmondnocard.fr
 https://www.college-elhuyar.fr
 https://college-etiennedolet.fr
@@ -9991,7 +9991,6 @@ https://www.college-henri-wallon-bezons.fr
 http://www.college-herminier.fr
 https://college-innovant64.fr
 https://college-jaures.fr
-http://www.college-jean-moulin.fr
 https://www.college-jean-rostand.fr
 https://www.college-jeanbauchez.fr
 https://www.college-jeanrenoir.fr
@@ -15476,6 +15475,7 @@ https://employeurs.ira-nantes.gouv.fr
 https://fas.ira-nantes.gouv.fr
 https://gtw.ira-nantes.gouv.fr
 https://notice.ira-nantes.gouv.fr
+https://passerelle.ira-nantes.gouv.fr
 https://www.ira-nantes.gouv.fr
 https://www.isere.gouv.fr
 https://ivg.gouv.fr
@@ -16566,7 +16566,6 @@ https://www.guichenpontrean.fr
 https://www.guiclan.fr
 https://www.guidedesvacances.fr
 http://guignecourt.fr
-http://www.guignecourt.fr
 https://www.guignen.fr
 https://guigneville-sur-essonne.fr
 https://www.guilherand-granges.fr
@@ -20325,6 +20324,7 @@ https://www.mairie-grilly.fr
 https://www.mairie-grimaud.fr
 https://mairie-gros-chastang.fr
 https://www.mairie-groslay.fr
+https://mairie-grosrouvre.fr
 https://www.mairie-grosrouvre.fr
 http://www.mairie-grossoeuvre.fr
 http://www.mairie-guemene-penfao.fr
@@ -21626,6 +21626,7 @@ https://www.mairiedecompans.fr
 https://mairiedecos.fr
 https://www.mairiedecos.fr
 https://mairiedecourcy.fr
+https://www.mairiedecourcy.fr
 https://www.mairiedecourpiac.fr
 https://www.mairiedecourquetaine.fr
 https://www.mairiedecravent.fr
@@ -21851,6 +21852,7 @@ https://mairiesaintgermainlamontagne.fr
 https://www.mairiesaintgermainlamontagne.fr
 https://mairiesaintmaxire.fr
 https://www.mairiesaintmaxire.fr
+https://mairiesaintpauldevarces.fr
 https://www.mairiesaintpauldevarces.fr
 https://www.mairiesaintromaindejalionas.fr
 https://www.mairiesaintsernindubois.fr
@@ -23760,7 +23762,6 @@ https://www.nivillac.fr
 https://www.nivolas-vermelle.fr
 https://noailhac19.fr
 https://www.noailhac19.fr
-http://noaillac.fr
 https://www.noaillan.fr
 https://noailles60.fr
 https://noailly.fr
@@ -23838,7 +23839,6 @@ https://chambre-haut-rhin-68.notaires.fr
 https://www.chambre-herault.notaires.fr
 https://chambre-interdep-08-10-51.notaires.fr
 https://chambre-interdepartementale-de-savoie.notaires.fr
-https://chambre-loire.notaires.fr
 https://chambre-lozere.notaires.fr
 https://www.chambre-lozere.notaires.fr
 https://www.chambre-morbihan.notaires.fr
@@ -24907,7 +24907,6 @@ https://mairiedebonnat.portesdelacreuseenmarche.fr
 https://www.portesdelacreuseenmarche.fr
 https://www.portesdemeuse.fr
 https://portesenvaldaine.fr
-https://www.portesessonne.fr
 https://www.porteseureliennesidf.fr
 https://www.portetgaronne.fr
 https://portlanouvelle.fr
@@ -25366,7 +25365,6 @@ https://www.rey78.fr
 https://www.reynes.fr
 http://www.reynies.fr
 https://reyrieux.fr
-https://www.reyrieux.fr
 https://reyvroz.fr
 https://www.reze.fr
 https://rhodes57.fr
@@ -25451,6 +25449,7 @@ https://www.rivieresurtarn.fr
 https://rivolet.fr
 https://rixheim.fr
 https://rizaucourt-buchey.fr
+https://www.rizaucourt-buchey.fr
 https://roaillan.fr
 https://www.roannaise-de-leau.fr
 https://www.roannes-saint-mary.fr
@@ -26071,7 +26070,6 @@ https://www.saint-jean-de-gonville.fr
 http://www.saint-jean-de-la-croix.fr
 https://saint-jean-de-la-neuville.fr
 http://www.saint-jean-de-maruejols-et-avejan.fr
-https://saint-jean-de-muzols.fr
 https://www.saint-jean-de-muzols.fr
 https://www.saint-jean-de-nay.fr
 https://www.saint-jean-de-sauves.fr
@@ -26106,7 +26104,6 @@ https://saint-julien-21.fr
 https://www.saint-julien-beychevelle-site-officiel.fr
 https://www.saint-julien-de-lampon.fr
 https://www.saint-julien-de-vouvantes.fr
-https://www.saint-julien-du-gua.fr
 https://saint-julien-du-pinet.fr
 http://saint-julien-du-verdon.fr
 http://www.saint-julien-du-verdon.fr
@@ -29220,7 +29217,7 @@ http://www.valdespres.fr
 https://valdesully.fr
 https://www.valdesvignes.fr
 https://www.valdeuropeagglo.fr
-http://www.valdevesle.fr
+https://www.valdevesle.fr
 https://valdevienne.fr
 https://www.valdevirieu.fr
 https://www.valdevirvee.fr
@@ -30513,7 +30510,6 @@ http://www.ville-montsoreau.fr
 https://www.ville-mordelles.fr
 https://www.ville-morhange.fr
 https://www.ville-moriereslesavignon.fr
-https://ville-mormant.fr
 https://www.ville-mormant.fr
 https://www.ville-mornant.fr
 http://www.ville-morsang.fr
@@ -31940,6 +31936,7 @@ https://www.mairie-forcalqueiret.net
 https://www.mairie-saint-bonnet.net
 https://mairieazillanet.net
 https://www.mairiedecadillac.net
+http://mairiededunes82.net
 https://mairiedelapleau-correze.net
 https://www.mairiederoussayrolles.net
 http://www.mairielepin.net
@@ -31998,6 +31995,7 @@ https://www.ribaute.net
 https://rimbaud34.net
 https://www.rocles.net
 http://www.jeunesse.romorantin.net
+https://www.rougnac.net
 http://mairie.rustrel.net
 https://saint-etienne-roilaye.net
 https://www.saint-flour.net
@@ -32466,7 +32464,6 @@ https://cresusalsace.org
 https://www.cresusalsace.org
 https://www.creusot-montceau.org
 http://crib-93.org
-http://www.crib-93.org
 https://www.crijlimousin.org
 https://www.cs-segalatarnais.org
 https://mauleonais.csc79.org
@@ -32851,6 +32848,7 @@ https://fdc974.re
 https://formaterra.re
 https://lislet-geoffroy.re
 https://www.lyc-plagourgue.re
+https://lycee-georgesbrassens.re
 https://www.mairie-saintpaul.re
 https://www.mdph.re
 https://mio-reunion.re
