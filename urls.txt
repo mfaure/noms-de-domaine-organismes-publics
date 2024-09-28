@@ -67,7 +67,7 @@ https://www.hautleoncommunaute.bzh
 https://www.hennebont.bzh
 http://www.hlc.bzh
 https://kerlaz.bzh
-https://www.kerpert.bzh
+http://www.kerpert.bzh
 https://www.kervignac.bzh
 https://la-trinite-porhoet.bzh
 https://www.la-trinite-porhoet.bzh
@@ -439,6 +439,7 @@ https://www.belmontdazergues.com
 https://belves-en-perigord.com
 https://www.belves-en-perigord.com
 http://www.benonces.com
+https://www.berneuil-en-bray.com
 https://www.bernieres-sur-mer.com
 https://bertignat.com
 https://www.bertignat.com
@@ -2676,7 +2677,6 @@ http://piegut-pluviers.com
 https://www.piegut-pluviers.com
 https://www.pierrefitte-en-auge.com
 http://pierrelongue.com
-http://www.pierrelongue.com
 https://www.pierrerue.com
 https://www.pietrabugno.com
 https://pimmslyonmetropole.com
@@ -2728,7 +2728,6 @@ https://port-mort.com
 https://www.port-mort.com
 https://port-vendres.com
 https://www.port-vendres.com
-http://portbarcares.com
 https://ports-37.com
 https://www.pougny01.com
 https://pouzauges.com
@@ -3018,7 +3017,6 @@ http://www.saintlaurentdesvignes.com
 http://www.saintlaurentlaconche.com
 https://saintmalodubois.com
 https://rejoignez.saintmalogolf.com
-https://saintmalonsurmel.com
 https://www.saintmarcel.com
 http://saintmarceldardeche.com
 http://www.saintmarceldardeche.com
@@ -3470,6 +3468,7 @@ https://ville-saint-pourcain-sur-sioule.com
 https://www.ville-saint-pourcain-sur-sioule.com
 http://www.ville-saintpargoire.com
 https://ville-sancerre.com
+https://ville-sartilly.com
 https://ville-seilhac.com
 https://www.ville-seilhac.com
 https://www.ville-sesg.com
@@ -4441,6 +4440,7 @@ https://col71-julesferrygenelard.ac-dijon.fr
 https://col71-lavarandaine.ac-dijon.fr
 https://col71-leschenesrouges.ac-dijon.fr
 https://col71-lesdimes.ac-dijon.fr
+https://col71-louisaragon.ac-dijon.fr
 https://col71-louise-michel.ac-dijon.fr
 https://col71-mermoz.ac-dijon.fr
 https://col71-olivierdelamarche.ac-dijon.fr
@@ -4681,7 +4681,6 @@ https://leplanduloup.etab.ac-lyon.fr
 https://lycee-eherriot.etab.ac-lyon.fr
 https://maryse-bastie.etab.ac-lyon.fr
 https://mlkmions.etab.ac-lyon.fr
-https://tonkin.etab.ac-lyon.fr
 https://vendome.etab.ac-lyon.fr
 https://www.ac-lyon.fr
 http://cms.ac-martinique.fr
@@ -5285,7 +5284,6 @@ https://www.aixlesbains.fr
 https://aizac.fr
 https://www.aizenay.fr
 https://www.aizier.fr
-https://www.ajaccio.fr
 https://ajain.fr
 https://alaincourt-aisne.fr
 https://www.alan-village.fr
@@ -5647,7 +5645,6 @@ https://reamondor.aphp.fr
 https://reanimation-sat.aphp.fr
 https://recherche.aphp.fr
 https://recherche-innovation.aphp.fr
-https://registre-htap.aphp.fr
 https://rendu-osler.aphp.fr
 https://reseau-ophdiat.aphp.fr
 https://resultatslaboratoires.aphp.fr
@@ -5690,7 +5687,6 @@ https://www.arancou.fr
 https://araujuzon.fr
 https://arbanats.fr
 https://www.arbanats.fr
-https://arbas.fr
 https://www.arbent.fr
 https://www.arbois.fr
 https://www.arbonne.fr
@@ -6637,7 +6633,7 @@ https://bage-dommartin.fr
 https://bagelechatel.fr
 https://www.bages.fr
 https://www.bages66.fr
-http://bagnac.fr
+https://bagnac.fr
 https://www.bagneauxsurloing.fr
 https://www.bagneux92.fr
 https://www.bagnols63.fr
@@ -6811,7 +6807,6 @@ https://www.bassevelle.fr
 https://www.bassignac-le-haut.fr
 https://www.bassillac-et-auberoche.fr
 https://www.bassin-aubenas.fr
-https://www.bassin-neufchateau.fr
 https://www.bassinpompey.fr
 http://www.bassuet51.fr
 https://www.bassussarry.fr
@@ -7312,6 +7307,7 @@ https://www.boege.fr
 https://www.boeil-bezing.fr
 http://www.boeschepe.fr
 http://www.boeseghem.fr
+https://boesenbiesen.fr
 http://www.boesenbiesen.fr
 https://www.boffres.fr
 https://www.bogeve.fr
@@ -8490,6 +8486,7 @@ https://www.cc-vierzon.fr
 https://cc-villandraut.fr
 https://www.cc-villers-cotterets.fr
 https://cc-villersexel.fr
+https://www.cc-vimeuindustriel.fr
 http://cc-volvestre.fr
 http://www.cc-volvestre.fr
 https://www.cc2morin.fr
@@ -8581,7 +8578,6 @@ http://www.ales.cci.fr
 https://www.allier.cci.fr
 http://www.cher.cci.fr
 https://www.cote-azur.cci.fr
-http://cotesdarmor.cci.fr
 http://www.cotesdarmor.cci.fr
 https://dordogne.cci.fr
 https://www.dordogne.cci.fr
@@ -9008,7 +9004,7 @@ https://www.chailly-en-brie.fr
 https://www.chailly-en-gatinais.fr
 https://chaillylesennery.fr
 https://www.chaillylesennery.fr
-http://www.chainaz-les-frasses.fr
+https://www.chainaz-les-frasses.fr
 https://www.chaingy.fr
 https://www.chaintre.fr
 http://chalabre.fr
@@ -11356,7 +11352,6 @@ https://www.durningen.fr
 https://dury62.fr
 https://www.dury62.fr
 https://www.duttlenheim.fr
-https://www.dynamique-emploi.fr
 https://aubance.anjou.e-lyco.fr
 https://calypso.anjou.e-lyco.fr
 https://camille-claudel.anjou.e-lyco.fr
@@ -11714,7 +11709,6 @@ https://clg-afie-saint-amand-en-puisaye.eclat-bfc.fr
 https://clg-afrance-bethoncourt.eclat-bfc.fr
 https://clg-alesia-venarey-les-laumes.eclat-bfc.fr
 https://clg-amillien-premery.eclat-bfc.fr
-https://clg-aminard-tonnerre.eclat-bfc.fr
 https://clg-arimbaud-mirebeau-sur-beze.eclat-bfc.fr
 https://clg-bibracte-chateau-chinon.eclat-bfc.fr
 https://clg-bvian-talant.eclat-bfc.fr
@@ -11723,7 +11717,6 @@ https://clg-cnledoux-dole.eclat-bfc.fr
 https://clg-des-thermes-luxeuil.eclat-bfc.fr
 https://clg-docteurkuhn-vitteaux.eclat-bfc.fr
 https://clg-edherriot-chenove.eclat-bfc.fr
-https://clg-entredeuxvelles-saone.eclat-bfc.fr
 https://clg-ftisserand-nuits-saint-georges.eclat-bfc.fr
 https://clg-grandslacsdumorvan-montsauche-les-settons.eclat-bfc.fr
 https://clg-hberger-fontaine-francaise.eclat-bfc.fr
@@ -11742,7 +11735,6 @@ https://clg-leparc-dijon.eclat-bfc.fr
 https://clg-lesallieres-saint-pierre-le-moutier.eclat-bfc.fr
 https://clg-lesdeuxrivieres-moulins-engilbert.eclat-bfc.fr
 https://clg-leslentilleres-dijon.eclat-bfc.fr
-https://clg-lesloges-nevers.eclat-bfc.fr
 https://clg-lpasteur-jussey.eclat-bfc.fr
 https://clg-lpasteur-montbard.eclat-bfc.fr
 https://clg-lpergaud-faverney.eclat-bfc.fr
@@ -11757,14 +11749,11 @@ https://clg-pont-sur-yonne.eclat-bfc.fr
 https://clg-rdorgeles-longvic.eclat-bfc.fr
 https://clg-rgueux-gy.eclat-bfc.fr
 https://clg-vauban-belfort.eclat-bfc.fr
-https://clg-vdenon-saint-marcel.eclat-bfc.fr
 https://cs-prestsauveur-saint-claude.eclat-bfc.fr
 https://erea-lamoraine-crotenay.eclat-bfc.fr
 https://lpa-de-velet.eclat-bfc.fr
 https://lyc-bonaparte-autun.eclat-bfc.fr
 https://lyc-cnledoux-besancon.eclat-bfc.fr
-https://lyc-eguillaume-montbard.eclat-bfc.fr
-https://lyc-gvoisin-tournus.eclat-bfc.fr
 https://lyc-hparriat-montceau-les-mines.eclat-bfc.fr
 https://lyc-janot-curie-sens.eclat-bfc.fr
 https://lyc-jmboivin-chevigny-saint-sauveur.eclat-bfc.fr
@@ -12730,7 +12719,6 @@ http://collegeeurope.free.fr
 http://collegementel67.free.fr
 http://collegeportovecchio2.free.fr
 http://vernassal.com.free.fr
-http://etalante.commune.free.fr
 http://meurcourt.commune.free.fr
 http://compainville76.free.fr
 http://college.corot.free.fr
@@ -14749,6 +14737,7 @@ https://www.sve.education.gouv.fr
 https://cftc.syndicat.education.gouv.fr
 https://cgc.syndicat.education.gouv.fr
 https://cgt.syndicat.education.gouv.fr
+https://cgt-ep.syndicat.education.gouv.fr
 https://desabonnement.syndicat.education.gouv.fr
 https://eil.syndicat.education.gouv.fr
 https://faen.syndicat.education.gouv.fr
@@ -15252,9 +15241,11 @@ https://www.extranet-sdcpac.interieur.gouv.fr
 https://fourrieres.interieur.gouv.fr
 https://preproduction.fourrieres.interieur.gouv.fr
 https://qualification.fourrieres.interieur.gouv.fr
+https://crl.gendarmerie.interieur.gouv.fr
 https://uadm.gendcom.gendarmerie.interieur.gouv.fr
 https://gendform.gendarmerie.interieur.gouv.fr
 https://3b1p.gendform.gendarmerie.interieur.gouv.fr
+https://3b2p.gendform.gendarmerie.interieur.gouv.fr
 https://3b3p.gendform.gendarmerie.interieur.gouv.fr
 http://3bslp.gendform.gendarmerie.interieur.gouv.fr
 https://mcpn-git.gendarmerie.interieur.gouv.fr
@@ -16894,7 +16885,6 @@ https://ingrannes.fr
 https://ingre.fr
 https://www.ingre.fr
 https://www.inguiniel.fr
-https://inha.fr
 https://injep.fr
 http://www.innenheim.fr
 https://innimond.fr
@@ -17578,7 +17568,6 @@ https://www.lafrette71.fr
 https://lafrettesurseine.fr
 https://www.lagarde-enval.fr
 https://www.lagarde57.fr
-https://www.lagardeenoisans.fr
 https://www.lagardellesurleze.fr
 https://www.lagardepareol.fr
 https://www.lagarennecolombes.fr
@@ -18991,6 +18980,7 @@ https://www.lullin.fr
 https://lumbin.fr
 https://www.lumes.fr
 https://lumigny-nesles-ormeaux.fr
+http://www.lumigny-nesles-ormeaux.fr
 https://lunac-aveyron-rouergue.fr
 https://www.lunan.fr
 https://luneray.fr
@@ -19264,6 +19254,7 @@ https://lyceedavier.fr
 https://www.lyceedecachan.fr
 https://www.lyceedechamalieres.fr
 http://www.lyceedeck.fr
+https://www.lyceedecornouaille.fr
 https://www.lyceedegascogne.fr
 http://lyceedekerneuzec.fr
 https://www.lyceedelage.fr
@@ -19793,7 +19784,6 @@ https://www.mairie-caves.fr
 https://mairie-cazaubon.fr
 https://www.mairie-cazeres.fr
 https://mairie-cazevieille.fr
-https://mairie-ceauce.fr
 https://mairie-celles.fr
 https://www.mairie-cerelles.fr
 https://www.mairie-cessy.fr
@@ -27195,7 +27185,6 @@ https://www.santantonino.fr
 https://www.santareparata.fr
 https://annuaire.sante.fr
 https://ansm.sante.fr
-http://agence-prd.ansm.sante.fr
 https://icprhosper.ansm.sante.fr
 https://ictaxercb.ansm.sante.fr
 https://arhgos.ars.sante.fr
@@ -27497,8 +27486,6 @@ http://gabriel-de-la-gorce-hucqueliers.savoirsnumeriques62.fr
 http://gambetta-carnot.savoirsnumeriques62.fr
 http://george-sand-bethune.savoirsnumeriques62.fr
 http://gerard-philipe-henin.savoirsnumeriques62.fr
-http://germinal-biache-saint-vaast.savoirsnumeriques62.fr
-http://henri-wallon-divion.savoirsnumeriques62.fr
 http://henri-wallon-mericourt.savoirsnumeriques62.fr
 http://jacques-brel-fruges.savoirsnumeriques62.fr
 http://jacques-prevert-heuchin.savoirsnumeriques62.fr
@@ -27511,7 +27498,6 @@ http://jean-mace-calais.savoirsnumeriques62.fr
 http://jean-mace-henin-beaumont.savoirsnumeriques62.fr
 http://jean-monnet-aubigny-en-artois.savoirsnumeriques62.fr
 http://jean-moulin-barlin.savoirsnumeriques62.fr
-http://jean-moulin-berck.savoirsnumeriques62.fr
 http://jean-moulin-le-portel.savoirsnumeriques62.fr
 http://jean-rostand-auchy-les-hesdin.savoirsnumeriques62.fr
 http://jean-rostand-licques.savoirsnumeriques62.fr
@@ -27536,7 +27522,6 @@ http://louis-pasteur-oignies.savoirsnumeriques62.fr
 http://marches-de-l-artois-marquion.savoirsnumeriques62.fr
 http://marguerite-berger-pas-en-artois.savoirsnumeriques62.fr
 http://marie-curie-arras.savoirsnumeriques62.fr
-http://martin-luther-king-calais.savoirsnumeriques62.fr
 http://maurice-piquet-isbergues.savoirsnumeriques62.fr
 http://michelet-lens.savoirsnumeriques62.fr
 http://monnet-coulogne.savoirsnumeriques62.fr
@@ -27557,7 +27542,6 @@ http://rene-cassin-wizernes.savoirsnumeriques62.fr
 http://republique-calais.savoirsnumeriques62.fr
 http://romain-rolland-hersin-coupigny.savoirsnumeriques62.fr
 http://rousseau-avion.savoirsnumeriques62.fr
-http://rousseau-carvin.savoirsnumeriques62.fr
 http://salengro-st-martin-boulogne.savoirsnumeriques62.fr
 http://sevigne-auchel.savoirsnumeriques62.fr
 http://signoret-bruay.savoirsnumeriques62.fr
@@ -27567,7 +27551,6 @@ http://val-d-authie-auxi-le-chateau.savoirsnumeriques62.fr
 http://val-du-gy-avesnes.savoirsnumeriques62.fr
 http://van-der-meersch-le-touquet.savoirsnumeriques62.fr
 http://vauban-calais.savoirsnumeriques62.fr
-http://verlaine-bethune.savoirsnumeriques62.fr
 http://verlaine-st-nicolas.savoirsnumeriques62.fr
 http://victor-hugo-harnes.savoirsnumeriques62.fr
 http://youri-gagarine-montigny-en-gohelle.savoirsnumeriques62.fr
@@ -27879,6 +27862,7 @@ https://www.sirtom-apt.fr
 https://www.sisteron-buech.fr
 https://www.sisteronais-buech.fr
 https://site-epj.fr
+https://site-lacavalerie.fr
 https://alboussiere.sitew.fr
 https://chigny.sitew.fr
 https://lannoy-cuillere.sitew.fr
@@ -30001,6 +29985,7 @@ http://www.ville-eugenie-les-bains.fr
 https://ville-eurville-bienville.fr
 https://ville-evian.fr
 https://www.ville-evrecy.fr
+http://ville-exincourt.fr
 https://www.ville-exincourt.fr
 https://ville-eze.fr
 https://webmail.ville-fachesthumesnil.fr
@@ -31597,6 +31582,7 @@ http://www.bremes.net
 http://briastre.net
 http://www.briastre.net
 https://www.brousselechateau.net
+https://capemploi.net
 https://capexcellence.net
 https://www.capexcellence.net
 https://www.carticasi.net
@@ -32602,6 +32588,7 @@ https://www.scoters.org
 https://www.sded.org
 http://semilly.org
 http://www.semilly.org
+https://www.siah-croult.org
 https://www.sicaudieres.org
 https://siderm.org
 https://www.siderm.org
