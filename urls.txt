@@ -1077,7 +1077,6 @@ https://commune-bouquetot.e-monsite.com
 https://commune-de-breaute.e-monsite.com
 https://commune-vert-toulon.e-monsite.com
 https://communedefleurville.e-monsite.com
-https://communedevillaniere.e-monsite.com
 https://communepetiville.e-monsite.com
 https://courchapon-infos.e-monsite.com
 https://dontreix23.e-monsite.com
@@ -1179,7 +1178,6 @@ https://estancarbon.com
 https://www.estancarbon.com
 https://esternay.com
 https://www.etablissement-opunohu.com
-https://etagnac.com
 https://etalans.com
 https://www.etalans.com
 https://www.etampes-sur-marne.com
@@ -1240,6 +1238,7 @@ https://www.ferralscorbieres.com
 https://ferrieres-en-brie.com
 https://ferrieres-st-mary.com
 https://feucherolles.com
+https://www.feucherolles.com
 https://www.ficif.com
 https://www.fier-et-usses.com
 https://figanieres.com
@@ -1374,7 +1373,6 @@ http://hericourt.com
 http://www.hericourt.com
 https://www.hopital-breil-roya.com
 https://horgues.com
-https://hornoylebourg.com
 https://www.hotels-in-toulouse.com
 https://www.hourtin-medoc.com
 https://www.huismes.com
@@ -2107,7 +2105,6 @@ https://mairie-upie.com
 https://www.mairie-valderies.com
 https://www.mairie-vallon.com
 http://mairie-valmeinier.com
-http://www.mairie-valmeinier.com
 https://www.mairie-varennes-89.com
 https://mairie-veigne.com
 https://www.mairie-veigne.com
@@ -2438,7 +2435,7 @@ https://notaires2normandie.com
 https://notre-dame-de-bliquetuit.com
 https://notre-dame-de-riez.com
 https://www.nouaille.com
-http://nouatre.com
+https://nouatre.com
 https://www.nouatre.com
 https://nouvionsurmeuse.com
 https://www.novion-porcien.com
@@ -2714,7 +2711,6 @@ http://www.rabat-les-trois-seigneurs.com
 https://ww38.ranes61.com
 https://www.rannee.com
 http://raucoules.com
-http://www.raucoules.com
 https://rebais.com
 https://www.rebais.com
 https://www.rebenacq.com
@@ -2760,7 +2756,6 @@ https://www.romorantin.com
 http://rontalon.com
 http://www.rontalon.com
 https://www.roquebrune.com
-https://www.rosenwiller.com
 https://rosheim.com
 https://www.rosheim.com
 https://www.rosieres-ardeche.com
@@ -3135,7 +3130,7 @@ https://www.stchristolderodieres.com
 https://www.stclairdelatour.com
 https://www.ste-suzanne.com
 http://steflaivedesloups.com
-http://steinbourg.com
+https://steinbourg.com
 http://www.steinbourg.com
 https://www.stjeanchambre.com
 https://www.stjuliendance.com
@@ -3353,7 +3348,6 @@ https://ville-bacilly.com
 https://ville-balaruc-les-bains.com
 http://www.ville-balaruc-les-bains.com
 https://www.ville-beauregard-vendon.com
-https://ville-bedarrides.com
 https://www.ville-bedarrides.com
 https://ville-borgo.com
 https://www.ville-bouilladisse.com
@@ -3440,6 +3434,7 @@ https://villedomain.com
 https://www.villedomain.com
 https://villeducarbet.com
 https://www.villefort-cevennes.com
+http://www.villefranchesurcher.com
 https://villefrancoeur.com
 https://villeherviers.com
 https://villelongue-dels-monts.com
@@ -4291,7 +4286,7 @@ https://valdenievre-domart-en-ponthieu.ac-amiens.fr
 https://victor-hugo-ham.ac-amiens.fr
 https://www.ac-amiens.fr
 http://cio-belfort.ac-besancon.fr
-http://cio-besancon.ac-besancon.fr
+https://cio-besancon.ac-besancon.fr
 https://cio-dole.ac-besancon.fr
 https://cio-lons.ac-besancon.fr
 https://cio-lure.ac-besancon.fr
@@ -4314,6 +4309,7 @@ http://www.clg-lucienfebvre.ac-besancon.fr
 http://www.clg-mathiez.ac-besancon.fr
 http://www.clg-morvillars.ac-besancon.fr
 http://www.clg-nozeroy.ac-besancon.fr
+http://www.clg-pasteur-arbois.ac-besancon.fr
 http://www.clg-quingey.ac-besancon.fr
 http://www.clg-victor-schoelcher.ac-besancon.fr
 http://www.clg-xavier-bichat.ac-besancon.fr
@@ -4561,6 +4557,7 @@ https://collegegilbertdru.etab.ac-lyon.fr
 https://csi-ferneyvoltaire.etab.ac-lyon.fr
 https://daubarede.etab.ac-lyon.fr
 https://eluardvenissieux.etab.ac-lyon.fr
+https://jean-giono.etab.ac-lyon.fr
 https://jean-moulin-lyon5.etab.ac-lyon.fr
 https://jmonnet.etab.ac-lyon.fr
 https://leplanduloup.etab.ac-lyon.fr
@@ -5421,7 +5418,6 @@ https://aphp.aphp.fr
 https://soutenir.aphp-centre.aphp.fr
 https://soutenir.aphp-sorbonne-universite.aphp.fr
 https://archives.aphp.fr
-https://blogs.aphp.fr
 https://bo-myaphp.aphp.fr
 https://calipsso.aphp.fr
 https://cancer.aphp.fr
@@ -5433,7 +5429,6 @@ https://charlesfoix.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
 https://chu93.aphp.fr
 https://cme.aphp.fr
-https://cnr-escherichiacoli-robertdebre.aphp.fr
 https://compare.aphp.fr
 https://concours.aphp.fr
 https://diabete-robertdebre.aphp.fr
@@ -5453,12 +5448,10 @@ https://hopital-bichat.aphp.fr
 https://hopital-corentincelton.aphp.fr
 https://hopital-paul-brousse.aphp.fr
 https://hopital-saintlouis.aphp.fr
-https://hopital-vaugirard.aphp.fr
 https://hoptisoins.aphp.fr
 https://huep.aphp.fr
 https://institut-memoire.aphp.fr
 https://langage-apprentissages.aphp.fr
-https://larocheguyon.aphp.fr
 https://maladiessystemenerveux-psl.aphp.fr
 https://maritimeberck.aphp.fr
 https://maternite-beclere.aphp.fr
@@ -5483,7 +5476,6 @@ https://saintantoine.aphp.fr
 https://savoirserelever.aphp.fr
 https://seinarisque.aphp.fr
 https://surycat.aphp.fr
-https://trousseau.aphp.fr
 https://vaccin-voyage-ghparis10.aphp.fr
 https://volontaire.aphp.fr
 http://web110.aphp.fr
@@ -5790,7 +5782,6 @@ https://www.aubigny-les-clouzeaux.fr
 https://aubigny79.fr
 https://aubignyenplaine.fr
 https://www.aubignyenplaine.fr
-https://www.aubinges.fr
 https://aubinsaintvaast.fr
 https://aubord.fr
 https://auboue.fr
@@ -6618,6 +6609,7 @@ https://www.basenbasset.fr
 https://baslieux.fr
 https://baslieux-les-fismes.fr
 https://basly.fr
+https://bassan.fr
 https://www.bassan.fr
 https://bassanne.fr
 https://www.basse-goulaine.fr
@@ -6860,7 +6852,7 @@ https://www.benodet.fr
 https://beon.fr
 https://www.beon.fr
 https://beon-ain.fr
-http://berat.fr
+https://berat.fr
 https://www.berat.fr
 https://berche.fr
 https://www.berche.fr
@@ -6950,6 +6942,7 @@ http://www.bethencourt-sur-mer.fr
 https://www.bethincourt.fr
 https://www.bethisysaintpierre.fr
 https://www.bethoncourt.fr
+https://www.bethune.fr
 https://www.beton-bazoches.fr
 https://www.betplan.fr
 https://bettancourt-la-ferree.fr
@@ -6965,7 +6958,7 @@ https://beuste.fr
 https://beutal.fr
 https://www.beutal.fr
 https://www.beuvillers.fr
-http://beuvrequen.fr
+https://beuvrequen.fr
 http://www.beuvrequen.fr
 https://www.beuvron-en-auge.fr
 https://beuvry-la-foret.fr
@@ -7164,7 +7157,6 @@ https://www.boissy-le-cutte.fr
 https://boissy-mauvoisin.fr
 https://boissy-sans-avoir.fr
 https://boissyauxcailles.fr
-https://www.boissyauxcailles.fr
 https://www.boissyfresnoy.fr
 https://www.boissylesec.fr
 https://www.boisvillelasaintpere.fr
@@ -8506,7 +8498,6 @@ https://ccsb-saonebeaujolais.fr
 https://www.ccseineetaube.fr
 https://www.ccsn.fr
 https://ccsso.fr
-https://www.ccsso.fr
 https://ccssom.fr
 https://ccsvp.fr
 https://cctdm.fr
@@ -10415,6 +10406,7 @@ https://www.coudevillesurmer.fr
 https://www.coudoux.fr
 https://coudray-au-perche.fr
 https://coudray-montceaux.fr
+https://www.coudray53.fr
 https://coudres.fr
 https://www.coudres.fr
 https://www.coudures.fr
@@ -12962,6 +12954,7 @@ https://gouex.fr
 https://www.gouffernenauge.fr
 https://gougenheim.fr
 https://gouhenans.fr
+https://goujounac.fr
 https://www.goujounac.fr
 https://goulien.fr
 https://www.goult.fr
@@ -13473,6 +13466,7 @@ https://classes-virtuelles.cfssi.gouv.fr
 https://nuage.cfssi.gouv.fr
 http://cget.gouv.fr
 http://lab-egalite-citoyennete.cget.gouv.fr
+http://lab-imagesdeladiversite.cget.gouv.fr
 http://lab-innovation.cget.gouv.fr
 http://periurbain.cget.gouv.fr
 http://pol-ville.cget.gouv.fr
@@ -14592,6 +14586,7 @@ https://emt.esante.gouv.fr
 https://diagcps.eservices.esante.gouv.fr
 https://link.pfc.eservices.esante.gouv.fr
 https://link.pfc-qualif.eservices.esante.gouv.fr
+http://diagcps.test.eservices.esante.gouv.fr
 http://testssl.test.eservices.esante.gouv.fr
 http://testssl.eservices.esante.gouv.fr
 https://tom.eservices.esante.gouv.fr
@@ -15082,7 +15077,6 @@ https://www.jeprotegemonenfant.gouv.fr
 https://boussole.jeunes.gouv.fr
 https://hub.boussole.jeunes.gouv.fr
 https://www.boussole.jeunes.gouv.fr
-https://www.admin.decouvrirlemonde.jeunes.gouv.fr
 https://www.decouvrirlemonde.jeunes.gouv.fr
 https://boussole.demo.jeunes.gouv.fr
 https://www.jeunes.gouv.fr
@@ -16541,7 +16535,6 @@ https://www.ichtratzheim.fr
 https://www.ideis-asso.fr
 https://www.idron.fr
 https://ids-saint-roch.fr
-https://www.ids-saint-roch.fr
 https://www.iedom.fr
 https://www.ifce.fr
 https://www.ifpenergiesnouvelles.fr
@@ -24970,7 +24963,6 @@ https://www.rille.fr
 http://rilly-la-montagne.fr
 http://www.rilly-la-montagne.fr
 https://www.rimbezetbaudiets.fr
-https://www.rimling.fr
 https://rimont09.fr
 http://ringendorf.fr
 http://www.ringendorf.fr
@@ -27099,6 +27091,7 @@ https://www.sauvessanges.fr
 https://www.sauveterre-de-bearn.fr
 https://www.sauveterre-de-guyenne.fr
 https://www.sauveterre-de-rouergue.fr
+https://sauveterre-saint-denis.fr
 https://www.sauviat.fr
 https://www.sauvigny-les-bois.fr
 https://www.sauxillanges.fr
@@ -27980,7 +27973,6 @@ https://www.tamnies.fr
 https://www.tancarville.fr
 https://tanconville.fr
 https://taninges.fr
-https://www.tannay-brinon-corbigny.fr
 https://tarascon.fr
 https://www.tarascon.fr
 https://www.tarbes.fr
