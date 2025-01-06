@@ -665,6 +665,7 @@ https://www.castelmoronsurlot.com
 https://castelnau-de-guers.com
 https://www.castelnau-de-guers.com
 https://www.castelnau-riviere-basse.com
+https://www.castelnaudauzan.com
 https://castelnaudemontmiral-tourisme.com
 https://www.castelnaudemontmiral-tourisme.com
 https://www.castera-verduzan.com
@@ -678,7 +679,6 @@ https://caussou.com
 https://www.caussou.com
 https://cavlagir.com
 http://www.caylus.com
-https://cayriech.com
 https://www.cazalrenoux.com
 https://www.cazoulslesbeziers.com
 https://www.cc-acvi.com
@@ -813,7 +813,7 @@ https://www.chasseenvienne.com
 https://www.chasseurdefrance.com
 https://chasseurdelozere.com
 https://www.chasseurdujura.com
-https://chasseurs17.com
+http://chasseurs17.com
 https://www.chasseurs24.com
 https://chasseurs33.com
 https://www.chasseurs47.com
@@ -1175,7 +1175,6 @@ https://www.escamps.com
 https://esparros.com
 https://www.esparros.com
 https://www.espeyrac-aveyron.com
-https://www.espinasse63.com
 https://www.espira.com
 https://esquelbecq.com
 https://www.esquieze-sere.com
@@ -1650,7 +1649,6 @@ https://www.leguilvinec.com
 https://lehezo.com
 https://www.lelouroux.com
 https://www.lemarchepied.com
-https://www.lemaysurevre.com
 https://www.lenouvion.com
 https://lentigny.com
 https://www.lentigny.com
@@ -2424,7 +2422,7 @@ http://www.ordredesavocats-chartres.com
 https://www.orgelet.com
 https://www.orgnacvillage.com
 https://www.orleat.com
-http://ormoy-la-riviere.com
+https://ormoy-la-riviere.com
 https://orrpa.com
 https://www.orrpa.com
 https://www.os-marsillon.com
@@ -4159,8 +4157,6 @@ https://arthur-rimbaud-ribecourt-dreslincourt.ac-amiens.fr
 https://auguste-janvier.ac-amiens.fr
 https://camille-claudel-soissons.ac-amiens.fr
 https://cassini-clermont.ac-amiens.fr
-https://charles-de-bovelles-noyon.ac-amiens.fr
-https://charles-de-gaulle-compiegne.ac-amiens.fr
 https://chateau-potel-la-ferte-milon.ac-amiens.fr
 http://cio.ac-amiens.fr
 https://condorcet-bresles.ac-amiens.fr
@@ -4203,7 +4199,6 @@ https://lamartine-soissons.ac-amiens.fr
 https://leonard-de-vinci-soissons.ac-amiens.fr
 https://leopold-senghor-corbeny.ac-amiens.fr
 https://les-coudriers-villers-bocage.ac-amiens.fr
-https://les-jacobins-beauvais.ac-amiens.fr
 https://louis-bouland-couloisy.ac-amiens.fr
 https://louis-pasteur-nesle.ac-amiens.fr
 https://louis-pasteur-noyon.ac-amiens.fr
@@ -4213,7 +4208,6 @@ https://lycee-vimeu-friville.ac-amiens.fr
 https://marcel-pagnol-betz.ac-amiens.fr
 https://pierre-dailly-compiegne.ac-amiens.fr
 https://pierre-de-la-ramee-saint-quentin.ac-amiens.fr
-https://pierre-mechain-laon.ac-amiens.fr
 https://polyvalent-de-lauthie-doullens.ac-amiens.fr
 https://romain-rolland.ac-amiens.fr
 https://rousseau-creil.ac-amiens.fr
@@ -4488,6 +4482,7 @@ https://college-la-platiere.etab.ac-lyon.fr
 https://college-les-servizieres.etab.ac-lyon.fr
 https://college-olivierdeserres.etab.ac-lyon.fr
 https://college-pierre-valdo.etab.ac-lyon.fr
+https://college-rene-cassin.etab.ac-lyon.fr
 https://college-simone-lagrange.etab.ac-lyon.fr
 https://college-verrazane.etab.ac-lyon.fr
 https://collegegilbertdru.etab.ac-lyon.fr
@@ -5249,6 +5244,7 @@ https://www.amou.fr
 https://amplepuis.fr
 http://www.amplepuis.fr
 https://ampmetropole.fr
+https://www.ampmetropole.fr
 https://www.ampoigne.fr
 https://www.ampuis.fr
 https://www.amrf.fr
@@ -7565,7 +7561,6 @@ https://buhl-lorraine.fr
 https://buhy.fr
 https://www.buignystmaclou.fr
 https://www.buironfosse.fr
-https://www.buislesbaronnies.fr
 https://www.bujaleuf.fr
 http://bulat-pestivien.fr
 http://www.bulat-pestivien.fr
@@ -9530,6 +9525,7 @@ https://www.clic-plateau-de-mormal.fr
 https://clic-rouen.fr
 https://www.clic-rouen.fr
 http://clicduhautbugey.fr
+http://www.clicduhautbugey.fr
 https://www.clichy-sous-bois.fr
 https://www.clicrivage.fr
 http://clicrocheauxfees.fr
@@ -9617,7 +9613,6 @@ https://www.cnsa.fr
 https://coaraze.fr
 https://coarraze.fr
 https://coban-atlantique.fr
-http://cocheren.fr
 https://www.cocheren.fr
 https://www.coclico-sivu.fr
 https://cocm.fr
@@ -12710,6 +12705,7 @@ https://www.fublaines.fr
 https://www.fun-mooc.fr
 https://www.furdenheim.fr
 https://www.fussy.fr
+https://gabarnac.fr
 https://gabaston.fr
 https://www.gabriac.fr
 https://gabrias.fr
@@ -14477,7 +14473,6 @@ https://www.alternance.emploi.gouv.fr
 https://celia.emploi.gouv.fr
 https://ds-extranet-acteurs-competences.emploi.gouv.fr
 https://extranetcui.emploi.gouv.fr
-https://idee.emploi.gouv.fr
 https://www.monsuividucontrole.emploi.gouv.fr
 https://nacre.emploi.gouv.fr
 https://www.pre-monactiviteformation.emploi.gouv.fr
@@ -14683,6 +14678,7 @@ https://escalev2.dgfip.finances.gouv.fr
 https://gw.dgfip.finances.gouv.fr
 https://gwfc.dgfip.finances.gouv.fr
 https://www.jepaiemesserviceslocaux.dgfip.finances.gouv.fr
+https://optionsfoncieresdge.dgfip.finances.gouv.fr
 http://prepa.dgfip.finances.gouv.fr
 https://concours.douane.finances.gouv.fr
 http://duerp.finances.gouv.fr
@@ -14972,7 +14968,6 @@ https://qualification.onisr.interieur.gouv.fr
 https://dicem.pm.interieur.gouv.fr
 https://pof.interieur.gouv.fr
 https://www.ppoletrangers.interieur.gouv.fr
-https://www.prefecturedepolice.interieur.gouv.fr
 https://preprod-pof.interieur.gouv.fr
 https://programme-candidats.interieur.gouv.fr
 https://rdv-etrangers-94.interieur.gouv.fr
@@ -17768,6 +17763,7 @@ http://lebalcon.fr
 http://www.lebalcon.fr
 https://www.lebardon.fr
 https://www.lebarroux.fr
+https://www.lebarsurloup.fr
 https://lebeage.fr
 https://www.lebechellouin.fr
 https://lebecthomas.fr
@@ -20914,6 +20910,7 @@ https://mairie-vallonsurgee.fr
 http://mairie-valmont.fr
 http://www.mairie-valmont.fr
 https://www.mairie-valserres.fr
+https://mairie-vannes.fr
 https://www.mairie-vannes.fr
 http://www.mairie-vantoux.fr
 https://mairie-varennes37.fr
@@ -21382,6 +21379,7 @@ https://mairieneuvy.fr
 https://mairienoveant.fr
 https://www.mairieouches.fr
 https://www.mairieourouxenmorvan.fr
+https://mairieozon.fr
 https://www.mairiepecy.fr
 https://mairiepimprez.fr
 https://www.mairiepimprez.fr
@@ -22634,7 +22632,6 @@ https://www.monestierdeclermont.fr
 http://monestrol.fr
 https://moneteau.fr
 https://monferran-saves.fr
-https://www.monferran-saves.fr
 https://monflanquin.fr
 http://monfort.fr
 https://www.monfort.fr
@@ -22843,7 +22840,6 @@ https://www.montigny-les-metz.fr
 http://www.montigny-sur-avre.fr
 https://www.montigny-sur-vesle.fr
 https://www.montigny95.fr
-https://www.montignyinfos.fr
 https://montignysurloing.fr
 https://montilliers49.fr
 https://www.montilliers49.fr
@@ -26309,6 +26305,7 @@ https://sainte-opportune-du-bosc.fr
 https://www.sainte-pazanne.fr
 https://sainte-radegonde71.fr
 https://www.sainte-radegonde71.fr
+https://www.sainte-reine-de-bretagne.fr
 https://www.sainte-ruffine.fr
 https://www.sainte-savine.fr
 https://sainte-severe-sur-indre.fr
@@ -26523,7 +26520,7 @@ https://www.saintjuliendeconcelles.fr
 https://www.saintjuliendecoppel.fr
 https://saintjuliendintres.fr
 http://saintjuliendusault.fr
-https://www.saintjuliendusault.fr
+http://www.saintjuliendusault.fr
 https://www.saintjulienlars.fr
 https://saintjulienlesrosiers.fr
 https://www.saintjulienlesrosiers.fr
@@ -26878,6 +26875,7 @@ https://www.saleux.fr
 https://www.salies-de-bearn.fr
 https://salies-tarn.fr
 https://www.salies-tarn.fr
+http://salignac-eyvigues.fr
 http://www.salignac-eyvigues.fr
 https://salignac04.fr
 https://www.salinelles.fr
@@ -26885,7 +26883,6 @@ http://www.salinsfontaine.fr
 https://www.salleboeuf.fr
 https://sallelesdaude.fr
 http://www.sallelesdaude.fr
-https://www.sallenoves.fr
 https://www.sallertaine.fr
 http://www.salles-adour.fr
 https://salles-arbuissonnas.fr
@@ -27161,6 +27158,7 @@ https://www.sauveterre-de-rouergue.fr
 https://sauveterre-saint-denis.fr
 https://www.sauviat.fr
 https://www.sauvigny-les-bois.fr
+https://www.sauxemesnil.fr
 https://www.sauxillanges.fr
 https://www.sauzet-drome.fr
 http://sauzet-gard.fr
@@ -27760,6 +27758,7 @@ https://www.st-hilaire-du-harcouet.fr
 https://www.st-jacques.fr
 https://st-jacut-les-pins.fr
 https://www.st-jacut-les-pins.fr
+http://st-jean-de-la-riviere.fr
 https://www.st-jean-de-moirans.fr
 https://www.st-jean-les-deux-jumeaux.fr
 https://www.st-jean-pied-de-port.fr
@@ -29025,7 +29024,7 @@ https://venerieu.fr
 https://www.venerieu.fr
 https://www.venerque.fr
 https://www.venette.fr
-https://www.venez.fr
+http://www.venez.fr
 http://www.venizel.fr
 https://www.venizy.fr
 https://www.vennecy.fr
@@ -31900,7 +31899,6 @@ http://belonchamp.cchvo.org
 http://ecromagny.cchvo.org
 http://hautduthem.cchvo.org
 http://melisey.cchvo.org
-http://servance.cchvo.org
 https://www.ccm3r.org
 https://ccpaysdecruseilles.org
 https://www.ccvsc01.org
@@ -31967,7 +31965,6 @@ https://www.cuvat.org
 https://www.delta7.org
 https://www.devrouze.org
 https://dioetvalquieres.org
-https://www.dioetvalquieres.org
 https://doubsbaumois.org
 https://adil.dromenet.org
 https://duperre.org
@@ -32000,6 +31997,7 @@ https://www.fdc57.org
 https://federation-peche-doubs.org
 https://ferrieres-haut-clocher.org
 https://www.feurs.org
+https://www.filrougealzheimer.org
 https://www.flore-habitatjeunes.org
 https://www.fol58.org
 https://fontainesousjouy.org
@@ -32014,7 +32012,6 @@ https://www.francealzheimer.org
 https://sarthe.francebenevolat.org
 https://franceurbaine.org
 https://frespech.org
-https://gemeaux.org
 https://germigny-leveque.org
 https://0410959v.etab.giprecia.org
 http://girmont.org
@@ -32064,6 +32061,7 @@ https://larressore.org
 https://www.larressore.org
 https://larroque81.org
 https://www.lecgs.org
+https://lepoetlaval.org
 https://www.lespepsra.org
 https://lesplans.org
 https://www.lespossibles.org
