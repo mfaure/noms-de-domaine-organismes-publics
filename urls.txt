@@ -884,8 +884,7 @@ https://www.clermont-creans.com
 https://www.clery-saint-andre.com
 https://cleurie.com
 http://clic-clelia.com
-http://www.clic-clelia.com
-http://clic-orgessonne.com
+https://clic-orgessonne.com
 http://www.clic-orgessonne.com
 https://www.clic-orne.com
 https://clic-thiers.com
@@ -1254,6 +1253,7 @@ https://college.fontaine-du-ve.com
 https://lpo.fontaine-du-ve.com
 https://fontaine-fourches.com
 https://www.fontaine-fourches.com
+https://fontan-tourisme.com
 https://www.fontan-tourisme.com
 https://www.fontcouverte-latoussuire.com
 https://www.fontenoy-le-chateau.com
@@ -1301,6 +1301,7 @@ https://gamarde-les-bains.com
 https://gancourtsaintetienne.com
 https://www.gandelu.com
 https://www.ganzeville.com
+http://www.garazibaigorri.com
 https://www.garnerans.com
 https://gerdemonclocher.com
 https://www.gervanne-sye.com
@@ -1698,6 +1699,7 @@ https://www.lesrousses.com
 https://www.lessaisies.com
 https://lestiac.com
 https://www.letouvet.com
+https://www.leuillysouscoucy.com
 https://www.leulinghenbernes.com
 https://www.levaladou.com
 https://www.levernetchameane.com
@@ -3018,7 +3020,6 @@ https://www.sereilhac.com
 https://www.serra-di-ferro.com
 http://www.serralongue.com
 https://www.serrieres-en-chautagne.com
-http://serrieresdebriord.com
 http://www.serrieresdebriord.com
 https://www.servant-tourisme.com
 https://serves-sur-rhone.com
@@ -3375,7 +3376,6 @@ https://www.villecloye.com
 https://www.villedefloing.com
 https://www.villedegenay.com
 https://villedenogent52.com
-https://www.villedenogent52.com
 https://villedepegomas.com
 https://villedestroisilets.com
 https://villedomain.com
@@ -3832,6 +3832,7 @@ https://www.ablancourt.fr
 https://ableiges.fr
 https://ablis.fr
 https://www.ablon.fr
+http://ablon-sur-seine.fr
 http://www.ablon-sur-seine.fr
 https://www.abos64.fr
 https://abreschviller.fr
@@ -4182,6 +4183,7 @@ https://jean-monnet-crepy-en-valois.ac-amiens.fr
 https://jean-monnet-lafere.ac-amiens.fr
 https://jean-moulin-moreuil.ac-amiens.fr
 https://jean-rostand-chantilly.ac-amiens.fr
+https://jeanne-hachette-beauvais.ac-amiens.fr
 https://joliot-curie-hirson.ac-amiens.fr
 https://joliot-curie-mlb.ac-amiens.fr
 https://jules-valles-st-leu-esserent.ac-amiens.fr
@@ -4542,7 +4544,6 @@ https://www.lycee-les-palmiers.ac-nice.fr
 http://www2.ac-nice.fr
 https://blogs.ac-normandie.fr
 https://greta.ac-normandie.fr
-https://www.ac-normandie.fr
 https://gretaformation.ac-orleans-tours.fr
 http://clg-alain-fournier-orleans.tice.ac-orleans-tours.fr
 http://clg-albert-camus-briare.tice.ac-orleans-tours.fr
@@ -4840,7 +4841,6 @@ https://www.ac-spm.fr
 http://www.col-hans-arp-strasbourg.ac-strasbourg.fr
 http://www.col-ottmarsheim.ac-strasbourg.fr
 http://www.lyc-bloch-bischheim.ac-strasbourg.fr
-https://www.ac-strasbourg.fr
 https://pedagogie.ac-toulouse.fr
 http://blog.ac-versailles.fr
 http://www.clg-amandiers-carrieres.ac-versailles.fr
@@ -4884,7 +4884,6 @@ http://www.lyc-stex-mantes.ac-versailles.fr
 http://www.lyc-violletleduc.ac-versailles.fr
 http://www.lyc-voilin-puteaux.ac-versailles.fr
 http://www.reseau-wallon-garges.ac-versailles.fr
-https://www.ac-versailles.fr
 https://www.acajou1.fr
 https://www.accoord.fr
 https://www.accord-ages.fr
@@ -5097,6 +5096,7 @@ https://www.albertcamusmeaux.fr
 https://www.albertville.fr
 http://www.albiac.fr
 https://www.albias.fr
+https://albiez-montrond.fr
 https://www.albiez-montrond.fr
 https://albine.fr
 http://www.albitreccia.fr
@@ -5341,6 +5341,7 @@ https://centre-memoire.aphp.fr
 https://charlesfoix.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
 https://chu-mondor.aphp.fr
+https://chu93.aphp.fr
 https://cme.aphp.fr
 https://cnr-escherichiacoli-robertdebre.aphp.fr
 https://compare.aphp.fr
@@ -6248,7 +6249,6 @@ https://aveyron.fr
 https://www.aveyron.fr
 https://aveyronbassegalaviaur.fr
 https://www.aveze63.fr
-https://www.avignon.fr
 https://avignonet-lauragais.fr
 https://avioth.fr
 https://www.avioth.fr
@@ -7229,7 +7229,6 @@ https://www.bourg-gironde.fr
 https://www.bourg-la-reine.fr
 https://www.bourg-lastic.fr
 https://www.bourg-les-valence.fr
-https://www.bourg-saint-bernard.fr
 https://www.bourgachard.fr
 https://bourganeuf.fr
 https://www.bourgargental.fr
@@ -9088,6 +9087,7 @@ http://www.chatillon-le-roi.fr
 https://chatillon-mairie.fr
 https://www.chatillon-sur-chalaronne.fr
 https://chatillon-sur-cher.fr
+https://www.chatillon-sur-cher.fr
 https://chatillon-sur-indre.fr
 https://www.chatillon-sur-indre.fr
 https://chatillondazergues.fr
@@ -9514,7 +9514,7 @@ https://cm-alsace.fr
 https://www.cm-alsace.fr
 https://www.cm-ariege.fr
 http://cm-aude.fr
-http://www.cm-aude.fr
+https://www.cm-aude.fr
 https://www.cm-essonne.fr
 https://www.cm-marne.fr
 https://www.cm-tarn.fr
@@ -9650,7 +9650,6 @@ https://college-gutenberg.fr
 http://www.college-herminier.fr
 https://college-innovant64.fr
 https://college-jaures.fr
-http://www.college-jean-moulin.fr
 https://www.college-jean-rostand.fr
 https://www.college-jeanbauchez.fr
 https://www.college-jeanmoulin.fr
@@ -10336,6 +10335,7 @@ https://www.coulonvillers.fr
 https://www.coulounieix-chamiers.fr
 https://www.counozouls.fr
 https://www.coupiacsudaveyron.fr
+https://www.coupvray.fr
 https://bordeaux.cour-administrative-appel.fr
 https://douai.cour-administrative-appel.fr
 https://lyon.cour-administrative-appel.fr
@@ -10596,6 +10596,7 @@ https://csc-lecoindelarue.fr
 https://www.csc-lecoindelarue.fr
 https://cscagora.fr
 https://www.cscagora.fr
+https://csehazebrouck.fr
 https://www.csehazebrouck.fr
 https://www.csevm.fr
 https://csnp.fr
@@ -12312,6 +12313,7 @@ http://www.framerville-rainecourt.fr
 http://www.francastel.fr
 https://www.france-universite-numerique.fr
 https://www.francecompetences.fr
+https://aides.francemobilites.fr
 https://www.francemobilites.fr
 https://www.franceservices-buechdevoluy.fr
 https://francheleins.fr
@@ -13224,6 +13226,7 @@ https://sandbox.aidantsconnect.beta.gouv.fr
 https://suivi.aidantsconnect.beta.gouv.fr
 https://aides-territoires.beta.gouv.fr
 https://arcinnovation.aides-territoires.beta.gouv.fr
+https://centre-val-de-loire.aides-territoires.beta.gouv.fr
 https://demo-3.aides-territoires.beta.gouv.fr
 https://ecoquartier.aides-territoires.beta.gouv.fr
 https://france-relance-corse.aides-territoires.beta.gouv.fr
@@ -13349,7 +13352,6 @@ https://stats.pass-emploi.beta.gouv.fr
 https://web.pass-emploi.beta.gouv.fr
 https://pcrs.beta.gouv.fr
 https://docs.pcrs.beta.gouv.fr
-https://forum.pcrs.beta.gouv.fr
 https://ghost.pcrs.beta.gouv.fr
 https://actu-aides.place-des-entreprises.beta.gouv.fr
 https://blog.place-des-entreprises.beta.gouv.fr
@@ -14293,6 +14295,7 @@ http://cerpep.education.gouv.fr
 http://www.cerpep.education.gouv.fr
 http://cerpet.education.gouv.fr
 http://www.cerpet.education.gouv.fr
+http://cgweb.education.gouv.fr
 http://test.cgweb.education.gouv.fr
 http://www.cgweb.education.gouv.fr
 https://colibris.education.gouv.fr
@@ -14698,6 +14701,7 @@ http://salonmobilite-antillesguyane.fonction-publique.gouv.fr
 http://salonmobilitepro-occitanie.fonction-publique.gouv.fr
 https://www.fonction-publique.gouv.fr
 http://www.forages-domestiques.gouv.fr
+https://formationgestiondecrise.gouv.fr
 http://francaisdeletranger.gouv.fr
 https://france-identite.gouv.fr
 https://idp.preproduction.france-identite.gouv.fr
@@ -16037,6 +16041,7 @@ https://www.halloy.fr
 https://www.halluin.fr
 https://hambach.fr
 https://www.hambach.fr
+https://hamblainlespres.fr
 https://hambye.fr
 https://www.hamel59.fr
 https://hames-boucres.fr
@@ -18852,7 +18857,6 @@ https://www.lyceeevaristegalois.fr
 http://www.lyceefavard-gueret.fr
 https://www.lyceefleger.fr
 http://lyceefloratristan.fr
-https://www.lyceefulbert.fr
 https://lyceegalilee.fr
 https://www.lyceegaramont.fr
 http://www.lyceegeorgesand36.fr
@@ -20598,7 +20602,6 @@ https://mairie-saintpauldevarax.fr
 https://www.mairie-saintpauldevarax.fr
 https://mairie-saintpaullesfonts.fr
 http://mairie-saintpere.fr
-http://www.mairie-saintpere.fr
 https://www.mairie-saintprivatdallier.fr
 https://mairie-saintquayperros.fr
 https://mairie-saintquentinlatour.fr
@@ -20888,7 +20891,6 @@ https://www.mairie-villedavray.fr
 https://www.mairie-villefranchedelauragais.fr
 https://mairie-villegailhenc.fr
 https://www.mairie-villegailhenc.fr
-https://www.mairie-villematier31.fr
 https://www.mairie-villemur-sur-tarn.fr
 https://mairie-villeneuvedelariviere.fr
 https://www.mairie-villeneuvesurverberie.fr
@@ -21779,7 +21781,6 @@ https://www.meilhan40.fr
 https://www.meilhansurgaronne.fr
 https://www.meilhards.fr
 https://meillac.fr
-http://meilleraie-tillay.fr
 https://www.meilleraietillay.fr
 https://meillon.fr
 https://www.meistratzheim.fr
@@ -22619,7 +22620,7 @@ https://www.montbonnot.fr
 https://montboucher-sur-jabron.fr
 https://www.montboucher-sur-jabron.fr
 http://montbouy.fr
-http://montbron.fr
+https://montbron.fr
 https://www.montbronn.fr
 https://montbrun.fr
 https://www.montbrun.fr
@@ -24242,7 +24243,6 @@ https://www.plourin.fr
 https://plourivo.fr
 https://www.plourivo.fr
 https://plouvain.fr
-https://www.plouvain.fr
 http://www.plouvara.fr
 https://www.plouvien.fr
 https://www.plouzevede.fr
@@ -24398,6 +24398,7 @@ https://www.portesessonne.fr
 https://www.porteseureliennesidf.fr
 https://www.portetgaronne.fr
 https://portlanouvelle.fr
+https://www.portsaintemarie.fr
 https://www.portsursaone.fr
 https://poses.fr
 http://www.potelieres.fr
@@ -26200,7 +26201,7 @@ https://www.sainte-sigolene.fr
 https://sainte-solange.fr
 https://www.sainte-soulle.fr
 http://sainte-suzanne-doubs.fr
-http://www.sainte-suzanne-doubs.fr
+https://www.sainte-suzanne-doubs.fr
 https://www.sainteagathe.fr
 https://www.sainteagnes.fr
 https://www.saintecatherine63.fr
@@ -26532,7 +26533,6 @@ https://saintmartinlestra.fr
 https://www.saintmartinlevieil.fr
 https://saintmartinlongueau.fr
 https://www.saintmartinlongueau.fr
-https://saintmartinpetit.fr
 https://saintmartinsurlavezon.fr
 https://saintmartinvesubie.fr
 https://www.saintmartinvesubie.fr
@@ -29251,7 +29251,6 @@ https://ville-basseterre.fr
 https://www.ville-basseterre.fr
 https://www.ville-bazas.fr
 https://www.ville-baziege.fr
-https://ville-beauchamp.fr
 https://www.ville-beauchamp.fr
 https://www.ville-beaupuy.fr
 https://www.ville-beauzac.fr
@@ -29376,6 +29375,7 @@ https://www.ville-chambray-les-tours.fr
 http://www.ville-chamouilley.fr
 https://www.ville-champagné.fr
 http://ville-champhol.fr
+https://www.ville-champlan.fr
 https://ville-champssurmarne.fr
 https://www.ville-champssurmarne.fr
 https://www.ville-change.fr
@@ -30706,7 +30706,6 @@ https://volmerangelesmines.fr
 https://volpajola.fr
 https://www.voltairetoulon.fr
 https://voraysurlognon.fr
-https://voreppe.fr
 https://www.voreppe.fr
 https://www.vorey.fr
 https://vorges.fr
@@ -30963,7 +30962,6 @@ https://guadeloupe.cidff.info
 https://hauteloire.cidff.info
 https://hautesaone.cidff.info
 https://hautrhin.cidff.info
-https://hautsdeseine-clamart.cidff.info
 http://www.hautsdeseine-clamart.cidff.info
 https://hautsdeseine-nord.cidff.info
 https://herault.cidff.info
@@ -31140,7 +31138,7 @@ https://www.bossay-sur-claise.net
 https://www.bouhy.net
 https://www.bouillante.net
 https://www.bourg-gironde.net
-https://brechamps.net
+http://brechamps.net
 https://www.brechamps.net
 http://bremes.net
 http://www.bremes.net
