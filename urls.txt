@@ -693,6 +693,7 @@ https://cc-ilo.com
 http://www.cc-ilo.com
 https://cc-limouxin.com
 https://cc-malesherbois.com
+https://www.cc-osartis.com
 https://www.cc-pays-huriel.com
 https://cc-pays-marollais.com
 https://cc-paysdebray.com
@@ -1228,7 +1229,7 @@ https://www.federationpeche78.com
 https://www.federationpeche82.com
 https://feliceto-filicetu.com
 https://www.fenouilledes.com
-https://fenouillet-du-razes.com
+http://fenouillet-du-razes.com
 https://feron-vrau.com
 https://www.ferralscorbieres.com
 https://ferrieres-en-brie.com
@@ -1531,7 +1532,6 @@ http://www.la-renaudie.com
 https://la-roche-des-arnauds.com
 https://www.la-roche-des-arnauds.com
 https://www.la-romieu.com
-http://www.la-terrasse-sur-dorlay.com
 https://www.la-thuile.com
 https://la-toussuire.com
 https://www.laa-mondrans.com
@@ -1826,7 +1826,7 @@ https://lyceenordcaraibe.com
 https://lyceepapara.com
 https://www.lyceepaulvalery.com
 https://www.lyceerompsay17.com
-http://www.lyceerotroudreux.com
+https://www.lyceerotroudreux.com
 https://lyceerudloff.com
 https://www.lyceesevigne.com
 https://www.lyceesoniadelaunay77.com
@@ -1843,6 +1843,7 @@ https://mainzac16.com
 https://www.mainzac16.com
 http://attigneville.mairie.com
 http://www.attigneville.mairie.com
+http://www.dounoux.mairie.com
 http://mattaincourt.mairie.com
 http://www.mattaincourt.mairie.com
 http://remomeix.mairie.com
@@ -2129,7 +2130,6 @@ https://www.mairiedecieux.com
 https://www.mairiedeclecy.com
 https://mairiedecubnezais.com
 https://www.mairiedecubnezais.com
-https://www.mairiedecuffy.com
 https://mairiedecuvilly.com
 https://www.mairiedecuvilly.com
 https://www.mairiedefavieres.com
@@ -3386,7 +3386,6 @@ https://ville-trebes.com
 https://ville-yzeure.com
 https://www.ville-yzeure.com
 https://villeauval.com
-https://www.villeauval.com
 https://www.villebois-lavalette.com
 https://www.villecheneve.com
 http://villecloye.com
@@ -4838,7 +4837,6 @@ http://lp-roches-maigres.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
 http://lycee-patu.ac-reunion.fr
 http://ia27.ac-rouen.fr
-http://ia76.ac-rouen.fr
 https://braque-col.spip.ac-rouen.fr
 https://cio.spip.ac-rouen.fr
 http://www.cio.spip.ac-rouen.fr
@@ -5334,6 +5332,7 @@ https://www.apchon.fr
 https://www.apgl64.fr
 https://affairesjuridiques.aphp.fr
 https://ambroisepare.aphp.fr
+https://aphp.aphp.fr
 https://soutenir.aphp-centre.aphp.fr
 https://soutenir.aphp-sorbonne-universite.aphp.fr
 https://bo-myaphp.aphp.fr
@@ -5351,7 +5350,6 @@ https://epilepsie-robertdebre.aphp.fr
 https://evenementiels.aphp.fr
 https://ghparis10.aphp.fr
 https://gynecologieobstetrique-psl.aphp.fr
-https://hopital-beaujon.aphp.fr
 https://hopital-bicetre.aphp.fr
 https://hopital-necker.aphp.fr
 https://hopital-saintlouis.aphp.fr
@@ -6675,7 +6673,6 @@ https://beauvoisencambresis.fr
 https://www.beauvoisin.fr
 http://www.beaux.fr
 https://www.beauzelle.fr
-http://www.beblenheim.fr
 https://beconlesgranits.fr
 https://www.beconlesgranits.fr
 https://bedenac17.fr
@@ -6849,6 +6846,7 @@ http://www.bervillesurseine.fr
 https://berzelaville.fr
 https://www.berzelaville.fr
 https://www.besancon.fr
+https://www.besayes.fr
 http://www.bescat.fr
 https://www.bessan.fr
 https://www.bessas.fr
@@ -8350,6 +8348,7 @@ https://www.paulinet.ccmav.fr
 https://www.saint-andre.ccmav.fr
 https://www.villefranchedalbigeois.ccmav.fr
 https://www.ccmedocatlantique.fr
+https://www.ccmene.fr
 https://www.ccmirecourtdompaire.fr
 https://www.ccmoivrecoole.fr
 http://ccmonline.fr
@@ -8447,6 +8446,7 @@ https://ccvlv.fr
 https://www.ccvo.fr
 https://www.ccvo3f.fr
 https://www.ccvosgesdusud.fr
+https://www.ccvp.fr
 https://ccvs84.fr
 https://ccvsa.fr
 https://www.ccvusp.fr
@@ -11424,7 +11424,6 @@ https://www.echirolles.fr
 https://www.echodescommunes.fr
 https://www.eckartswiller.fr
 http://ecke.fr
-http://www.ecke.fr
 https://www.eckwersheim.fr
 https://www.ecla-jura.fr
 https://eclans-nenon.fr
@@ -11509,6 +11508,7 @@ https://www.tarn.educagri.fr
 https://epl.valabre.educagri.fr
 https://vienne.educagri.fr
 https://educagri27.fr
+https://auth.apps.education.fr
 https://edition.apps.education.fr
 https://nuage.apps.education.fr
 https://podeduc.apps.education.fr
@@ -13545,6 +13545,8 @@ https://delia.culture.gouv.fr
 https://demarches.culture.gouv.fr
 https://dismoidixmots.culture.gouv.fr
 https://enquetes.culture.gouv.fr
+http://journeesdupatrimoine.test.evenementiels.culture.gouv.fr
+http://nuitdelalecture.test.evenementiels.culture.gouv.fr
 https://fetedelamusique.culture.gouv.fr
 https://forumentreprendreculture.culture.gouv.fr
 https://histoiredesarts.culture.gouv.fr
@@ -14274,7 +14276,6 @@ https://data.hauts-de-france.education.gouv.fr
 http://ehea.hyperion.education.gouv.fr
 https://innovatheque-pub.education.gouv.fr
 https://www.inserjeunes.education.gouv.fr
-https://itrf.education.gouv.fr
 https://www.itrf.education.gouv.fr
 https://ldif.education.gouv.fr
 https://ldirect.education.gouv.fr
@@ -14505,7 +14506,6 @@ https://api.bas.psc.esante.gouv.fr
 https://wallet.bas.psc.esante.gouv.fr
 https://ror.esante.gouv.fr
 https://rorcertification.esante.gouv.fr
-https://rorformation.esante.gouv.fr
 https://rortest.esante.gouv.fr
 https://status.samu.esante.gouv.fr
 https://status.santefr.esante.gouv.fr
@@ -15195,6 +15195,7 @@ https://test.proconnect.gouv.fr
 https://programme-nitrate.gouv.fr
 http://documents.projets-environnement.gouv.fr
 https://www.projets-environnement.gouv.fr
+http://projets-sig.gouv.fr
 https://www.puy-de-dome.gouv.fr
 https://www.pyrenees-atlantiques.gouv.fr
 https://www.pyrenees-orientales.gouv.fr
@@ -15301,6 +15302,7 @@ https://transparence.sante.gouv.fr
 https://www.transparence.sante.gouv.fr
 https://urgences-collecte.sante.gouv.fr
 https://www.urgences-collecte.sante.gouv.fr
+https://siseauth.valid.sante.gouv.fr
 https://vrb.sante.gouv.fr
 https://www.saone-et-loire.gouv.fr
 https://www.sarthe.gouv.fr
@@ -15433,6 +15435,7 @@ http://ginco.tessadoc.social.gouv.fr
 http://www.preprod.tessadoc.social.gouv.fr
 http://ginco.test.tessadoc.social.gouv.fr
 https://kohacult.test.tessadoc.social.gouv.fr
+https://kohapro.test.tessadoc.social.gouv.fr
 https://opackohacult.test.tessadoc.social.gouv.fr
 http://www.test.tessadoc.social.gouv.fr
 http://www.tessadoc.social.gouv.fr
@@ -16219,7 +16222,6 @@ https://www.henriville.fr
 http://www.henvic.fr
 https://herault.fr
 https://www.herault-energies.fr
-https://www.herault-transport.fr
 https://www.herbeville.fr
 https://www.herbeys.fr
 https://herbitzheim.fr
@@ -16699,6 +16701,7 @@ https://www.la-barde.fr
 https://la-bassee59.fr
 https://www.la-bassee59.fr
 https://www.la-bastide-de-besplas.fr
+http://la-bastide-dengras.fr
 http://www.la-bastide-dengras.fr
 https://www.la-baume.fr
 http://la-baume-dhostun.fr
@@ -17242,6 +17245,7 @@ https://lampaul-plouarzel.fr
 https://www.lampertheim.fr
 https://www.lampertsloch.fr
 https://www.lamulatiere.fr
+https://lamure.fr
 https://lanarce.fr
 https://lanas.fr
 https://lancie.fr
@@ -17386,6 +17390,7 @@ https://larnage.fr
 https://www.larnage.fr
 https://larnaud.fr
 https://larnod.fr
+https://larobine.fr
 https://www.laroche-saint-cydroine.fr
 https://www.larochebeaucourt.fr
 https://www.larocheblanche.fr
@@ -19770,7 +19775,7 @@ https://www.mairie-ibos.fr
 https://www.mairie-ida.fr
 https://mairie-ige.fr
 https://www.mairie-ige.fr
-http://www.mairie-ileauxmoines.fr
+https://www.mairie-ileauxmoines.fr
 https://www.mairie-ilebouchard.fr
 https://www.mairie-iledarz.fr
 https://www.mairie-iledelle.fr
@@ -19941,6 +19946,7 @@ https://www.mairie-levernois.fr
 http://www.mairie-levillars71.fr
 https://mairie-lezardrieux.fr
 https://www.mairie-lezardrieux.fr
+https://www.mairie-lezay.fr
 https://www.mairie-lherm.fr
 http://www.mairie-lhoumeau.fr
 https://www.mairie-lieu-saint-amand.fr
@@ -21469,7 +21475,6 @@ http://www.marnay.fr
 https://www.marnay-sur-seine.fr
 https://www.marnaz.fr
 https://marne-la-coquette.fr
-https://www.marne-la-coquette.fr
 https://www.marneetgondoire.fr
 https://www.marnes-la-coquette.fr
 https://www.maroeuil.fr
@@ -21794,7 +21799,6 @@ https://www.mesnil-en-ouche.fr
 https://www.mesnil-saint-loup.fr
 https://mesnil-sellieres.fr
 https://www.mesnil-sellieres.fr
-https://www.mesnils-sur-iton.fr
 https://www.mesplede64.fr
 https://www.mesquer-quimiac.fr
 https://messas.fr
@@ -26719,7 +26723,6 @@ https://sandrans.fr
 https://www.sanilhac-perigord.fr
 https://sannat.fr
 https://sannes.fr
-https://www.sannes.fr
 https://sanrysurnied.fr
 http://www.sanrysurnied.fr
 https://www.sansacdemarmiesse.fr
@@ -28951,6 +28954,7 @@ https://viels-maisons.fr
 https://www.viels-maisons.fr
 https://vielverge.fr
 https://www.vielverge.fr
+https://www.viennay.fr
 https://vienne.fr
 https://www.vienne-condrieu-agglomeration.fr
 https://vienne-en-arthies.fr
@@ -29525,13 +29529,13 @@ https://www.ville-hoenheim.fr
 https://www.ville-horme.fr
 https://www.ville-houilles.fr
 https://www.ville-houlgate.fr
-http://www.ville-houplines.fr
+https://ville-houplines.fr
+https://www.ville-houplines.fr
 https://ville-illies.fr
 https://ville-illzach.fr
 https://ville-imphy.fr
 https://www.ville-imphy.fr
 http://www.ville-ingersheim.fr
-https://www.ville-isbergues.fr
 https://www.ville-isle.fr
 https://ville-isle-adam.fr
 https://www.ville-ivry-la-bataille.fr
@@ -31195,7 +31199,7 @@ https://www.murdebretagne.net
 https://navailles-angos.net
 http://neuilly-saint-front.net
 https://www.neuvic-correze.net
-http://niaux.net
+https://niaux.net
 https://noizay.net
 https://www.noizay.net
 https://www.noyelles.net
@@ -31699,7 +31703,7 @@ http://www.eyguieres.org
 https://face-alsace.org
 https://www.face-alsace.org
 https://www.face-herault.org
-https://falletans.org
+http://falletans.org
 https://www.falletans.org
 https://www.famillesrurales.org
 https://www.faremoutiers.org
