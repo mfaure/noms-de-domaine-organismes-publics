@@ -1245,7 +1245,6 @@ https://college.fontaine-du-ve.com
 https://lpo.fontaine-du-ve.com
 https://fontaine-fourches.com
 https://www.fontaine-fourches.com
-https://fontan-tourisme.com
 https://www.fontcouverte-latoussuire.com
 https://www.fontenoy-le-chateau.com
 http://fontgombault.com
@@ -1285,7 +1284,6 @@ https://www.fumelvalleedulot.com
 https://cassagnoles.funimag.com
 https://furdenheim.com
 https://www.furdenheim.com
-https://www.gagnieres.com
 https://www.gaillac-toulza.com
 https://gamarde-les-bains.com
 https://gancourtsaintetienne.com
@@ -1902,7 +1900,6 @@ https://www.mairie-cuhon.com
 http://www.mairie-de-casseneuil.com
 http://mairie-de-chaussy45.com
 http://www.mairie-de-chaussy45.com
-http://www.mairie-de-cierrey.com
 https://mairie-de-gargenville.com
 https://www.mairie-de-givenchy.com
 https://mairie-de-lonny.com
@@ -2682,7 +2679,7 @@ https://remuzat.com
 https://www.remuzat.com
 https://www.renwez.com
 http://ressonslelong.com
-http://www.ressonslelong.com
+https://www.ressonslelong.com
 https://restinclieres.com
 http://rethondes.com
 http://www.rethondes.com
@@ -4361,7 +4358,6 @@ http://www.clg-stsulpice-les-feuilles.ac-limoges.fr
 http://www.lp-bort.ac-limoges.fr
 http://www.lp-clg-robert-ledorat.ac-limoges.fr
 http://www.lyc-lemasjambost-limoges.ac-limoges.fr
-http://www.lyc-nadaud-bellac.ac-limoges.fr
 http://www.lyc-palissy.ac-limoges.fr
 https://www.lyc-turgot.ac-limoges.fr
 http://www.lyc-ventadour.ac-limoges.fr
@@ -4461,7 +4457,6 @@ http://clg-albert-sidoisne-bonneval.tice.ac-orleans-tours.fr
 http://clg-alfred-de-musset-patay.tice.ac-orleans-tours.fr
 http://clg-anatole-france-tours.tice.ac-orleans-tours.fr
 http://clg-andre-chene-les-jacobins-fleury-les-aubrais.tice.ac-orleans-tours.fr
-http://clg-arche-du-lude-joue-les-tours.tice.ac-orleans-tours.fr
 http://clg-balzac-issoudun.tice.ac-orleans-tours.fr
 http://clg-balzac-saint-amand-longpre.tice.ac-orleans-tours.fr
 http://clg-bazille-beaune-la-rolande.tice.ac-orleans-tours.fr
@@ -4504,7 +4499,6 @@ http://clg-jean-moulin-chartres.tice.ac-orleans-tours.fr
 http://clg-jean-philippe-rameau-tours.tice.ac-orleans-tours.fr
 http://clg-joachim-du-bellay-authon-du-perche.tice.ac-orleans-tours.fr
 http://clg-joachim-du-bellay-chateau-la-valliere.tice.ac-orleans-tours.fr
-http://clg-joseph-crocheton-onzain.tice.ac-orleans-tours.fr
 http://clg-joseph-paul-boncour-st-aignan.tice.ac-orleans-tours.fr
 http://clg-jules-ferry-auneau.tice.ac-orleans-tours.fr
 http://clg-jules-romains-st-avertin.tice.ac-orleans-tours.fr
@@ -5231,7 +5225,6 @@ https://cancer-estparisien.aphp.fr
 https://cancer-grossesse.aphp.fr
 https://charlesfoix.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
-https://chu93.aphp.fr
 https://cme.aphp.fr
 https://compare.aphp.fr
 https://concours.aphp.fr
@@ -7149,7 +7142,6 @@ https://boury-en-vexin.fr
 https://www.boury-en-vexin.fr
 https://bousbecque.fr
 https://www.bousbecque.fr
-https://www.bouscat.fr
 https://bousies.fr
 https://www.bousies.fr
 https://www.boussac.fr
@@ -10053,7 +10045,6 @@ https://www.corbere-les-cabanes.fr
 https://corberon.fr
 https://www.corberon.fr
 https://corbes.fr
-https://www.corbes.fr
 https://corbigny.fr
 https://www.corbigny.fr
 https://www.corbonod.fr
@@ -10381,7 +10372,6 @@ https://www.cros-de-montvert.fr
 https://cros-la-tartiere.fr
 https://www.crosdegeorand.fr
 https://www.crosderonesque.fr
-https://crosne.fr
 https://www.crosne.fr
 https://www.crossac.fr
 https://www.crosville-la-vieille.fr
@@ -14838,7 +14828,6 @@ https://www.meuse.gouv.fr
 http://aai.dgi.minefi.gouv.fr
 http://www11.minefi.gouv.fr
 http://www4.minefi.gouv.fr
-https://www.miqcp.gouv.fr
 https://4p-auth-uat.modernisation.gouv.fr
 https://www.modernisation.gouv.fr
 https://certificateurs.moncompteformation.gouv.fr
@@ -14973,7 +14962,6 @@ https://demonstrateur-dev.proconnect.gouv.fr
 https://demonstrateur-int.proconnect.gouv.fr
 https://demonstrateur-pprd.proconnect.gouv.fr
 https://demonstrateur-rec.proconnect.gouv.fr
-https://dev.proconnect.gouv.fr
 https://int.proconnect.gouv.fr
 https://pprd.proconnect.gouv.fr
 https://rec.proconnect.gouv.fr
@@ -16198,7 +16186,6 @@ https://www.ipb.fr
 https://www.ipsl.fr
 http://ira-lille.fr
 https://promo50.ira-lille.fr
-http://www.ira-lille.fr
 https://www.ird.fr
 https://irigny.fr
 https://www.irigny.fr
@@ -17170,6 +17157,7 @@ https://www.larochebeaucourt.fr
 https://www.larocheblanche.fr
 https://www.larochecanillac.fr
 https://www.larochechalais.fr
+http://larochefoucauld.fr
 https://www.larochefoucauldenangoumois.fr
 https://www.larocheguyon.fr
 http://www.larochelabeille.fr
@@ -17806,7 +17794,6 @@ https://www.lessard-le-national.fr
 http://www.lessauvages.fr
 https://lessay.fr
 https://www.lessay.fr
-https://www.lessieges.fr
 https://lestaillades.fr
 https://lesterresdechaux.fr
 https://lestiou.fr
@@ -18281,7 +18268,6 @@ https://www.lupiac.fr
 http://luppy.fr
 http://www.luppy.fr
 https://luquet.fr
-http://luray.fr
 http://www.luray.fr
 https://lurcy.fr
 https://www.lure.fr
@@ -20776,7 +20762,6 @@ https://www.mairiedecompans.fr
 https://mairiedecos.fr
 https://www.mairiedecos.fr
 https://mairiedecourcy.fr
-https://www.mairiedecourcy.fr
 https://www.mairiedecourpiac.fr
 https://www.mairiedecourquetaine.fr
 https://www.mairiedecravent.fr
@@ -20983,7 +20968,6 @@ https://mairiereventinvaugris.fr
 https://www.mairiereventinvaugris.fr
 https://mairierocamadour.fr
 https://mairieroissard.fr
-https://www.mairieroissard.fr
 https://mairiesaintantoine.fr
 https://www.mairiesaintantoine.fr
 https://www.mairiesaintantoninsurbayon.fr
@@ -21453,6 +21437,7 @@ https://www.meilhan40.fr
 https://www.meilhansurgaronne.fr
 https://www.meilhards.fr
 https://meillac.fr
+http://meilleraie-tillay.fr
 https://www.meilleraietillay.fr
 https://meillon.fr
 https://www.meistratzheim.fr
@@ -21717,6 +21702,7 @@ https://mission-locale-ivry-vitry.fr
 https://www.mission-locale-limoges.fr
 https://www.mission-locale-montlucon.fr
 https://mission-locale-nord-ouest-aubois.fr
+https://mission-locale-taverny.fr
 https://www.mission-locale-toulon.fr
 https://www.missionjeunestarnnord.fr
 https://www.missionlocale.fr
@@ -25147,6 +25133,7 @@ http://www.saint-georges-sur-la-pree.fr
 https://www.saint-georges-sur-loire.fr
 http://www.saint-georges-sur-moulon.fr
 http://www.saint-georges-sur-renon.fr
+https://saint-germain-des-pres-loiret.fr
 https://www.saint-germain-des-pres-loiret.fr
 https://saint-germain-du-plain.fr
 https://www.saint-germain-du-plain.fr
@@ -27043,7 +27030,6 @@ https://www.sipperec.fr
 https://www.sira59.fr
 https://www.siran-minervois.fr
 https://www.sircc.fr
-https://siros.fr
 https://www.siros.fr
 https://sirp-coutach.fr
 https://sirs-leshirondelles.fr
@@ -30736,7 +30722,6 @@ https://beaumont-sur-leze.net
 https://www.beauquesne.net
 http://belgentier.net
 http://www.bendejun.net
-https://bizanet.net
 https://www.bizanet.net
 https://www.boersch.net
 https://www.boisrobert.net
@@ -30979,7 +30964,6 @@ https://www.ribaute.net
 https://www.rocles.net
 https://rougnac.net
 http://mairie.rustrel.net
-https://www.saint-eloi-de-fourques.net
 https://saint-etienne-roilaye.net
 https://www.saint-flour.net
 https://www.saint-germain-de-la-grange.net
@@ -31019,7 +31003,6 @@ https://www.talizat.net
 http://terroirdecaux.net
 https://thorigny.net
 http://www.thorigny.net
-http://tigery.net
 http://www.tigery.net
 https://www.tignes.net
 https://www.touillon.net
