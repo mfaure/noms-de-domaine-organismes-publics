@@ -455,6 +455,7 @@ https://bij-orne.com
 https://www.bilheres-mairie.com
 https://biltzheim.com
 https://blangy-sur-ternoise.com
+https://www.blangy-sur-ternoise.com
 http://blanquefort-sur-briolance.com
 http://www.blanquefort-sur-briolance.com
 https://blassac.com
@@ -657,7 +658,7 @@ https://www.castelnau-riviere-basse.com
 https://castelnaud-la-chapelle.com
 https://www.castelnaud-la-chapelle.com
 https://castelnaudauzan.com
-http://www.castelnaudauzan.com
+https://www.castelnaudauzan.com
 https://castelnaudemontmiral-tourisme.com
 https://www.castera-verduzan.com
 https://castillon09.com
@@ -1797,6 +1798,7 @@ https://lyceegilbertcourtois.com
 https://www.lyceehorti41.com
 https://lyceejeanmoulinlbm.com
 https://www.lyceejeannedarcnancy.com
+https://www.lyceelinoventura.com
 https://www.lyceemaritime-boulogne.com
 http://www.lyceemaximilienvox.com
 https://lyceemermoz.com
@@ -1933,7 +1935,6 @@ https://mairie-islejourdain.com
 https://www.mairie-islejourdain.com
 http://mairie-jarret.com
 http://www.mairie-jarret.com
-https://mairie-koungou.com
 https://www.mairie-koungou.com
 https://www.mairie-la-chapelle-vaupelteigne-89.com
 https://www.mairie-la-limouziniere.com
@@ -1964,7 +1965,6 @@ http://www.mairie-listrac-medoc.com
 https://mairie-lorquin.com
 https://www.mairie-lorquin.com
 https://mairie-lorrain.com
-https://www.mairie-marigny.com
 https://mairie-marseille2-3.com
 https://www.mairie-marseille2-3.com
 https://mairie-mauvezinsurgupie.com
@@ -2075,6 +2075,7 @@ https://www.mairie-veigne.com
 https://www.mairie-venouse-89.com
 https://www.mairie-vergezac.com
 http://www.mairie-verleschartres.com
+https://mairie-villard-reculas.com
 https://www.mairie-villard-reculas.com
 https://www.mairie-villegusienlelac.com
 http://mairie-villiers.com
@@ -2357,6 +2358,7 @@ https://nefiach.com
 https://www.nefiach.com
 https://commune-de-beauvoisin.neopse-site.com
 http://neuve-maison.com
+http://www.neuve-maison.com
 https://neuville-de-poitou.com
 https://www.neuville-de-poitou.com
 https://www.neuville-sur-brenne.com
@@ -2839,7 +2841,6 @@ https://saintcoulomb.com
 https://www.saintcoulomb.com
 https://saintcrepin.com
 https://www.saintcrepin.com
-https://www.saintcyrlesvignes.com
 https://www.saintdenisdanjou.com
 https://www.saintdenisenval.com
 https://www.sainte-anne-auray.com
@@ -3366,7 +3367,6 @@ https://www.villedecondren.com
 https://www.villedefloing.com
 https://www.villedegenay.com
 https://villedepegomas.com
-https://www.villedesaintgobain.com
 https://villedestroisilets.com
 https://villedomain.com
 https://www.villedomain.com
@@ -4347,14 +4347,11 @@ http://www.clg-desproges-chalus.ac-limoges.fr
 http://www.clg-felletin.ac-limoges.fr
 http://www.clg-larche.ac-limoges.fr
 http://www.clg-marysebastie.ac-limoges.fr
-http://www.clg-monnet-chateauneuf.ac-limoges.fr
-http://www.clg-ronsard.ac-limoges.fr
 http://www.lp-bort.ac-limoges.fr
 http://www.lp-clg-robert-ledorat.ac-limoges.fr
 http://www.lyc-lemasjambost-limoges.ac-limoges.fr
 http://www.lyc-palissy.ac-limoges.fr
 https://www.lyc-turgot.ac-limoges.fr
-http://www.lyc-ventadour.ac-limoges.fr
 https://amberieu.cio.ac-lyon.fr
 https://bellegarde.cio.ac-lyon.fr
 https://belley.cio.ac-lyon.fr
@@ -4431,7 +4428,6 @@ https://www.clg-la-fontonne.ac-nice.fr
 https://www.clg-les-campelieres.ac-nice.fr
 https://www.clg-maurice-jaubert.ac-nice.fr
 https://www.clg-pierre-bonnard.ac-nice.fr
-https://www.clg-rene-cassin.ac-nice.fr
 https://www.clg-reynier.ac-nice.fr
 https://www.lyc-alexis-de-tocqueville.ac-nice.fr
 https://www.lyc-anne-sophie-pic.ac-nice.fr
@@ -6381,7 +6377,6 @@ https://barzan.fr
 https://www.barzan.fr
 https://www.barzun.fr
 https://www.bascons.fr
-https://basedeloisirs-lery-poses.fr
 https://www.basenbasset.fr
 https://baslieux.fr
 https://baslieux-les-fismes.fr
@@ -7473,7 +7468,6 @@ https://www.ca-saintdie.fr
 http://ca2bm.fr
 https://www.ca2bm.fr
 https://www.cabanacetvillagrains.fr
-http://cabanes81.fr
 http://www.cabanes81.fr
 http://wwww.cabanes81.fr
 https://cabariot.fr
@@ -7528,7 +7522,7 @@ http://www.caixon.fr
 https://www.cajarc.fr
 https://www.calais.fr
 http://www.calavante.fr
-http://calcatoggio.fr
+https://calcatoggio.fr
 http://www.calce.fr
 https://cales.fr
 https://callas.fr
@@ -8449,7 +8443,6 @@ https://cely.fr
 https://cenac-en-perigord.fr
 https://www.cenac-en-perigord.fr
 https://www.cenac33.fr
-https://www.cendras.fr
 https://cenevieres.fr
 https://www.cenevieres.fr
 https://www.cenon.fr
@@ -8603,6 +8596,7 @@ https://www.chalonnes-sur-loire.fr
 https://www.chalons-agglo.fr
 https://chalons-vesle.fr
 https://www.chalonsenchampagne.fr
+http://chalosaintmars.fr
 http://www.chalosaintmars.fr
 https://www.chalossetursan.fr
 https://www.chalus63.fr
@@ -8672,6 +8666,7 @@ https://chamoux-sur-gelon.fr
 https://champagnac.fr
 https://champagnac-la-noaille.fr
 https://champagnac17.fr
+https://www.champagnac17.fr
 https://champagnacdebelair.fr
 https://champagnaclariviere.fr
 https://www.champagnaclariviere.fr
@@ -10844,6 +10839,7 @@ https://douvrin.fr
 https://douzat.fr
 https://www.douzat.fr
 https://douzillacmonvillage.fr
+http://www.doyet.fr
 https://dozule.fr
 https://drace.fr
 https://www.drace.fr
@@ -11548,7 +11544,6 @@ https://www.ercepresliffre.fr
 https://www.ercheu.fr
 http://www.erdeven.fr
 https://www.erdre-en-anjou.fr
-https://www.erea-chambery.fr
 https://erea-jeanbart.fr
 https://erea-joel-jeannot.fr
 https://www.erea86.fr
@@ -11569,7 +11564,6 @@ https://www.erondelle.fr
 https://www.erquinghemlesec.fr
 https://ervy-le-chatel.fr
 https://www.ervy-le-chatel.fr
-https://escal-witry.fr
 https://www.escal-witry.fr
 https://escalans-saintemeille.fr
 http://www.escalans-saintemeille.fr
@@ -11659,6 +11653,7 @@ https://www.esserts-blay.fr
 https://www.esseylesnancy.fr
 https://esson.fr
 https://essone.fr
+https://www.essone.fr
 https://essouvert.fr
 https://essoyes.fr
 https://www.essoyes.fr
@@ -14046,7 +14041,6 @@ https://passerelles-gestion.economie.gouv.fr
 https://www.passerelles-gestion.economie.gouv.fr
 https://presse.economie.gouv.fr
 https://ssi.economie.gouv.fr
-https://dev.supportaife.economie.gouv.fr
 https://test.supportaife.economie.gouv.fr
 https://www.tresor.economie.gouv.fr
 http://a-l-ecole-du-petit-vivier.education.gouv.fr
@@ -14693,6 +14687,7 @@ https://employeurs.ira-metz.gouv.fr
 https://www.ira-metz.gouv.fr
 https://dev-extranet.ira-nantes.gouv.fr
 https://dev-gefira.ira-nantes.gouv.fr
+https://doc-gefira.ira-nantes.gouv.fr
 https://fas.ira-nantes.gouv.fr
 https://gtw.ira-nantes.gouv.fr
 https://www.ira-nantes.gouv.fr
@@ -15546,6 +15541,7 @@ https://www.grandsitesalagoumoureze.fr
 https://www.grandsud82.fr
 https://www.grandvillars.fr
 https://grandvillersauxbois-beaupuits.fr
+https://www.grandvillersauxbois-beaupuits.fr
 http://www.grandvilliers.fr
 https://grane.fr
 https://www.grane.fr
@@ -16150,7 +16146,6 @@ https://info-villeneuve-sur-bellot.fr
 https://www.info16cognac.fr
 https://infoasso32.fr
 https://www.infocom94.fr
-https://www.infofemmes-orne.fr
 https://www.infojeunes-paca.fr
 https://www.informations-publiques.fr
 https://www.infos-jeunes.fr
@@ -20109,7 +20104,6 @@ https://mairie-rochecorbon.fr
 https://www.mairie-rochecorbon.fr
 https://mairie-rochegude.fr
 https://www.mairie-rochegude.fr
-https://www.mairie-rocher.fr
 http://www.mairie-rocles-07.fr
 https://mairie-rodemack.fr
 https://mairie-roinville.fr
@@ -20693,7 +20687,6 @@ https://mairiecampuzan.fr
 https://mairiecarbay.fr
 https://mairiecasepilote.fr
 http://www.mairiecassagnoles30.fr
-https://www.mairiecesnyauxvignes.fr
 https://mairiecezac.fr
 https://www.mairiecezac.fr
 https://mairiechambaronsurmorge.fr
@@ -20723,7 +20716,6 @@ https://mairiedebailly60.fr
 https://mairiedebarles.fr
 https://www.mairiedebaron.fr
 http://mairiedebarrou.fr
-https://mairiedebastelicaccia.fr
 https://www.mairiedebeaulieu.fr
 https://www.mairiedebetzlechateau.fr
 http://mairiedebiermont.fr
@@ -22355,7 +22347,6 @@ https://monthault.fr
 http://monthelon.fr
 http://www.monthelon.fr
 https://www.monthenault.fr
-https://montherme.fr
 https://www.montherme.fr
 https://monthion.fr
 http://www.monthoiron.fr
@@ -23301,7 +23292,6 @@ https://ousse-suzan.fr
 https://www.ousse-suzan.fr
 http://www.oussoyengatinais.fr
 http://outines.fr
-http://www.outines.fr
 https://www.ouveillan.fr
 http://ouvillelabbaye.fr
 https://www.ouvrirlascience.fr
@@ -24035,7 +24025,6 @@ https://porte-du-quercy.fr
 http://www.portedebenauge.fr
 https://www.portededromardeche.fr
 https://portedespierresdorees.fr
-http://portel-des-corbieres.fr
 http://www.portel-des-corbieres.fr
 https://www.portenbessin-huppain.fr
 https://www.porteoceane-dulimousin.fr
@@ -24678,7 +24667,6 @@ https://www.roquefort40.fr
 https://roquefort47.fr
 https://roquefortdesault.fr
 https://www.roquefortdesault.fr
-https://www.roquemaure.fr
 https://www.roquemaure-tarn.fr
 https://roquesteron.fr
 https://www.roquetoire.fr
@@ -25327,6 +25315,7 @@ http://saint-martin-chateau.fr
 http://www.saint-martin-chateau.fr
 https://saint-martin-d-auxy.fr
 https://www.saint-martin-d-auxy.fr
+https://saint-martin-de-bromes.fr
 https://www.saint-martin-de-bromes.fr
 https://saint-martin-de-commune.fr
 https://saint-martin-de-fontenay.fr
@@ -27741,7 +27730,6 @@ https://www.tillenay.fr
 https://www.tilloy-et-bellay.fr
 https://tilloylesmofflaines.fr
 https://www.tilloylesmofflaines.fr
-https://tilly-27510.fr
 https://tilly-eure.fr
 https://www.tilly-eure.fr
 https://tilques.fr
@@ -27976,7 +27964,6 @@ https://rennes.tribunal-administratif.fr
 https://rouen.tribunal-administratif.fr
 https://strasbourg.tribunal-administratif.fr
 https://toulouse.tribunal-administratif.fr
-https://www.tribunal-de-commerce-de-paris.fr
 http://www.trie-chateau.fr
 https://www.triel-sur-seine.fr
 https://trigance.fr
@@ -29881,6 +29868,7 @@ http://ville-vanves.fr
 https://ville-varennes-vauzelles.fr
 https://ville-varilhes.fr
 https://ville-vauclin.fr
+https://www.ville-vaugrigneuse.fr
 http://www.ville-verndanjou.fr
 https://www.ville-verquin.fr
 https://www.ville-verson.fr
@@ -31013,6 +31001,7 @@ https://valreas.net
 https://vaulx-en-velin.net
 http://vaux-en-amienois.net
 http://www.vaux-en-amienois.net
+https://www.velaux.net
 https://www.venterol.net
 https://www.verdese.net
 https://www.verzenay.net
