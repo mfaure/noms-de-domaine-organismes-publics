@@ -232,7 +232,7 @@ http://www.agglodieppe-maritime.com
 http://www.aguilcourt.com
 https://aignay-le-duc.com
 https://www.aignay-le-duc.com
-http://aiguefonde.com
+https://aiguefonde.com
 https://www.aiguefonde.com
 http://aiguines.com
 https://aijam.com
@@ -995,7 +995,6 @@ https://www.crib95.com
 https://crij.com
 https://crij-bretagne.com
 https://www.crij-montpellier.com
-https://croettwiller.com
 https://www.croissy.com
 https://croissysurcelle.com
 http://www.croissysurcelle.com
@@ -1015,6 +1014,7 @@ http://dampniat.com
 http://www.dampniat.com
 https://damvillers-spincourt.com
 https://dan.com
+https://daoulas.com
 https://www.daoulas.com
 https://dartagnanenfezensac.com
 https://www.dartagnanenfezensac.com
@@ -1576,9 +1576,11 @@ https://lagardiolle.com
 https://lagrauletdugers.com
 http://www.lagrauletdugers.com
 https://www.lagrevesurmignon.com
+https://www.lahallotiere.com
 https://www.lalongue.com
 https://lamarche88.com
 https://www.lamarche88.com
+https://lamesniere.com
 https://www.lameziere.com
 https://lamissionlocale.com
 https://www.lamothe-goas.com
@@ -1731,7 +1733,6 @@ https://lombez-gers.com
 https://www.lombez-gers.com
 https://www.lompnas.com
 https://lonlaylabbaye.com
-https://loriges.com
 https://www.loriges.com
 https://www.loriol.com
 https://lorrez-le-bocage-preaux.com
@@ -1863,6 +1864,7 @@ http://www.mairie-brieres.com
 https://mairie-brouy.com
 https://www.mairie-brouy.com
 http://mairie-buisson.com
+https://www.mairie-cales.com
 https://www.mairie-carisey-89.com
 https://mairie-castagniers.com
 https://www.mairie-castagniers.com
@@ -3619,7 +3621,6 @@ http://mieussy.eu
 http://www.mieussy.eu
 https://milly-sur-therain.eu
 https://www.milly-sur-therain.eu
-http://www.mittelwihr.eu
 https://www.mlpe.eu
 https://www.mairie.monsegur.eu
 https://mont-saint-sulpice.eu
@@ -4405,7 +4406,6 @@ http://dsden57.ac-nancy-metz.fr
 https://www.clg-francois-de-leusse.ac-nice.fr
 https://www.clg-genevieve-de-gaulle-anthonioz.ac-nice.fr
 https://www.clg-gerard-philipe-83.ac-nice.fr
-https://www.clg-jean-franco.ac-nice.fr
 https://www.clg-joseph-pagnol.ac-nice.fr
 https://www.clg-l-eau-vive.ac-nice.fr
 https://www.clg-la-fontonne.ac-nice.fr
@@ -5214,7 +5214,6 @@ https://mobilestore.aphp.fr
 https://mon.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
 http://otms-g02.aphp.fr
-https://pitiesalpetriere.aphp.fr
 https://plateformeprojets.aphp.fr
 https://prbmondor.aphp.fr
 https://ptah.aphp.fr
@@ -5278,7 +5277,6 @@ http://www.archignac.fr
 https://www.archingeay.fr
 http://archives-climat.fr
 https://arcisleponsart.fr
-https://www.arcismaillyramerupt.fr
 https://www.arcisses.fr
 https://www.arcizac-adour.fr
 https://www.arcmosellan.fr
@@ -5536,6 +5534,7 @@ https://aubord.fr
 https://www.aubord.fr
 https://auboue.fr
 https://www.auboue.fr
+https://www.aubreville.fr
 https://aubure.fr
 https://www.aubusson.fr
 https://auby.fr
@@ -7568,6 +7567,7 @@ https://canappeville.fr
 https://www.canaules.fr
 https://canbt.fr
 https://cancon.fr
+https://www.cancon.fr
 https://candes-saint-martin.fr
 https://candillargues.fr
 https://www.candillargues.fr
@@ -8189,7 +8189,6 @@ https://www.ccoa.fr
 https://www.ccoisans.fr
 https://www.ccomptes.fr
 https://www.ccop.fr
-https://ccov.fr
 https://ccpap.fr
 https://www.ccpays-solesmois.fr
 https://www.ccpaysdesommieres.fr
@@ -9479,6 +9478,7 @@ https://college-louis-grenier.fr
 https://college-lycee-ravel.fr
 http://www.college-malraux-pontarlier.fr
 https://college-montaigne.fr
+https://www.college-montesquieu.fr
 https://college-montherlant-neuilly-en-thelle.fr
 https://www.college-morcenx.fr
 https://site.college-mugron.fr
@@ -9498,7 +9498,6 @@ https://www.college-rosa-parks-gentilly.fr
 http://www.college-saint-exupery-vannes.fr
 https://www.college-saint-symphorien-33.fr
 http://www.college-santeny-marolles.fr
-http://www.college-senard.fr
 http://college-soustons.fr
 http://www.college-tourette.fr
 https://college-valdecharente.fr
@@ -9847,7 +9846,6 @@ https://www.communedeleoville.fr
 https://www.communedelerrain.fr
 https://www.communedelery.fr
 http://www.communedemarac.fr
-https://communedemars.fr
 https://www.communedemartigny.fr
 https://www.communedemartinet.fr
 https://www.communedemuizon.fr
@@ -10843,6 +10841,7 @@ https://dulcie-september.fr
 https://www.dullin.fr
 https://dun.fr
 https://www.dun.fr
+https://www.dun-les-places.fr
 http://dunant.fr
 https://www.duneau.fr
 https://www.dung.fr
@@ -11984,6 +11983,7 @@ https://www.fontainelebourg.fr
 http://fontainelesdijon.fr
 http://www.fontainelesdijon.fr
 http://www.fontainelesgres.fr
+https://www.fontainelesvervins.fr
 http://www.fontaines-saint-martin.fr
 https://www.fontaines-sur-saone.fr
 https://fontainesenbourgogne.fr
@@ -13279,7 +13279,6 @@ https://admin.signal.conso.gouv.fr
 https://entreprise.signal.conso.gouv.fr
 https://signal-api.conso.gouv.fr
 https://consulat.gouv.fr
-https://api.consulat.gouv.fr
 http://www.conventionmanagerialedeletat.gouv.fr
 http://egc.cop21.gouv.fr
 http://groupes-scolaires.cop21.gouv.fr
@@ -14161,7 +14160,6 @@ https://plan60000.enseignementsup-recherche.gouv.fr
 https://publication.enseignementsup-recherche.gouv.fr
 http://new.snee.enseignementsup-recherche.gouv.fr
 https://www.enseignementsup-recherche.gouv.fr
-https://a-madge.entreprises.gouv.fr
 https://madge.entreprises.gouv.fr
 https://www.entreprises.gouv.fr
 http://www.ecoresponsabilite.environnement.gouv.fr
@@ -14590,6 +14588,7 @@ https://habilitation-siv.interieur.gouv.fr
 https://secours.habilitation-siv.interieur.gouv.fr
 https://histovec.interieur.gouv.fr
 https://integration.icatnat.interieur.gouv.fr
+https://qualification.icatnat.interieur.gouv.fr
 https://www.icatnat.interieur.gouv.fr
 https://www.inscription-concours.interieur.gouv.fr
 https://je-teste-ma-professiondefoi.interieur.gouv.fr
@@ -14838,7 +14837,6 @@ https://webconf.numerique.gouv.fr
 http://appel.webconf.numerique.gouv.fr
 https://preprod.webconf.numerique.gouv.fr
 http://jvb.preprod.webconf.numerique.gouv.fr
-http://turn01.preprod.webconf.numerique.gouv.fr
 http://turn.webconf.numerique.gouv.fr
 http://www.webconf.numerique.gouv.fr
 https://webinaire.numerique.gouv.fr
@@ -18662,6 +18660,7 @@ https://www.magnycoursvillage.fr
 https://www.magnylehongre.fr
 http://www.magstatt-le-haut.fr
 https://mahalon.fr
+https://maia-17.fr
 https://maidières.fr
 https://www.maignelay-montigny.fr
 https://www.maillage.fr
@@ -19123,7 +19122,7 @@ https://mairie-cormeray.fr
 https://www.mairie-cormeray.fr
 https://mairie-corny.fr
 http://www.mairie-corny.fr
-http://www.mairie-coron.fr
+https://www.mairie-coron.fr
 https://www.mairie-correze.fr
 https://mairie-corte.fr
 https://www.mairie-corte.fr
@@ -19133,6 +19132,7 @@ https://www.mairie-cottenchy.fr
 https://mairie-couches.fr
 https://www.mairie-couches.fr
 https://www.mairie-coucy.fr
+https://www.mairie-coudevillesurmer.fr
 https://mairie-coulombs-28.fr
 https://mairie-coume.fr
 https://www.mairie-coume.fr
@@ -20472,7 +20472,7 @@ https://mairie-vignes.fr
 https://www.mairie-vignes.fr
 https://www.mairie-vigneulles.fr
 https://mairie-vigoulant.fr
-http://mairie-vigoulet-auzil.fr
+https://mairie-vigoulet-auzil.fr
 http://www.mairie-vigoulet-auzil.fr
 https://mairie-vigy.fr
 https://mairie-villac.fr
@@ -20658,7 +20658,6 @@ https://mairiecobrieux.fr
 http://mairiecocherel.fr
 http://www.mairiecocherel.fr
 http://www.mairiecolleret.fr
-https://mairieconflandey.fr
 https://www.mairiecornille.fr
 https://mairiecosnesurloire.fr
 https://mairiecotignac.fr
@@ -21696,6 +21695,7 @@ https://mittelschaeffolsheim.fr
 http://mittersheim.fr
 https://www.mittlach.fr
 https://mitzach.fr
+https://www.mive91.fr
 https://mizerieux.fr
 https://www.mizerieux.fr
 https://mizoen.fr
@@ -22984,6 +22984,7 @@ https://noyelles-les-seclin.fr
 http://noyelles-sous-lens.fr
 http://www.noyelles-sous-lens.fr
 https://noyelles-sur-escaut.fr
+https://noyelleslesvermelles.fr
 https://noyellette.fr
 http://www.noyen-sur-sarthe.fr
 http://www.noyensurseine.fr
@@ -24197,6 +24198,7 @@ https://puyvalador-rieutort.fr
 https://www.puyvert.fr
 https://puzeaux.fr
 https://www.pyrenees-cerdagne.fr
+https://www.pyreneesaudoises.fr
 http://www.quaedypre.fr
 https://quaibranly.fr
 http://quaidorsay.fr
@@ -24361,6 +24363,7 @@ https://renaze53.fr
 http://www.rencurel-vercors.fr
 https://www.rene-descartes.fr
 http://www.renescure.fr
+https://www.rennemoulin.fr
 https://metropole.rennes.fr
 https://www.rennes-le-chateau.fr
 https://www.reolaisensudgironde.fr
@@ -24412,6 +24415,7 @@ https://retjons.fr
 https://www.retjons.fr
 https://retonfey.fr
 https://www.rettel.fr
+https://www.retzwiller.fr
 http://www.reugney.fr
 https://reugny-37.fr
 https://www.reuil-en-brie.fr
@@ -24677,7 +24681,6 @@ https://www.rouille.fr
 https://www.rouillon.fr
 https://rouilly-saint-loup.fr
 https://www.rouilly-saint-loup.fr
-http://roulans.fr
 http://www.roulans.fr
 https://dgccrf.roulez-eco.fr
 https://gestion.roulez-eco.fr
@@ -25171,6 +25174,7 @@ http://www.saint-josse-sur-mer.fr
 https://www.saint-judoce.fr
 http://www.saint-julien.fr
 https://saint-julien-21.fr
+https://www.saint-julien-beychevelle-site-officiel.fr
 https://www.saint-julien-de-lampon.fr
 https://www.saint-julien-de-vouvantes.fr
 https://saint-julien-du-pinet.fr
@@ -27483,7 +27487,6 @@ https://www.tannay-brinon-corbigny.fr
 https://www.taponas.fr
 https://tarascon.fr
 https://www.tarascon.fr
-https://www.tarbes.fr
 https://www.tarcenay-foucherans.fr
 http://tarentaise-pilat.fr
 http://www.tarentaise-pilat.fr
@@ -28653,7 +28656,6 @@ https://village-crosses.fr
 https://village-de-laperche.fr
 https://www.village-de-montlignon.fr
 https://village-de-robecq.fr
-https://village-de-verne.fr
 https://village-frejeville.fr
 https://www.village-frejeville.fr
 https://www.village-kaltenhouse.fr
@@ -30289,7 +30291,6 @@ https://wanquetin.fr
 https://www.warcq.fr
 http://wardrecques.fr
 http://wargnies-le-petit.fr
-http://www.wargnies-le-petit.fr
 https://warhem.fr
 https://www.warhem.fr
 https://www.warluis.fr
@@ -30636,6 +30637,7 @@ https://beaumont-sur-leze.net
 https://www.beauquesne.net
 http://belgentier.net
 http://www.bendejun.net
+https://www.betpouey.net
 https://www.bizanet.net
 https://www.boersch.net
 https://www.boisrobert.net
@@ -30919,7 +30921,6 @@ https://www.talizat.net
 http://terroirdecaux.net
 https://thorigny.net
 http://www.thorigny.net
-http://www.tigery.net
 https://www.tignes.net
 https://www.touillon.net
 https://touvre.net
@@ -31257,6 +31258,7 @@ https://breville.org
 https://www.breville.org
 http://brouzetlesales.org
 http://www.brouzetlesales.org
+https://cabara.org
 https://www.cacem.org
 http://www.caj-grand-font.org
 https://calade.org
