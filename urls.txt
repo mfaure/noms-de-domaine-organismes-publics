@@ -194,6 +194,7 @@ https://www.syndicateauxbasleon.bzh
 https://www.telgruc-sur-mer.bzh
 https://www.tourch.bzh
 https://www.tredias.bzh
+https://treffiagat.bzh
 http://treflevenez.bzh
 https://tregarantec.bzh
 https://tremaouezan.bzh
@@ -455,6 +456,7 @@ http://blanquefort-sur-briolance.com
 http://www.blanquefort-sur-briolance.com
 https://blassac.com
 https://www.blassac.com
+https://blauzac.com
 https://blies-ebersing.com
 https://www.blies-ebersing.com
 https://berbiguieres.blog4ever.com
@@ -1219,6 +1221,7 @@ https://www.fier-et-usses.com
 https://figanieres.com
 https://www.finistereolympique.com
 https://flagey-les-auxonne.com
+https://www.flagey-les-auxonne.com
 https://flandretlysautonomie.com
 https://flavigny.com
 https://www.flavigny.com
@@ -2072,6 +2075,7 @@ http://mairie-villiers.com
 http://www.mairie-villiers.com
 https://mairie-villiers-saint-georges.com
 https://www.mairie-villy-89.com
+https://www.mairie-vincey.com
 https://www.mairie-vogue.com
 https://mairie-waldhambach.com
 https://www.mairie-wattignies.com
@@ -2089,6 +2093,7 @@ https://mairiedebeaulieu.com
 https://www.mairiedebeaussault.com
 https://www.mairiedebouquet.com
 https://mairiedecadillac.com
+https://www.mairiedecadillac.com
 https://mairiedechichery.com
 https://mairiedecieux.com
 https://www.mairiedecieux.com
@@ -2805,7 +2810,6 @@ https://www.saint-savournin.com
 https://www.saint-series.com
 http://saint-seurin-de-prats.com
 http://www.saint-seurin-de-prats.com
-https://saint-sorlin-en-bugey.com
 https://saint-thurial.com
 http://www.saint-trimoel.com
 https://www.saint-urbain.com
@@ -3256,6 +3260,7 @@ http://www.victorduruy.com
 https://www.vieillevigne44.com
 https://viesly.com
 https://www.viesly.com
+https://www.vigeois.com
 https://www.village-comps.com
 https://village-goudet.com
 https://www.village-sablieres.com
@@ -3329,7 +3334,6 @@ https://ville-pontderoide-vermondans.com
 http://www.ville-pontderoide-vermondans.com
 https://www.ville-puisserguier.com
 https://ville-quissac.com
-http://ville-romans.com
 https://www.ville-saint-germain.com
 https://ville-saint-myon.com
 https://ville-saint-pourcain-sur-sioule.com
@@ -4121,6 +4125,7 @@ https://les-coudriers-villers-bocage.ac-amiens.fr
 https://louise-michel-saint-just.ac-amiens.fr
 https://pierre-dailly-compiegne.ac-amiens.fr
 https://pierre-mechain-laon.ac-amiens.fr
+https://rousseau-creil.ac-amiens.fr
 https://saint-exupery-chaumont-en-vexin.ac-amiens.fr
 https://victor-hugo-ham.ac-amiens.fr
 https://cio-belfort.ac-besancon.fr
@@ -4135,7 +4140,6 @@ http://www.clg-albert-jacquard.ac-besancon.fr
 http://www.clg-ayme.ac-besancon.fr
 http://www.clg-bletterans.ac-besancon.fr
 http://www.clg-charles-peguy.ac-besancon.fr
-http://www.clg-delaunay.ac-besancon.fr
 http://www.clg-du-plateau.ac-besancon.fr
 http://www.clg-duplessis-deville.ac-besancon.fr
 http://www.clg-goscinny.ac-besancon.fr
@@ -4145,7 +4149,6 @@ http://www.clg-lucienfebvre.ac-besancon.fr
 http://www.clg-morvillars.ac-besancon.fr
 http://www.clg-nozeroy.ac-besancon.fr
 http://www.clg-pasteur-arbois.ac-besancon.fr
-http://www.clg-quingey.ac-besancon.fr
 http://www.clg-xavier-bichat.ac-besancon.fr
 https://www.lyc-colomb.ac-besancon.fr
 https://www.lyc-jean-michel.ac-besancon.fr
@@ -5159,7 +5162,6 @@ https://registre-htap.aphp.fr
 https://rendu-osler.aphp.fr
 https://resultatslaboratoires.aphp.fr
 https://robertdebre.aphp.fr
-https://seinarisque.aphp.fr
 https://surycat.aphp.fr
 http://web110.aphp.fr
 http://web111.aphp.fr
@@ -5474,7 +5476,7 @@ https://aubure.fr
 https://www.aubusson.fr
 https://auby.fr
 https://www.aucame.fr
-http://www.aucamville.fr
+https://www.aucamville.fr
 http://www.aucelon.fr
 http://auchaysurvendee.fr
 http://www.auchaysurvendee.fr
@@ -9918,7 +9920,6 @@ https://www.copponex.fr
 https://coquainvilliers.fr
 https://coquelles.fr
 https://corancez.fr
-https://corancy.fr
 https://www.corancy.fr
 https://coray.fr
 https://www.coray.fr
@@ -10555,6 +10556,7 @@ https://www.departement41.fr
 https://departements.fr
 http://dernacueillette.fr
 http://www.dernacueillette.fr
+https://derval.fr
 https://www.derval.fr
 https://www.desaignes.fr
 https://desertines53.fr
@@ -10695,6 +10697,7 @@ https://www.donzac.fr
 https://www.donzac33.fr
 https://www.donzy.fr
 http://www.dorat63.fr
+https://mdph.dordogne.fr
 https://www.dordogne.fr
 https://www.dore-l-eglise.fr
 http://dorlisheim.fr
@@ -11650,7 +11653,6 @@ https://www.faire.fr
 https://www.falaise.fr
 https://www.falaisesdutalou.fr
 https://www.falicon.fr
-http://www.falkwiller.fr
 https://www.falleron.fr
 https://fampoux.fr
 https://rejoindre.faraglo.fr
@@ -11893,7 +11895,6 @@ https://fontaine-etoupefour.fr
 https://www.fontaine-henry.fr
 https://www.fontaine-labbe.fr
 https://fontaine-le-comte.fr
-https://fontaine-le-dun.fr
 https://www.fontaine-le-dun.fr
 https://www.fontaine-les-coteaux.fr
 https://www.fontaine-les-luxeuil.fr
@@ -12767,6 +12768,7 @@ https://missionphotodatar.anct.gouv.fr
 https://paqte.anct.gouv.fr
 https://subvention.anct.gouv.fr
 https://www.anlci.gouv.fr
+https://partenaires.antai.gouv.fr
 https://www.usagers.antai.gouv.fr
 https://www.antai.gouv.fr
 https://www.support.cartes.ants.gouv.fr
@@ -13388,6 +13390,7 @@ https://sigale-dev.defense.gouv.fr
 https://sigale-pprod.defense.gouv.fr
 https://sigale-qua.defense.gouv.fr
 http://smobi.defense.gouv.fr
+https://sparta-for.defense.gouv.fr
 https://sparta-recrutement.defense.gouv.fr
 https://sparta-recrutement-val.defense.gouv.fr
 https://stages.defense.gouv.fr
@@ -13742,7 +13745,6 @@ http://enqueteur.spes.sg.developpement-durable.gouv.fr
 https://enqueteur.sg-drh.developpement-durable.gouv.fr
 https://side.developpement-durable.gouv.fr
 https://sipa.developpement-durable.gouv.fr
-https://pms.snoi.developpement-durable.gouv.fr
 https://spote.developpement-durable.gouv.fr
 https://enqueteur.stac.developpement-durable.gouv.fr
 https://www.donnees.statistiques.developpement-durable.gouv.fr
@@ -14507,7 +14509,6 @@ https://bas-rhin.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
 https://dcpj.questionnaire.interieur.gouv.fr
 https://dgscgc.questionnaire.interieur.gouv.fr
-https://enquetes-mi.questionnaire.interieur.gouv.fr
 https://morbihan.questionnaire.interieur.gouv.fr
 https://pas-de-calais.questionnaire.interieur.gouv.fr
 https://recrutement-formation-pn.questionnaire.interieur.gouv.fr
@@ -14598,7 +14599,6 @@ https://www.concours.justice.gouv.fr
 https://www.designation-prudhommes.justice.gouv.fr
 http://www.mediatheque.justice.gouv.fr
 https://opm.justice.gouv.fr
-https://plano-atigip.justice.gouv.fr
 http://round-robin-www.justice.gouv.fr
 http://www.sep.justice.gouv.fr
 http://www.textes.justice.gouv.fr
@@ -17135,6 +17135,7 @@ https://www.laversines.fr
 https://laverune.fr
 https://www.laverune.fr
 https://laveyron.fr
+https://www.laveyron.fr
 https://www.laveze.fr
 https://www.lavienne86.fr
 https://www.lavieuxrue76.fr
@@ -19087,7 +19088,6 @@ https://www.mairie-de-latouille-lentillac.fr
 https://www.mairie-de-marigny-sur-yonne.fr
 https://www.mairie-de-marsas33.fr
 http://www.mairie-de-meigneux.fr
-https://www.mairie-de-mens.fr
 https://www.mairie-de-nonards.fr
 https://mairie-de-pussigny.fr
 https://www.mairie-de-rivieres.fr
@@ -19934,7 +19934,6 @@ http://www.mairie-reiningue.fr
 https://mairie-remeringlesputtelange.fr
 https://www.mairie-remeringlesputtelange.fr
 https://mairie-rety.fr
-https://www.mairie-revel.fr
 https://mairie-revonnas.fr
 https://mairie-rieux.fr
 https://www.mairie-rieux-volvestre.fr
@@ -21034,7 +21033,7 @@ http://www.marges-drome.fr
 https://margival.fr
 https://www.margival.fr
 https://www.margnysurmatz.fr
-http://marguerittes.fr
+https://marguerittes.fr
 http://www.marguerittes.fr
 https://www.mariacasares.fr
 https://mariemauron.fr
@@ -21611,7 +21610,6 @@ https://ml-chalons.fr
 https://ml-flandre-interieure.fr
 https://www.ml-flandre-interieure.fr
 https://www.ml-lehavre.fr
-http://ml-lillebonnecauxseine.fr
 https://www.ml-lillebonnecauxseine.fr
 https://www.ml-lisieux.fr
 https://www.ml-moulins.fr
@@ -23696,6 +23694,7 @@ https://www.plombieres-les-bains.fr
 https://plombieres-les-dijon.fr
 https://plottes.fr
 https://www.plottes.fr
+https://plouaret.fr
 https://www.plouaret.fr
 https://www.plouarzel.fr
 https://plouasne.fr
@@ -24079,7 +24078,6 @@ http://www.puylagarde.fr
 https://www.puylaroque.fr
 https://www.puylaurens.fr
 https://www.puylausic.fr
-https://puymorens.fr
 https://www.puymorens.fr
 https://www.puymoyen.fr
 https://www.puynormand.fr
@@ -24521,6 +24519,7 @@ https://roquefort47.fr
 https://roquefortdesault.fr
 https://www.roquemaure.fr
 https://www.roquemaure-tarn.fr
+https://www.roqueseriere.fr
 https://roquesteron.fr
 https://www.roquetoire.fr
 https://www.roquettes.fr
@@ -25532,6 +25531,7 @@ https://www.saintbauzilledemontmel.fr
 https://saintbauzilledeputois.fr
 https://www.saintbauzilledeputois.fr
 https://saintbenezet.fr
+http://saintbenoistsurmer.fr
 http://www.saintbenoistsurmer.fr
 https://www.saintbenoitdhebertot.fr
 http://saintbenoitlaforet.fr
@@ -26562,7 +26562,6 @@ https://savigny-le-sec.fr
 https://www.savigny-le-sec.fr
 https://www.savigny-le-temple.fr
 https://savigny-levescault.fr
-http://www.savigny-levescault.fr
 http://www.savigny-sur-ardres.fr
 https://www.savigny-sur-braye.fr
 https://www.savigny-sur-clairis.fr
@@ -27166,7 +27165,6 @@ https://www.st-thibaud-de-couz.fr
 https://st-vaast-dieppedalle.fr
 https://www.st-vaast-dieppedalle.fr
 https://stains.fr
-https://www.stains.fr
 https://stalbandemontbel.fr
 https://stallouestre.fr
 http://stambreuil.fr
@@ -29032,6 +29030,7 @@ https://www.ville-firminy.fr
 https://www.ville-floirac33.fr
 https://ville-florensac.fr
 https://www.ville-florensac.fr
+https://www.ville-fonbeauzard.fr
 https://ville-fontaine.fr
 https://ville-fontaineleport.fr
 https://www.ville-fontaineleport.fr
@@ -31297,7 +31296,6 @@ https://franceurbaine.org
 https://frespech.org
 https://germigny-leveque.org
 https://0410959v.etab.giprecia.org
-http://girmont.org
 http://www.girmont.org
 http://glonville.org
 http://www.glonville.org
