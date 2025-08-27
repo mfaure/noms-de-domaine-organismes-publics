@@ -1350,6 +1350,7 @@ https://www.haussimont.com
 https://haut-rhone.com
 https://www.haute-maurienne-vanoise.com
 https://haute-rivoire.com
+https://hautecomte.com
 http://alainduchesne.hautetfort.com
 http://mairie-arzviller.hautetfort.com
 https://www.hautjura-arcade.com
@@ -1714,7 +1715,6 @@ https://lestiac.com
 https://www.letouvet.com
 https://www.leuillysouscoucy.com
 https://www.leulinghenbernes.com
-https://www.levaladou.com
 https://www.levernetchameane.com
 https://www.levie-altarocca.com
 https://leymentmairie.com
@@ -1780,7 +1780,6 @@ https://www.lycee-du-bois.com
 https://lycee-edouard-herriot.com
 https://lycee-henri4.com
 https://lycee-henribrisson.com
-https://ww38.lycee-hoche.com
 https://www.lycee-jean-lurcat.com
 http://lycee-joseph-pernock.com
 https://www.lycee-langevin-wallon.com
@@ -2102,7 +2101,6 @@ https://mairiedebeaulieu.com
 https://www.mairiedebeaussault.com
 https://www.mairiedebouquet.com
 https://mairiedecadillac.com
-https://www.mairiedecadillac.com
 https://mairiedecarnin.com
 https://mairiedechichery.com
 https://mairiedecieux.com
@@ -3101,6 +3099,7 @@ http://stlegermagnazeix.com
 https://stmamet-lasalvetat.com
 https://www.stmamet-lasalvetat.com
 https://stmartindarc.com
+https://stmartinlacaussade.com
 https://tousanticovid.stonly.com
 https://stop-punaises-delit.com
 https://stpierre-lafeuille.com
@@ -4681,7 +4680,6 @@ https://www.aclou.fr
 https://www.acnusa.fr
 https://www.aconti.fr
 https://acquigny.fr
-https://www.acsor.fr
 https://acver.fr
 https://adelie-vamb.fr
 https://www.adelie-vamb.fr
@@ -5084,7 +5082,6 @@ https://www.ansacq.fr
 http://www.ansauvillers.fr
 https://www.ansebertrand.fr
 https://www.anses.fr
-http://www.ansignan.fr
 https://ansouis.fr
 https://partenaires.antai.fr
 https://www.partenaires.antai.fr
@@ -5151,6 +5148,7 @@ https://registre-htap.aphp.fr
 https://rendu-osler.aphp.fr
 https://reseau-ophdiat.aphp.fr
 https://resultatslaboratoires.aphp.fr
+https://seinarisque.aphp.fr
 https://surycat.aphp.fr
 http://web110.aphp.fr
 http://web111.aphp.fr
@@ -5430,7 +5428,7 @@ https://www.auberchicourt.fr
 https://aubergenville.fr
 http://www.auberives-en-royans.fr
 https://auberives-sur-vareze.fr
-http://aubers.fr
+https://aubers.fr
 https://aubertin.fr
 https://aubervillelarenault.fr
 https://www.aubervillelarenault.fr
@@ -6893,7 +6891,6 @@ https://www.borgo.fr
 https://borne-ardeche.fr
 http://www.borre.fr
 https://www.bortletang.fr
-http://www.bosc-guerard.fr
 https://www.bosc-roger.fr
 https://boscherville.fr
 https://www.boscherville.fr
@@ -10363,7 +10360,6 @@ https://jacques-brel.cybercolleges42.fr
 https://jacques-prevert.cybercolleges42.fr
 https://jean-daste.cybercolleges42.fr
 https://jean-papon.cybercolleges42.fr
-https://jules-ferry.cybercolleges42.fr
 https://jules-romains.cybercolleges42.fr
 https://jules-valles-stetienne.cybercolleges42.fr
 https://lafontaine.cybercolleges42.fr
@@ -10376,9 +10372,7 @@ https://mario-meunier.cybercolleges42.fr
 https://michel-servet.cybercolleges42.fr
 https://micheldemontaigne.cybercolleges42.fr
 https://papire-masson.cybercolleges42.fr
-https://pierreetmariecurie.cybercolleges42.fr
 https://puitsdelaloire.cybercolleges42.fr
-https://robert-schuman.cybercolleges42.fr
 https://schweitzer.cybercolleges42.fr
 https://www.cysoing.fr
 https://dabo.fr
@@ -14542,7 +14536,6 @@ https://www.maine-et-loire.gouv.fr
 https://www.maprimerenov.gouv.fr
 https://www.maprocuration.gouv.fr
 https://ecole.marches-publics.gouv.fr
-https://preprod.marches-publics.gouv.fr
 https://projets-achats.marches-publics.gouv.fr
 https://recette.marches-publics.gouv.fr
 https://www.marches-publics.gouv.fr
@@ -14671,7 +14664,6 @@ https://spa.portailpro.gouv.fr
 https://www.portailpro.gouv.fr
 https://www.pour-les-personnes-agees.gouv.fr
 https://www.comite.guyane.pref.gouv.fr
-http://srias.lorraine.pref.gouv.fr
 http://www.srias.lorraine.pref.gouv.fr
 https://www.polynesie-francaise.pref.gouv.fr
 https://www.carto.zd-est.pref.gouv.fr
@@ -15949,13 +15941,11 @@ https://ivoy-le-pre.fr
 https://www.ivry94.fr
 https://iwuy.fr
 https://www.iwuy.fr
-http://www.izaux65.fr
 https://www.izeaux.fr
 http://izel-les-hameau.fr
 https://izernore.fr
 https://www.izernore.fr
 https://izeron.fr
-http://www.izeron.fr
 https://izieu.fr
 https://www.izieu.fr
 https://www.izon.fr
@@ -17924,7 +17914,6 @@ https://lpcoubertin.fr
 https://lpdiderot10.fr
 http://www.lpestuaire.fr
 https://lpjeanrostand.fr
-https://www.lplangevin.fr
 https://lpma-daniel-rigolet.fr
 https://lpmf.fr
 https://lpmonod.fr
@@ -18979,6 +18968,7 @@ https://www.mairie-de-latouille-lentillac.fr
 https://www.mairie-de-marigny-sur-yonne.fr
 https://www.mairie-de-marsas33.fr
 http://www.mairie-de-meigneux.fr
+https://www.mairie-de-mens.fr
 http://www.mairie-de-nonards.fr
 https://www.mairie-de-noyelles-sur-mer.fr
 https://mairie-de-pussigny.fr
@@ -19828,6 +19818,7 @@ http://www.mairie-reiningue.fr
 https://mairie-remeringlesputtelange.fr
 https://www.mairie-remeringlesputtelange.fr
 https://mairie-rety.fr
+https://www.mairie-revel.fr
 https://mairie-revonnas.fr
 https://mairie-rieux.fr
 https://www.mairie-rieux-volvestre.fr
@@ -26684,6 +26675,7 @@ https://www.sgdb72.fr
 https://www.sgdlg.fr
 https://sglusignan.fr
 https://www.sglusignan.fr
+https://shom.fr
 https://www.shom.fr
 https://datalab.si-cap.fr
 https://dashboard.psc.si-cap.fr
@@ -27088,7 +27080,6 @@ https://www.stdenislesbourg.fr
 https://www.ste-colombe.fr
 https://www.ste-croix-en-diois.fr
 https://www.ste-helene-sur-isere.fr
-https://ste-honorine-du-fay.fr
 http://ste-liviere.fr
 http://www.ste-liviere.fr
 https://www.ste-marguerite-sur-mer.fr
@@ -28145,7 +28136,7 @@ https://www.vaudevant.fr
 https://vaudherland.fr
 https://vaudoyenbrie.fr
 https://vaudreching.fr
-http://vaudringhem.fr
+https://vaudringhem.fr
 http://www.vaudringhem.fr
 https://vaugines.fr
 https://www.vaugines.fr
@@ -30091,7 +30082,6 @@ https://www.vyvs.fr
 https://www.wacquemoulin.fr
 https://wagnonville.fr
 https://www.wahlbach.fr
-https://wahlenheim.fr
 https://walbach.fr
 https://www.walbach.fr
 http://www.waldhouse.fr
@@ -30502,7 +30492,7 @@ https://collegemariecurie.net
 https://www.collegemontaigne.net
 https://collegepiegut.net
 https://collonges.net
-http://www.collonges.net
+https://www.collonges.net
 http://commune-chancia.net
 http://www.commune-chancia.net
 http://beyssac.correze.net
@@ -31193,6 +31183,7 @@ https://franceurbaine.org
 https://frespech.org
 https://germigny-leveque.org
 https://0410959v.etab.giprecia.org
+http://girmont.org
 http://www.girmont.org
 http://glonville.org
 http://www.glonville.org
