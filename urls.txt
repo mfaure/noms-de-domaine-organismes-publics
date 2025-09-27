@@ -312,7 +312,6 @@ https://www.association-escale.com
 https://www.association-pari.com
 https://mairie.asteur.com
 https://www.atexo.com
-http://www.athee-sur-cher.com
 https://attenschwiller.com
 https://www.attiches.com
 https://aubeterresurdronne.com
@@ -1067,7 +1066,6 @@ https://mairie-de-sormonne.e-monsite.com
 https://mairie-epineuil89e-monsitecom.e-monsite.com
 https://mairie-fouligny.e-monsite.com
 https://mairie-janville60.e-monsite.com
-https://mairie-lastic-63.e-monsite.com
 https://mairie-marchais.e-monsite.com
 https://mairie-montaulin.e-monsite.com
 https://mairiedecestayrols81.e-monsite.com
@@ -1080,7 +1078,6 @@ https://marcille.e-monsite.com
 https://mareuil.e-monsite.com
 https://notredamedaliermont.e-monsite.com
 https://origny-sainte-benoite.e-monsite.com
-https://paizayletort.e-monsite.com
 https://saintecolombesurlhers.e-monsite.com
 https://saulzais-le-potier.e-monsite.com
 https://seychalles63.e-monsite.com
@@ -2055,7 +2052,6 @@ http://mairie-villiers.com
 http://www.mairie-villiers.com
 https://mairie-villiers-saint-georges.com
 https://www.mairie-villy-89.com
-https://www.mairie-vincey.com
 https://www.mairie-vogue.com
 https://mairie-waldhambach.com
 https://www.mairie-wattignies.com
@@ -3585,7 +3581,6 @@ http://lyceejacquesmonod.eu
 https://www.lyceelecorbusier.eu
 https://www.lyceeronsard.eu
 https://mairie-ingwiller.eu
-https://maisonnais-sur-tardoire.eu
 http://www.maisonnais-sur-tardoire.eu
 https://www.marcillylechatel.eu
 https://www.maroilles.eu
@@ -4096,7 +4091,6 @@ https://lahotoie.ac-amiens.fr
 https://leonard-de-vinci-soissons.ac-amiens.fr
 https://les-coudriers-villers-bocage.ac-amiens.fr
 https://louise-michel-saint-just.ac-amiens.fr
-https://rousseau-creil.ac-amiens.fr
 https://saint-exupery-chaumont-en-vexin.ac-amiens.fr
 https://victor-hugo-ham.ac-amiens.fr
 https://cio-belfort.ac-besancon.fr
@@ -4358,7 +4352,7 @@ http://clg-francois-rabelais-blois.tice.ac-orleans-tours.fr
 https://clg-gaston-jollet-salbris.tice.ac-orleans-tours.fr
 http://clg-gastoncoute-voves.tice.ac-orleans-tours.fr
 http://clg-georges-besse-loches.tice.ac-orleans-tours.fr
-http://clg-henri-becquerel-avoine.tice.ac-orleans-tours.fr
+https://clg-henri-becquerel-avoine.tice.ac-orleans-tours.fr
 https://clg-henri-becquerel-chatillon-coligny.tice.ac-orleans-tours.fr
 https://clg-honore-racan-neuvy-le-roi.tice.ac-orleans-tours.fr
 http://clg-jean-emond-vendome.tice.ac-orleans-tours.fr
@@ -4373,7 +4367,7 @@ http://clg-jean-zay-chinon.tice.ac-orleans-tours.fr
 https://clg-joachim-du-bellay-authon-du-perche.tice.ac-orleans-tours.fr
 http://clg-joseph-crocheton-onzain.tice.ac-orleans-tours.fr
 https://clg-joseph-paul-boncour-st-aignan.tice.ac-orleans-tours.fr
-http://clg-jules-ferry-auneau.tice.ac-orleans-tours.fr
+https://clg-jules-ferry-auneau.tice.ac-orleans-tours.fr
 https://clg-jules-romains-st-avertin.tice.ac-orleans-tours.fr
 https://clg-jules-verne-bourges.tice.ac-orleans-tours.fr
 https://clg-la-bruyere-tours.tice.ac-orleans-tours.fr
@@ -4397,7 +4391,7 @@ https://clg-lorris.tice.ac-orleans-tours.fr
 https://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
 http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
-http://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
+https://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
 http://clg-marcel-pagnol-vernouillet.tice.ac-orleans-tours.fr
 https://clg-marcel-proust-illiers-combray.tice.ac-orleans-tours.fr
 http://clg-marie-curie-saint-laurent-nouan.tice.ac-orleans-tours.fr
@@ -4500,7 +4494,6 @@ https://college-jrichepin-pleneufvalandre.ac-rennes.fr
 https://www.college-kerallan-plouzane.ac-rennes.fr
 https://www.college-kerhallet-brest.ac-rennes.fr
 https://www.college-kerzouar-saintrenan.ac-rennes.fr
-https://www.college-la-binquenais-rennes.ac-rennes.fr
 https://www.college-la-tourelle-quimper.ac-rennes.fr
 https://www.college-laennec-pont-labbe.ac-rennes.fr
 https://www.college-le-goffic-lannion.ac-rennes.fr
@@ -4564,7 +4557,6 @@ https://www.collegelesquatremoulins-brest.ac-rennes.fr
 https://www.collegelouisguilloux-montfort.ac-rennes.fr
 https://www.collegemartinlutherking-liffre.ac-rennes.fr
 https://www.collegepierreperrin-tremblay.ac-rennes.fr
-https://www.collegerenan-minihytreguier.ac-rennes.fr
 https://www.collegeroquebleue-saint-georges-de-reintembault.ac-rennes.fr
 https://www.collegesaintexlesneven.ac-rennes.fr
 https://www.collegesaintpolroux-brest.ac-rennes.fr
@@ -5064,6 +5056,7 @@ https://www.ansacq.fr
 http://www.ansauvillers.fr
 https://www.ansebertrand.fr
 https://www.anses.fr
+http://www.ansignan.fr
 https://ansouis.fr
 https://partenaires.antai.fr
 https://www.partenaires.antai.fr
@@ -6583,7 +6576,6 @@ https://www.besayes.fr
 https://bescat.fr
 https://www.bessan.fr
 https://www.bessas.fr
-https://besse-superbesse.fr
 https://www.besse-superbesse.fr
 https://besse-sur-braye.fr
 https://www.besse-sur-issole.fr
@@ -6609,6 +6601,7 @@ http://www.bettencourt-saint-ouen.fr
 https://www.bettlach.fr
 https://www.betton.fr
 https://beuil.fr
+http://www.beuil.fr
 https://www.beure.fr
 https://www.beurrieres.fr
 https://beuste.fr
@@ -6882,6 +6875,7 @@ https://www.borgo.fr
 https://borne-ardeche.fr
 http://www.borre.fr
 https://www.bortletang.fr
+http://www.bosc-guerard.fr
 https://www.bosc-roger.fr
 https://boscherville.fr
 https://www.boscherville.fr
@@ -7590,6 +7584,7 @@ https://www.castellare-di-casinca.fr
 http://www.castelmayran.fr
 https://www.castelmorondalbret.fr
 https://castelnau-barbarens.fr
+https://castelnau-chalosse.fr
 https://www.castelnau-chalosse.fr
 http://www.castelnau-d-arbieu.fr
 https://www.castelnau-estretefonds.fr
@@ -7652,7 +7647,6 @@ https://www.cauroy-les-hermonville.fr
 https://www.causseetdiege.fr
 https://caussesaigoualcevennes.fr
 http://caussiniojouls.fr
-http://www.caussiniojouls.fr
 https://caussou.fr
 https://cauvignac.fr
 https://www.cauvignac.fr
@@ -8386,7 +8380,6 @@ https://www.ceze-cevennes.fr
 https://elus.cfmel.fr
 https://www.cfnpt.fr
 http://cg09.fr
-http://cg13.fr
 http://www.cg62.fr
 http://www.cg87.fr
 https://www.cg971.fr
@@ -8480,6 +8473,7 @@ https://www.chamborigaud.fr
 http://www.chambornaylesbellevaux.fr
 https://chambostallieres.fr
 https://chambourcy.fr
+https://www.chambourcy.fr
 https://www.chambourg-sur-indre.fr
 https://aveyron.chambre-agriculture.fr
 https://charente.chambre-agriculture.fr
@@ -12658,7 +12652,6 @@ https://production.entreprise.api.gouv.fr
 https://redir.entreprise.api.gouv.fr
 https://sandbox.entreprise.api.gouv.fr
 https://staging.entreprise.api.gouv.fr
-https://status.entreprise.api.gouv.fr
 https://v3-beta.entreprise.api.gouv.fr
 http://watchdoge.entreprise.api.gouv.fr
 https://geo.api.gouv.fr
@@ -13359,12 +13352,12 @@ https://redmine-dev.centre-serveur.din.developpement-durable.gouv.fr
 https://redmine-recette.centre-serveur.din.developpement-durable.gouv.fr
 https://redmine-test.centre-serveur.din.developpement-durable.gouv.fr
 https://formation.collab.din.developpement-durable.gouv.fr
+https://preprod.collab.din.developpement-durable.gouv.fr
 https://preprod.s2.collab.din.developpement-durable.gouv.fr
 https://s3.collab.din.developpement-durable.gouv.fr
 https://preprod.s3.collab.din.developpement-durable.gouv.fr
 https://sp2019.collab.din.developpement-durable.gouv.fr
 https://preprod.sp2019.collab.din.developpement-durable.gouv.fr
-https://commissionnement-eaunature.din.developpement-durable.gouv.fr
 https://www.ecole.datmd.din.developpement-durable.gouv.fr
 https://preprod.descartes.din.developpement-durable.gouv.fr
 https://donnees-peche-dpma.din.developpement-durable.gouv.fr
@@ -14605,6 +14598,7 @@ https://spa.portailpro.gouv.fr
 https://www.portailpro.gouv.fr
 https://www.pour-les-personnes-agees.gouv.fr
 https://www.comite.guyane.pref.gouv.fr
+http://srias.lorraine.pref.gouv.fr
 http://www.srias.lorraine.pref.gouv.fr
 https://www.polynesie-francaise.pref.gouv.fr
 https://www.carto.zd-est.pref.gouv.fr
@@ -15873,6 +15867,7 @@ https://ivoy-le-pre.fr
 https://www.ivry94.fr
 https://iwuy.fr
 https://www.iwuy.fr
+http://www.izaux65.fr
 https://www.izeaux.fr
 http://izel-les-hameau.fr
 https://izernore.fr
@@ -19094,6 +19089,7 @@ https://mairie-gros-chastang.fr
 https://www.mairie-groslay.fr
 https://mairie-grosrouvre.fr
 http://www.mairie-grossoeuvre.fr
+http://mairie-gruffy.fr
 http://www.mairie-gruffy.fr
 https://www.mairie-guemene-penfao.fr
 http://mairie-guilers.fr
@@ -19353,7 +19349,6 @@ https://www.mairie-longwy.fr
 https://www.mairie-lons.fr
 https://www.mairie-loubieres09.fr
 https://mairie-louey.fr
-https://www.mairie-louey.fr
 https://www.mairie-loupes33.fr
 https://mairie-loupiac-tarn.fr
 https://www.mairie-louveciennes.fr
@@ -23051,7 +23046,6 @@ http://parole-aspach.fr
 http://www.parole-aspach.fr
 https://paron.fr
 https://www.paron.fr
-https://partinello.fr
 https://www.partinello.fr
 http://www.parux.fr
 https://www.parvesetnattages.fr
@@ -23148,7 +23142,6 @@ https://paysmorcenais.fr
 https://www.paysmorcenais.fr
 https://www.paysnedelamer.fr
 http://crisolles.paysnoyonnais.fr
-https://www.paysnoyonnais.fr
 https://www.paysrethelois.fr
 https://payssaintgilles.fr
 https://www.payssegali.fr
@@ -24814,7 +24807,6 @@ https://www.saint-jean-de-boiseau.fr
 https://saint-jean-de-cuculles.fr
 https://www.saint-jean-de-gonville.fr
 http://www.saint-jean-de-la-croix.fr
-https://saint-jean-de-la-neuville.fr
 http://www.saint-jean-de-maruejols-et-avejan.fr
 https://saint-jean-de-muzols.fr
 https://www.saint-jean-de-muzols.fr
@@ -25238,7 +25230,6 @@ https://saintalbandurhone.fr
 https://saintalbanleseaux.fr
 https://www.saintalbanleysse.fr
 https://saintalexandre.fr
-http://www.saintalexandre.fr
 http://www.saintamandlongpre.fr
 https://saintamansdescots.fr
 http://saintamantdeboixe.fr
@@ -25893,7 +25884,7 @@ https://saintpierredevassols.fr
 https://www.saintpierredexideuil.fr
 https://www.saintpierredirube.fr
 https://saintpierredumont.fr
-https://saintpierreduval.fr
+http://saintpierreduval.fr
 http://www.saintpierreduval.fr
 https://www.saintpierreenfaucigny.fr
 https://www.saintpierrelacour.fr
@@ -27455,7 +27446,6 @@ https://tournugeois.fr
 https://tournus.fr
 https://www.tournus.fr
 https://tourouzelle.fr
-https://tourrette-levens.fr
 https://www.tourriers.fr
 https://www.tours.fr
 https://www.tours-fondettes-agrocampus.fr
@@ -29512,7 +29502,7 @@ https://www.ville-vezinlecoquet.fr
 https://ville-vicfezensac.fr
 https://www.ville-vichy.fr
 https://ville-vierzon.fr
-http://www.ville-vierzon.fr
+https://www.ville-vierzon.fr
 https://ville-vieux-conde.fr
 https://www.ville-vieux-conde.fr
 https://ville-vif.fr
@@ -29968,6 +29958,7 @@ https://www.vyvs.fr
 https://www.wacquemoulin.fr
 https://wagnonville.fr
 https://www.wahlbach.fr
+https://wahlenheim.fr
 https://walbach.fr
 https://www.walbach.fr
 http://www.waldhouse.fr
