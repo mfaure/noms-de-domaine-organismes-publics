@@ -1224,7 +1224,6 @@ https://www.foucarmont.com
 https://www.foucherans39.com
 http://www.foufflin-ricametz.com
 https://www.fourg-village.com
-https://foussais-payre.com
 https://aisne.franceolympique.com
 https://aube.franceolympique.com
 https://essonne.franceolympique.com
@@ -2466,7 +2465,6 @@ https://pays-sud-charente.com
 https://www.pays-sud-charente.com
 https://paysdecouiza.com
 https://www.paysdelauzun.com
-https://paysdelours.com
 https://www.paysdesecrins.com
 https://www.paysdetroncais.com
 https://www.paysducoquelicot.com
@@ -3075,7 +3073,6 @@ https://www.surville.com
 https://syndicat-rao.com
 https://www.syndicat-rao.com
 https://www.tablesrondes-arbois.com
-http://taillecourt.com
 https://www.taillecourt.com
 http://www.talange.com
 https://hermes.talkspirit.com
@@ -3084,7 +3081,7 @@ https://tardets.com
 https://www.tardets.com
 https://www.tautavel.com
 https://www.terraube.com
-https://terredebas-lessaintes.com
+http://terredebas-lessaintes.com
 http://www.terredebas-lessaintes.com
 https://www.terredepeyre-lozere.com
 https://www.terredeprovence-agglo.com
@@ -3225,7 +3222,6 @@ https://www.vieillevigne44.com
 https://viesly.com
 https://www.viesly.com
 https://www.vigeois.com
-https://village-arlempdes.com
 https://www.village-comps.com
 https://village-de-cinais.com
 https://www.village-de-cinais.com
@@ -3329,6 +3325,8 @@ https://www.villecloye.com
 https://www.villedefloing.com
 https://www.villedegenay.com
 https://villedepegomas.com
+https://villedesaintgobain.com
+https://www.villedesaintgobain.com
 https://villedestroisilets.com
 https://villedomain.com
 https://www.villedomain.com
@@ -4288,7 +4286,6 @@ https://clg-ouangani.ac-mayotte.fr
 https://clg-pamandzi.ac-mayotte.fr
 https://clg-sada.ac-mayotte.fr
 https://clg-tsimkoura.ac-mayotte.fr
-http://lp-chirongui.ac-mayotte.fr
 https://lpo-petite-terre.ac-mayotte.fr
 https://clg-corbieresmaritimes-sigean.ac-montpellier.fr
 https://clg-faure-olonzac.ac-montpellier.fr
@@ -4310,7 +4307,7 @@ https://clg-albert-camus-briare.tice.ac-orleans-tours.fr
 https://clg-albert-camus-dreux.tice.ac-orleans-tours.fr
 https://clg-albert-camus-vierzon.tice.ac-orleans-tours.fr
 https://clg-albert-sidoisne-bonneval.tice.ac-orleans-tours.fr
-http://clg-alfred-de-musset-patay.tice.ac-orleans-tours.fr
+https://clg-alfred-de-musset-patay.tice.ac-orleans-tours.fr
 https://clg-anatole-france-tours.tice.ac-orleans-tours.fr
 https://clg-andre-chene-les-jacobins-fleury-les-aubrais.tice.ac-orleans-tours.fr
 https://clg-arche-du-lude-joue-les-tours.tice.ac-orleans-tours.fr
@@ -4347,19 +4344,20 @@ http://clg-georges-besse-loches.tice.ac-orleans-tours.fr
 https://clg-henri-becquerel-avoine.tice.ac-orleans-tours.fr
 https://clg-henri-becquerel-chatillon-coligny.tice.ac-orleans-tours.fr
 https://clg-honore-racan-neuvy-le-roi.tice.ac-orleans-tours.fr
-http://clg-jean-emond-vendome.tice.ac-orleans-tours.fr
-http://clg-jean-joudiou-chateauneuf-sur-loire.tice.ac-orleans-tours.fr
+https://clg-jean-emond-vendome.tice.ac-orleans-tours.fr
+https://clg-jean-joudiou-chateauneuf-sur-loire.tice.ac-orleans-tours.fr
 https://clg-jean-mace-mainvilliers.tice.ac-orleans-tours.fr
 https://clg-jean-mermoz-gien.tice.ac-orleans-tours.fr
 http://clg-jean-monnet-luisant.tice.ac-orleans-tours.fr
 http://clg-jean-moulin-artenay.tice.ac-orleans-tours.fr
 http://clg-jean-moulin-chartres.tice.ac-orleans-tours.fr
-http://clg-jean-philippe-rameau-tours.tice.ac-orleans-tours.fr
+https://clg-jean-philippe-rameau-tours.tice.ac-orleans-tours.fr
 https://clg-jean-zay-chinon.tice.ac-orleans-tours.fr
 https://clg-joachim-du-bellay-authon-du-perche.tice.ac-orleans-tours.fr
 https://clg-joseph-crocheton-onzain.tice.ac-orleans-tours.fr
 https://clg-joseph-paul-boncour-st-aignan.tice.ac-orleans-tours.fr
 https://clg-jules-ferry-auneau.tice.ac-orleans-tours.fr
+https://clg-jules-ferry-tours.tice.ac-orleans-tours.fr
 https://clg-jules-romains-st-avertin.tice.ac-orleans-tours.fr
 https://clg-jules-verne-bourges.tice.ac-orleans-tours.fr
 https://clg-la-bruyere-tours.tice.ac-orleans-tours.fr
@@ -4375,13 +4373,13 @@ https://clg-le-colombier-dun-sur-auron.tice.ac-orleans-tours.fr
 https://clg-le-reflessoir-blere.tice.ac-orleans-tours.fr
 https://clg-les-capucins-chateauroux.tice.ac-orleans-tours.fr
 https://clg-les-clorisseaux-poilly-lez-gien.tice.ac-orleans-tours.fr
-http://clg-les-petits-sentiers-luce.tice.ac-orleans-tours.fr
+https://clg-les-petits-sentiers-luce.tice.ac-orleans-tours.fr
 https://clg-les-pressigny-selles-sur-cher.tice.ac-orleans-tours.fr
 https://clg-les-provinces-blois.tice.ac-orleans-tours.fr
 https://clg-les-sablons-buzancais.tice.ac-orleans-tours.fr
 https://clg-lorris.tice.ac-orleans-tours.fr
 https://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
-http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
+https://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
 https://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
 https://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
 http://clg-marcel-pagnol-vernouillet.tice.ac-orleans-tours.fr
@@ -4406,7 +4404,7 @@ https://clg-pierre-dezarnaulds-chatillon-sur-loire.tice.ac-orleans-tours.fr
 https://clg-pierre-mendes-france-checy.tice.ac-orleans-tours.fr
 https://clg-pierrebrossolette-nogentlerotrou.tice.ac-orleans-tours.fr
 https://clg-rabelais-cloyes-sur-loir.tice.ac-orleans-tours.fr
-http://clg-rebout-montlouis-sur-loire.tice.ac-orleans-tours.fr
+https://clg-rebout-montlouis-sur-loire.tice.ac-orleans-tours.fr
 https://clg-rene-cassin-ouzouer-le-marche.tice.ac-orleans-tours.fr
 http://clg-robert-goupil-beaugency.tice.ac-orleans-tours.fr
 https://clg-robert-lasneau-vendome.tice.ac-orleans-tours.fr
@@ -4416,7 +4414,7 @@ https://clg-ronsard-mer.tice.ac-orleans-tours.fr
 https://clg-rosa-parks-chateauroux.tice.ac-orleans-tours.fr
 https://clg-rostand-orleans.tice.ac-orleans-tours.fr
 https://clg-rschuman-amilly.tice.ac-orleans-tours.fr
-http://clg-saint-exupery-contres.tice.ac-orleans-tours.fr
+https://clg-saint-exupery-contres.tice.ac-orleans-tours.fr
 https://clg-saint-exupery-eguzon-chantome.tice.ac-orleans-tours.fr
 http://clg-saint-exupery-st-jean-de-braye.tice.ac-orleans-tours.fr
 http://clg-saintdenisenval.tice.ac-orleans-tours.fr
@@ -4661,7 +4659,6 @@ https://www.adico.fr
 https://www.adil21.fr
 https://www.adil40.fr
 https://www.adil44.fr
-https://www.adil84.fr
 http://adil973.fr
 http://www.adil973.fr
 https://adilnord.fr
@@ -5081,6 +5078,7 @@ https://soutenir.aphp-centre.aphp.fr
 https://soutenir.aphp-sorbonne-universite.aphp.fr
 https://bo-myaphp.aphp.fr
 https://cancer-hopitalpompidou.aphp.fr
+https://cancer-seniors-paris-est.aphp.fr
 https://cedit.aphp.fr
 https://centre-memoire.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
@@ -5116,7 +5114,6 @@ https://poleducoeur-hupo.aphp.fr
 https://prbmondor.aphp.fr
 https://ptah.aphp.fr
 https://pums.aphp.fr
-https://radiotherapie-tenon.aphp.fr
 https://rendu-osler.aphp.fr
 https://resultatslaboratoires.aphp.fr
 https://robertdebre.aphp.fr
@@ -7405,7 +7402,7 @@ https://www.camon.fr
 https://camors.fr
 https://www.camors.fr
 https://www.camors56.fr
-http://www.campagnac.fr
+https://www.campagnac.fr
 https://www.campagne-de-caux.fr
 https://campagne-en-perigord.fr
 https://www.campagne-en-perigord.fr
@@ -8431,7 +8428,6 @@ https://www.chalon.fr
 https://www.chalonnes-sur-loire.fr
 https://www.chalons-agglo.fr
 https://www.chalonsenchampagne.fr
-http://chalosaintmars.fr
 https://www.chalossetursan.fr
 https://www.chalus63.fr
 https://www.chalus87.fr
@@ -9222,6 +9218,7 @@ https://coban-atlantique.fr
 https://cocheren.fr
 https://cocm.fr
 https://www.cocm.fr
+https://cocumont-aquitaine.fr
 https://www.cocumont-aquitaine.fr
 https://codalet.fr
 https://codecom-argonne-meuse.fr
@@ -11800,7 +11797,6 @@ https://fontet.fr
 https://www.fontet.fr
 https://fontevraud-abbaye.fr
 https://fontguenand.fr
-https://www.fontguenand.fr
 https://www.fontivillie.fr
 https://fontrabiouse.fr
 https://www.fontrieu.fr
@@ -12630,6 +12626,7 @@ https://collectivites.antai.gouv.fr
 https://www.collectivites.antai.gouv.fr
 https://entreprises.antai.gouv.fr
 https://itsm.antai.gouv.fr
+https://www.itsm.antai.gouv.fr
 https://itsm-se.antai.gouv.fr
 https://www.itsm-se.antai.gouv.fr
 https://partenaires.antai.gouv.fr
@@ -12779,9 +12776,7 @@ https://voeux-affelnet-recette.apprentissage.beta.gouv.fr
 https://blog.beta.gouv.fr
 https://camino.beta.gouv.fr
 https://auth.camino.beta.gouv.fr
-https://dev.camino.beta.gouv.fr
 https://auth.dev.camino.beta.gouv.fr
-https://docs.dev.camino.beta.gouv.fr
 https://docs.camino.beta.gouv.fr
 https://preprod.camino.beta.gouv.fr
 https://docs.preprod.camino.beta.gouv.fr
@@ -13782,6 +13777,7 @@ http://multimedia.education.gouv.fr
 https://data.normandie.education.gouv.fr
 https://data.occitanie.education.gouv.fr
 https://prive.data.occitanie.education.gouv.fr
+https://adage-pr.phm.education.gouv.fr
 https://affectation3e.phm.education.gouv.fr
 https://portail.agent.phm.education.gouv.fr
 https://amia.phm.education.gouv.fr
@@ -15705,6 +15701,7 @@ https://www.hommert.fr
 https://www.hondschoote.fr
 https://www.hontanx.fr
 https://www.hopital-saint-blaise.fr
+https://hopitaldorion.fr
 https://www.horbourg-wihr.fr
 https://hordain.fr
 https://horsarrieu.fr
@@ -15744,6 +15741,7 @@ https://www.huissiersomme.fr
 https://www.hulluch.fr
 https://hultehouse.fr
 https://www.huma-num.fr
+https://hunawihr.fr
 http://www.hunawihr.fr
 https://hunspach.fr
 https://www.hunspach.fr
@@ -15906,7 +15904,6 @@ https://www.jardres.fr
 https://www.jargeau.fr
 https://www.jarjayes.fr
 https://jarnages.fr
-https://www.jarny.fr
 https://jarrier.fr
 https://www.jarville-la-malgrange.fr
 https://www.jarze.fr
@@ -16116,6 +16113,7 @@ https://www.la-celle-sur-morin.fr
 https://www.la-cellette63.fr
 https://la-chambre.fr
 https://la-chapelle-aux-brocs19.fr
+https://www.la-chapelle-aux-brocs19.fr
 https://www.la-chapelle-aux-filtzmeens.fr
 https://www.la-chapelle-du-noyer.fr
 https://la-chapelle-en-lafaye.fr
@@ -16153,7 +16151,6 @@ https://www.la-haye-fouassiere.fr
 https://la-houssoye.fr
 https://www.la-houssoye.fr
 https://www.la-lechere.fr
-https://la-madeleine-sur-loing.fr
 https://la-magdelaine-sur-tarn.fr
 https://www.la-magdelaine-sur-tarn.fr
 http://www.la-maziere-aux-bons-hommes.fr
@@ -16718,7 +16715,6 @@ http://www.lanrivoare.fr
 https://lans.fr
 https://www.lans.fr
 https://www.lansargues.fr
-https://www.lanta.fr
 https://www.lantenay.fr
 https://www.lanteuil.fr
 https://lantignie.fr
@@ -17176,7 +17172,6 @@ https://lehavre.fr
 https://www.lehavreseinemetropole.fr
 https://www.lehingle.fr
 https://lehouga.fr
-https://www.leigne-les-bois.fr
 https://www.leigneux.fr
 http://leinsgardonnenque.fr
 https://www.leinsgardonnenque.fr
@@ -19350,7 +19345,6 @@ https://mairie-longuesse.fr
 https://www.mairie-longwy.fr
 https://www.mairie-lons.fr
 https://www.mairie-loubieres09.fr
-https://mairie-louey.fr
 https://www.mairie-loupes33.fr
 https://mairie-loupiac-tarn.fr
 https://www.mairie-louveciennes.fr
@@ -19386,7 +19380,6 @@ http://www.mairie-manteslaville.fr
 https://mairie-maray.fr
 https://www.mairie-maray.fr
 https://mairie-marcellaz.fr
-https://www.mairie-marcellaz.fr
 http://mairie-marcillatcombraille.fr
 http://www.mairie-marcillatcombraille.fr
 https://www.mairie-marcilly-la-campagne.fr
@@ -21386,7 +21379,6 @@ https://mjc-forum-des-romains.fr
 https://mjcbolbec.fr
 https://mjcdouai.fr
 https://mjcmarseillan.fr
-https://www.mjcmarseillan.fr
 https://mjcmontmorillon.fr
 https://www.mjcrodez.fr
 https://www.mjcvic.fr
@@ -23731,7 +23723,7 @@ https://premeaux-prissey.fr
 https://www.premeaux-prissey.fr
 https://premesques.fr
 https://www.premeyzel.fr
-http://www.premilhat.fr
+https://www.premilhat.fr
 https://prendeignes.fr
 https://www.prendeignes.fr
 https://prenois.fr
@@ -24443,6 +24435,7 @@ https://sadroc.fr
 https://www.saessolsheim.fr
 https://www.saferdenormandie.fr
 https://www.saffre.fr
+https://sage-blavet.fr
 https://www.sage-blavet.fr
 https://sagy.fr
 https://sahune.fr
@@ -25466,7 +25459,6 @@ https://www.saintefoy-tarentaise.fr
 https://www.saintefoy40.fr
 https://www.saintefoy85.fr
 https://saintefoylagrande.fr
-https://www.saintefoyleslyon.fr
 https://www.saintegemmelaplaine.fr
 https://www.saintegemmeslerobert.fr
 http://www.saintegenevievedesbois.fr
@@ -27362,7 +27354,6 @@ https://www.tillenay.fr
 https://www.tilloy-et-bellay.fr
 https://tilloylesmofflaines.fr
 https://www.tilloylesmofflaines.fr
-https://tilly-27510.fr
 https://tilly-eure.fr
 https://www.tilly-eure.fr
 https://tilques.fr
@@ -29547,7 +29538,6 @@ https://www.villechantria.fr
 http://www.villechauve.fr
 https://www.villechetive.fr
 https://villecomtal.fr
-https://villecomte.fr
 https://www.villecomte.fr
 https://villeconin.fr
 https://www.villecresnes.fr
@@ -30202,7 +30192,6 @@ https://www.essises.info
 https://etzling.info
 https://www.etzling.info
 https://faycelles.info
-https://www.faycelles.info
 https://www.fayet.info
 https://www.fdc84.info
 https://www.fiumaltu.info
@@ -30277,6 +30266,7 @@ https://webwani.ac-noumea.nc
 https://webyate.ac-noumea.nc
 https://gouv.nc
 https://juridoc.gouv.nc
+http://www.greta.nc
 https://lafoa.nc
 https://www.lafoa.nc
 https://lyceemichelrocard.nc
@@ -30552,7 +30542,7 @@ https://www.rauzan.net
 https://www.rejaumont.net
 https://www.ribaute.net
 https://www.rocles.net
-http://rougnac.net
+https://rougnac.net
 http://mairie.rustrel.net
 https://www.saint-barthelemy56.net
 https://saint-etienne-roilaye.net
@@ -31143,6 +31133,7 @@ https://www.missionlocale-mlmoml.org
 http://missionlocale-nantes.org
 https://www.missionlocale-paysbasque.org
 https://www.missionlocale-paysyonnais.org
+https://missionlocale04.org
 https://www.missionlocale31.org
 https://www.missionlocale82.org
 https://www.missionlocaleducholetais.org
@@ -31316,7 +31307,6 @@ https://vauvenargues.org
 https://www.vercors.org
 https://www.victor-duruy.org
 https://www.vignot.org
-https://ville-ebreuil.org
 https://www.ville-loonplage.org
 https://ville-saint-martin-auxigny.org
 https://villeseque.org
