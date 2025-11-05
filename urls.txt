@@ -579,7 +579,7 @@ https://www.burnhaupt-le-haut.com
 https://www.bussang.com
 https://www.bussy-saint-martin.com
 http://lupsault.byethost3.com
-https://murles.byethost7.com
+http://murles.byethost7.com
 https://www.ca2m.com
 https://cabanedanslesbois.com
 http://www.cabestany.com
@@ -777,6 +777,7 @@ https://www.champsaur-valgaudemar.com
 https://www.chapelle-voland.com
 https://chapelledesbois.com
 https://www.chapelledesbois.com
+https://chapelleroyale.com
 http://chapet.com
 http://www.chapet.com
 https://www.charbonnieres.com
@@ -1805,6 +1806,7 @@ https://www.mairie-brennilis.com
 http://www.mairie-brieres.com
 https://mairie-buisson.com
 https://www.mairie-carisey-89.com
+https://www.mairie-cassagnes66.com
 https://www.mairie-cast.com
 https://mairie-castagniers.com
 https://www.mairie-castagniers.com
@@ -1923,10 +1925,12 @@ https://www.mairie-preneron.com
 https://mairie-presailles.com
 https://www.mairie-propriano.com
 https://www.mairie-provin.com
+https://mairie-puttelangeauxlacs.com
 https://www.mairie-puttelangeauxlacs.com
 https://www.mairie-puybegon.com
 https://www.mairie-quiers.com
 http://www.mairie-racrange.com
+https://mairie-roumazieres-loubert.com
 https://www.mairie-rouvray-89.com
 http://www.mairie-sacierges.com
 https://www.mairie-saint-bonnet-de-bellac.com
@@ -2020,9 +2024,11 @@ https://mairiedechichery.com
 https://mairiedecieux.com
 https://www.mairiedecieux.com
 https://www.mairiedeclecy.com
+https://www.mairiedecours-lot-46.com
 https://mairiedecubnezais.com
 https://www.mairiedecubnezais.com
 https://mairiedecuvilly.com
+https://www.mairiedecuvilly.com
 https://www.mairiedefavieres.com
 https://www.mairiedejonage.com
 http://www.mairiedelieurey.com
@@ -2340,7 +2346,7 @@ http://www.orchamps-vennes.com
 https://www.orcieres.com
 https://www.ordre-avocats-bonneville.com
 https://www.ordre-avocats-bourgoin-jallieu.com
-http://ordre-avocats-moulins.com
+https://ordre-avocats-moulins.com
 http://www.ordre-avocats-moulins.com
 https://ordre-avocats-saintquentin.com
 http://ordredesavocats-chartres.com
@@ -2994,7 +3000,6 @@ https://www.st-just-en-chevalet.com
 https://www.st-laurent-de-brevedent.com
 https://www.st-martial.com
 https://st-martin-du-puy.com
-https://st-martory.com
 https://www.st-paul66.com
 https://www.st-peray.com
 https://www.st-remy.com
@@ -3084,7 +3089,6 @@ https://www.tournon-savoie.com
 https://tourrettessurloup.com
 https://www.trefflean.com
 https://treigny.com
-https://trelou-sur-marne.com
 https://www.tremblaylesvillages.com
 https://trementines.com
 http://tremereuc.com
@@ -3592,6 +3596,7 @@ https://seur41.eu
 https://sportgrandest.eu
 http://st-quentin-fallavier.eu
 http://www.st-quentin-fallavier.eu
+https://www.strasbourg.eu
 https://trimbach-village.eu
 https://usclasdubosc.eu
 https://vagney.eu
@@ -3671,7 +3676,7 @@ https://mayres-savel.a3w.fr
 http://www.mayres-savel.a3w.fr
 https://montigny-sur-vesle.a3w.fr
 http://www.montigny-sur-vesle.a3w.fr
-http://mur-de-sologne.a3w.fr
+https://mur-de-sologne.a3w.fr
 https://poilly-sur-tholon.a3w.fr
 http://www.poilly-sur-tholon.a3w.fr
 http://preveranges.a3w.fr
@@ -5163,7 +5168,6 @@ https://www.areams.fr
 https://www.arel08500.fr
 https://www.arelauneenseine.fr
 https://www.aren.fr
-https://arengosse.fr
 https://www.arengosse.fr
 http://www.arenthon.fr
 https://arette64.fr
@@ -6588,6 +6592,7 @@ https://www.biars-sur-cere.fr
 https://www.bias40.fr
 https://biaudos.fr
 https://www.biaudos.fr
+https://biches-info.fr
 https://www.bicqueley.fr
 https://www.bidache.fr
 https://www.bidarray.fr
@@ -6783,7 +6788,6 @@ https://www.bonnemain.fr
 https://bonnencontre.fr
 https://www.bonnencontre.fr
 https://www.bonnes.fr
-http://bonnetable.fr
 https://www.bonnetan.fr
 https://bonneuil-les-eaux.fr
 https://www.bonneuil-les-eaux.fr
@@ -6879,7 +6883,6 @@ https://www.bouleurs.fr
 https://www.boulieu.fr
 https://boulin.fr
 https://www.boulin.fr
-http://boullay-les-troux.fr
 https://www.boullay-les-troux.fr
 https://boulleret.fr
 https://www.boulleret.fr
@@ -6984,7 +6987,6 @@ https://bpascal.fr
 https://www.braches.fr
 https://www.bracieux.fr
 https://braconne-charente.fr
-https://www.braconne-charente.fr
 https://bragassargues.fr
 https://bragny-sur-saone.fr
 https://www.bragny-sur-saone.fr
@@ -9423,7 +9425,7 @@ https://colombierfontaine.fr
 https://www.colombierfontaine.fr
 https://colombierlejeune.fr
 http://colombierlevieux.fr
-http://www.colombierlevieux.fr
+https://www.colombierlevieux.fr
 https://www.colombies.fr
 https://www.colomby.fr
 https://colomieu.fr
@@ -10222,7 +10224,6 @@ https://www.cubzaclesponts.fr
 https://cucq.fr
 https://www.cucugnan.fr
 https://cucuron.fr
-https://cudos.fr
 https://www.cudos.fr
 https://cuges-les-pins.fr
 https://cugny.fr
@@ -13196,7 +13197,6 @@ http://ent.etrs.terre.defense.gouv.fr
 http://tools.etrs.terre.defense.gouv.fr
 https://cas.st-cyr.terre.defense.gouv.fr
 http://public.st-cyr.terre.defense.gouv.fr
-http://mailhost.stat.terre.defense.gouv.fr
 https://www.terre.defense.gouv.fr
 https://www.defense.gouv.fr
 https://www.demande-logement-social.gouv.fr
@@ -13313,7 +13313,6 @@ https://redmine-dev.centre-serveur.din.developpement-durable.gouv.fr
 https://redmine-recette.centre-serveur.din.developpement-durable.gouv.fr
 https://redmine-test.centre-serveur.din.developpement-durable.gouv.fr
 https://preprod.formation.collab.din.developpement-durable.gouv.fr
-https://s2.collab.din.developpement-durable.gouv.fr
 https://preprod.sp2019.collab.din.developpement-durable.gouv.fr
 https://www.ecole.datmd.din.developpement-durable.gouv.fr
 https://preprod.descartes.din.developpement-durable.gouv.fr
@@ -14020,7 +14019,6 @@ https://prevaction.finances.gouv.fr
 https://form.prevaction.finances.gouv.fr
 https://test.prevaction.finances.gouv.fr
 https://rebeca-archives.finances.gouv.fr
-https://rebeca-documentation.finances.gouv.fr
 https://respae-invite.finances.gouv.fr
 https://sama.finances.gouv.fr
 https://telescope.finances.gouv.fr
@@ -15310,7 +15308,6 @@ https://hambye.fr
 https://www.hamel59.fr
 https://hames-boucres.fr
 https://www.hamsousvarsberg.fr
-https://handicaplandes.fr
 https://www.handicaplandes.fr
 https://www.handyjob06.fr
 https://hangenbieten.fr
@@ -17860,7 +17857,6 @@ https://www.lycee-benjamin-franklin.fr
 https://lycee-berthelot.fr
 http://lycee-boisdamour.fr
 https://www.lycee-buffon.fr
-https://www.lycee-chabanne16.fr
 https://www.lycee-champo.fr
 https://www.lycee-champollion.fr
 https://www.lycee-chaptal.fr
@@ -17894,6 +17890,7 @@ https://www.lycee-dorian.fr
 https://lycee-doriole.fr
 https://www.lycee-doucet.fr
 https://www.lycee-duguesclin.fr
+https://lycee-duhameldumonceau.fr
 https://lycee-dumont-durville.fr
 https://lycee-eiffel.fr
 https://www.lycee-elie-vinet.fr
@@ -18048,6 +18045,7 @@ https://www.lyceecharlestillon.fr
 https://lyceechoiseul.fr
 http://www.lyceechrestiendetroyes.fr
 http://www.lyceeclaret.fr
+https://lyceecoubertin-meaux.fr
 https://www.lyceedarsonval.fr
 https://lyceedautet.fr
 https://lyceedavier.fr
@@ -19689,7 +19687,6 @@ http://www.mairie-saint-gregoire.fr
 http://www.mairie-saint-hilaire-peyroux.fr
 https://mairie-saint-hippolyte.fr
 https://www.mairie-saint-jean-brevelay.fr
-http://www.mairie-saint-jean-dardieres.fr
 https://www.mairie-saint-julien69.fr
 http://www.mairie-saint-junien.fr
 https://mairie-saint-lary.fr
@@ -20045,6 +20042,7 @@ https://www.mairie-vignes.fr
 https://www.mairie-vigneulles.fr
 https://mairie-vigoulant.fr
 https://mairie-vigoulet-auzil.fr
+https://mairie-vigy.fr
 https://mairie-villac.fr
 https://mairie-village-neuf.fr
 https://www.mairie-village-neuf.fr
@@ -20693,7 +20691,7 @@ https://maretz.fr
 http://mareuil-en-brie.fr
 https://www.mareuil-en-perigord.fr
 https://www.mareuil-les-meaux.fr
-http://www.mareuilleport.fr
+https://www.mareuilleport.fr
 https://mareuilsurlay.fr
 https://www.mareuilsurlay.fr
 http://www.mareuilsurourcq.fr
@@ -22615,7 +22613,6 @@ https://www.oiscl.fr
 https://oiselay-et-grachaux.fr
 http://www.oisly.fr
 https://oison.fr
-http://oisseau.fr
 https://www.oissery.fr
 https://www.olby.fr
 https://olc54.fr
@@ -24893,6 +24890,7 @@ https://saint-pardoux-la-riviere.fr
 https://www.saint-pardoux-le-lac.fr
 https://www.saint-parize-le-chatel.fr
 https://www.saint-pathus.fr
+https://www.saint-paul-de-tartas.fr
 https://www.saint-paul-des-landes.fr
 http://www.saint-paul-despis.fr
 https://www.saint-paul-en-born.fr
@@ -25354,6 +25352,7 @@ http://www.saintestephe.fr
 https://sainteterre.fr
 https://www.sainteterre.fr
 https://saintetherencebourg.fr
+https://www.saintetherencebourg.fr
 http://saintethorette.fr
 http://www.saintethorette.fr
 https://www.saintetienneautemple.fr
@@ -26693,7 +26692,6 @@ https://www.st-beat-lez.fr
 https://st-bonnet-le-chateau.fr
 https://st-christo.fr
 https://www.st-christo.fr
-http://st-christophedujambet.fr
 http://www.st-christophedujambet.fr
 https://www.st-clair-du-rhone.fr
 https://st-clement-sur-valsonne.fr
@@ -26777,8 +26775,9 @@ https://st-vincent-de-paul.fr
 https://stains.fr
 https://stalbandemontbel.fr
 https://stallouestre.fr
-http://stambreuil.fr
+https://stambreuil.fr
 https://www.stambreuil.fr
+https://standresurcailly.fr
 https://www.standresurcailly.fr
 https://www.standresurvieuxjonc.fr
 http://stantoinesurlisle.fr
@@ -27327,6 +27326,7 @@ https://tranzault.fr
 https://trappes.fr
 https://travaillan.fr
 https://www.travaillan.fr
+https://www.travecy.fr
 http://www.traverseres.fr
 https://traves.fr
 http://www.treauville.fr
@@ -27566,7 +27566,6 @@ https://www.univ-paris8.fr
 https://scuio-ip.univ-pau.fr
 https://www.univ-pau.fr
 https://www.univ-perp.fr
-https://www.univ-reims.fr
 https://www.univ-rennes2.fr
 https://www.univ-reunion.fr
 https://www.univ-rouen.fr
@@ -28730,7 +28729,6 @@ https://ville-isle-adam.fr
 https://www.ville-ivry-la-bataille.fr
 https://www.ville-jacou.fr
 https://www.ville-jardsurmer.fr
-https://www.ville-jarrie.fr
 https://www.ville-jausiers.fr
 https://www.ville-joeuf.fr
 https://ville-joigny.fr
@@ -30051,7 +30049,6 @@ https://www.gas-mairie.info
 https://www.gracay.info
 https://guermantes.info
 https://territoires.histologe.info
-http://www.avrilly.interco-abl.info
 https://www.lacompote.info
 https://www.lattainville.info
 http://www.laudignonais.info
@@ -30483,6 +30480,7 @@ https://www.adil13.org
 https://www.adil16.org
 https://www.adil17.org
 https://www.adil19.org
+https://www.adil24.org
 https://www.adil27.org
 https://www.adil29.org
 https://www.adil30.org
@@ -30499,6 +30497,7 @@ https://www.adil42-43.org
 https://www.adil45-28.org
 https://www.adil46.org
 https://www.adil48.org
+https://www.adil49.org
 https://www.adil53.org
 https://www.adil54-55.org
 https://www.adil56.org
