@@ -844,7 +844,6 @@ http://gibles.chez.com
 http://herleville.chez.com
 http://marollesenbeauce.chez.com
 http://village.chez.com
-http://www.village.chez.com
 http://www.chez.com
 https://chiracbellevue.com
 https://www.chiracbellevue.com
@@ -996,7 +995,6 @@ https://www.crij.com
 https://crij-bretagne.com
 https://www.crij-montpellier.com
 https://www.croissy.com
-https://croissysurcelle.com
 http://www.croissysurcelle.com
 https://www.croscorse.com
 https://www.cruas.com
@@ -1309,6 +1307,7 @@ https://www.hondouville.com
 https://www.hopital-breil-roya.com
 https://horgues.com
 https://hornoylebourg.com
+https://www.hornoylebourg.com
 https://www.hourtin-medoc.com
 https://www.huismes.com
 https://www.huissiers-justice-ca-lyon.com
@@ -1362,10 +1361,8 @@ https://commune-de-le-grez.jimdofree.com
 https://commune-longuevillette.jimdofree.com
 https://communedeblond.jimdofree.com
 https://communedelanneenbaretous.jimdofree.com
-https://communedemontdisse.jimdofree.com
 https://conde-northen.jimdofree.com
 https://corbereaberes.jimdofree.com
-https://cormeilles60.jimdofree.com
 https://curac.jimdofree.com
 https://fanlac.jimdofree.com
 https://fleurac.jimdofree.com
@@ -1393,8 +1390,6 @@ https://mairie-loncon.jimdofree.com
 https://mairie-neuville-lez-beaulieu.jimdofree.com
 https://mairie-saint-priest-taurion.jimdofree.com
 https://mairie-vernet-les-bains.jimdofree.com
-https://mairiedesaillans.jimdofree.com
-https://mairiegombergean41.jimdofree.com
 https://mairiepezelerobert.jimdofree.com
 https://martrin.jimdofree.com
 https://maucourt.jimdofree.com
@@ -1601,7 +1596,6 @@ https://www.lentigny.com
 https://www.leparacletamiens.com
 https://lepetitcharsien.com
 https://www.lepetitcharsien.com
-https://www.lepoizat-lalleyriat.com
 https://les-bordes-sur-arize.com
 https://www.les-chavannes.com
 https://www.les-ecrennes.com
@@ -1782,7 +1776,6 @@ https://www.mairie-balinghem.com
 https://www.mairie-bannost-villegagnon77.com
 http://www.mairie-beaufort73.com
 https://www.mairie-beaurepaire.com
-http://mairie-belloy-sur-somme.com
 https://www.mairie-beyrie.com
 https://mairie-blauzac.com
 https://mairie-bombon.com
@@ -2117,7 +2110,6 @@ https://www.meyrie-village.com
 https://www.mezieres78.com
 https://midicorrezien.com
 https://www.midicorrezien.com
-https://www.millay-morvan.com
 https://www.mirabel-ardeche.com
 https://www.mission-locale-cournon.com
 https://mission-locale-granville.com
@@ -2783,7 +2775,6 @@ https://saintgermaindemodeon.com
 http://saintgermaindesteuil.com
 http://www.saintgermaindesteuil.com
 http://www.saintgermainetmons.com
-https://saintgermainlherm.com
 https://www.saintgermainlherm.com
 https://saintgermier79.com
 https://www.saintgervais.com
@@ -2998,7 +2989,6 @@ https://www.stclairdelatour.com
 http://steflaivedesloups.com
 https://steinbourg.com
 http://www.steinbourg.com
-https://www.stjeanchambre.com
 https://www.stjuliendance.com
 http://www.stjuliendusault.com
 https://stjustchaleyssin.com
@@ -3493,7 +3483,6 @@ https://clg-wallon-savignyletemple.eu
 https://www.commune-mothern.eu
 https://www.crecylachapelle.eu
 https://www.conde-sainte-libiaire.csime.eu
-https://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
 https://www.enim.eu
 https://etreville.eu
@@ -4173,7 +4162,6 @@ https://lpo-bertene-juminer.eta.ac-guyane.fr
 https://lpo-lama-prevot.eta.ac-guyane.fr
 https://lpo-leopold-elfort.eta.ac-guyane.fr
 https://lpo-lumina-sophie.eta.ac-guyane.fr
-https://lpo-melkior-garre.eta.ac-guyane.fr
 https://greta.ins.ac-guyane.fr
 https://corotdouai.etab.ac-lille.fr
 https://waziers.etab.ac-lille.fr
@@ -4579,7 +4567,6 @@ http://www.lyc-violletleduc.ac-versailles.fr
 http://www.lyc-voilin-puteaux.ac-versailles.fr
 http://www.reseau-wallon-garges.ac-versailles.fr
 https://www.acajou1.fr
-https://www.accons-ardeche.fr
 http://accoord.fr
 https://www.accoord.fr
 https://www.accord-ages.fr
@@ -5046,7 +5033,6 @@ https://ghparis10.aphp.fr
 https://hopital-antoine-beclere.aphp.fr
 https://hopital-beaujon.aphp.fr
 https://hopital-bretonneau.aphp.fr
-https://hopital-corentincelton.aphp.fr
 https://hopital-georgespompidou.aphp.fr
 https://hopital-necker.aphp.fr
 https://hoptisoins.aphp.fr
@@ -5307,8 +5293,8 @@ https://www.lasemeuse.asso.fr
 https://maires17.asso.fr
 https://mercoeur.asso.fr
 https://www.mercoeur.asso.fr
-https://mission-locale-du-saumurois.asso.fr
-https://www.mission-locale-du-saumurois.asso.fr
+http://mission-locale-du-saumurois.asso.fr
+http://www.mission-locale-du-saumurois.asso.fr
 https://mission-locale-tarn-sud.asso.fr
 https://www.mldijon.asso.fr
 https://www.mli-poitiers.asso.fr
@@ -6978,7 +6964,6 @@ https://www.branceilles.fr
 https://www.branches.fr
 https://www.brancourt-le-grand.fr
 https://www.brandivy.fr
-https://www.brandonnet.fr
 https://www.branly.fr
 https://brannens33.fr
 https://www.brannens33.fr
@@ -7306,7 +7291,6 @@ https://cahorsagglo.fr
 https://www.cahus.fr
 https://cahuzac-sur-vere.fr
 https://www.cahuzac-sur-vere.fr
-https://www.caignac.fr
 https://caillac.fr
 http://www.cairanne.fr
 https://www.caissedesdepots.fr
@@ -7997,7 +7981,6 @@ https://www.ccmpm.fr
 https://www.ccmrr.fr
 https://ccmsl.fr
 https://www.ccmsl.fr
-https://ccnoa.fr
 https://ccnoblat.fr
 https://www.ccoa.fr
 https://www.ccoisans.fr
@@ -8098,7 +8081,6 @@ https://www.cdc-pays-othe.fr
 https://www.cdc-portesduberry.fr
 http://www.cdc-portesentredeuxmers.fr
 https://cdc-psq.fr
-https://www.cdc-sourcesdelorne.fr
 https://www.cdc-vexin-normand.fr
 https://www.cdcaag.fr
 https://cdcdubazadais.fr
@@ -9003,7 +8985,6 @@ https://www.clamart.fr
 https://www.clamecy.fr
 https://clansayes.fr
 https://www.clansayes.fr
-https://clarac65.fr
 https://www.clarac65.fr
 https://www.clarafond-arcine.fr
 https://clarbec.fr
@@ -9483,7 +9464,7 @@ https://commune-de-cures.fr
 https://www.commune-de-cures.fr
 https://www.commune-de-dieudonne.fr
 https://commune-de-dizy.fr
-https://www.commune-de-dizy.fr
+http://www.commune-de-dizy.fr
 https://commune-de-doubs.fr
 https://commune-de-jarnosse.fr
 https://www.commune-de-lesquerde.fr
@@ -9547,7 +9528,6 @@ http://commune-lesallies.fr
 https://commune-leval.fr
 https://www.commune-leval.fr
 https://commune-lherm09.fr
-https://commune-liez02.fr
 https://www.commune-liez02.fr
 http://commune-loffre.fr
 https://www.commune-lohr.fr
@@ -10187,6 +10167,7 @@ https://www.cssm.fr
 https://www.ctguyane.fr
 https://ctlf.fr
 https://ctsb.fr
+https://www.ctsb.fr
 https://cubieres.fr
 https://cubieres-sur-cinoble.fr
 https://cublize.fr
@@ -14001,16 +13982,13 @@ https://ira-jury-test.fonction-publique.gouv.fr
 https://lienrh.fonction-publique.gouv.fr
 https://www.pass.fonction-publique.gouv.fr
 http://recherche.fonction-publique.gouv.fr
-https://auvergne-rhone-alpes.safire.fonction-publique.gouv.fr
 https://bourgogne-franche-comte.safire.fonction-publique.gouv.fr
 https://corse.safire.fonction-publique.gouv.fr
-https://grand-est.safire.fonction-publique.gouv.fr
 https://guadeloupe.safire.fonction-publique.gouv.fr
 https://guyane.safire.fonction-publique.gouv.fr
 https://ile-de-france.safire.fonction-publique.gouv.fr
 https://martinique.safire.fonction-publique.gouv.fr
 https://mayotte.safire.fonction-publique.gouv.fr
-https://normandie.safire.fonction-publique.gouv.fr
 https://nouvelle-aquitaine.safire.fonction-publique.gouv.fr
 https://paca.safire.fonction-publique.gouv.fr
 https://pays-de-la-loire.safire.fonction-publique.gouv.fr
@@ -14142,6 +14120,7 @@ https://invite.contacts-demarches.interieur.gouv.fr
 http://crl.interieur.gouv.fr
 https://datascience-onisr.interieur.gouv.fr
 https://www.deminage.interieur.gouv.fr
+https://depot-teleservices-cnaps.interieur.gouv.fr
 https://sia.detenteurs.interieur.gouv.fr
 https://www.cnen.dgcl.interieur.gouv.fr
 https://formation.auth.dgscgc.interieur.gouv.fr
@@ -14189,6 +14168,8 @@ https://uadm.gendcom.gendarmerie.interieur.gouv.fr
 https://gendform.gendarmerie.interieur.gouv.fr
 https://3b2p.gendform.gendarmerie.interieur.gouv.fr
 https://3b3p.gendform.gendarmerie.interieur.gouv.fr
+https://3b4p.gendform.gendarmerie.interieur.gouv.fr
+http://3bslp.gendform.gendarmerie.interieur.gouv.fr
 https://minotaur.gendarmerie.interieur.gouv.fr
 https://recrutementenligne.gendarmerie.interieur.gouv.fr
 https://www.recrutementenligne.gendarmerie.interieur.gouv.fr
@@ -14906,7 +14887,6 @@ https://bonjour.tousanticovid.gouv.fr
 https://www.transformation.gouv.fr
 http://transition-energetique.gouv.fr
 http://www.transition-energetique.gouv.fr
-https://candidature-tpe.travail.gouv.fr
 https://code.travail.gouv.fr
 https://img.diffusion.travail.gouv.fr
 https://egapro.travail.gouv.fr
@@ -17423,7 +17403,7 @@ https://www.ligne.fr
 https://www.lignerolles-03.fr
 https://www.ligneyrac.fr
 https://www.lignieres-chatelain.fr
-https://lignieres-orgeres.fr
+http://lignieres-orgeres.fr
 https://www.lignieres-orgeres.fr
 http://www.lignieres41.fr
 http://www.ligny-en-cambresis.fr
@@ -17970,7 +17950,6 @@ https://www.lycee-sud-perigord.fr
 http://www.lycee-sully-nogent.fr
 https://lycee-terrasson.fr
 https://www.lycee-val-de-bievre.fr
-https://www.lycee-valery-larbaud.fr
 https://www.lycee-valognes.fr
 https://www.lycee-vernotte.fr
 https://lycee-vieljeux.fr
@@ -18047,7 +18026,6 @@ https://www.lyceeheleneboucher-tremblayenfrance.fr
 https://www.lyceehenaff.fr
 https://www.lyceehenriavril.fr
 https://www.lyceehenrimartin.fr
-https://www.lyceehenrimeck.fr
 https://lyceehere.fr
 https://lyceehorticole56.fr
 https://www.lyceehorticulture93.fr
@@ -18332,6 +18310,7 @@ https://mairie-bachy.fr
 https://www.mairie-bachy.fr
 https://mairie-bailleau-armenonville.fr
 https://www.mairie-bailleau-armenonville.fr
+https://www.mairie-bailly.fr
 https://www.mairie-baisieux.fr
 https://mairie-balagnysurtherain.fr
 https://www.mairie-balagnysurtherain.fr
@@ -19014,6 +18993,7 @@ https://www.mairie-izeure21.fr
 https://mairie-izier.fr
 https://www.mairie-izier.fr
 https://mairie-jambville.fr
+https://mairie-jans.fr
 https://www.mairie-jans.fr
 https://mairie-jardin.fr
 https://www.mairie-jardin.fr
@@ -20267,7 +20247,6 @@ https://www.mairiedejougne.fr
 https://mairiedelabarthe.fr
 https://mairiedelabeaume.fr
 https://www.mairiedelaizy.fr
-https://www.mairiedelasauve.fr
 https://mairiedelempaut.fr
 https://mairiedelepin.fr
 https://mairiedelery.fr
@@ -20415,6 +20394,7 @@ http://www.mairienantilly.fr
 https://mairieneffes.fr
 https://mairieneuvic.fr
 https://www.mairieneuvic.fr
+https://www.mairieneuvy.fr
 https://mairienoveant.fr
 https://www.mairieouches.fr
 https://www.mairieourouxenmorvan.fr
@@ -20742,7 +20722,6 @@ https://martigny-le-comte.fr
 https://www.martillac.fr
 https://www.martineglise.fr
 https://www.martiniere-duchere.fr
-https://martinvast.fr
 https://www.martinvast.fr
 https://martizay.fr
 https://www.martot.fr
@@ -22396,7 +22375,6 @@ https://normandieparticipations.fr
 https://www.noroy-le-bourg.fr
 http://norrent-fontes.fr
 http://www.norrent-fontes.fr
-https://norroylespam.fr
 https://norroyleveneur.fr
 https://nort-leulinghem.fr
 https://www.nort-leulinghem.fr
@@ -22474,7 +22452,6 @@ http://www.nouzerines.fr
 https://www.nouzilly.fr
 https://noves.fr
 https://novillard.fr
-https://www.novy-chevrieres.fr
 https://www.noyal.fr
 https://www.noyal-muzillac.fr
 https://www.noyal-pontivy.fr
@@ -22716,7 +22693,6 @@ https://www.ouanne.fr
 https://www.ouarville.fr
 https://ouche-montagne.fr
 https://oucques.fr
-https://www.oucques.fr
 https://oudeuil.fr
 https://www.oudeuil.fr
 https://oudezeele.fr
@@ -23020,6 +22996,7 @@ https://www.peillonnex.fr
 https://www.peipin.fr
 https://www.peisey-nancroix.fr
 https://www.pelleautier.fr
+https://www.pellevoisin.fr
 https://www.pelussin.fr
 https://www.penchard.fr
 https://pennautier.fr
@@ -23173,6 +23150,7 @@ https://www.pimbo.fr
 https://pinay.fr
 https://www.pinay.fr
 https://pince.fr
+https://www.pinet-mairie.fr
 https://www.pineuilh.fr
 https://www.piney.fr
 https://www.pinsac.fr
@@ -23214,7 +23192,6 @@ https://plainoiseau.fr
 https://www.plainoiseau.fr
 https://plainval.fr
 https://www.plainval.fr
-https://www.plaisancedugers.fr
 https://www.plaisancedutouch.fr
 http://www.plaisia.fr
 https://plaissan.fr
@@ -24478,7 +24455,7 @@ https://www.saint-etienne-cantales.fr
 https://saint-etienne-de-boulogne.fr
 https://www.saint-etienne-de-chomeil.fr
 https://www.saint-etienne-de-serre.fr
-http://www.saint-etienne-de-tulmont.fr
+https://www.saint-etienne-de-tulmont.fr
 https://www.saint-etienne-de-vicq.fr
 https://saint-etienne-des-champs.fr
 https://www.saint-etienne-du-valdonnez.fr
@@ -24852,7 +24829,6 @@ https://saint-pern.fr
 https://saint-perreux.fr
 https://saint-philbert-du-peuple.fr
 http://saint-piat.fr
-https://www.saint-piat.fr
 http://www.saint-pierre-d-entremont.fr
 http://www.saint-pierre-de-bailleul.fr
 https://saint-pierre-de-cherennes.fr
@@ -25668,7 +25644,6 @@ https://www.saintpierredevarengeville.fr
 https://saintpierredevassols.fr
 https://www.saintpierredexideuil.fr
 https://www.saintpierredirube.fr
-http://saintpierreduchemin.fr
 https://saintpierredumont.fr
 https://saintpierreduval.fr
 http://www.saintpierreduval.fr
@@ -26241,7 +26216,6 @@ https://www.senille-st-sauveur.fr
 http://seninghem.fr
 http://www.seninghem.fr
 https://www.senior36.fr
-https://www.senlisse.fr
 https://www.sennecay18.fr
 https://senneceylegrand.fr
 https://www.senneceylegrand.fr
@@ -26394,7 +26368,7 @@ http://www.signy-abbaye.fr
 https://www.signy-signets.fr
 https://www.sigonce.fr
 https://sigoules-et-flaugeac.fr
-https://sigournais.fr
+http://sigournais.fr
 https://sij-montauban.fr
 https://www.sij-montauban.fr
 https://www.silfiac.fr
@@ -26846,7 +26820,6 @@ https://stprivatdevallongue.fr
 https://www.stromain76.fr
 https://stromainlavirvee.fr
 https://www.stromainlavirvee.fr
-https://www.strueth.fr
 https://stsauvant17.fr
 https://stsauveurdaunis.fr
 https://stsauveurenrue.fr
@@ -27623,6 +27596,7 @@ https://www.valdesvignes.fr
 https://www.valdeuropeagglo.fr
 https://www.valdevesle.fr
 https://valdevienne.fr
+https://www.valdevirieu.fr
 https://www.valdevirvee.fr
 https://valdille.fr
 https://www.valdille-aubigne.fr
@@ -29233,7 +29207,6 @@ https://www.ville-thezan-les-beziers.fr
 https://www.ville-thezyglimont.fr
 https://www.ville-thiais.fr
 https://ville-thiers.fr
-https://www.ville-thise.fr
 https://www.ville-thonon.fr
 https://www.ville-thorigne-fouillard.fr
 https://ville-tincques.fr
@@ -30340,6 +30313,7 @@ http://saintbonnetletroncy.net
 http://www.saintbonnetletroncy.net
 https://saintclement19.net
 https://www.sainte-suzanne-sur-vire.net
+https://saintefoylagrande.net
 https://www.saintjuery.net
 https://www.saintmenoux.net
 https://sallenelles.net
@@ -30387,7 +30361,6 @@ http://javernant.voila.net
 http://senlis.voila.net
 https://vornay.net
 https://wangen-alsace.net
-https://www.wangen-alsace.net
 https://webou.net
 http://www.college-la-citadelle.webou.net
 http://issac.webou.net
@@ -30990,7 +30963,6 @@ http://pij-velay.org
 http://www.pij-velay.org
 https://www.pimms-nimes.org
 https://plasnes.org
-https://www.plasnes.org
 https://plumelec.org
 https://www.plumelec.org
 http://polysonnance.org
@@ -31047,7 +31019,7 @@ http://sorbs.org
 http://st-martin-auxigny.org
 https://www.st-martin-auxigny.org
 https://www.stantoinedeficalba.org
-https://steinbach68.org
+http://steinbach68.org
 https://www.steinbach68.org
 https://www.stgermaindelacoudre.org
 https://www.syded87.org
