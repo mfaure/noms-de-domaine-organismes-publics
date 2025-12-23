@@ -395,7 +395,6 @@ https://www.barreaudeversailles.com
 https://www.barreaulyon.com
 https://www.barredescevennes.com
 https://www.bassin-de-marennes.com
-http://bastelicaccia.com
 http://www.bastelicaccia.com
 https://bastidedesjourdans.com
 https://batie-montgascon.com
@@ -422,6 +421,7 @@ https://www.belmontdazergues.com
 https://belves-en-perigord.com
 https://www.belves-en-perigord.com
 http://benonces.com
+http://www.benonces.com
 https://www.berengeville-la-campagne.com
 https://berneuil-en-bray.com
 https://www.berneuil-en-bray.com
@@ -1864,6 +1864,7 @@ https://www.mairie-tartaras.com
 http://www.mairie-treves.com
 https://mairie-upie.com
 https://www.mairie-upie.com
+http://mairie-vacquieres.com
 https://www.mairie-vacquieres.com
 https://www.mairie-valderies.com
 https://www.mairie-vallon.com
@@ -3242,7 +3243,6 @@ https://lachapelledubard.wordpress.com
 https://lachapellesurchezy.wordpress.com
 https://laforetleroi.wordpress.com
 https://leplantay.wordpress.com
-https://lignieresdetouraine.wordpress.com
 https://lyceearsonval.wordpress.com
 https://lyceesmarcelsembat.wordpress.com
 https://lyceevernesaverne.wordpress.com
@@ -4077,7 +4077,6 @@ http://dsden55.ac-nancy-metz.fr
 http://dsden57.ac-nancy-metz.fr
 https://ac-nantes.fr
 https://ia44.ac-nantes.fr
-https://www.ia44.ac-nantes.fr
 https://ia49.ac-nantes.fr
 https://ia53.ac-nantes.fr
 https://www.ia53.ac-nantes.fr
@@ -4876,7 +4875,6 @@ https://apach57.fr
 https://www.apas82.fr
 https://www.apchat.fr
 https://www.apchon.fr
-https://www.apec.fr
 https://www.apgl64.fr
 https://affairesjuridiques.aphp.fr
 https://ageps.aphp.fr
@@ -5176,6 +5174,7 @@ https://www.athis.fr
 https://www.athisvalderouvre.fr
 https://www.atlanpole.fr
 https://attainville.fr
+https://www.attainville.fr
 https://www.attignat.fr
 https://attignat-oncin.fr
 http://www.attin-mairie.fr
@@ -6298,7 +6297,6 @@ https://www.bernaylaville.fr
 https://bernayneuvy.fr
 https://www.bernaynormandie.fr
 https://www.bernaysaintmartin.fr
-https://www.berne-morbihan.fr
 https://www.bernede.fr
 https://bernes-80.fr
 https://bernes-sur-oise.fr
@@ -6350,6 +6348,7 @@ https://www.bessan.fr
 https://www.bessas.fr
 https://besse-sur-braye.fr
 https://www.besse-sur-issole.fr
+https://besseges.fr
 https://www.bessens.fr
 https://www.bessieres.fr
 https://www.bessines-sur-gartempe-87.fr
@@ -9218,6 +9217,7 @@ http://www.commeny.fr
 https://commeny95.fr
 https://www.commercy.fr
 https://www.commingespyrenees.fr
+https://www.communaute-paysbasque.fr
 https://www.communaute-saint-yrieix.fr
 https://www.communaute-urbaine-dunkerque.fr
 https://www.communautesoragout.fr
@@ -10069,7 +10069,6 @@ https://www.dampierre-sur-le-doubs.fr
 https://dampierre-sur-linotte.fr
 https://dampierre-sur-moivre.fr
 https://dampierre-sur-salon.fr
-https://www.dampierre-sur-salon.fr
 https://www.dampierrelesbois.fr
 https://dampierresuravre.fr
 https://www.dampmart.fr
@@ -11287,7 +11286,6 @@ http://www.federation-peche-paris.fr
 https://federation-peche-vendee.fr
 https://www.federation-peche-yonne.fr
 https://www.federation-peche14.fr
-https://www.federation-peche64.fr
 http://www.federationchasseur88.fr
 http://drome.federationpeche.fr
 https://morbihan.federationpeche.fr
@@ -12316,6 +12314,7 @@ https://www.itsm.antai.gouv.fr
 https://partenaires.antai.gouv.fr
 https://www.usagers.antai.gouv.fr
 https://www.antai.gouv.fr
+https://autoecole.ants.gouv.fr
 https://www.support.cartes.ants.gouv.fr
 https://www.convention.comedec.ants.gouv.fr
 https://ifc-tes.ants.gouv.fr
@@ -12717,6 +12716,7 @@ https://culture.gouv.fr
 https://archeologie.culture.gouv.fr
 https://archives-map.culture.gouv.fr
 https://www.adamant.archives-nationales.culture.gouv.fr
+https://www.adamant-recette.archives-nationales.culture.gouv.fr
 https://www.siv.archives-nationales.culture.gouv.fr
 https://www.archives-nationales.culture.gouv.fr
 https://archives-nationales-travail.culture.gouv.fr
@@ -13083,6 +13083,7 @@ https://api.suivi-snpe.din.developpement-durable.gouv.fr
 https://suivi-vigicrues.din.developpement-durable.gouv.fr
 https://api.suivi-vigicrues.din.developpement-durable.gouv.fr
 https://support-sind.din.developpement-durable.gouv.fr
+https://syssi.din.developpement-durable.gouv.fr
 https://taiga.din.developpement-durable.gouv.fr
 https://trafic2000.din.developpement-durable.gouv.fr
 https://trident.din.developpement-durable.gouv.fr
@@ -13837,6 +13838,7 @@ https://sil.auth.dgscgc.interieur.gouv.fr
 https://sir.auth.dgscgc.interieur.gouv.fr
 https://preproduction.sinus-dps.dgscgc.interieur.gouv.fr
 https://qualification.sinus-dps.dgscgc.interieur.gouv.fr
+https://qualification.sinus-novi.dgscgc.interieur.gouv.fr
 https://synergi2.dgscgc.interieur.gouv.fr
 https://sil.api.synergi2.dgscgc.interieur.gouv.fr
 https://formation.synergi2.dgscgc.interieur.gouv.fr
@@ -13902,6 +13904,7 @@ https://www.je-teste-ma-professiondefoi.interieur.gouv.fr
 https://admin.laboratoirecentral.interieur.gouv.fr
 http://lazoneestrecrute.interieur.gouv.fr
 https://www.masecurite.interieur.gouv.fr
+https://obsis.interieur.gouv.fr
 https://obsis-cip.interieur.gouv.fr
 https://www.oce-tnaau.interieur.gouv.fr
 https://onisr.interieur.gouv.fr
@@ -14160,6 +14163,7 @@ https://piste.gouv.fr
 http://place-emploi-public.gouv.fr
 http://www.place-emploi-public.gouv.fr
 http://plan.gouv.fr
+https://koha.documentation.pm.gouv.fr
 http://f.newsletter.pm.gouv.fr
 https://applications-die.portail-immo.gouv.fr
 http://www.applications-die.portail-immo.gouv.fr
@@ -14276,6 +14280,7 @@ http://medicprix.sante.gouv.fr
 https://medle.sante.gouv.fr
 https://www.etape1.oc-collecte.sante.gouv.fr
 https://www.etape2.oc-collecte.sante.gouv.fr
+https://ouverture.sante.gouv.fr
 https://www.pmnd-collecte.sante.gouv.fr
 https://www.sante-habitat.pp.sante.gouv.fr
 https://www.retraite-sup-collecte.sante.gouv.fr
@@ -15356,7 +15361,6 @@ https://isigny-omaha-intercom.fr
 https://isigny-omaha-tourisme.fr
 https://isigny-sur-mer.fr
 https://www.isigny-sur-mer.fr
-https://isle-et-crempse-en-perigord.fr
 https://www.isle-sur-serein.fr
 https://www.isleslesvillenoy.fr
 https://islesurlasorgue.fr
@@ -15414,6 +15418,7 @@ https://www.jambles.fr
 https://www.janailhac-mairie.fr
 https://janneyrias.fr
 https://www.janneyrias.fr
+https://www.janson-de-sailly.fr
 https://www.janville-en-beauce.fr
 https://www.janville-sur-juine.fr
 http://www.janville14.fr
@@ -15830,7 +15835,6 @@ https://lacave.fr
 https://www.lacave.fr
 https://lacave-ariege.fr
 http://lacelle-correze.fr
-https://www.lacelle-guenand.fr
 https://lacelle-var.fr
 https://www.lacelle-var.fr
 https://lacelle03.fr
@@ -16401,7 +16405,6 @@ https://www.lauzes.fr
 https://www.lauzetubaye.fr
 https://www.laval.fr
 https://www.laval-de-cere.fr
-https://laval-en-belledonne.fr
 https://www.lavalenbrie.fr
 https://www.lavalette-tude-dronne.fr
 https://www.lavalette83.fr
@@ -17073,6 +17076,7 @@ https://limanton.fr
 https://www.limanton.fr
 https://limas.fr
 https://www.limas.fr
+https://limeil-brevannes.fr
 https://www.limeil-brevannes.fr
 https://www.limerzel.fr
 https://www.limetz-villez.fr
@@ -17535,12 +17539,12 @@ https://www.lycee-louis-armand-eaubonne.fr
 https://www.lycee-louis-lachenal.fr
 https://www.lycee-louis-vincent.fr
 https://lycee-louise-michel.fr
-https://www.lycee-luxembourg.fr
 https://lycee-malraux-biarritz.fr
 https://lycee-mandela.fr
 https://www.lycee-mandela-marseille.fr
 https://www.lycee-marc-chagall.fr
 https://www.lycee-marcel-dassault.fr
+https://lycee-marey-boulogne.fr
 https://lycee-marguerite-audoux.fr
 http://lycee-maritime-ciboure.fr
 https://www.lycee-maritime-etel.fr
@@ -18164,6 +18168,7 @@ https://www.mairie-chailly-en-biere.fr
 https://www.mairie-chalais.fr
 https://mairie-chalamont.fr
 https://www.mairie-chaligny.fr
+https://www.mairie-challet.fr
 https://mairie-challuy.fr
 https://www.mairie-challuy.fr
 https://www.mairie-chalmaison.fr
@@ -18805,6 +18810,7 @@ https://www.mairie-longprelcs.fr
 https://mairie-longuesse.fr
 https://www.mairie-longwy.fr
 https://www.mairie-lons.fr
+https://www.mairie-loubieres09.fr
 https://mairie-loupiac-tarn.fr
 https://www.mairie-louveciennes.fr
 https://www.mairie-louvigny57.fr
@@ -18824,7 +18830,6 @@ https://www.mairie-lux21.fr
 https://mairie-luzinay.fr
 https://www.mairie-luzinay.fr
 https://mairie-machault77.fr
-http://mairie-mackwiller.fr
 https://www.mairie-magescq.fr
 https://www.mairie-maiche.fr
 http://www.mairie-maillot.fr
@@ -20097,6 +20102,7 @@ https://www.mallefougasse.fr
 https://www.malleloy.fr
 https://www.malling.fr
 https://malons-et-elze.fr
+https://www.maltot.fr
 https://www.malvalette.fr
 https://malvesenminervois.fr
 https://www.malvesenminervois.fr
@@ -20592,6 +20598,7 @@ https://www.meucon.fr
 http://www.meulers.fr
 https://www.meurchin.fr
 https://www.meursac.fr
+https://meurthe-et-moselle.fr
 https://www.meurthe-et-moselle.fr
 https://www.meuse.fr
 https://www.meusegrandsud.fr
@@ -21882,7 +21889,6 @@ https://www.noeux-les-mines.fr
 https://nogent-lartaud.fr
 https://www.nogent-lartaud.fr
 https://nogent-le-bernard.fr
-http://www.nogent-sur-seine.fr
 https://nogentleroi.fr
 https://www.nogentsureure.fr
 https://www.nogentsuroise.fr
@@ -22054,6 +22060,7 @@ https://www.oberroedern.fr
 https://www.obersaasheim.fr
 https://www.oberschaeffolsheim.fr
 https://obies.fr
+https://www.objat.fr
 https://www.obrechies.fr
 http://www.cc.oceanmaraisdemonts.fr
 https://www.ochtezeele.fr
@@ -24302,7 +24309,7 @@ https://www.saint-nic.fr
 https://saint-nicolas-aliermont.fr
 https://www.saint-nicolas-aliermont.fr
 https://www.saint-nicolas-de-bourgueil.fr
-http://saint-nicolas-de-la-balerme.fr
+https://saint-nicolas-de-la-balerme.fr
 https://www.saint-nicolas-de-la-balerme.fr
 http://saint-nicolas-de-la-taille.fr
 http://www.saint-nicolas-de-la-taille.fr
@@ -28428,6 +28435,7 @@ https://www.ville-revin.fr
 http://www.ville-rhinau.fr
 http://ville-riedisheim.fr
 http://www.ville-riedisheim.fr
+https://www.ville-rieumes.fr
 https://www.ville-riez.fr
 http://ville-rillieux-la-pape.fr
 http://www.ville-rillieux-la-pape.fr
@@ -28630,7 +28638,6 @@ https://www.ville-stleonard.fr
 https://www.ville-stnicolas82.fr
 http://www.ville-stpaulencornillon.fr
 https://www.ville-stpierredesnids.fr
-https://www.ville-sucy.fr
 https://www.ville-sur-jarnioux.fr
 https://www.ville-surgeres.fr
 https://www.ville-surylecomtal.fr
@@ -29917,7 +29924,6 @@ https://hr.ambafrance.org
 https://ht.ambafrance.org
 https://id.ambafrance.org
 https://il.ambafrance.org
-https://in.ambafrance.org
 https://iq.ambafrance.org
 https://ir.ambafrance.org
 https://is.ambafrance.org
@@ -29952,12 +29958,10 @@ https://mn.ambafrance.org
 https://mr.ambafrance.org
 https://mu.ambafrance.org
 https://mx.ambafrance.org
-https://my.ambafrance.org
 https://mz.ambafrance.org
 https://ne.ambafrance.org
 https://ng.ambafrance.org
 https://ni.ambafrance.org
-https://nl.ambafrance.org
 https://no.ambafrance.org
 https://np.ambafrance.org
 https://nz.ambafrance.org
@@ -29965,7 +29969,6 @@ https://om.ambafrance.org
 https://pa.ambafrance.org
 https://pe.ambafrance.org
 https://pg.ambafrance.org
-https://ph.ambafrance.org
 https://pk.ambafrance.org
 https://pl.ambafrance.org
 https://pt.ambafrance.org
