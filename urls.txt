@@ -74,7 +74,6 @@ https://la-trinite-porhoet.bzh
 https://www.la-trinite-porhoet.bzh
 https://www.lachapelledesfougeretz.bzh
 https://laforest.bzh
-https://www.lamballe-armor.bzh
 https://www.lamballe-terre-mer.bzh
 https://lampaul-ploudalmezeau.bzh
 https://www.landerneau.bzh
@@ -225,7 +224,6 @@ https://www.adil86.com
 https://www.adil974.com
 https://www.adusolier-nontron.com
 https://www.afternic.com
-http://agglodieppe-maritime.com
 http://www.agglodieppe-maritime.com
 http://www.aguilcourt.com
 https://aignay-le-duc.com
@@ -818,6 +816,7 @@ https://cherre72.com
 https://www.cherre72.com
 https://cherves-richemont.com
 https://chevenon.com
+http://chevry-cossigny.com
 http://www.chevry-cossigny.com
 http://chez.com
 http://acombronde.chez.com
@@ -1470,7 +1469,6 @@ https://le-chasseur-ardennais.com
 http://le-crozet.com
 http://www.le-crozet.com
 https://www.le-gua.com
-http://www.le-perthus.com
 https://le-pouget.com
 https://www.le-sport35.com
 http://www.le-tranger.com
@@ -1885,6 +1883,7 @@ https://www.mairie-vogue.com
 https://mairie-waldhambach.com
 https://www.mairie-wattignies.com
 https://mairie-wisques.com
+http://www.mairie-ychoux.com
 https://www.mairieargentonsurcreuse.com
 http://mairiecapvern.com
 http://www.mairiecapvern.com
@@ -2001,7 +2000,6 @@ https://mesnil-saint-pere.com
 https://meteofrance.com
 https://www.metropole-savoie.com
 https://meung-sur-loire.com
-https://www.meyrie-village.com
 https://www.mezieres78.com
 https://midicorrezien.com
 https://www.midicorrezien.com
@@ -2557,7 +2555,6 @@ https://www.saint-mery.com
 https://www.saint-michel-de-maurienne.com
 https://www.saint-nauphary.com
 https://saint-nazaire-en-royans.com
-https://www.saint-nicolas-des-biefs.com
 https://saint-oyen.com
 https://www.saint-oyen.com
 https://saint-pal.com
@@ -2731,7 +2728,6 @@ https://www.samadet.com
 https://www.samatan-gers.com
 https://www.sanarysurmer.com
 https://www.sanilhac-sagries.com
-https://sannicolao.com
 https://sansac-veinazes.com
 https://www.sansais-lagarette.com
 https://www.sarcenas.com
@@ -2765,7 +2761,6 @@ https://sempigny.com
 http://senechas.com
 http://www.senechas.com
 http://senonnes.com
-http://www.senonnes.com
 https://www.sepvret.com
 https://www.serans.com
 https://sercoeur.com
@@ -3235,12 +3230,14 @@ https://leplantay.wordpress.com
 https://lyceearsonval.wordpress.com
 https://lyceesmarcelsembat.wordpress.com
 https://lyceevernesaverne.wordpress.com
+https://mairiearnos.wordpress.com
 https://mairiebaliros.wordpress.com
 https://mairiedecuqueron.wordpress.com
 https://mairieforeststjulien.wordpress.com
 https://mairieforgues.wordpress.com
 https://mairielados.wordpress.com
 https://mairielupe.wordpress.com
+https://mairiesaintthomas.wordpress.com
 https://mairiesantranges.wordpress.com
 https://mairiesteseve.wordpress.com
 https://mairiethiolieres.wordpress.com
@@ -3252,11 +3249,13 @@ https://portedeseine.wordpress.com
 https://reppluschampigny.wordpress.com
 https://saintantoinedebreuilh.wordpress.com
 https://saintjeandubois.wordpress.com
+https://saintmaigrin.wordpress.com
 https://saintpierreboishohwart.wordpress.com
 https://saintplancard.wordpress.com
 https://stcoutantlegrandblog.wordpress.com
 https://tournedossurseine.wordpress.com
 https://vellexonqueutreyetvaudey.wordpress.com
+https://willerval.wordpress.com
 https://www.yeun-elez.com
 http://yffiniac.com
 http://www.yffiniac.com
@@ -4893,11 +4892,11 @@ http://otms-g02.aphp.fr
 https://plateformeprojets.aphp.fr
 https://prbmondor.aphp.fr
 https://ptah.aphp.fr
-https://pums.aphp.fr
 https://radiotherapie-tenon.aphp.fr
 https://rendu-osler.aphp.fr
 https://resultatslaboratoires.aphp.fr
 https://robertdebre.aphp.fr
+https://sainteperine.aphp.fr
 https://seinarisque.aphp.fr
 https://surycat.aphp.fr
 https://volontaire.aphp.fr
@@ -5284,7 +5283,6 @@ https://www.auroux.fr
 http://www.aussac.fr
 https://www.aussac-vadalle.fr
 https://www.aussevielle.fr
-https://www.aussonne.fr
 https://www.autechaux.fr
 https://www.autechaux-roide.fr
 https://www.auterive31.fr
@@ -6259,6 +6257,7 @@ https://berat.fr
 https://www.berat.fr
 https://berche.fr
 https://www.berche.fr
+https://bercheres-saint-germain.fr
 https://www.bercheres-saint-germain.fr
 https://bercheres-sur-vesgre.fr
 http://www.berchereslespierres.fr
@@ -7077,7 +7076,6 @@ http://ca2bm.fr
 https://www.ca2bm.fr
 https://www.cabanacetvillagrains.fr
 http://www.cabanes81.fr
-http://wwww.cabanes81.fr
 https://cabariot.fr
 https://www.cabourg.fr
 https://www.cabrerets.fr
@@ -7646,7 +7644,6 @@ https://www.cc-valdegray.fr
 https://www.cc-valdemorteau.fr
 https://cc-valdesarthe.fr
 https://cc-valdorne.fr
-https://www.cc-valdorne.fr
 https://www.cc-vallee-doller.fr
 https://www.cc-vallee-herault.fr
 https://cc-vallee-munster.fr
@@ -8019,6 +8016,7 @@ https://ceffonds.fr
 https://ceillac.fr
 https://www.ceilloux.fr
 https://celavu-prunelli.fr
+https://www.celle-levescault.fr
 https://www.celles-sur-durolle.fr
 https://cellieu.fr
 https://www.cellieu.fr
@@ -10736,7 +10734,6 @@ https://www.eclose-badinieres.fr
 https://ecluzelles.fr
 https://www.ecluzelles.fr
 https://ecole-lycee-renoir-paris.fr
-https://www.ecole-navale.fr
 https://www.ecole-valentin.fr
 https://ecoledesponts.fr
 http://ecommoy.fr
@@ -11717,6 +11714,7 @@ http://mairiedexideuil.free.fr
 http://mairiemasseret.free.fr
 http://mairiesaintecroix.free.fr
 http://mairiestgermainlaxis.free.fr
+http://mairievalleres.free.fr
 http://mairieverlans.free.fr
 http://mairiewoignarue.free.fr
 http://maisonneuve86.free.fr
@@ -11918,7 +11916,6 @@ https://www.gabriac.fr
 https://gabrias.fr
 https://www.gabrias.fr
 https://www.gace.fr
-https://www.gadancourt.fr
 https://www.gages-montrozier.fr
 https://www.gagnac-sur-cere.fr
 https://www.gagnac-sur-garonne.fr
@@ -12701,6 +12698,7 @@ https://culture.gouv.fr
 https://archeologie.culture.gouv.fr
 https://archives-map.culture.gouv.fr
 https://www.adamant.archives-nationales.culture.gouv.fr
+https://www.adamant-preprod.archives-nationales.culture.gouv.fr
 https://www.adamant-recette.archives-nationales.culture.gouv.fr
 https://www.leonore.archives-nationales.culture.gouv.fr
 https://www.siv.archives-nationales.culture.gouv.fr
@@ -12763,6 +12761,7 @@ https://culturecommunication.gouv.fr
 https://data.culturecommunication.gouv.fr
 http://www.pantheon2015.culturecommunication.gouv.fr
 https://www.culturecommunication.gouv.fr
+https://cyber.gouv.fr
 https://www.cybermalveillance.gouv.fr
 https://adresse.data.gouv.fr
 https://doc.adresse.data.gouv.fr
@@ -13075,6 +13074,7 @@ https://trident.din.developpement-durable.gouv.fr
 https://veille-md.din.developpement-durable.gouv.fr
 http://webconf.din.developpement-durable.gouv.fr
 http://meet.webconf.din.developpement-durable.gouv.fr
+http://ws-dam-thetys.din.developpement-durable.gouv.fr
 https://z.din.developpement-durable.gouv.fr
 https://enqueteur.dir-est.developpement-durable.gouv.fr
 https://enqueteur.dirm-namo.developpement-durable.gouv.fr
@@ -13364,7 +13364,6 @@ https://catalogue-recette.apprentissage.education.gouv.fr
 https://archives-statistiques-depp.education.gouv.fr
 https://assistanceteleservices.education.gouv.fr
 https://bal-atteinte-laicite.education.gouv.fr
-https://www.batiscolaire.education.gouv.fr
 http://test.bourses-calculateur.education.gouv.fr
 https://brio.education.gouv.fr
 http://cerpet.education.gouv.fr
@@ -13409,7 +13408,6 @@ https://fim-hn-02-fer.phm.education.gouv.fr
 https://magistere.phm.education.gouv.fr
 https://etherpad.magistere.phm.education.gouv.fr
 https://hub.magistere.phm.education.gouv.fr
-https://map.magistere.phm.education.gouv.fr
 https://media.magistere.phm.education.gouv.fr
 https://stats.magistere.phm.education.gouv.fr
 https://wiki.magistere.phm.education.gouv.fr
@@ -13417,13 +13415,11 @@ https://teleservices.maintenance.phm.education.gouv.fr
 https://nah.phm.education.gouv.fr
 https://pod.phm.education.gouv.fr
 https://prestatairecrous.phm.education.gouv.fr
-https://qt-wa.phm.education.gouv.fr
 https://racvision.phm.education.gouv.fr
 https://rh-proximite.phm.education.gouv.fr
 https://pr3-sir-vipwebext01.sirhen.phm.education.gouv.fr
 http://speedtest.phm.education.gouv.fr
 https://sumitos.phm.education.gouv.fr
-https://videodiff.phm.education.gouv.fr
 https://visio-concours-01.phm.education.gouv.fr
 https://wa.phm.education.gouv.fr
 https://webmail.phm.education.gouv.fr
@@ -14061,6 +14057,7 @@ https://www.moselle.gouv.fr
 https://www.nievre.gouv.fr
 https://www.nord.gouv.fr
 https://www.notre-environnement.gouv.fr
+https://www.nouvelle-caledonie.gouv.fr
 https://www.nouvelles-chances.gouv.fr
 https://accessibilite.numerique.gouv.fr
 https://ara.numerique.gouv.fr
@@ -14288,7 +14285,6 @@ https://api-toucantoco.dataviz-prod.sgpi.gouv.fr
 https://toucantoco.dataviz-prod.sgpi.gouv.fr
 https://propilot.dfakto-preprod.sgpi.gouv.fr
 https://propilot.dfakto-prod.sgpi.gouv.fr
-http://auth.sidep.gouv.fr
 https://snds.gouv.fr
 https://www.snds.gouv.fr
 https://admin.snu.gouv.fr
@@ -15358,6 +15354,7 @@ https://www.iwuy.fr
 http://www.izaux65.fr
 https://www.izeaux.fr
 http://izel-les-hameau.fr
+https://www.izellesequerchin.fr
 https://www.izernore.fr
 https://izeron.fr
 https://izieu.fr
@@ -17120,7 +17117,6 @@ https://loguivy-plougras.fr
 https://www.loheac.fr
 https://loire.fr
 https://www.loire.fr
-https://www.loire-atlantique.fr
 https://www.loire-authion.fr
 https://www.loire-layon-aubance.fr
 https://loire-les-marais.fr
@@ -18051,6 +18047,7 @@ https://www.mairie-bretagne.fr
 https://www.mairie-bretx31.fr
 https://www.mairie-breval.fr
 https://mairie-breviaires78.fr
+https://www.mairie-brevillesurmer.fr
 https://www.mairie-breze.fr
 https://www.mairie-breziers.fr
 https://mairie-briant.fr
@@ -18389,7 +18386,6 @@ https://www.mairie-essars.fr
 http://mairie-estezargues.fr
 http://www.mairie-estezargues.fr
 https://www.mairie-estrees-mons.fr
-https://www.mairie-etampes.fr
 https://www.mairie-etaules.fr
 https://www.mairie-etel.fr
 https://mairie-eterville.fr
@@ -19777,7 +19773,6 @@ https://www.mairiedecos.fr
 https://www.mairiedecourpiac.fr
 https://www.mairiedecourquetaine.fr
 https://www.mairiedecravent.fr
-https://www.mairiedecrulai.fr
 https://mairiededoumy.fr
 https://www.mairiededoumy.fr
 https://www.mairiedefaucon.fr
@@ -20075,6 +20070,7 @@ http://www.mandres-la-cote.fr
 https://www.mandreslesroses.fr
 https://www.mandressurvair.fr
 https://manduel.fr
+https://maneglise.fr
 https://www.maneglise.fr
 https://www.manglieu.fr
 https://manhac.fr
@@ -21336,7 +21332,6 @@ https://www.montigny-les-arsures.fr
 https://www.montigny-les-metz.fr
 http://www.montigny-sur-avre.fr
 https://www.montigny-sur-vesle.fr
-https://www.montigny95.fr
 https://montignysurloing.fr
 https://montilliers49.fr
 https://www.montilliers49.fr
@@ -21454,7 +21449,6 @@ https://mooslargue.fr
 https://www.morainvilliers-bures.fr
 https://morance.fr
 https://morancez.fr
-https://www.morand-online.fr
 http://morannes.fr
 http://www.morannes.fr
 https://moras-en-valloire.fr
@@ -22033,7 +22027,7 @@ https://www.oeyreluy.fr
 https://www.offekerque-mairie.fr
 https://offendorf.fr
 https://www.offendorf.fr
-http://www.offlanges.fr
+https://www.offlanges.fr
 https://offranville.fr
 https://www.offranville.fr
 https://www.offwiller.fr
@@ -25731,6 +25725,7 @@ https://servignylessaintebarbe.fr
 https://servins.fr
 https://www.servon.fr
 https://www.servoz.fr
+https://serzyetprin.fr
 https://www.setom.fr
 https://www.seuildargonne.fr
 https://seuillet.fr
@@ -26673,6 +26668,7 @@ http://www.tredrez-locquemeau.fr
 https://www.treffendel.fr
 https://www.treffieux.fr
 https://treflaouenan.fr
+https://treflevenez.fr
 https://www.tregastel.fr
 https://www.treglamus.fr
 https://www.treglonou.fr
@@ -27086,6 +27082,7 @@ https://www.valliquerville.fr
 https://www.vallons-de-haute-bretagne-communaute.fr
 https://www.vallonsdelerdre.fr
 https://www.vallorcine.fr
+https://www.vallouise-pelvoux.fr
 https://valmondois.fr
 https://www.valognes.fr
 https://valoraisne.fr
@@ -27191,6 +27188,7 @@ https://www.vaureilles.fr
 http://vausseroux.fr
 https://www.vauthiermont.fr
 https://www.vaux-clochemerle.fr
+http://vaux-en-couhe.fr
 http://www.vaux-en-couhe.fr
 https://www.vaux-et-chantegrue.fr
 http://www.vaux-sur-eure.fr
@@ -27245,6 +27243,7 @@ https://venareyleslaumes.fr
 https://www.venareyleslaumes.fr
 https://www.venasque.fr
 https://vence.fr
+https://www.vendargues.fr
 https://www.vendat.fr
 https://www.vendays-montalivet.fr
 https://www.vendee.fr
@@ -28529,7 +28528,6 @@ http://www.ville-schlierbach.fr
 https://ville-sciez.fr
 https://ville-seclin.fr
 https://www.ville-seclin.fr
-https://www.ville-sees.fr
 https://www.ville-seltz.fr
 https://www.ville-semoy.fr
 https://www.ville-semur-en-auxois.fr
@@ -29584,6 +29582,7 @@ https://www.lespannevelles.net
 https://letemple.net
 https://www.liesle.net
 http://www.limersheim.net
+https://longessaigne.net
 http://www.longessaigne.net
 https://lp-blaisepascal.net
 http://www.lugny-les-charolles.net
@@ -29961,7 +29960,6 @@ https://www.associations-lpdl.org
 https://www.associations37.org
 https://www.aurbse.org
 https://avicca.org
-https://www.avocatparis.org
 https://avocats-bayonne.org
 https://www.avocats-bayonne.org
 https://avocats-beauvais.org
@@ -30448,7 +30446,6 @@ https://www.sainterose.re
 https://saintjoseph.re
 https://www.saintjoseph.re
 https://www.saintleu.re
-https://saintlouis.re
 https://saintphilippe.re
 https://www.saintpierre.re
 https://www.tco.re
