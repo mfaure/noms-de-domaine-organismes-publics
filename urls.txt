@@ -99,7 +99,6 @@ https://www.leseldebretagne.bzh
 https://letrehou.bzh
 https://letrevoux.bzh
 https://www.locmine.bzh
-https://www.logonna-daoulas.bzh
 https://www.loperhet.bzh
 https://www.lorient-agglo.bzh
 https://loudeac-communaute.bzh
@@ -396,6 +395,7 @@ https://www.bassin-de-marennes.com
 https://bastidedesjourdans.com
 https://batie-montgascon.com
 https://baudre.com
+http://www.bauduen-sur-verdon.com
 http://bavay.com
 http://www.bavay.com
 https://www.bazaaretcompagnie.com
@@ -1816,7 +1816,6 @@ https://mairie-saubens.com
 https://www.mairie-saubens.com
 https://mairie-saugues.com
 https://mairie-seloncourt.com
-https://www.mairie-seloncourt.com
 http://www.mairie-serbonnes.com
 https://mairie-sermaise.com
 https://www.mairie-sermaise.com
@@ -3028,7 +3027,6 @@ https://www.ville-ferentardenois.com
 http://ville-gignac.com
 http://www.ville-gignac.com
 https://www.ville-gimeaux.com
-http://www.ville-hesdinlabbe.com
 https://www.ville-hettange-grande.com
 https://www.ville-honfleur.com
 https://www.ville-houx.com
@@ -4832,7 +4830,6 @@ https://epilepsie-robertdebre.aphp.fr
 https://etabpharma-ageps.aphp.fr
 https://evenementiels.aphp.fr
 https://ghparis10.aphp.fr
-https://hopital-corentincelton.aphp.fr
 https://hopital-saintlouis.aphp.fr
 https://hoptisoins.aphp.fr
 https://hospitalisationadomicile.aphp.fr
@@ -4845,6 +4842,7 @@ https://mobilestore.aphp.fr
 https://mon.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
 http://otms-g02.aphp.fr
+https://pharmacie-hospitaliere-ageps.aphp.fr
 https://plateformeprojets.aphp.fr
 https://prbmondor.aphp.fr
 https://ptah.aphp.fr
@@ -7921,6 +7919,7 @@ https://cdg80.fr
 https://cdg81.fr
 https://www.cdg81.fr
 https://www.cdg82.fr
+https://www.cdg84.fr
 https://www.cdg86.fr
 https://cdg87.fr
 https://www.cdg87.fr
@@ -9378,7 +9377,6 @@ https://communestjeanlavetre.fr
 https://www.communestjeanlavetre.fr
 http://communestpierreduchamp.fr
 http://www.communestpierreduchamp.fr
-http://communethire.fr
 http://www.communethire.fr
 https://www.communewidehem.fr
 https://compains.fr
@@ -9519,6 +9517,7 @@ https://www.cormery.fr
 https://www.cormicy.fr
 https://www.cormontreuil.fr
 http://cormoranche.fr
+http://www.cormoranche.fr
 https://cormoz.fr
 https://www.cornac.fr
 https://www.cornas.fr
@@ -11783,7 +11782,7 @@ https://fressin.fr
 https://www.fressin.fr
 https://freterive73.fr
 https://www.freterive73.fr
-http://www.freteval.fr
+https://www.freteval.fr
 http://www.frethun.fr
 https://fretigney.fr
 https://www.frevilledugatinais.fr
@@ -12113,7 +12112,6 @@ https://www.agence-francaise-anticorruption.gouv.fr
 https://agriculture.gouv.fr
 https://gestion.agorha.agriculture.gouv.fr
 https://portail.agricoll.agriculture.gouv.fr
-https://bo-store.agriculture.gouv.fr
 https://draaf.bourgogne-franche-comte.agriculture.gouv.fr
 https://draaf.bretagne.agriculture.gouv.fr
 https://cartedevoeux.agriculture.gouv.fr
@@ -12503,7 +12501,6 @@ https://link.carte-familles-nombreuses.gouv.fr
 https://liste-diff.cee.gouv.fr
 http://centre-documentation-segur.gouv.fr
 http://www.centre-documentation-spm.gouv.fr
-https://certificat-air.gouv.fr
 https://track.certificat-air.gouv.fr
 https://www.certificat-air.gouv.fr
 https://nuage.cfssi.gouv.fr
@@ -12639,6 +12636,7 @@ http://admin.test.evenementiels.culture.gouv.fr
 http://modeleseve.test.evenementiels.culture.gouv.fr
 https://fetedelamusique.culture.gouv.fr
 https://forumentreprendreculture.culture.gouv.fr
+http://franceterme.culture.gouv.fr
 https://histoiredesarts.culture.gouv.fr
 http://www.inventaire.culture.gouv.fr
 https://journeesarchitecture.culture.gouv.fr
@@ -13545,7 +13543,6 @@ https://mobile-preprod.dgccrf.finances.gouv.fr
 https://teleassistance.dgccrf.finances.gouv.fr
 https://teleassistance-preprod.dgccrf.finances.gouv.fr
 https://telecertex.dgccrf.finances.gouv.fr
-https://telecertex-preprod.dgccrf.finances.gouv.fr
 https://telefel.dgccrf.finances.gouv.fr
 https://telefel-preprod.dgccrf.finances.gouv.fr
 https://telefel-sandbox.dgccrf.finances.gouv.fr
@@ -14165,7 +14162,6 @@ https://www.santecole-collecte.sante.gouv.fr
 https://si-amiante-api.sante.gouv.fr
 https://sicle.sante.gouv.fr
 https://silav.sante.gouv.fr
-https://siseauth.sante.gouv.fr
 https://www.socialecole-collecte.sante.gouv.fr
 https://tacle.sante.gouv.fr
 https://transparence.sante.gouv.fr
@@ -14412,6 +14408,7 @@ https://lettre-d-information.sports.gouv.fr
 https://www.pass.sports.gouv.fr
 https://recherche-educateur.sports.gouv.fr
 https://scic.sports.gouv.fr
+http://tandem.sports.gouv.fr
 http://isoprod.back.tandem.sports.gouv.fr
 http://isoprod.tandem.sports.gouv.fr
 http://carto.valid.sports.gouv.fr
@@ -15059,7 +15056,6 @@ https://herry.fr
 https://www.herysuralby.fr
 https://herzeele.fr
 https://www.herzeele.fr
-http://www.hesdigneul-lesboulogne.fr
 https://hesse-mairie.fr
 https://heudebouville.fr
 http://www.heudicourt27.fr
@@ -15284,6 +15280,7 @@ https://www.jaligny-sur-besbre.fr
 https://jallanges.fr
 https://www.jallanges.fr
 https://jallans.fr
+https://jalleeaubourde.fr
 https://www.jalogny.fr
 https://jambles.fr
 https://www.jambles.fr
@@ -19247,7 +19244,7 @@ http://mairie-singles.fr
 http://www.mairie-sionlesmines.fr
 https://www.mairie-sixtferacheval.fr
 http://www.mairie-sizun.fr
-http://www.mairie-socx.fr
+https://www.mairie-socx.fr
 https://mairie-soirans.fr
 https://www.mairie-soirans.fr
 https://www.mairie-soisybouy.fr
@@ -24205,6 +24202,7 @@ https://www.saint-quentin-en-yvelines.fr
 https://www.saint-quentin-la-motte.fr
 https://www.saint-quentin-sur-le-homme.fr
 https://www.saint-quintin-sur-sioule.fr
+https://saint-quirc.fr
 http://www.saint-quirc.fr
 https://www.saint-remy-de-chargnat.fr
 https://www.saint-remy-de-sille.fr
@@ -28495,6 +28493,7 @@ https://www.ville-villierslebacle.fr
 https://www.ville-viroflay.fr
 https://www.ville-vittel.fr
 https://www.ville-vizille.fr
+https://www.ville-voiron.fr
 https://www.ville-volvic.fr
 https://www.ville-vouziers.fr
 https://www.ville-wasquehal.fr
@@ -28653,7 +28652,6 @@ https://villeneuve-saint-georges.fr
 https://www.villeneuve-saint-georges.fr
 https://www.villeneuve-sous-dammartin.fr
 http://www.villeneuve-st-denis.fr
-http://www.villeneuve-st-germain.fr
 https://www.villeneuve-sur-aisne.fr
 https://villeneuve-tolosane.fr
 https://www.villeneuve-tolosane.fr
@@ -29516,7 +29514,7 @@ http://saintbonnetletroncy.net
 http://www.saintbonnetletroncy.net
 https://saintclement19.net
 https://www.sainte-suzanne-sur-vire.net
-http://saintefoylagrande.net
+https://saintefoylagrande.net
 https://saintjuery.net
 https://www.saintjuery.net
 https://www.saintmenoux.net
@@ -29683,7 +29681,6 @@ https://ga.ambafrance.org
 https://ge.ambafrance.org
 https://gh.ambafrance.org
 https://gq.ambafrance.org
-https://gr.ambafrance.org
 https://gw.ambafrance.org
 https://hn.ambafrance.org
 https://hr.ambafrance.org
@@ -29720,7 +29717,6 @@ https://ml.ambafrance.org
 https://mm.ambafrance.org
 https://mn.ambafrance.org
 https://mr.ambafrance.org
-https://mu.ambafrance.org
 https://mx.ambafrance.org
 https://mz.ambafrance.org
 https://ne.ambafrance.org
