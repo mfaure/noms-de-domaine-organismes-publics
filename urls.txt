@@ -159,6 +159,7 @@ http://www.plufur.bzh
 https://www.plumeliau-bieuzy.bzh
 https://www.plurien.bzh
 https://www.poher.bzh
+https://www.pontivy-communaute.bzh
 https://www.pouldreuzic.bzh
 https://quemeneven.bzh
 https://www.querrien.bzh
@@ -1452,7 +1453,6 @@ https://www.lavoute-chilhac.com
 https://ldmgouldenbischwiller.com
 https://le-chasseur-ardennais.com
 http://le-crozet.com
-http://www.le-crozet.com
 https://www.le-gua.com
 https://le-pouget.com
 https://www.le-sport35.com
@@ -2051,7 +2051,6 @@ https://www.monetier.com
 https://monistrol-sur-loire.com
 http://www.monistrol-sur-loire.com
 https://www.monnetier-mornex-esserts.com
-http://mougon-thorigne.monsite.com
 http://montady.com
 https://www.montagny-pres-louhans.com
 https://www.montagny-tarentaise.com
@@ -2501,6 +2500,7 @@ https://www.saint-guilhem-le-desert.com
 https://saint-illide.com
 https://www.saint-illide.com
 https://www.saint-imoges.com
+https://www.saint-izaire.com
 https://www.saint-jean-de-la-blaquiere.com
 https://www.saint-jean-de-luz.com
 https://www.saint-julien-montdenis.com
@@ -4815,7 +4815,6 @@ https://www.apchat.fr
 https://www.apchon.fr
 https://www.apgl64.fr
 https://affairesjuridiques.aphp.fr
-https://ageps.aphp.fr
 https://soutenir.aphp-centre.aphp.fr
 https://soutenir.aphp-sorbonne-universite.aphp.fr
 https://archives.aphp.fr
@@ -6299,7 +6298,7 @@ https://agglo.bethunebruay.fr
 https://www.beton-bazoches.fr
 https://www.betplan.fr
 https://bettancourt-la-ferree.fr
-https://www.bettancourt-la-ferree.fr
+http://www.bettancourt-la-ferree.fr
 https://www.bettelainville.fr
 http://www.bettencourt-saint-ouen.fr
 https://www.bettlach.fr
@@ -6506,7 +6505,6 @@ https://boissy-la-riviere.fr
 https://www.boissy-le-cutte.fr
 https://boissy-mauvoisin.fr
 https://boissy-sans-avoir.fr
-https://www.boissy-ssy.fr
 https://boissyauxcailles.fr
 https://www.boissyauxcailles.fr
 https://www.boissyfresnoy.fr
@@ -7806,6 +7804,7 @@ https://www.cctso.fr
 https://cctv70.fr
 https://www.cctv70.fr
 http://ccv2m.fr
+http://www.ccv2m.fr
 https://ccvaldecharente.fr
 https://www.ccvaldecharente.fr
 https://www.ccvalguiers.fr
@@ -7906,7 +7905,6 @@ https://www.cdg61.fr
 https://cdg62.fr
 https://www.cdg62.fr
 https://www.cdg63.fr
-https://cdg65.fr
 https://cdg66.fr
 https://www.cdg67.fr
 https://www.cdg68.fr
@@ -9713,6 +9711,7 @@ https://cravant-yonne.fr
 https://www.cravant-yonne.fr
 http://crazannes.fr
 https://www.crechy.fr
+https://credit-municipal-boulognesmer.fr
 https://www.credit-municipal-boulognesmer.fr
 https://credit-municipal-lyon.fr
 https://www.credit-municipal-lyon.fr
@@ -10162,7 +10161,6 @@ https://www.domloup.fr
 http://www.dommartemont.fr
 https://dommartin-aux-bois.fr
 https://www.dommartin-les-remiremont.fr
-https://www.dommartin25.fr
 https://www.dommartinlescuiseaux.fr
 https://domme.fr
 https://www.domme.fr
@@ -11930,6 +11928,7 @@ https://gennes-longuefuye.fr
 https://gennes-sur-seiche.fr
 https://gennes25.fr
 https://www.gennes25.fr
+https://www.gennesvaldeloire.fr
 https://genolhac.fr
 https://www.genouillac23.fr
 https://www.genouille17.fr
@@ -12817,7 +12816,6 @@ http://igc.application.developpement-durable.gouv.fr
 https://interface-trafic2000.application.developpement-durable.gouv.fr
 https://lune.application.developpement-durable.gouv.fr
 http://rafael.application.developpement-durable.gouv.fr
-http://rdvsantemarin.application.developpement-durable.gouv.fr
 http://spm.application.developpement-durable.gouv.fr
 https://www.archives.developpement-durable.gouv.fr
 https://www.archives-orales.developpement-durable.gouv.fr
@@ -13919,6 +13917,7 @@ https://www.maprocuration.gouv.fr
 https://ecole.marches-publics.gouv.fr
 https://projets-achats.marches-publics.gouv.fr
 https://recette.marches-publics.gouv.fr
+https://recette-securisation.marches-publics.gouv.fr
 https://www.marches-publics.gouv.fr
 https://boutique.marinenationale.gouv.fr
 https://maritimelimits.gouv.fr
@@ -13987,6 +13986,7 @@ https://auth.hubee.numerique.gouv.fr
 https://auth.bas.hubee.numerique.gouv.fr
 https://portail.bas.hubee.numerique.gouv.fr
 http://supervision-hub.bas.hubee.numerique.gouv.fr
+https://portail.basrec.hubee.numerique.gouv.fr
 https://info.hubee.numerique.gouv.fr
 https://portail.hubee.numerique.gouv.fr
 https://supervision-hub.hubee.numerique.gouv.fr
@@ -14462,7 +14462,6 @@ http://www.sdtefp-lorraine.travail.gouv.fr
 https://teledoeth.travail.gouv.fr
 https://www.teledoeth.travail.gouv.fr
 https://www.telerc.travail.gouv.fr
-https://pre-www.telerc2.travail.gouv.fr
 https://travail-emploi.gouv.fr
 https://bonusmalus.travail-emploi.gouv.fr
 https://dares.travail-emploi.gouv.fr
@@ -17582,6 +17581,7 @@ https://www.lyceesaintgermain.fr
 https://www.lyceesaintlouis.fr
 https://www.lyceeschamplain.fr
 https://lyceeschweitzer.fr
+https://www.lyceeschwendi.fr
 https://lyceesdesmetiers-coutances.fr
 https://lyceesimoneveil.fr
 https://www.lyceesoniadelaunayblois.fr
@@ -19174,6 +19174,7 @@ https://www.mairie-saintsegal.fr
 https://mairie-saintsorlindarves.fr
 https://www.mairie-saintsulpicedeslandes35.fr
 https://www.mairie-sainttriviersurmoignans.fr
+https://www.mairie-saintvallier.fr
 https://mairie-saintvincent.fr
 http://www.mairie-saintvincent.fr
 https://mairie-salaunes.fr
@@ -20675,7 +20676,7 @@ https://moeslains.fr
 https://www.moeslains.fr
 https://moeurs-verdey.fr
 http://mogneville.fr
-http://www.mogneville.fr
+https://www.mogneville.fr
 https://www.moidieu-detourbe.fr
 https://moiransenmontagne.fr
 https://www.moiransenmontagne.fr
@@ -22343,7 +22344,6 @@ https://www.peche62.fr
 https://www.peche65.fr
 https://www.peche67.fr
 http://peche68.fr
-https://www.peche68.fr
 https://www.peche69.fr
 https://www.peche72.fr
 https://peche76.fr
@@ -22803,7 +22803,7 @@ https://www.portdenvaux.fr
 https://porte-de-savoie.fr
 https://porte-du-quercy.fr
 https://portedebenauge.fr
-http://www.portedebenauge.fr
+https://www.portedebenauge.fr
 https://www.portededromardeche.fr
 https://portedespierresdorees.fr
 https://www.portenbessin-huppain.fr
@@ -23535,7 +23535,6 @@ https://roz-sur-couesnon.fr
 https://www.rozay-en-brie.fr
 https://roziercotesdaurec.fr
 http://www.rozlandrieux.fr
-https://www.rt78.fr
 https://www.ruaudin.fr
 https://www.rubelles.fr
 https://rubrouck.fr
@@ -23887,7 +23886,6 @@ https://www.saint-gildas-de-rhuys.fr
 https://www.saint-gilles.fr
 https://saint-gilles-vieux-marche.fr
 https://www.saint-gilles-vieux-marche.fr
-https://www.saint-gilles35.fr
 http://www.saint-girons-d-aiguevives.fr
 https://www.saint-gondran.fr
 https://www.saint-gor.fr
@@ -26483,7 +26481,7 @@ https://www.tours-metropole.fr
 https://www.tours-sur-marne.fr
 https://www.tours-sur-meymont.fr
 https://www.tourtousecommune.fr
-http://www.tourville-en-auge.fr
+https://www.tourville-en-auge.fr
 https://tourville-la-riviere.fr
 https://www.tourville-sur-arques.fr
 https://tourvillelacampagne.fr
@@ -26811,6 +26809,7 @@ https://www.uza40.fr
 https://www.uzaylevenon.fr
 https://www.uzech-les-oules.fr
 https://uzein.fr
+https://www.uzein.fr
 https://www.uzemain.fr
 https://uzerche.fr
 https://www.uzes.fr
@@ -27773,6 +27772,7 @@ https://www.ville-fachesthumesnil.fr
 https://ville-faulquemont.fr
 https://www.ville-faulquemont.fr
 https://www.ville-fayence.fr
+http://ville-feignies.fr
 https://www.ville-feignies.fr
 https://ville-fenain.fr
 https://www.ville-fenain.fr
@@ -29760,14 +29760,12 @@ https://th.ambafrance.org
 https://tj.ambafrance.org
 https://tm.ambafrance.org
 https://tn.ambafrance.org
-https://tr.ambafrance.org
 https://tt.ambafrance.org
 https://ua.ambafrance.org
 https://ug.ambafrance.org
 https://uy.ambafrance.org
 https://uz.ambafrance.org
 https://va.ambafrance.org
-https://ve.ambafrance.org
 https://vn.ambafrance.org
 https://ye.ambafrance.org
 https://za.ambafrance.org
@@ -29969,6 +29967,7 @@ https://www.intramuros.org
 https://jeanne-garnier.org
 https://jeuneaniort.org
 https://www.jeuneaniort.org
+https://jeunesenlorraine.org
 https://www.jeunesenlorraine.org
 https://la-ferte-gaucher.org
 https://www.la-ferte-gaucher.org
@@ -30101,7 +30100,7 @@ https://www.mlnice-paca.org
 https://www.mlpm.org
 https://www.mlpvannes.org
 https://www.mlrgpp.org
-http://mlroanne.org
+https://mlroanne.org
 https://www.mlrse.org
 https://www.mlva.org
 https://www.mlvdl.org
