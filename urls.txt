@@ -57,7 +57,7 @@ https://www.daoulas.bzh
 https://www.elliant.bzh
 https://www.elven.bzh
 https://www.ergue-gaberic.bzh
-https://www.evellys.bzh
+http://www.evellys.bzh
 https://www.evran.bzh
 https://fougeres-agglo.bzh
 https://www.glazik.bzh
@@ -403,7 +403,7 @@ https://bastidedesjourdans.com
 https://batie-montgascon.com
 https://baudre.com
 http://bauduen-sur-verdon.com
-http://www.bauduen-sur-verdon.com
+https://www.bauduen-sur-verdon.com
 http://bavay.com
 http://www.bavay.com
 https://www.bazaaretcompagnie.com
@@ -1046,7 +1046,6 @@ https://grandrozoy.eklablog.com
 https://mjc-uzes.eklablog.com
 https://saint-simeon.eklablog.com
 https://www.culture.eligis-web.com
-https://www.emaj78.com
 https://emeville.com
 https://www.emeville.com
 http://www.emjrcm.com
@@ -1274,7 +1273,6 @@ http://www.hericourt.com
 https://www.hondouville.com
 https://www.hopital-breil-roya.com
 https://horgues.com
-https://www.hornoylebourg.com
 https://www.hotels-in-toulouse.com
 https://www.hourtin-medoc.com
 https://www.huismes.com
@@ -1590,6 +1588,7 @@ https://www.lycee-jean-lurcat.com
 http://lycee-joseph-pernock.com
 https://www.lycee-langevin-wallon.com
 https://www.lycee-lavoisier.com
+https://lycee-marchal.com
 http://www.lycee-marechal-leclerc.com
 https://www.lycee-maritime-paimpol.com
 http://www.lycee-morteau.com
@@ -4815,7 +4814,6 @@ https://www.anzeling.fr
 https://www.anzeme.fr
 https://anzin.fr
 https://www.anzin.fr
-https://anzyleduc.fr
 https://www.anzyleduc.fr
 https://fr.ap-hm.fr
 https://apach57.fr
@@ -4829,6 +4827,7 @@ https://soutenir.aphp-sorbonne-universite.aphp.fr
 https://archives.aphp.fr
 https://calipsso.aphp.fr
 https://centre-memoire.aphp.fr
+https://charlesfoix.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
 https://chu93.aphp.fr
 https://compare.aphp.fr
@@ -4850,7 +4849,6 @@ https://maladiesrares-cochin-hotel-dieu.aphp.fr
 https://melbase.aphp.fr
 https://mon.aphp.fr
 http://otms-g02.aphp.fr
-https://pharmacie-hospitaliere-ageps.aphp.fr
 https://plateformeprojets.aphp.fr
 https://ptah.aphp.fr
 https://pums.aphp.fr
@@ -4973,7 +4971,6 @@ https://armentieres-en-brie.fr
 https://armoy.fr
 https://www.arnage.fr
 https://arnas.fr
-https://www.arnaud-guilhem.fr
 http://www.arneke.fr
 https://www.arnouville-les-mantes.fr
 https://arnouville95.fr
@@ -6498,7 +6495,6 @@ https://www.boissieres.fr
 https://boissieres30.fr
 https://boissise-la-bertrand.fr
 https://www.boissise-la-bertrand.fr
-https://boissy-la-riviere.fr
 https://www.boissy-le-cutte.fr
 https://boissy-mauvoisin.fr
 https://boissy-sans-avoir.fr
@@ -11974,7 +11970,6 @@ https://www.gigny-sur-saone.fr
 https://www.gildwiller.fr
 http://gilette.fr
 https://gilhac-et-bruzac.fr
-https://gilhocsurormeze.fr
 https://gilley.fr
 https://www.gilley.fr
 https://gillonnay.fr
@@ -13546,6 +13541,7 @@ https://mobile.dgccrf.finances.gouv.fr
 https://mobile-preprod.dgccrf.finances.gouv.fr
 https://teleassistance.dgccrf.finances.gouv.fr
 https://telecertex.dgccrf.finances.gouv.fr
+https://telecertex-preprod.dgccrf.finances.gouv.fr
 https://telefel.dgccrf.finances.gouv.fr
 https://telefel-sandbox.dgccrf.finances.gouv.fr
 https://apexappliext.dgfip.finances.gouv.fr
@@ -13709,6 +13705,7 @@ https://www.deminage.interieur.gouv.fr
 https://depot-teleservices-cnaps.interieur.gouv.fr
 https://sia.detenteurs.interieur.gouv.fr
 https://www.cnen.dgcl.interieur.gouv.fr
+https://siaef.dgef.interieur.gouv.fr
 https://formation.auth.dgscgc.interieur.gouv.fr
 https://sil.auth.dgscgc.interieur.gouv.fr
 https://sir.auth.dgscgc.interieur.gouv.fr
@@ -13756,8 +13753,6 @@ https://gendform.gendarmerie.interieur.gouv.fr
 https://3b1p.gendform.gendarmerie.interieur.gouv.fr
 https://3b2p.gendform.gendarmerie.interieur.gouv.fr
 https://3b3p.gendform.gendarmerie.interieur.gouv.fr
-https://3b4p.gendform.gendarmerie.interieur.gouv.fr
-http://3bslp.gendform.gendarmerie.interieur.gouv.fr
 https://mcpn-git.gendarmerie.interieur.gouv.fr
 https://minotaur.gendarmerie.interieur.gouv.fr
 https://recrutementenligne.gendarmerie.interieur.gouv.fr
@@ -14044,7 +14039,6 @@ http://www.place-emploi-public.gouv.fr
 http://plan.gouv.fr
 https://koha.documentation.pm.gouv.fr
 https://koha-test.documentation.pm.gouv.fr
-http://f.newsletter.pm.gouv.fr
 https://portailpro.gouv.fr
 https://messagerie.portailpro.gouv.fr
 https://spa.portailpro.gouv.fr
@@ -14402,7 +14396,6 @@ https://lettre-d-information.sports.gouv.fr
 https://www.pass.sports.gouv.fr
 https://recherche-educateur.sports.gouv.fr
 https://scic.sports.gouv.fr
-http://tandem.sports.gouv.fr
 http://isoprod.back.tandem.sports.gouv.fr
 http://isoprod.tandem.sports.gouv.fr
 http://carto.valid.sports.gouv.fr
@@ -15046,6 +15039,7 @@ https://herry.fr
 https://www.herysuralby.fr
 https://herzeele.fr
 https://www.herzeele.fr
+https://www.hesdigneul-lesboulogne.fr
 https://hesse-mairie.fr
 https://heudebouville.fr
 http://www.heudicourt27.fr
@@ -15094,7 +15088,6 @@ https://www.hopital-saint-blaise.fr
 https://hopitaldorion.fr
 https://www.horbourg-wihr.fr
 https://hordain.fr
-https://www.hordain.fr
 https://horsarrieu.fr
 https://www.horsarrieu.fr
 https://www.hostens.fr
@@ -15272,7 +15265,6 @@ https://www.jaligny-sur-besbre.fr
 https://jallanges.fr
 https://www.jallanges.fr
 https://jallans.fr
-https://jalleeaubourde.fr
 https://www.jalogny.fr
 https://jambles.fr
 https://www.jambles.fr
@@ -17703,6 +17695,7 @@ https://mairie-aiserey.fr
 https://www.mairie-aiserey.fr
 https://www.mairie-aixesurvienne.fr
 https://www.mairie-alairac.fr
+https://www.mairie-albiezlejeune.fr
 https://mairie-albignysursaone.fr
 https://www.mairie-albignysursaone.fr
 https://www.mairie-albon.fr
@@ -17786,7 +17779,7 @@ https://mairie-azas.fr
 https://mairie-azaysurcher.fr
 https://www.mairie-azaysurcher.fr
 https://www.mairie-azur.fr
-http://www.mairie-bachant.fr
+https://www.mairie-bachant.fr
 https://mairie-bachy.fr
 https://www.mairie-bachy.fr
 https://mairie-bailleau-armenonville.fr
@@ -18231,7 +18224,6 @@ https://www.mairie-douzens.fr
 https://www.mairie-dracy-le-fort.fr
 https://mairie-dracy-saint-loup.fr
 https://www.mairie-dracy-saint-loup.fr
-https://mairie-drocourt.fr
 https://www.mairie-drocourt.fr
 https://www.mairie-droue-sur-drouette.fr
 https://mairie-dry.fr
@@ -18369,6 +18361,7 @@ https://www.mairie-glieresvaldeborne.fr
 https://mairie-gluiras.fr
 https://mairie-glux-en-glenne.fr
 https://www.mairie-glux-en-glenne.fr
+https://mairie-gometzlaville.fr
 http://www.mairie-gonnevillesurhonfleur.fr
 https://mairie-gouarec.fr
 https://www.mairie-gouarec.fr
@@ -18623,7 +18616,6 @@ http://mairie-lihons.fr
 https://www.mairie-lihons.fr
 https://mairie-liledolonne.fr
 https://mairie-limogne.fr
-https://www.mairie-limogne.fr
 https://www.mairie-limours.fr
 https://mairie-lindry.fr
 https://www.mairie-lindry.fr
@@ -22163,6 +22155,7 @@ https://paraylemonial.fr
 https://www.paraylemonial.fr
 https://www.parc-haut-jura.fr
 https://www.parc-loire-anjou-touraine.fr
+https://parc-naturel-chevreuse.fr
 https://www.parc-naturel-chevreuse.fr
 https://www.parc-naturel-narbonnaise.fr
 https://www.parc-naturel-perche.fr
@@ -22520,7 +22513,6 @@ https://www.pimbo.fr
 https://pinay.fr
 https://www.pinay.fr
 https://pince.fr
-https://www.pinet-mairie.fr
 https://www.pineuilh.fr
 https://www.piney.fr
 https://www.pinsac.fr
@@ -22764,7 +22756,7 @@ https://www.pontenx-les-forges.fr
 https://ponteves.fr
 https://www.ponteves.fr
 https://www.ponthieu-marquenterre.fr
-http://www.pontis.fr
+https://www.pontis.fr
 https://www.pontleveque.fr
 https://www.pontmain.fr
 https://www.pontonx.fr
@@ -24764,6 +24756,7 @@ https://www.saintjustdardeche.fr
 https://saintjustlemartel.fr
 https://saintjustmalmont.fr
 http://www.saintlager.fr
+https://www.saintlambertdesbois.fr
 https://www.saintlambertlapotherie.fr
 https://saintlaurent18.fr
 http://saintlaurent47.fr
@@ -25329,7 +25322,6 @@ https://www.saulge.fr
 https://saulieu.fr
 https://saulieu-morvan.fr
 https://www.saulieu-morvan.fr
-https://saulnay36.fr
 https://www.saulnes.fr
 http://www.saulnieres28.fr
 https://www.saulnieres35.fr
@@ -26813,7 +26805,6 @@ https://uza40.fr
 https://www.uza40.fr
 https://www.uzaylevenon.fr
 https://www.uzech-les-oules.fr
-https://uzein.fr
 https://www.uzein.fr
 https://www.uzemain.fr
 https://uzerche.fr
@@ -28516,7 +28507,6 @@ https://www.ville-viroflay.fr
 https://www.ville-vittel.fr
 https://www.ville-vizille.fr
 https://ville-voiron.fr
-https://www.ville-voiron.fr
 https://www.ville-volvic.fr
 https://www.ville-vouziers.fr
 https://www.ville-wasquehal.fr
@@ -28640,6 +28630,7 @@ https://www.villemoirieu.fr
 https://www.villemoisson.fr
 https://villemomble.fr
 https://www.villemontais.fr
+https://www.villemotier.fr
 https://www.villemoustaussou.fr
 https://villemurlin.fr
 https://villenauxe-la-grande.fr
@@ -29681,7 +29672,6 @@ https://bf.ambafrance.org
 https://bh.ambafrance.org
 https://bn.ambafrance.org
 https://bo.ambafrance.org
-https://br.ambafrance.org
 https://bw.ambafrance.org
 https://by.ambafrance.org
 https://cd.ambafrance.org
@@ -29727,7 +29717,6 @@ https://mc.ambafrance.org
 https://md.ambafrance.org
 https://mg.ambafrance.org
 https://mk.ambafrance.org
-https://ml.ambafrance.org
 https://mm.ambafrance.org
 https://mn.ambafrance.org
 https://mr.ambafrance.org
