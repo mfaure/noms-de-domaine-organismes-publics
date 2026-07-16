@@ -399,6 +399,7 @@ https://beaulieu-sur-oudon.com
 https://www.beaulon.com
 https://www.beaunecoteetsud.com
 https://www.beaupuy47.com
+https://beausoleil-tourisme.com
 https://www.beausoleil-tourisme.com
 https://beauvoir-de-marc.com
 https://www.becherel.com
@@ -739,7 +740,6 @@ https://champillon.com
 https://www.champillon.com
 https://www.champsaur-valgaudemar.com
 https://www.chapelle-voland.com
-https://chapelledesbois.com
 https://www.chapelledesbois.com
 http://chapet.com
 http://www.chapet.com
@@ -1721,6 +1721,7 @@ https://www.mairie-aussois.com
 https://www.mairie-aveluy.com
 https://www.mairie-aydoilles.com
 https://mairie-azille.com
+https://mairie-balinghem.com
 https://www.mairie-bannost-villegagnon77.com
 http://www.mairie-beaufort73.com
 https://www.mairie-beaurepaire.com
@@ -1828,11 +1829,13 @@ https://www.mairie-mesnilrouxelin.com
 https://www.mairie-mondoubleau.com
 https://www.mairie-monnerville.com
 https://mairie-mons.com
+https://mairie-montauriol.com
 http://www.mairie-montauriol.com
 https://www.mairie-montricher-albanne.com
 https://www.mairie-morillon.com
 https://www.mairie-morzine-avoriaz.com
 https://www.mairie-nargis.com
+https://mairie-neufchatel-en-saosnois.com
 https://www.mairie-neuillyplaisance.com
 https://mairie-noth.com
 https://www.mairie-noth.com
@@ -2820,10 +2823,10 @@ https://www.sidec-jura.com
 https://sifurep.com
 https://sigarn.com
 http://www.sigarn.com
-http://www.signy-le-petit.com
 http://mairie.sigoyer.com
 http://www.mairie.sigoyer.com
 https://www.simorre.com
+http://www.sionviller.com
 https://www.siredom.com
 https://www.sitom-sud-rhone.com
 https://www.sivom-sioule-bouble.com
@@ -2885,6 +2888,7 @@ https://www.stmamet-lasalvetat.com
 https://stmartindarc.com
 https://stmartinlacaussade.com
 https://tousanticovid.stonly.com
+https://stpierre-lafeuille.com
 https://www.stpierredesnids53.com
 https://stpriestligoure.com
 https://www.stseurinsurlisle.com
@@ -3154,6 +3158,7 @@ https://www.villesequelande.com
 http://villetaden.com
 http://www.villetaden.com
 https://villetoureix.com
+https://www.villetoureix.com
 https://www.villevaucouleurs.com
 https://www.villiers-charlemagne.com
 https://villiers-le-morhier.com
@@ -3367,7 +3372,7 @@ https://www.lycee-eiffel-tours.eu
 https://lycee-europeen-schuman.eu
 https://www.lycee-marcgodrie.eu
 http://www.lyceeader.eu
-http://www.lyceecassin-strasbourg.eu
+https://www.lyceecassin-strasbourg.eu
 https://lyceecharleslechauve.eu
 https://lyceejacquesmonod.eu
 https://www.lyceelecorbusier.eu
@@ -4465,7 +4470,6 @@ https://agrocampus-lagerminiere.fr
 https://agrocampus17.fr
 https://agrocampus64.fr
 https://agrocampus78.fr
-http://www.epl.agropolis.fr
 https://agternois.fr
 https://www.agternois.fr
 https://www.aguessac.fr
@@ -6737,7 +6741,6 @@ https://www.bressehauteseille.fr
 https://www.bressenordintercom.fr
 https://www.bressevallons.fr
 https://www.bressey-sur-tille.fr
-https://brest.fr
 https://www.bretagnedemarsan.fr
 https://www.bretagneportedeloire.fr
 https://bretagneromantique.fr
@@ -7785,7 +7788,6 @@ http://www.cdg02.fr
 https://www.cdg03.fr
 https://cdg04.fr
 https://cdg08.fr
-https://www.cdg08.fr
 https://cdg09.fr
 https://www.cdg10.fr
 https://www.cdg11.fr
@@ -7796,7 +7798,6 @@ https://www.cdg16.fr
 https://www.cdg17.fr
 https://cdg18.fr
 https://www.cdg18.fr
-https://cdg19.fr
 https://cdg21.fr
 https://www.cdg21.fr
 https://www.cdg22.fr
@@ -7822,7 +7823,6 @@ https://www.cdg57.fr
 https://www.cdg59.fr
 https://www.cdg61.fr
 https://www.cdg63.fr
-https://cdg65.fr
 https://cdg66.fr
 https://www.cdg67.fr
 https://www.cdg68.fr
@@ -8463,6 +8463,7 @@ https://www.chevremont.fr
 https://www.chevreuse.fr
 https://chevrier.fr
 https://chevrieres.fr
+http://chevrieres42.fr
 https://www.chevrieres42.fr
 https://www.chevroux.fr
 https://www.chevry-cossigny.fr
@@ -8881,7 +8882,6 @@ https://www.college-locmine.fr
 https://college-louis-grenier.fr
 https://college-lycee-ravel.fr
 http://www.college-malraux-pontarlier.fr
-https://college-montaigne.fr
 https://www.college-montesquieu.fr
 https://www.college-morcenx.fr
 https://site.college-mugron.fr
@@ -12852,6 +12852,7 @@ https://taiga.din.developpement-durable.gouv.fr
 https://trafic2000.din.developpement-durable.gouv.fr
 https://trident.din.developpement-durable.gouv.fr
 https://veille-md.din.developpement-durable.gouv.fr
+https://vtc-controle.din.developpement-durable.gouv.fr
 http://webconf.din.developpement-durable.gouv.fr
 http://meet.webconf.din.developpement-durable.gouv.fr
 http://ws-dam-thetys.din.developpement-durable.gouv.fr
@@ -13148,6 +13149,7 @@ http://cerpet.education.gouv.fr
 https://colibris.education.gouv.fr
 https://portail-guadeloupe.colibris.education.gouv.fr
 https://data.education.gouv.fr
+https://e-fran.education.gouv.fr
 http://evace26.education.gouv.fr
 http://test.evace26.education.gouv.fr
 http://guide-concours-enseignants-college-lycee.education.gouv.fr
@@ -13706,7 +13708,7 @@ https://casier-judiciaire.justice.gouv.fr
 https://www.cjnb2.justice.gouv.fr
 https://www.concours.justice.gouv.fr
 https://www.designation-prudhommes.justice.gouv.fr
-https://www.mediatheque.justice.gouv.fr
+http://www.mediatheque.justice.gouv.fr
 https://opm.justice.gouv.fr
 http://round-robin-www.justice.gouv.fr
 http://www.textes.justice.gouv.fr
@@ -15513,7 +15515,6 @@ https://www.lachapellethouarault.fr
 https://www.lachapellevendomoise.fr
 https://lachapelleviel.fr
 https://www.lachapelleviel.fr
-https://www.lacharente.fr
 https://lacharitesurloire.fr
 https://www.lacharitesurloire.fr
 https://www.lacharmee.fr
@@ -16063,6 +16064,7 @@ https://www.laveze.fr
 https://www.lavienne86.fr
 https://www.lavieuxrue76.fr
 https://lavigney.fr
+https://www.lavilledieu-ardeche.fr
 https://lavilledieudutemple.fr
 https://www.lavilledieudutemple.fr
 https://www.lavilledubois.fr
@@ -16090,7 +16092,7 @@ https://www.le-bourget.fr
 https://le-castellet.fr
 https://www.le-castellet.fr
 https://le-cause.fr
-http://www.le-cause.fr
+https://www.le-cause.fr
 https://le-collet-de-deze.fr
 https://www.le-collet-de-deze.fr
 https://www.le-crestet.fr
@@ -17118,6 +17120,7 @@ http://www.lycee-internationalcdg.fr
 https://lycee-jacques-brel-lormont.fr
 http://lycee-jacques-coeur.fr
 https://www.lycee-jacques-duhamel-dole-jura.fr
+https://www.lycee-jbpoquelin.fr
 https://www.lycee-jdb.fr
 https://lycee-jderomas.fr
 https://lycee-jdlf.fr
@@ -17526,6 +17529,7 @@ https://www.mairie-aubiet.fr
 https://www.mairie-auch.fr
 https://www.mairie-aureil.fr
 http://www.mairie-aurel.fr
+https://mairie-aurin.fr
 https://www.mairie-aurin.fr
 https://mairie-auriol.fr
 https://www.mairie-auris.fr
@@ -17813,6 +17817,7 @@ https://www.mairie-cheminot.fr
 https://www.mairie-chepy.fr
 https://www.mairie-chereng.fr
 https://www.mairie-cherisy.fr
+https://mairie-cheroy.fr
 https://mairie-chevinay.fr
 http://www.mairie-chevinay.fr
 https://mairie-chevrieres.fr
@@ -17944,7 +17949,6 @@ http://www.mairie-de-salins.fr
 https://www.mairie-de-vallery.fr
 https://www.mairie-de-vaujany.fr
 https://www.mairie-deauville.fr
-https://mairie-degre.fr
 https://www.mairie-delme.fr
 https://mairie-denat.fr
 https://www.mairie-denat.fr
@@ -18251,6 +18255,7 @@ https://mairie-lagracedieu.fr
 https://mairie-laigneville.fr
 https://mairie-laissaud.fr
 https://www.mairie-lajoux.fr
+https://mairie-lalandelle.fr
 https://www.mairie-lalandelle.fr
 http://www.mairie-lamballe.fr
 https://www.mairie-lamotteservolex.fr
@@ -18375,6 +18380,7 @@ https://www.mairie-longpont91.fr
 https://mairie-longprelcs.fr
 https://www.mairie-longprelcs.fr
 https://mairie-longuesse.fr
+https://www.mairie-longuesse.fr
 https://www.mairie-longwy.fr
 https://www.mairie-lons.fr
 https://www.mairie-loubieres09.fr
@@ -19781,7 +19787,6 @@ https://marignyenorxois.fr
 https://www.marignyenorxois.fr
 https://www.marignylechatel.fr
 https://marignylesusages.fr
-https://marignysaintmarcel.fr
 http://www.marignysaintmarcel.fr
 https://www.marines.fr
 https://marions.fr
@@ -20279,6 +20284,7 @@ https://missionlocalecoutances.fr
 https://missionlocaledegrigny.fr
 https://www.missionlocaledeslandes.fr
 https://missionlocaleduchinonais.fr
+https://missionlocaledulot.fr
 https://www.missionlocaleestvar.fr
 https://missionlocalejeuneloire.fr
 https://www.missionlocalejeuneloire.fr
@@ -21637,7 +21643,6 @@ https://www.ombreedanjou.fr
 https://www.omedit-idf.fr
 https://www.omeps-castres.fr
 https://omerville.fr
-https://omet.fr
 https://www.omey51.fr
 https://www.omjc-info.fr
 https://www.omjs.fr
@@ -22694,6 +22699,7 @@ http://www.quaix-en-chartreuse.fr
 https://www.quarante34.fr
 https://www.quarouble.fr
 https://quarrelestombes.fr
+http://www.quarrelestombes.fr
 https://quatzenheim.fr
 https://quebriac.fr
 https://www.quebriac.fr
@@ -23409,7 +23415,6 @@ https://www.saint-christophe17.fr
 https://www.saint-cibard.fr
 https://www.saint-cierge-sous-le-cheylard.fr
 https://saint-ciers.fr
-https://www.saint-cirgues-sur-couze.fr
 https://www.saint-cirq-souillaguet.fr
 https://www.saint-clair.fr
 https://saint-clair-sur-epte.fr
@@ -24240,6 +24245,7 @@ https://www.saintetiennedefougeres.fr
 http://saintetiennedegourgas.fr
 http://www.saintetiennedegourgas.fr
 https://saintetiennedemermorte.fr
+https://www.saintetiennedemermorte.fr
 http://www.saintetiennedesoullieres.fr
 https://saintetiennedetinee.fr
 https://www.saintetiennedorthe.fr
@@ -24514,6 +24520,7 @@ https://www.saintmedard64.fr
 https://www.saintmedarddeguizieres.fr
 https://www.saintmeloirdesondes.fr
 https://saintmesmin.fr
+https://www.saintmesmin.fr
 http://www.saintmesmin-10.fr
 https://www.saintmherve.fr
 https://www.saintmichel-de-rieufret.fr
@@ -26624,7 +26631,6 @@ https://vaulnaveys-le-haut.fr
 https://www.vaulx-milieu.fr
 https://www.vaulx74.fr
 https://vaumoise.fr
-https://www.vaumoise.fr
 https://vaureal.fr
 https://www.vaureilles.fr
 http://vausseroux.fr
@@ -27009,6 +27015,7 @@ https://www.ville-allonville.fr
 https://www.ville-allouagne.fr
 https://ville-amberieuenbugey.fr
 https://www.ville-ambert.fr
+http://www.ville-ambleteuse.fr
 https://www.ville-amboise.fr
 https://www.ville-andelys.fr
 https://www.ville-andilly-95.fr
@@ -27872,6 +27879,7 @@ https://www.ville-saint-yorre.fr
 https://ville-saintaffrique.fr
 http://ville-saintagathon.fr
 https://ville-saintagreve.fr
+https://www.ville-saintagreve.fr
 https://www.ville-saintbres.fr
 https://www.ville-saintclaude.fr
 https://www.ville-sainte-adresse.fr
@@ -28795,6 +28803,7 @@ http://www.greta.nc
 https://lafoa.nc
 https://www.lafoa.nc
 https://lyceemichelrocard.nc
+https://www.mairie-canala.nc
 https://www.mairie-koumac.nc
 https://www.mont-dore.nc
 https://www.noumea.nc
@@ -29031,6 +29040,7 @@ https://www.navailles-angos.net
 https://www.neuilly-saint-front.net
 https://www.neuvic-correze.net
 https://niaux.net
+https://www.nissan-lez-enserune.net
 https://noizay.net
 https://www.noizay.net
 https://www.noyelles.net
@@ -29512,7 +29522,6 @@ https://www.mlpm.org
 https://www.mlpnvs.org
 https://www.mlpvannes.org
 https://www.mlrgpp.org
-https://mlroanne.org
 https://www.mlrse.org
 https://www.mlva.org
 https://www.mlvdl.org
