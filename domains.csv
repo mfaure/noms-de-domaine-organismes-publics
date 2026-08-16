@@ -1738,7 +1738,7 @@ champssuryonne.com,Timeout,Timeout,,,ADULLACT,
 www.champssuryonne.com,Timeout,Timeout,,,ADULLACT,
 chapelle-voland.com,No address associated with hostname,No address associated with hostname,,Commune,ADULLACT,
 www.chapelle-voland.com,200 OK,200 OK,,Commune,DILA open data,
-chapelledesbois.com,500 Internal Server Error,500 Internal Server Error,,,ADULLACT,
+chapelledesbois.com,200 OK,200 OK,,,ADULLACT,
 www.chapelledesbois.com,500 Internal Server Error,500 Internal Server Error,,,ADULLACT,
 chapelledesmarais.com,302 Moved Temporarily https://www.lachapelledesmarais.fr,302 Moved Temporarily https://www.lachapelledesmarais.fr,,Collectivité,ADULLACT,
 www.chapelledesmarais.com,302 Moved Temporarily https://www.lachapelledesmarais.fr,302 Moved Temporarily https://www.lachapelledesmarais.fr,,Collectivité,Wikidata,
@@ -3044,7 +3044,7 @@ www.gornac.com,301 Moved Permanently https://gornac.com/,301 Moved Permanently h
 gouillons.com,301 Moved Permanently https://www.casinoroman.org,301 Moved Permanently https://www.casinoroman.org,,Commune,ADULLACT,
 www.gouillons.com,301 Moved Permanently https://www.casinoroman.org,301 Moved Permanently https://www.casinoroman.org,,Commune,DILA open data,
 gouloux.com,200 OK,200 OK,,Commune,DILA open data,
-www.gouloux.com,301 Moved Permanently https://gouloux.com/,Timeout,,Commune,Ajout manuel de Matthieu FAURE,
+www.gouloux.com,Timeout,301 Moved Permanently https://gouloux.com/,,Commune,Ajout manuel de Matthieu FAURE,
 gournaysuraronde.com,301 Moved Permanently https://www.gournaysuraronde.com/,301 Moved Permanently https://www.gournaysuraronde.com/,,Commune,ADULLACT,
 www.gournaysuraronde.com,200 OK,200 OK,,Commune,DILA open data,
 gouxsouslandet.com,301 Moved Permanently http://www.gouxsouslandet.com/,301 Moved Permanently https://www.gouxsouslandet.com/,,Commune,ADULLACT,
@@ -3163,7 +3163,7 @@ haucourtmoulaine.com,301 Moved Permanently https://www.haucourtmoulaine.com/,301
 www.haucourtmoulaine.com,200 OK,200 OK,,Commune,DILA open data,
 haudrecy.com,200 OK,200 OK,,Collectivité,ADULLACT,
 www.haudrecy.com,certificate verify failed,certificate verify failed,,Collectivité,Wikidata,
-haussimont.com,certificate verify failed,certificate verify failed,,Commune,ADULLACT,
+haussimont.com,301 Moved Permanently https://www.haussimont.com/,301 Moved Permanently https://www.haussimont.com/,,Commune,ADULLACT,
 www.haussimont.com,200 OK,200 OK,,Commune,Wikidata,
 haut-rhone.com,200 OK,200 OK,,Collectivité,ADULLACT,
 www.haut-rhone.com,301 Moved Permanently https://haut-rhone.com/,301 Moved Permanently https://haut-rhone.com/,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
@@ -3949,11 +3949,7 @@ www.laroe.com,200 OK,200 OK,,Collectivité,DILA open data,
 laroquedolmes.com,301 Moved Permanently https://www.laroquedolmes.com/,301 Moved Permanently https://www.laroquedolmes.com/,,Commune,ADULLACT,
 www.laroquedolmes.com,200 OK,200 OK,,Commune,Wikidata,
 laroquettesursiagne.com,Timeout,Timeout,,Commune,ADULLACT,
-www.laroquettesursiagne.com,"400 Bad status line:
-  Expected HTTP/, RTSP/ or ICE/:
-
-  b'Accept-Ranges: none'
-    ^",200 OK,,Commune,DILA open data,
+www.laroquettesursiagne.com,Timeout,Timeout,,Commune,DILA open data,
 lasalvetat31.com,301 Moved Permanently https://www.lasalvetat31.com/,301 Moved Permanently https://www.lasalvetat31.com/,,Commune,ADULLACT,
 www.lasalvetat31.com,301 Moved Permanently https://www.lasalvetat31.fr/,301 Moved Permanently https://www.lasalvetat31.fr/,,Commune,Wikidata,
 lasorgue.com,301 Moved Permanently https://www.lasorgue.fr/,301 Moved Permanently https://www.lasorgue.fr/,,Collectivité,ADULLACT,
@@ -4383,7 +4379,7 @@ maconcourt.com,200 OK,200 OK,,Commune,ADULLACT,
 www.maconcourt.com,200 OK,200 OK,,Commune,Wikidata,
 maiassociations2a.com,301 Moved Permanently https://www.eta-united-kingdom.com/,Timeout,,,ADULLACT,
 www.maiassociations2a.com,Name or service not known,Name or service not known,,,ADULLACT,
-maignaut-tauzia.com,Name or service not known,Name or service not known,,Commune,ADULLACT,
+maignaut-tauzia.com,301 Moved Permanently https://yeezyfoamrunner.net/,301 Moved Permanently https://yeezyfoamrunner.net/,,Commune,ADULLACT,
 www.maignaut-tauzia.com,200 OK,200 OK,,Commune,Wikidata,
 mainzac16.com,Name or service not known,Name or service not known,,Collectivité,Wikidata,
 www.mainzac16.com,Name or service not known,Name or service not known,,Collectivité,Wikidata,
@@ -4488,7 +4484,7 @@ www.mairie-aiguilles.com,200 OK,200 OK,,Commune,Wikidata,
 mairie-allegre.com,301 Moved Permanently https://www.mairie-allegre.com/,301 Moved Permanently https://www.mairie-allegre.com/,,Commune,ADULLACT,
 www.mairie-allegre.com,301 Moved Permanently https://colegioandresbellolopez.cl/,301 Moved Permanently https://colegioandresbellolopez.cl/,,Commune,Wikidata,
 mairie-allex.com,200 OK,Cannot connect,,Commune,ADULLACT,
-www.mairie-allex.com,200 OK,Timeout,,Commune,Wikidata,
+www.mairie-allex.com,200 OK,Cannot connect,,Commune,Wikidata,
 mairie-amelie.com,302 Moved Temporarily http://www.mairie-amelie.com/,302 Moved Temporarily https://www.mairie-amelie.com/,,Commune,ADULLACT,
 www.mairie-amelie.com,200 OK,200 OK,,Commune,DILA open data,
 mairie-amfreville-sur-iton.com,301 Moved Permanently http://www.mairie-amfreville-sur-iton.fr,Connection failed,,Commune,ADULLACT,
@@ -5626,7 +5622,7 @@ www.montracol.com,301 Moved Permanently https://www.montracol.com:443/,301 Moved
 montreal-en-bourgogne.com,200 OK,200 OK,,Collectivité,ADULLACT,
 www.montreal-en-bourgogne.com,200 OK,200 OK,,Collectivité,Wikidata,
 montrejeau-pyrenees.com,404 Not Found,404 Not Found,,Collectivité,ADULLACT,
-www.montrejeau-pyrenees.com,404 Not Found,404 Not Found,,Collectivité,Wikidata,
+www.montrejeau-pyrenees.com,200 OK,200 OK,,Collectivité,Wikidata,
 montrichardvaldecher.com,301 Moved Permanently https://www.montrichardvaldecher.com/,301 Moved Permanently https://www.montrichardvaldecher.com/,,Collectivité,ADULLACT,
 www.montrichardvaldecher.com,200 OK,200 OK,,Collectivité,Wikidata,
 monts-sur-guesnes.com,Name or service not known,Name or service not known,,Collectivité,ADULLACT,
@@ -7217,7 +7213,7 @@ www.sillans-la-cascade.com,Timeout,Timeout,,Collectivité,Wikidata,
 simorre.com,301 Moved Permanently https://www.simorre.com/,301 Moved Permanently https://www.simorre.com/,,Commune,ADULLACT,
 www.simorre.com,200 OK,200 OK,,Commune,Wikidata,
 sionviller.com,200 OK,Timeout,,Commune,DILA open data,
-www.sionviller.com,200 OK,Timeout,,Commune,Ajout manuel de Matthieu FAURE,
+www.sionviller.com,200 OK,Cannot connect,,Commune,Ajout manuel de Matthieu FAURE,
 siouville-hague.com,301 Moved Permanently https://siouville-hague.fr/,301 Moved Permanently https://siouville-hague.fr/,,Commune,ADULLACT,
 www.siouville-hague.com,301 Moved Permanently https://siouville-hague.fr/,301 Moved Permanently https://siouville-hague.fr/,,Commune,DILA open data,
 siredom.com,200 OK,200 OK,,Collectivité,ADULLACT,
@@ -7396,8 +7392,8 @@ stmartinlacaussade.com,200 OK,200 OK,,Commune,ADULLACT,
 www.stmartinlacaussade.com,301 Moved Permanently https://stmartinlacaussade.com/,301 Moved Permanently https://stmartinlacaussade.com/,,Commune,ADULLACT,
 tousanticovid.stonly.com,200 OK,200 OK,,,Redirection depuis stopcovid.gouv.fr,
 stop-punaises-delit.com,Temporary failure in name resolution,Temporary failure in name resolution,,Collectivité,DILA open data,
-stpierre-lafeuille.com,200 OK,200 OK,,Commune,Wikidata,
-www.stpierre-lafeuille.com,301 Moved Permanently https://stpierre-lafeuille.com/,301 Moved Permanently https://stpierre-lafeuille.com/,,Commune,Wikidata,
+stpierre-lafeuille.com,202 Accepted,202 Accepted,,Commune,Wikidata,
+www.stpierre-lafeuille.com,202 Accepted,202 Accepted,,Commune,Wikidata,
 stpierre71.com,404 Not Found,Timeout,,Collectivité,ADULLACT,
 www.stpierre71.com,404 Not Found,Timeout,,Collectivité,Wikidata,
 stpierredesnids53.com,301 Moved Permanently https://www.stpierredesnids53.com/,301 Moved Permanently https://www.stpierredesnids53.com/,,Commune,ADULLACT,
@@ -7895,7 +7891,7 @@ ville-de-vernais.com,Name or service not known,Name or service not known,,,ADULL
 www.ville-de-vernais.com,Name or service not known,Name or service not known,,,ADULLACT,
 ville-devayat.com,Name or service not known,Name or service not known,,Commune,ADULLACT,
 www.ville-devayat.com,Name or service not known,Name or service not known,,Commune,Wikidata,
-ville-ecaillon.com,500 Internal Server Error,200 OK,,Commune,ADULLACT,
+ville-ecaillon.com,No address associated with hostname,No address associated with hostname,,Commune,ADULLACT,
 www.ville-ecaillon.com,Name or service not known,Name or service not known,,Commune,ADULLACT,
 ville-erquy.com,302 Moved Temporarily http://www.ville-erquy.com,Connection failed,,Commune,ADULLACT,
 www.ville-erquy.com,200 OK,200 OK,,Commune,Wikidata,
@@ -8236,7 +8232,7 @@ mairie.wix.com,301 Moved Permanently https://mairie.wix.com:443/,404 Not Found,,
 mairie-chambeire.wix.com,404 Not Found,404 Not Found,,Commune,ADULLACT,
 www.mairie-chambeire.wix.com,409 Conflict,sslv3 alert handshake failure,,Commune,Ajout manuel de Matthieu FAURE,
 mairie-morey.wix.com,404 Not Found,404 Not Found,,Commune,Wikidata,
-mairieareines.wix.com,301 Moved Permanently https://mairieareines.wix.com:443/,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
+mairieareines.wix.com,404 Not Found,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
 www.mairieareines.wix.com,409 Conflict,sslv3 alert handshake failure,,Commune,Ajout manuel de Matthieu FAURE,
 mairieblomac.wix.com,404 Not Found,404 Not Found,,Commune,ADULLACT,
 www.mairieblomac.wix.com,409 Conflict,sslv3 alert handshake failure,,Commune,ADULLACT,
@@ -8282,7 +8278,7 @@ collegedefaaroa.wixsite.com,301 Moved Permanently https://collegedefaaroa.wixsit
 collegedemezin.wixsite.com,301 Moved Permanently https://collegedemezin.wixsite.com:443/,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 collegejeanrenoirb.wixsite.com,404 Not Found,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 collegejulesferryg.wixsite.com,301 Moved Permanently https://collegejulesferryg.wixsite.com:443/,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-collegelouisjouvet80.wixsite.com,301 Moved Permanently https://collegelouisjouvet80.wixsite.com:443/,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+collegelouisjouvet80.wixsite.com,404 Not Found,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 collegemaxlinder33.wixsite.com,404 Not Found,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 collegepierresellier.wixsite.com,301 Moved Permanently https://collegepierresellier.wixsite.com:443/,404 Not Found,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 communeblandainville.wixsite.com,404 Not Found,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
@@ -8366,14 +8362,14 @@ www.mairievielprat.wixsite.com,409 Conflict,sslv3 alert handshake failure,,Commu
 marcieux.wixsite.com,404 Not Found,404 Not Found,,,ADULLACT,
 mission-locale.wixsite.com,404 Not Found,404 Not Found,,,ADULLACT,
 www.mission-locale.wixsite.com,301 Moved Permanently https://www.mission-locale.wixsite.com:443/,Cannot connect,,,ADULLACT,
-montgaillard65200.wixsite.com,301 Moved Permanently https://montgaillard65200.wixsite.com:443/,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
+montgaillard65200.wixsite.com,404 Not Found,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
 www.montgaillard65200.wixsite.com,301 Moved Permanently https://www.montgaillard65200.wixsite.com:443/,Cannot connect,,Commune,Ajout manuel de Matthieu FAURE,
 mouliscouserans.wixsite.com,404 Not Found,404 Not Found,,Commune,ADULLACT,
 www.mouliscouserans.wixsite.com,409 Conflict,sslv3 alert handshake failure,,Commune,Ajout manuel de Matthieu FAURE,
 pointinfoseniors-a.wixsite.com,404 Not Found,404 Not Found,,,ADULLACT,
 porte-du-quercy.wixsite.com,404 Not Found,404 Not Found,,Collectivité,Wikidata,
 salles-argeles.wixsite.com,404 Not Found,404 Not Found,,,ADULLACT,
-saverdun.wixsite.com,301 Moved Permanently https://saverdun.wixsite.com:443/,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
+saverdun.wixsite.com,404 Not Found,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
 www.saverdun.wixsite.com,409 Conflict,sslv3 alert handshake failure,,Commune,Ajout manuel de Matthieu FAURE,
 simandre-sur-suran.wixsite.com,404 Not Found,404 Not Found,,Collectivité,Wikidata,
 sornac19.wixsite.com,301 Moved Permanently https://sornac19.wixsite.com:443/,404 Not Found,,,ADULLACT,
@@ -8383,7 +8379,7 @@ stpierredestripiers.wixsite.com,404 Not Found,404 Not Found,,Collectivité,Wikid
 teilletargenty.wixsite.com,404 Not Found,404 Not Found,,Commune,ADULLACT,
 www.teilletargenty.wixsite.com,404 Not Found,tlsv1 alert internal error,,Commune,ADULLACT,
 varenne-l-arconce.wixsite.com,301 Moved Permanently https://varenne-l-arconce.wixsite.com:443/,404 Not Found,,Collectivité,Wikidata,
-vesigneul-sur-marne.wixsite.com,301 Moved Permanently https://vesigneul-sur-marne.wixsite.com:443/,404 Not Found,,Commune,ADULLACT,
+vesigneul-sur-marne.wixsite.com,404 Not Found,404 Not Found,,Commune,ADULLACT,
 www.vesigneul-sur-marne.wixsite.com,409 Conflict,sslv3 alert handshake failure,,Commune,Ajout manuel de Matthieu FAURE,
 village-espenel.wixsite.com,404 Not Found,404 Not Found,,Collectivité,Wikidata,
 villers-sous-preny.wixsite.com,404 Not Found,404 Not Found,,Commune,Ajout manuel de Matthieu FAURE,
@@ -9297,7 +9293,15 @@ www.clg-aubrac.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-banon.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-banon.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-barnier.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -9325,8 +9329,24 @@ www.clg-batie-neuve.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-belledemai.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-borrely.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-belledemai.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-borrely.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-bosco.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -9364,7 +9384,15 @@ www.clg-brassens-marignane.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-brunet.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-brunet.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-caillols.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-campra.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-camus-miramas.ac-aix-marseille.fr,"400 Bad status line:
@@ -9532,7 +9560,15 @@ www.clg-debeauvoir.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-defferre.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-defferre.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-diderot.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -9614,7 +9650,15 @@ www.clg-fabre-vitrolles.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-ferry.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-ferry.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-fontdaurumy.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -9846,7 +9890,15 @@ www.clg-jaures-laciotat.ac-aix-marseille.fr,"400 Bad status line:
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-jaures-peyrolles.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-javelly.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-javelly.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-jean-garcin.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -9865,7 +9917,15 @@ www.clg-jeanbernard-salon.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-julesverne.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-julesverne.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-lafontaine.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -10433,7 +10493,15 @@ www.clg-sault.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-savary.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-savary.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-septemes.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-serres.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
@@ -10444,7 +10512,15 @@ www.clg-serres.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-seyssaud.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-seyssaud.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-silve.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.clg-simiane.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
@@ -10622,7 +10698,15 @@ www.clg-wallon-marseille.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.clg-wallon-martigues.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.clg-wallon-martigues.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.ecole-internationale.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -10907,8 +10991,24 @@ www.lyc-emperi.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-esclangon.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-estaque.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-esclangon.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-estaque.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-etoile.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -10964,7 +11064,15 @@ www.lyc-genevoix.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-gillesdegennes.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-gillesdegennes.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-heraud.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -11159,7 +11267,15 @@ www.lyc-moulin.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-pascal.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-pascal.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-pasquet.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-perier.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
@@ -11206,7 +11322,15 @@ www.lyc-rempart.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-revoul.ac-aix-marseille.fr,200 OK,200 OK,,,Redirection depuis www.lycee-valreas.net,
+www.lyc-revoul.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,,Redirection depuis www.lycee-valreas.net,
 www.lyc-rimbaud.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -11216,7 +11340,15 @@ www.lyc-rimbaud.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-romane.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-romane.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-sevigne.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -11262,7 +11394,15 @@ www.lyc-valdedurance.ac-aix-marseille.fr,"400 Bad status line:
 
   b'<html lang=""fr"">'
     ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lyc-vauvenargues.ac-aix-marseille.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lyc-vauvenargues.ac-aix-marseille.fr,"400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^","400 Bad status line:
+  Expected HTTP/, RTSP/ or ICE/:
+
+  b'<html lang=""fr"">'
+    ^",,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyc-veil-marseille.ac-aix-marseille.fr,"400 Bad status line:
   Expected HTTP/, RTSP/ or ICE/:
 
@@ -13032,7 +13172,7 @@ colbert-lyc.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manu
 coubertin-lyc.spip.ac-rouen.fr,Timeout,Temporary failure in name resolution,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 curie-bolbec-lyc.spip.ac-rouen.fr,302 Moved Temporarily https://curie-bolbec.lycee.ac-normandie.fr/,302 Moved Temporarily https://curie-bolbec.lycee.ac-normandie.fr/,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 decretot-lyc.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-delamare-lyc.spip.ac-rouen.fr,302 Moved Temporarily https://delamare.lycee.ac-normandie.fr/,302 Moved Temporarily https://delamare.lycee.ac-normandie.fr/,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+delamare-lyc.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 dumezil-lyc.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 emulation-lyc.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 erea-dolto.spip.ac-rouen.fr,Timeout,Timeout,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -14646,7 +14786,7 @@ anrosey.fr,Name or service not known,Name or service not known,,Commune,ADULLACT
 www.anrosey.fr,Name or service not known,Name or service not known,,Commune,DILA open data,
 ansacq.fr,301 Moved Permanently https://www.ansacq.fr/,301 Moved Permanently https://www.ansacq.fr/,,Commune,ADULLACT,
 www.ansacq.fr,200 OK,200 OK,,Commune,Wikidata,
-ansauvillers.fr,301 Moved Permanently http://www.ansauvillers.fr/,certificate verify failed,,Commune,ADULLACT,
+ansauvillers.fr,200 OK,certificate verify failed,,Commune,ADULLACT,
 www.ansauvillers.fr,200 OK,wrong version number,,Commune,Wikidata,
 ansebertrand.fr,301 Moved Permanently https://www.ansebertrand.fr/,301 Moved Permanently https://www.ansebertrand.fr/,,Commune,ADULLACT,
 www.ansebertrand.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -14718,7 +14858,7 @@ apgl64.fr,301 Moved Permanently http://www.apgl64.fr/,301 Moved Permanently http
 www.apgl64.fr,200 OK,200 OK,,,Ajout manuel de Julien Palard,
 aphp.fr,302 Moved Temporarily https://aphp.fr:443/,301 Moved Permanently https://www.aphp.fr/,,APHP,Ajout manuel de Laurent Joubert,
 aaa.aphp.fr,No address associated with hostname,No address associated with hostname,,APHP,Ajout manuel de Bastien Guerry,
-achats-ageps.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=46fbb2de-3051-429a-9863-9d84d97e008b&ssb=45637246315&ssc=http%3A%2F%2Fachats-ageps.aphp.fr%2F&ssi=ad821bf9-cofn-4f51-aa81-af62858fb5a5&ssk=botmanager_support@radware.com&ssm=72388441842256562139913138217333&ssn=bb106b45ae45a6b4bd976173f3a090f210f2f26b9c3b-67f6-4f8a-b65209&sso=63464485-c577965949c48bdc54a6db42fc14f29a4443b5e60e6a986e&ssp=31538926251784123185178411068393548&ssq=23105588646282023500686461968336225754841&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMjQ5MGE2YWEtNjdkNy00YWQyLWE0ZDUtY2UzYzcxNTI0ZGM1MS0xNzg0MTg2MDQxNzAzNDIwMzI3LTJjYTg3MWIzYzBjNTQ5ZDkzMSIsInJkIjoiYXBocC5mciIsIl9fdXptZiI6IjdmOTAwMGYyNmI5YzNiLTY3ZjYtNGY4YS1iNDg1LWM1Nzc5NjU5NDljNDEtMTc4NDE4NjQ2MTcyODMwMi0wMDRkODk4YWE1OTliNWQwMmMwMTMifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=eb8a5c2f-c0ee-486c-9083-fbe1e9d0471f&ssb=55851278199&ssc=https%3A%2F%2Fachats-ageps.aphp.fr%2F&ssi=738ffa76-cofn-418d-a600-27e4d90d9776&ssk=botmanager_support@radware.com&ssm=82328768690101127108249741997231&ssn=611aab092510c810b487745077ac1e1dd51af26b9c3b-67f6-4f8a-be3ef7&sso=cc104485-c577965949c4d0d67f7b536a31603393b695cb33e35f8cc7&ssp=57863007311784143703178418598106811&ssq=91996538646152634675086461218038502295593&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMjQ5MGE2YWEtNjdkNy00YWQyLWE0ZDUtY2UzYzcxNTI0ZGM1MS0xNzg0MTg2MDQxNzAzNDIwMDI1LWRhODYzYWIxODM1OTRjOTIyOCIsIl9fdXptZiI6IjdmOTAwMGYyNmI5YzNiLTY3ZjYtNGY4YS1iNDg1LWM1Nzc5NjU5NDljNDEtMTc4NDE4NjQ2MTcyODAtMDA0NDM4MjE5MWY2Yzk3YzllNDEwIiwicmQiOiJhcGhwLmZyIn0=,,APHP,DNS,
+achats-ageps.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=573a4fb5-4668-4b22-8fce-439478a16835&ssb=21849257301&ssc=http%3A%2F%2Fachats-ageps.aphp.fr%2F&ssi=3cab2119-cofn-4c3a-8dfe-02619dad39d6&ssk=botmanager_support@radware.com&ssm=35340225263691129138265353967671&ssn=7ebb0c8dfadfb4f5c28d28e2f27bbff7dd496e11d2d2-c696-4bd1-8ba832&sso=45e7dccd-49829fe117d052a4331197c97d2a5bd2ed0376599b6849ca&ssp=94526267451786815912178684835052348&ssq=03631845764496745629657644452927974351122&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA2ZTExZDJkMi1jNjk2LTRiZDEtOGNjZC00OTgyOWZlMTE3ZDAxLTE3ODY4NTc2NDQ2ODEyMDAtMDA0MjhmY2FlMmJhYmQwZTE3NjEzIiwicmQiOiJhcGhwLmZyIiwidXpteCI6IjdmYzAwMDE0OTM5ZDc1LTg1M2ItNDc3ZC1iYWJhLWE2MjdhZjVmMzRiMTEtMTc4Njg1NzUyNDczNDEyMDE0Ny0wMDA1MGJiNzc4OWFjM2I0NWQ1MTkifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=f974c653-18cb-4fce-9895-24bda67f5e3d&ssb=21849257301&ssc=https%3A%2F%2Fachats-ageps.aphp.fr%2F&ssi=50ebb057-cofn-4f1b-82c8-f3f37e72bea9&ssk=botmanager_support@radware.com&ssm=35340225263691129108265353967671&ssn=7ebb0c8db3ced268803d8901878cbff7dd496e11d2d2-c696-4bd1-8ba832&sso=45e7dccd-49829fe117d052a43311e53ff6b0a1b871a14a229b6849ca&ssp=94526267451786815912178684835052348&ssq=03631845764496745629657644452927974351122&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA2ZTExZDJkMi1jNjk2LTRiZDEtOGNjZC00OTgyOWZlMTE3ZDAxLTE3ODY4NTc2NDQ2ODEwLTAwNDcyMmVlMDU4NTRkMTNmYjgxMCIsInV6bXgiOiI3ZmMwMDAxNDkzOWQ3NS04NTNiLTQ3N2QtYmFiYS1hNjI3YWY1ZjM0YjExLTE3ODY4NTc1MjQ3MzQxMTk5NDctMDAwZGQ5Mjg3OGY1ODZkNmU4NDE2IiwicmQiOiJhcGhwLmZyIn0=,,APHP,DNS,
 addictovigilance.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=7df495dc-eede-4d9f-ad2a-547ccd36c496&ssb=69457203621&ssc=http%3A%2F%2Faddictovigilance.aphp.fr%2F&ssi=5f8f9eab-cofn-46d2-af6b-f20302746822&ssk=botmanager_support@radware.com&ssm=34775328281529992139725099125001&ssn=488eb7903d18963924882e8808dae1612574d294c907-d252-4d78-b0cd1b&sso=a7728772-e72b282602549f1ca8dbbd46ebcc58a7add7a04e4ba95f80&ssp=79372195361785537930178550647553479&ssq=26594546934336607980769342577216112995991&ssr=NTIuMTU3LjMzLjE3MA==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwYWYzYTc4MzAtYmMwOS00Mzk4LTg5ZjAtMzBhMzlmOGIwZGUwMS0xNzg1NTY4NzY5MjA5NTczOTc0LTNmZTk2YWQzZDNiMTUxNTYzMSIsInJkIjoiYXBocC5mciIsIl9fdXptZiI6IjdmOTAwMGQyOTRjOTA3LWQyNTItNGQ3OC1iNzcyLWU3MmIyODI2MDI1NDEtMTc4NTU2OTM0Mjg4ODI5NS0wMDQxM2MwZmI1NTkzMzgyZDdmMTMifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=25f9a15c-5d1b-433a-b2c5-dce2dc80a067&ssb=08797281908&ssc=https%3A%2F%2Faddictovigilance.aphp.fr%2F&ssi=578d447b-cofn-4a38-93eb-cbf64a757f9d&ssk=botmanager_support@radware.com&ssm=93082810928022405102413062835476&ssn=d64b5946af46e757f50e5c3feeb15ab8510ad294c907-d252-4d78-b6c7d2&sso=0987e772-e72b28260254f512f7bab463f498fcd7de545ff079068f41&ssp=00497615491785526747178553780712690&ssq=07614856934281092479269342304838392336993&ssr=NTIuMTU3LjMzLjE3MA==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwYWYzYTc4MzAtYmMwOS00Mzk4LTg5ZjAtMzBhMzlmOGIwZGUwMS0xNzg1NTY4NzY5MjA5NTczNjc5LThiZTQ2NzU0NzE0MzBlZWQyOCIsIl9fdXptZiI6IjdmOTAwMGQyOTRjOTA3LWQyNTItNGQ3OC1iNzcyLWU3MmIyODI2MDI1NDEtMTc4NTU2OTM0Mjg4ODAtMDA0NTFlNmIwNzk1Yjk5NzBmOTEwIiwicmQiOiJhcGhwLmZyIn0=,,APHP,Ajout manuel de Bastien Guerry,
 administration-goodmeeting.aphp.fr,"400 Data after `Connection: close`:
 
@@ -14728,7 +14868,7 @@ administration-goodmeeting.aphp.fr,"400 Data after `Connection: close`:
   b'<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">'
      ^",,APHP,Ajout manuel de Bastien Guerry,
 affairesjuridiques.aphp.fr,301 Moved Permanently https://affairesjuridiques.aphp.fr:443/,200 OK,,APHP,Ajout manuel de Bastien Guerry,
-ageps.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=ad253235-24af-4243-ac6e-278db9de38b3&ssb=84721266909&ssc=http%3A%2F%2Fageps.aphp.fr%2F&ssi=48972c2c-cofn-4ee9-84ea-7ee2d5758cb9&ssk=botmanager_support@radware.com&ssm=29394298219094168139613914907883&ssn=6c2e5485bbf5e8e899336898864bd83ce7bd2bc909e1-a06b-4d6d-86ba46&sso=98aa3220-05b019389409735edf47a29c346d2b1fbba981ce0e169bdb&ssp=47990168221784135544178414845105728&ssq=20848188625530763172586254185053038727248&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJfX3V6bWYiOiI3ZjkwMDAyYmM5MDllMS1hMDZiLTRkNmQtODIyMC0wNWIwMTkzODk0MDkxLTE3ODQxODYyNTQ2MDM0MzktMDA0ZTVjMWIzMTg4MTlkYWI5MTEzIiwidXpteCI6IjdmOTAwMDI0OTBhNmFhLTY3ZDctNGFkMi1hNGQ1LWNlM2M3MTUyNGRjNTEtMTc4NDE4NjA0MTcwMzIxMzMzOS1lNzg3NDBjNWRiZWM1MjBjMjUifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=6d283755-9593-49fb-9f3a-293981f2e9de&ssb=86794279921&ssc=https%3A%2F%2Fageps.aphp.fr%2F&ssi=6ed58492-cofn-4cc4-8f51-c0c0aeadd667&ssk=botmanager_support@radware.com&ssm=09826046343872064101799035186783&ssn=023ca685796765303f2092885626ea9955a72bc909e1-a06b-4d6d-87f41d&sso=a6e5f220-05b0193894098a8546d13d67af560eee75db4cbe2887fbe2&ssp=32236987361784177015178416755265425&ssq=49035648625410949007586254375595840526669&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJfX3V6bWYiOiI3ZjkwMDAyYmM5MDllMS1hMDZiLTRkNmQtODIyMC0wNWIwMTkzODk0MDkxLTE3ODQxODYyNTQ2MDMwLTAwNDk2ZmRkMjRlZmNlMTg3ZDMxMCIsInV6bXgiOiI3ZjkwMDAyNDkwYTZhYS02N2Q3LTRhZDItYTRkNS1jZTNjNzE1MjRkYzUxLTE3ODQxODYwNDE3MDMyMTI5MDAtOTEyZWRkNDQ1ZjkxYTE5MTIyIn0=,,APHP,Ajout manuel de Bastien Guerry,
+ageps.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=a0adb0f4-811c-4360-9a56-b9456a9bf350&ssb=05998289095&ssc=http%3A%2F%2Fageps.aphp.fr%2F&ssi=25c1f649-cofn-4ca0-91fd-a0f7421901be&ssk=botmanager_support@radware.com&ssm=89124905811091114132785667978998&ssn=758222268b964da46bc278697fc1e5d113127ca01a33-b72e-4412-9017ea&sso=7e8d3365-20cbe36d5c2673e0b9db0987a8644cf35572b67298087f57&ssp=88487517641786806921178680439923107&ssq=30292445752553014802757524139591874023827&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA3Y2EwMWEzMy1iNzJlLTQ0MTItOTM2NS0yMGNiZTM2ZDVjMjYxLTE3ODY4NTc1MjQ3MzQ0NDEtMDA0Njk5Y2FmYWI3MzAwMDJjYjEzIiwicmQiOiJhcGhwLmZyIiwidXpteCI6IjdmYzAwMDE0OTM5ZDc1LTg1M2ItNDc3ZC1iYWJhLWE2MjdhZjVmMzRiMTEtMTc4Njg1NzUyNDczNDQ0MS0wMDA0ZTYxZDdjM2U2OTAwYWVjMTMifQ==,200 OK,,APHP,Ajout manuel de Bastien Guerry,
 ambroisepare.aphp.fr,Connection failed,200 OK,,APHP,Ajout manuel de Bastien Guerry,
 ami-dd.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=d7405728-5997-4782-8725-62bbbd9f093a&ssb=59101219391&ssc=http%3A%2F%2Fami-dd.aphp.fr%2F&ssi=c66b0ddd-cofn-4500-b836-065ec1878a04&ssk=botmanager_support@radware.com&ssm=66709028044036590131406354690109&ssn=369d29aaa5405ff399dd48101fcb4400ec0ff28eeba8-a05d-4752-99e27d&sso=ffbf021d-7b95b7025610a84aebf87134adf0e53693a90fe4ec950478&ssp=86240461141785556888178553666583886&ssq=44141786908389879116169083304982428271388&ssr=NTIuMTU3LjMzLjE3MA==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2Y5MDAwYWYzYTc4MzAtYmMwOS00Mzk4LTg5ZjAtMzBhMzlmOGIwZGUwMS0xNzg1NTY4NzY5MjA5MzE0MzE5LWRmMDY0OGM4N2U0ZDA5NjIyNSIsIl9fdXptZiI6IjdmOTAwMGYyOGVlYmE4LWEwNWQtNDc1Mi05MjFkLTdiOTViNzAyNTYxMDEtMTc4NTU2OTA4MzE4NTM0My0wMDQwZTNlZjhiM2U5NTkxN2I0MTMifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=8b162d6c-0e2e-4654-b12e-7c268c25bbc2&ssb=59101219391&ssc=https%3A%2F%2Fami-dd.aphp.fr%2F&ssi=d1efaf18-cofn-4234-8b62-ce79e1ec90d5&ssk=botmanager_support@radware.com&ssm=66709028044036590101406354690109&ssn=369d29aa1e62ee908afb058086b84400ec0ff28eeba8-a05d-4752-99e27d&sso=ffbf021d-7b95b7025610a84aebf896232b071ab5511f0d1cec950478&ssp=86240461141785556888178553666583886&ssq=44141786908389879116169083304982428271388&ssr=NTIuMTU3LjMzLjE3MA==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJfX3V6bWYiOiI3ZjkwMDBmMjhlZWJhOC1hMDVkLTQ3NTItOTIxZC03Yjk1YjcwMjU2MTAxLTE3ODU1NjkwODMxODUwLTAwNDk3MzZjNTRmYzg1NjUzY2YxMCIsInV6bXgiOiI3ZjkwMDBhZjNhNzgzMC1iYzA5LTQzOTgtODlmMC0zMGEzOWY4YjBkZTAxLTE3ODU1Njg3NjkyMDkzMTM5NzYtODczMTY4MzU4MGExNDYwNjIyIn0=,,APHP,Ajout manuel de Bastien Guerry,
 anomaliescervelet.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=e24539b9-7640-44e5-af35-4b8cb98716df&ssb=43459202677&ssc=http%3A%2F%2Fanomaliescervelet.aphp.fr%2F&ssi=203c7897-cofn-4504-8718-96c2f3581657&ssk=botmanager_support@radware.com&ssm=01916634220591761132454361942100&ssn=c1dde2edfdfeb6686474a484da35e460a4f72a129c24-a15f-48ac-9a262b&sso=6d4326aa-d17cdec6458f1d2f8033ef924b0ab8050e287a158941b3c9&ssp=19992798461784261347178425280751678&ssq=88474507216510882976772164313561914697711&ssr=NjguMjIwLjYzLjM=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJfX3V6bWYiOiI3ZjkwMDAyYTEyOWMyNC1hMTVmLTQ4YWMtOTZhYS1kMTdjZGVjNjQ1OGYxLTE3ODQyNzIxNjQ3NzYzNjItMDA0MmRhNzA4NTQ5ODFjNTBlNTEzIiwidXpteCI6IjdmOTAwMDBkODA0M2Y2LTkzNmMtNGY2YS04NDkxLTljZWEyY2FmZDdlNzEtMTc4NDI3MTg5NDg2OTI3MDI2OS04NGZmYWI5MzlmZjBkNDZmMzEifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=1b694337-6045-4b69-a7fd-c2cc24cb3da2&ssb=85632223417&ssc=https%3A%2F%2Fanomaliescervelet.aphp.fr%2F&ssi=8a41abcb-cofn-4f89-8cef-7ed9ae806a7e&ssk=botmanager_support@radware.com&ssm=43638043791972926108107406906560&ssn=f1d247efea73991650192d99e22690b0cf272a129c24-a15f-48ac-98be83&sso=8ec636aa-d17cdec6458ffc737ee90c476c388ee3b6dd159bf8650965&ssp=61492257481784208427178426342668919&ssq=96389147216484277798872164149530446589046&ssr=NjguMjIwLjYzLjM=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyYTEyOWMyNC1hMTVmLTQ4YWMtOTZhYS1kMTdjZGVjNjQ1OGYxLTE3ODQyNzIxNjQ3NzYwLTAwNDkyMjJhNjA3NThjZDdjMGIxMCIsInJkIjoiYXBocC5mciIsInV6bXgiOiI3ZjkwMDAwZDgwNDNmNi05MzZjLTRmNmEtODQ5MS05Y2VhMmNhZmQ3ZTcxLTE3ODQyNzE4OTQ4NjkyNjk5MDctNmNlYzEzZWM0ZWMxZTg3NjI4In0=,,APHP,Ajout manuel de Bastien Guerry,
@@ -14863,7 +15003,7 @@ nutritiongastro-trousseau.aphp.fr,302 Moved Temporarily https://validate.perfdri
 obesite-robertdebre.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=5c04630b-ce73-4676-a29f-5abe0ea6ed1b&ssb=67594260700&ssc=http%3A%2F%2Fobesite-robertdebre.aphp.fr%2F&ssi=aad12c1c-cofn-425f-bd2d-eb8051392b4c&ssk=botmanager_support@radware.com&ssm=89357225037425504136937019211907&ssn=c214991233266f048969b8f50c3fcc8dd198d33a5a70-54c5-44af-92cb4d&sso=0b8eb54f-d9251fd72eec25f6a0531d70f49461c1f2a7bf696cc33c1b&ssp=19532323051784411498178447139414214&ssq=58536914609229163787346091020084173882409&ssr=NTIuMjQxLjMxLjIxMQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBkMzNhNWE3MC01NGM1LTQ0YWYtOTU0Zi1kOTI1MWZkNzJlZWMxLTE3ODQ0NDYwOTE5NjYyOTEtMDA0NDI0OTZiZDY2OWUxZjZhODEzIiwidXpteCI6IjdmOTAwMGEzODYxY2E3LTRmZjktNGE4MS04OTU2LWQ3NDc2ZmM4NjU3YTEtMTc4NDQ0NTQxNzM4MjY3NDg3NS04OTkwYzNiOWFmMTA2Y2Q1MzciLCJyZCI6ImFwaHAuZnIifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=fef87dae-8314-490d-959b-cf60d5cc6263&ssb=53019269633&ssc=https%3A%2F%2Fobesite-robertdebre.aphp.fr%2F&ssi=3e9ff5f3-cofn-4fa6-ba5b-13672635b8d2&ssk=botmanager_support@radware.com&ssm=94852222112013061100507162536585&ssn=164f6c7690b728cfa1224e9ab510c0355501d33a5a70-54c5-44af-91f7ac&sso=891ad54f-d9251fd72eec88e516b221bf825a8ffc49967ae8007a8dce&ssp=20011927491784465961178445245130004&ssq=44051274609108854743246091637273140696930&ssr=NTIuMjQxLjMxLjIxMQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2Y5MDAwYTM4NjFjYTctNGZmOS00YTgxLTg5NTYtZDc0NzZmYzg2NTdhMS0xNzg0NDQ1NDE3MzgyNjc0NTg0LTFmMTBkYWM2ZTY4MmExYjEzNCIsIl9fdXptZiI6IjdmOTAwMGQzM2E1YTcwLTU0YzUtNDRhZi05NTRmLWQ5MjUxZmQ3MmVlYzEtMTc4NDQ0NjA5MTk2NjAtMDA0MjBiYzRjNzRiMWZkODJjNjEwIn0=,,APHP,Ajout manuel de Bastien Guerry,
 oncologie-psl.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=97e74add-dc4c-4cf1-a1b0-9f65f7c3278c&ssb=99983222860&ssc=http%3A%2F%2Foncologie-psl.aphp.fr%2F&ssi=a8886e43-cofn-40a8-bee3-9f7d373ed8a6&ssk=botmanager_support@radware.com&ssm=51970323009934200136054687659133&ssn=f18e084eb77caf785b6a26120f2db1f8e4642e8f3f4b-6996-438c-bf7516&sso=2fcce185-1adc4a673b55850b794216a7c4162843aa8f4496cbc06046&ssp=47820221881784722589178473365554545&ssq=75815520571122597832905711408694981646814&ssr=MjAuMTE5Ljc4LjE1MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyZThmM2Y0Yi02OTk2LTQzOGMtYjE4NS0xYWRjNGE2NzNiNTUxLTE3ODQ3MDU3MTEzMzgyMTAtMDA0MGE4NWZhNGRmYjExMDc1YzEzIiwidXpteCI6IjdmOTAwMDM0YjFlOWI3LTJlMGEtNDViOC05N2U5LWM0YjkzYWQ0NjdiMTEtMTc4NDcwNTEyMDg3MzU5MDY3NS0zNjVkMGQ5NzhmYjMzNTcwMzciLCJyZCI6ImFwaHAuZnIifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=6bd6bf26-fd67-43e4-9c01-fdac64f7426c&ssb=99983222860&ssc=https%3A%2F%2Foncologie-psl.aphp.fr%2F&ssi=34fc9221-cofn-44c5-b016-e6b7feafb060&ssk=botmanager_support@radware.com&ssm=51970323009934200106054687659133&ssn=f18e084e91ff8f8eccb4c319df1db1f8e4642e8f3f4b-6996-438c-bf7516&sso=2fcce185-1adc4a673b55850b79424e5f3c991b732d876073cbc06046&ssp=47820221881784722589178473365554545&ssq=75815520571122597832905711408694981646814&ssr=MjAuMTE5Ljc4LjE1MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyZThmM2Y0Yi02OTk2LTQzOGMtYjE4NS0xYWRjNGE2NzNiNTUxLTE3ODQ3MDU3MTEzMzgwLTAwNDhkZTc3ZGUxNGRlZjBiMzYxMCIsInV6bXgiOiI3ZjkwMDAzNGIxZTliNy0yZTBhLTQ1YjgtOTdlOS1jNGI5M2FkNDY3YjExLTE3ODQ3MDUxMjA4NzM1OTA0NjUtNDI4NDQxYWFlM2VmM2IwZDM0IiwicmQiOiJhcGhwLmZyIn0=,,APHP,Ajout manuel de Bastien Guerry,
 oncomolpath.aphp.fr,No address associated with hostname,No address associated with hostname,,APHP,Ajout manuel de Bastien Guerry,
-orl-robertdebre.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=3bec1db3-c468-44dc-944a-b9dac9ee073f&ssb=15695200728&ssc=http%3A%2F%2Forl-robertdebre.aphp.fr%2F&ssi=90f03c56-cofn-442d-9af7-724630595347&ssk=botmanager_support@radware.com&ssm=48184959988247973139432565193862&ssn=0c0b83400b11d7bb8ebcc46f3188f453c0a41c32c627-d18b-4e5a-905820&sso=bd206772-313970ee93e6965aaf7d0a5c97bb4b185f913591237412fc&ssp=34628474041784129530178411859683028&ssq=63961238604258534134686041501241096978237&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJfX3V6bWYiOiI3ZjkwMDAxYzMyYzYyNy1kMThiLTRlNWEtOTc3Mi0zMTM5NzBlZTkzZTYxLTE3ODQxODYwNDE3MDM0NTQtMDA0MmViYWE4MWVmMTNhOGI3NTEzIiwidXpteCI6IjdmOTAwMDI0OTBhNmFhLTY3ZDctNGFkMi1hNGQ1LWNlM2M3MTUyNGRjNTEtMTc4NDE4NjA0MTcwMzQ1NC0zYWVkZDk4NjljNDdkYjlmMTMifQ==,503 Service Unavailable,,APHP,Ajout manuel de Bastien Guerry,
+orl-robertdebre.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=45e30d80-159a-43c1-859a-eb2f3c536ec0&ssb=64633268757&ssc=http%3A%2F%2Forl-robertdebre.aphp.fr%2F&ssi=ece8a17f-cofn-4af5-b440-f2e172784b2a&ssk=botmanager_support@radware.com&ssm=78143725731655126138861007061958&ssn=1136a1758e974ae52ac93492a24395edfa0e96e333f3-084e-4d62-b22772&sso=ee6ff71a-c031eb98111ab832142e02a59431ee5211b2190764eeebb0&ssp=50159730691786822291178686661736001&ssq=47736875796221220524357961097173003713867&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2ZjMDAwMTQ5MzlkNzUtODUzYi00NzdkLWJhYmEtYTYyN2FmNWYzNGIxMS0xNzg2ODU3NTI0NzM0NDM3Mjk2LTAwMDcxZjhjMTc0ZWFhYzg0YTgzMSIsIl9fdXptZiI6IjdmOTAwMDk2ZTMzM2YzLTA4NGUtNGQ2Mi1iNzFhLWMwMzFlYjk4MTExYTEtMTc4Njg1Nzk2MTgzOTE5MS0wMDQ2OTQ0OGQ5ZTg0MGYzNWJiMTMifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=4b474ec4-b7bb-4a10-b1eb-fbc0f384b25d&ssb=51861275274&ssc=https%3A%2F%2Forl-robertdebre.aphp.fr%2F&ssi=f65dd60b-cofn-4f0b-9086-faeaaaa09fb8&ssk=botmanager_support@radware.com&ssm=63545465222669123107418176843693&ssn=b414d00364a29ffd11b667e86b2e1387dbae96e333f3-084e-4d62-b08c6d&sso=70bff71a-c031eb98111ac04288ed9d4d45987ef0c2c9803e1249caa4&ssp=75916419041786842612178680055330303&ssq=94549645796129870366357961325931616804043&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA5NmUzMzNmMy0wODRlLTRkNjItYjcxYS1jMDMxZWI5ODExMWExLTE3ODY4NTc5NjE4MzkwLTAwNDc3MGIzNGU3ODFhMTA5N2YxMCIsInV6bXgiOiI3ZmMwMDAxNDkzOWQ3NS04NTNiLTQ3N2QtYmFiYS1hNjI3YWY1ZjM0YjExLTE3ODY4NTc1MjQ3MzQ0MzcxMDUtMDAwNGY5ZjZmZDM5NDkzNTRmZTI4IiwicmQiOiJhcGhwLmZyIn0=,,APHP,Ajout manuel de Bastien Guerry,
 orl-rothschild.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=d4b009f8-e5b8-4c21-aa0e-92fd87691bea&ssb=98081276567&ssc=http%3A%2F%2Forl-rothschild.aphp.fr%2F&ssi=1eaf1dd4-cofn-4bee-9b25-b0161922cf3f&ssk=botmanager_support@radware.com&ssm=10155836528508647132959575252369&ssn=24af028d48756a886b6d87f6a61d423f401b55377fed-f1a1-4471-ae934f&sso=b885af47-ceb2d45d681984278ff5cfccefbfaf891f971016e15d8e8d&ssp=84744250371784896157178489826884678&ssq=74433727761076165323177609898248380848277&ssr=MjAuNTUuMTE4LjExOQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2Y5MDAwMGNiYzliYTItNzBlMy00ZWYxLWJiN2MtODRjMTZkNTRjZDI0MS0xNzg0ODc3NjA5NTE4NTI2LTkwM2E4ZDQ3YTMzYjExZjcxMyIsIl9fdXptZiI6IjdmOTAwMDU1Mzc3ZmVkLWYxYTEtNDQ3MS1hZjQ3LWNlYjJkNDVkNjgxOTEtMTc4NDg3NzYwOTUxODUyNi0wMDRlZmZmNmZiNzEzOGFiODkxMTMifQ==,503 Service Unavailable,,APHP,Ajout manuel de Bastien Guerry,
 otms-g02.aphp.fr,200 OK,certificate verify failed,,APHP,Ajout manuel de Bastien Guerry,
 otms-g12.aphp.fr,Timeout,Timeout,,APHP,Ajout manuel de Bastien Guerry,
@@ -14877,7 +15017,7 @@ pitiesalpetriere.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?s
 plateforme-covid-idf.aphp.fr,No address associated with hostname,No address associated with hostname,,APHP,Ajout manuel de Bastien Guerry,
 plateforme-covid-idf-part.aphp.fr,No address associated with hostname,No address associated with hostname,,APHP,Ajout manuel de Bastien Guerry,
 plateformeprojets.aphp.fr,301 Moved Permanently https://plateformeprojets.aphp.fr:443/,200 OK,,APHP,Ajout manuel de Bastien Guerry,
-poleducoeur-hupo.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=9ba028ad-68cd-499b-b7ff-c738c7455b7e&ssb=82342292148&ssc=http%3A%2F%2Fpoleducoeur-hupo.aphp.fr%2F&ssi=0dee4631-cofn-460c-84c6-1d7c8319b03a&ssk=botmanager_support@radware.com&ssm=81986335155286804132571415011739&ssn=b8a507a171e8ee7ce7dfd8597b80c2ae6367a875b119-f808-4c60-afd252&sso=f103505f-2e0a9385282d55db2ce6aa356437b677b888566c4977bad2&ssp=94338222921784114523178411056551750&ssq=13451598614550490197886145716356275877656&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBhODc1YjExOS1mODA4LTRjNjAtYTA1Zi0yZTBhOTM4NTI4MmQxLTE3ODQxODYxNDU2NDkzMTYtMDA0ZTc1ZjhiNGI1NjJjNGJiNzEzIiwicmQiOiJhcGhwLmZyIiwidXpteCI6IjdmOTAwMDI0OTBhNmFhLTY3ZDctNGFkMi1hNGQ1LWNlM2M3MTUyNGRjNTEtMTc4NDE4NjA0MTcwMzEwNDI2Mi0wY2M2ZTQ5NWIzOTVhNjRiMTkifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=20b24e1c-35d8-4bdd-b7e6-bf6db16f65fc&ssb=82342292148&ssc=https%3A%2F%2Fpoleducoeur-hupo.aphp.fr%2F&ssi=a1b5d4e1-cofn-409a-b23d-573efc5ff066&ssk=botmanager_support@radware.com&ssm=81986335155286804102571415011739&ssn=b8a507a1a928875c08d069f5009ac2ae6367a875b119-f808-4c60-afd252&sso=f103505f-2e0a9385282d55db2ce67ea0eebe927132a60e494977bad2&ssp=94338222921784114523178411056551750&ssq=13451598614550490197886145716356275877656&ssr=MjAuMTg5LjE3OS44MQ==&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMjQ5MGE2YWEtNjdkNy00YWQyLWE0ZDUtY2UzYzcxNTI0ZGM1MS0xNzg0MTg2MDQxNzAzMTAzOTQ2LWQzM2FjYjIyOWMxMjQ1OTYxNiIsIl9fdXptZiI6IjdmOTAwMGE4NzViMTE5LWY4MDgtNGM2MC1hMDVmLTJlMGE5Mzg1MjgyZDEtMTc4NDE4NjE0NTY0OTAtMDA0ZGYxYTY1NTM4YjBmM2ZkODEwIiwicmQiOiJhcGhwLmZyIn0=,,APHP,Ajout manuel de Bastien Guerry,
+poleducoeur-hupo.aphp.fr,302 Moved Temporarily https://validate.perfdrive.com/?ssa=cc016c33-8a6f-4130-a5b7-a360e71de8bb&ssb=30300254229&ssc=http%3A%2F%2Fpoleducoeur-hupo.aphp.fr%2F&ssi=225d24e0-cofn-4163-b4b5-ac7fa1fbd1db&ssk=botmanager_support@radware.com&ssm=31003530157922096136659374464389&ssn=a96f03d070f7841f9b1b6713de7c8c14aaffba81ab98-1e16-465f-8a85ea&sso=a9806282-69a6785c142f065fbb5f74d8515a228f6d0057c925b073fe&ssp=67013542981786822816178680333672315&ssq=69157005787072709457657869155185125619858&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2ZjMDAwMTQ5MzlkNzUtODUzYi00NzdkLWJhYmEtYTYyN2FmNWYzNGIxMS0xNzg2ODU3NTI0NzM0MzQ1Mjg0LTAwMDViNTE3NjBlZjczNmM2MGUyNSIsIl9fdXptZiI6IjdmOTAwMGJhODFhYjk4LTFlMTYtNDY1Zi04MjgyLTY5YTY3ODVjMTQyZjEtMTc4Njg1Nzg2OTc5MzIyNS0wMDQ2M2E2ZTFmN2Y4Mzg4MzA1MTMifQ==,302 Moved Temporarily https://validate.perfdrive.com/?ssa=12e98f6d-9783-4913-864c-51e0798241ea&ssb=93618264417&ssc=https%3A%2F%2Fpoleducoeur-hupo.aphp.fr%2F&ssi=a1af412d-cofn-41c7-b33f-f2aa7223b879&ssk=botmanager_support@radware.com&ssm=66278275062770210102622842941712&ssn=38529519695714185b2c9bff316caae11196ba81ab98-1e16-465f-8a20ed&sso=d5979282-69a6785c142fc37ecdcaf490e492f065e7f4410a9c40fc55&ssp=35714225071786895246178682545366195&ssq=43826695786936887249257869725263880144587&ssr=MTM1LjIzMi4yMzIuNjY=&sst=See https://github.com/etalab/noms-de-domaine-organismes-publics&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImFwaHAuZnIiLCJ1em14IjoiN2ZjMDAwMTQ5MzlkNzUtODUzYi00NzdkLWJhYmEtYTYyN2FmNWYzNGIxMS0xNzg2ODU3NTI0NzM0MzQ1MDU5LTAwMDhkNmY2MDkyMTdhMWM0N2IyMiIsIl9fdXptZiI6IjdmOTAwMGJhODFhYjk4LTFlMTYtNDY1Zi04MjgyLTY5YTY3ODVjMTQyZjEtMTc4Njg1Nzg2OTc5MzAtMDA0ODRiY2IxZmNhNDcwMDY4MTEwIn0=,,APHP,Ajout manuel de Bastien Guerry,
 poll.aphp.fr,Timeout,Timeout,,APHP,Ajout manuel de Bastien Guerry,
 portail-web.aphp.fr,No address associated with hostname,No address associated with hostname,,APHP,Ajout manuel de Bastien Guerry,
 portailvillehopital-ghparis10.aphp.fr,Timeout,Timeout,,APHP,Ajout manuel de Bastien Guerry,
@@ -15790,7 +15930,7 @@ aulhat-flat.fr,301 Moved Permanently https://www.aulhat-flat.fr/,301 Moved Perma
 www.aulhat-flat.fr,200 OK,200 OK,,Commune,DILA open data,
 aulhat-saint-privat.fr,Name or service not known,Name or service not known,,,ADULLACT,
 www.aulhat-saint-privat.fr,Name or service not known,Name or service not known,,,ADULLACT,
-aulnay-de-saintonge.fr,Timeout,Timeout,,Commune,ADULLACT,
+aulnay-de-saintonge.fr,301 Moved Permanently https://www.aulnay-de-saintonge.fr/,301 Moved Permanently https://www.aulnay-de-saintonge.fr/,,Commune,ADULLACT,
 www.aulnay-de-saintonge.fr,200 OK,200 OK,,Commune,DILA open data,
 aulnay-sous-bois.fr,301 Moved Permanently https://www.aulnay-sous-bois.fr/,301 Moved Permanently https://www.aulnay-sous-bois.fr/,,Collectivité,ADULLACT,
 www.aulnay-sous-bois.fr,200 OK,200 OK,,Collectivité,Wikidata,
@@ -15887,7 +16027,7 @@ aurouer.fr,301 Moved Permanently https://www.aurouer.fr/,301 Moved Permanently h
 www.aurouer.fr,200 OK,200 OK,,Commune,Wikidata,
 auroux.fr,301 Moved Permanently https://www.auroux.fr/,301 Moved Permanently https://www.auroux.fr/,,Commune,ADULLACT,
 www.auroux.fr,200 OK,200 OK,,Commune,DILA open data,
-aurseulles.fr,404 Not Found,404 Not Found,,Commune,ADULLACT,
+aurseulles.fr,301 Moved Permanently https://www.aurseulles.fr/,301 Moved Permanently https://www.aurseulles.fr/,,Commune,ADULLACT,
 www.aurseulles.fr,404 Not Found,404 Not Found,,Commune,Wikidata,
 aussac.fr,302 Found http://www.aussac.fr,Timeout,,Commune,ADULLACT,
 www.aussac.fr,200 OK,certificate verify failed,,Commune,Wikidata,
@@ -15922,7 +16062,7 @@ www.authume.fr,200 OK,200 OK,,Commune,Wikidata,
 autoire.fr,301 Moved Permanently https://www.autoire.fr/,301 Moved Permanently https://www.autoire.fr/,,Commune,ADULLACT,
 www.autoire.fr,403 Forbidden,403 Forbidden,,Commune,Wikidata,
 autolibmetropole.fr,301 Moved Permanently https://agemob.fr/,301 Moved Permanently https://agemob.fr/,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
-www.autolibmetropole.fr,301 Moved Permanently https://agemob.com/,301 Moved Permanently https://agemob.com/,,Collectivité,Wikidata,
+www.autolibmetropole.fr,301 Moved Permanently https://agemob.fr/,301 Moved Permanently https://agemob.fr/,,Collectivité,Wikidata,
 autonomie-paris-saint-jacques.fr,Name or service not known,Name or service not known,,,ADULLACT,
 www.autonomie-paris-saint-jacques.fr,Temporary failure in name resolution,Temporary failure in name resolution,,,ADULLACT,
 autonomieseniors-bordeaux.fr,Timeout,Timeout,,,ADULLACT,
@@ -16532,7 +16672,7 @@ www.avocats-saint-brieuc.fr,200 OK,200 OK,,,ADULLACT,
 avocats-saint-gaudens.fr,500 Internal Server Error,tlsv1 alert internal error,,,ADULLACT,
 www.avocats-saint-gaudens.fr,500 Internal Server Error,tlsv1 alert internal error,,,ADULLACT,
 avocats-st-malo-dinan.fr,301 Moved Permanently https://www.avocats-st-malo-dinan.fr/,301 Moved Permanently https://www.avocats-st-malo-dinan.fr/,,,ADULLACT,
-www.avocats-st-malo-dinan.fr,200 OK,200 OK,,,ADULLACT,
+www.avocats-st-malo-dinan.fr,Timeout,200 OK,,,ADULLACT,
 avocats-tarbes.fr,308 Permanent Redirect https://www.avocats-tarbes.fr/,308 Permanent Redirect https://www.avocats-tarbes.fr/,,,ADULLACT,
 avocats-tarnetgaronne.fr,200 OK,200 OK,,,ADULLACT,
 avocats-thionville.fr,301 Moved Permanently http://www.avocats-thionville.fr/,certificate verify failed,,,ADULLACT,
@@ -17313,7 +17453,7 @@ beffes.fr,301 Moved Permanently http://www.beffes.fr/,certificate verify failed,
 www.beffes.fr,200 OK,certificate verify failed,,Commune,Wikidata,
 begaar.fr,301 Moved Permanently http://www.begaar.fr/,301 Moved Permanently http://www.begaar.fr/,,Commune,ADULLACT,
 www.begaar.fr,200 OK,200 OK,,Commune,Wikidata,
-beganne.fr,301 Moved Permanently https://www.beganne.fr/,301 Moved Permanently https://www.beganne.fr/,,Commune,ADULLACT,
+beganne.fr,301 Moved Permanently https://www.beganne.fr/,Timeout,,Commune,ADULLACT,
 www.beganne.fr,200 OK,200 OK,,Commune,Wikidata,
 behonne.fr,No address associated with hostname,No address associated with hostname,,Commune,ADULLACT,
 www.behonne.fr,Name or service not known,Name or service not known,,Commune,DILA open data,
@@ -18008,7 +18148,7 @@ baron33.blogspot.fr,204 No Content,204 No Content,,Collectivité,Wikidata,
 chatillonlapalud01320.blogspot.fr,302 Moved Temporarily http://chatillonlapalud01320.blogspot.com/,302 Moved Temporarily https://chatillonlapalud01320.blogspot.com/,,Commune,ADULLACT,
 www.chatillonlapalud01320.blogspot.fr,302 Moved Temporarily http://chatillonlapalud01320.blogspot.com/,certificate verify failed,,Commune,Ajout manuel de Matthieu FAURE,
 clicmortainais.blogspot.fr,204 No Content,204 No Content,,,ADULLACT,
-collegedoisneau77.blogspot.fr,302 Moved Temporarily http://collegedoisneau77.blogspot.com/,302 Moved Temporarily https://collegedoisneau77.blogspot.com/,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+collegedoisneau77.blogspot.fr,204 No Content,204 No Content,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 collegejeandetournes.blogspot.fr,302 Moved Temporarily http://collegejeandetournes.blogspot.com/,302 Moved Temporarily https://collegejeandetournes.blogspot.com/,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 courdimanche-sur-essonne.blogspot.fr,302 Moved Temporarily http://courdimanche-sur-essonne.blogspot.com/,302 Moved Temporarily https://courdimanche-sur-essonne.blogspot.com/,,Collectivité,Wikidata,
 csclespictons.blogspot.fr,302 Moved Temporarily http://csclespictons.blogspot.com/,302 Moved Temporarily https://csclespictons.blogspot.com/,,,ADULLACT,
@@ -18046,7 +18186,7 @@ www.ollans.blogspot.fr,302 Moved Temporarily http://ollans.blogspot.com/,certifi
 paysdemontmedy.blogspot.fr,302 Moved Temporarily http://paysdemontmedy.blogspot.com/,302 Moved Temporarily https://paysdemontmedy.blogspot.com/,,EPCI,ADULLACT,
 pierrebro.blogspot.fr,204 No Content,204 No Content,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 pierrefeu-du-var.blogspot.fr,302 Moved Temporarily http://pierrefeu-du-var.blogspot.com/,302 Moved Temporarily https://pierrefeu-du-var.blogspot.com/,,Collectivité,Wikidata,
-pijcbbcastelsarrasin.blogspot.fr,302 Moved Temporarily http://pijcbbcastelsarrasin.blogspot.com/,302 Moved Temporarily https://pijcbbcastelsarrasin.blogspot.com/,,,ADULLACT,
+pijcbbcastelsarrasin.blogspot.fr,204 No Content,204 No Content,,,ADULLACT,
 saint-longis.blogspot.fr,302 Moved Temporarily http://saint-longis.blogspot.com/,302 Moved Temporarily https://saint-longis.blogspot.com/,,,ADULLACT,
 stcapraisbx.blogspot.fr,302 Moved Temporarily http://stcapraisbx.blogspot.com/,204 No Content,,Commune,ADULLACT,
 www.stcapraisbx.blogspot.fr,302 Moved Temporarily http://stcapraisbx.blogspot.com/,certificate verify failed,,Commune,ADULLACT,
@@ -18793,7 +18933,7 @@ bressevallons.fr,301 Moved Permanently https://www.bressevallons.fr/,301 Moved P
 www.bressevallons.fr,200 OK,200 OK,,Collectivité,Wikidata,
 bressey-sur-tille.fr,301 Moved Permanently https://www.bressey-sur-tille.fr/,301 Moved Permanently https://www.bressey-sur-tille.fr/,,Commune,ADULLACT,
 www.bressey-sur-tille.fr,200 OK,200 OK,,Commune,Wikidata,
-brest.fr,Timeout,Timeout,,EPCI,Ajout manuel de Julien Palard,
+brest.fr,200 OK,200 OK,,EPCI,Ajout manuel de Julien Palard,
 www.brest.fr,301 Moved Permanently https://brest.fr,301 Moved Permanently https://brest.fr,,EPCI,Ajout manuel de Julien Palard,
 brest-metropole.fr,No address associated with hostname,No address associated with hostname,,EPCI,Ajout manuel de Bastien Guerry,
 www.brest-metropole.fr,certificate verify failed,certificate verify failed,,EPCI,Ajout manuel de Julien Palard,
@@ -20554,7 +20694,7 @@ www.cc-sundgau.fr,301 Moved Permanently https://cc-sundgau.fr/,301 Moved Permane
 cc-tarnagout.fr,200 OK,200 OK,,EPCI,ADULLACT,
 www.cc-tarnagout.fr,301 Moved Permanently https://cc-tarnagout.fr/,301 Moved Permanently https://cc-tarnagout.fr/,,EPCI,Banatic,import-base-nationale-sur-les-intercommunalites.py
 cc-tenareze.fr,301 Moved Permanently https://www.cc-tenareze.fr/,301 Moved Permanently https://www.cc-tenareze.fr/,,EPCI,ADULLACT,
-www.cc-tenareze.fr,301 Moved Permanently http://cc-tenareze.fr/,certificate verify failed,,EPCI,ADULLACT,
+www.cc-tenareze.fr,200 OK,200 OK,,EPCI,ADULLACT,
 cc-terrassonnais-thenon-hautefort.fr,404 Not Found,Network is unreachable,,EPCI,DILA open data,
 www.cc-terrassonnais-thenon-hautefort.fr,404 Not Found,certificate verify failed,,EPCI,Ajout manuel de Matthieu FAURE,
 cc-terredeau.fr,301 Moved Permanently https://www.cc-terredeau.fr/fr/,301 Moved Permanently https://www.cc-terredeau.fr/fr/,,EPCI,ADULLACT,
@@ -20865,7 +21005,7 @@ creuse.cci.fr,301 Moved Permanently https://www.creuse.cci.fr,301 Moved Permanen
 www.creuse.cci.fr,403 Forbidden,403 Forbidden,,,ADULLACT,
 deux-sevres.cci.fr,301 Moved Permanently http://www.deux-sevres.cci.fr,301 Moved Permanently http://www.deux-sevres.cci.fr,,,ADULLACT,
 www.deux-sevres.cci.fr,403 Forbidden,403 Forbidden,,,ADULLACT,
-digne.cci.fr,301 Moved Permanently https://www.digne.cci.fr/,certificate verify failed,,,ADULLACT,
+digne.cci.fr,No address associated with hostname,No address associated with hostname,,,ADULLACT,
 www.digne.cci.fr,403 Forbidden,403 Forbidden,,,ADULLACT,
 dordogne.cci.fr,200 OK,200 OK,,,ADULLACT,
 www.dordogne.cci.fr,200 OK,200 OK,,,ADULLACT,
@@ -21872,7 +22012,7 @@ chaignay.fr,200 OK,200 OK,,Collectivité,Wikidata,
 www.chaignay.fr,301 Moved Permanently http://chaignay.fr/,301 Moved Permanently https://chaignay.fr/,,Collectivité,Wikidata,
 chaillac-sur-vienne.fr,301 Moved Permanently https://www.chaillac-sur-vienne.fr/,301 Moved Permanently https://www.chaillac-sur-vienne.fr/,,Collectivité,ADULLACT,
 www.chaillac-sur-vienne.fr,200 OK,200 OK,,Collectivité,Wikidata,
-chaillac36.fr,Name or service not known,Name or service not known,,Commune,ADULLACT,
+chaillac36.fr,301 Moved Permanently https://www.chaillac36.fr/,301 Moved Permanently https://www.chaillac36.fr/,,Commune,ADULLACT,
 www.chaillac36.fr,200 OK,200 OK,,Commune,Wikidata,
 chailles41.fr,301 Moved Permanently https://www.chailles41.fr/,301 Moved Permanently https://www.chailles41.fr/,,Commune,ADULLACT,
 www.chailles41.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -22041,7 +22181,7 @@ chambois-commune.fr,Name or service not known,Name or service not known,,Collect
 www.chambois-commune.fr,Name or service not known,Name or service not known,,Collectivité,Wikidata,
 chambonas.fr,200 OK,200 OK,,,Redirection depuis www.chambonas.com,
 chambonsurlac.fr,200 OK,200 OK,,Commune,DILA open data,
-www.chambonsurlac.fr,Name or service not known,Name or service not known,,Commune,Ajout manuel de Matthieu FAURE,
+www.chambonsurlac.fr,301 Moved Permanently https://chambonsurlac.fr/,301 Moved Permanently https://chambonsurlac.fr/,,Commune,Ajout manuel de Matthieu FAURE,
 chamboret.fr,301 Moved Permanently https://www.chamboret.fr/,301 Moved Permanently https://www.chamboret.fr/,,Commune,ADULLACT,
 www.chamboret.fr,200 OK,200 OK,,Commune,DILA open data,
 chamborigaud.fr,301 Moved Permanently https://www.chamborigaud.fr/,301 Moved Permanently https://www.chamborigaud.fr/,,Commune,ADULLACT,
@@ -22629,11 +22769,7 @@ chateauneufsursarthe.fr,Name or service not known,Name or service not known,,,AD
 www.chateauneufsursarthe.fr,Name or service not known,Name or service not known,,,ADULLACT,
 chateauneufvaldebargis.fr,301 Moved Permanently https://chateauneufvaldebargis.fr:443/,200 OK,,Commune,Wikidata,
 www.chateauneufvaldebargis.fr,Timeout,Timeout,,Commune,ADULLACT,
-chateauneufvillevieille.fr,"400 Bad status line:
-  Expected HTTP/, RTSP/ or ICE/:
-
-  b'Accept-Ranges: none'
-    ^",301 Moved Permanently https://www.chateauneufvillevieille.fr/,,Commune,ADULLACT,
+chateauneufvillevieille.fr,Timeout,Timeout,,Commune,ADULLACT,
 www.chateauneufvillevieille.fr,200 OK,200 OK,,Commune,Wikidata,
 chateauponsac.fr,200 OK,200 OK,,Commune,Wikidata,
 www.chateauponsac.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -23710,7 +23846,7 @@ www.cma28.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,301 Moved
 cma36.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,,,ADULLACT,
 www.cma36.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,,,ADULLACT,
 cma37.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr/,301 Moved Permanently https://www.cma-centrevaldeloire.fr/,,,ADULLACT,
-www.cma37.fr,200 OK,200 OK,,,ADULLACT,
+www.cma37.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr/,301 Moved Permanently https://www.cma-centrevaldeloire.fr/,,,ADULLACT,
 www.cma41.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,301 Moved Permanently https://www.cma-centrevaldeloire.fr,,,ADULLACT,
 cma45.fr,301 Moved Permanently https://www.cma45.fr/,301 Moved Permanently https://www.cma45.fr/,,,ADULLACT,
 www.cma45.fr,200 OK,200 OK,,,ADULLACT,
@@ -23784,7 +23920,7 @@ cno-vichy.fr,302 Found https://www.auvergne-rhone-alpes.developpement-durable.go
 www.cno-vichy.fr,302 Found https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/allier-contournement-nord-ouest-de-vichy-r3358.html,302 Found https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/allier-contournement-nord-ouest-de-vichy-r3358.html,,,CT logs,import-from-ct-logs.py
 cnr-elysee.fr,No address associated with hostname,No address associated with hostname,,,Ajout manuel de Bastien Guerry,
 cnrlyon.fr,Timeout,Timeout,,Collectivité,ADULLACT,
-www.cnrlyon.fr,Timeout,Timeout,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
+www.cnrlyon.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
 cnrs.fr,302 Found https://www.cnrs.fr/,302 Found https://www.cnrs.fr/,,,Ajout manuel de Laurent Joubert,
 cote-azur.cnrs.fr,302 Found https://www.cote-azur.cnrs.fr/,302 Found https://www.cote-azur.cnrs.fr/,,,Ajout manuel de Julien Palard,
 www.cote-azur.cnrs.fr,200 OK,200 OK,,,Ajout manuel de Julien Palard,
@@ -24015,7 +24151,7 @@ college-lycee-ravel.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Mi
 www.college-malraux-pontarlier.fr,200 OK,certificate verify failed,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 college-marcelleparde.fr,301 Moved Permanently https://www.college-marcelleparde.fr/,certificate verify failed,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 college-mistral-perols.fr,Name or service not known,Name or service not known,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-college-montaigne.fr,Timeout,Timeout,,,Redirection depuis www.college-montaigne.fr,
+college-montaigne.fr,503 Service Unavailable,503 Service Unavailable,,,Redirection depuis www.college-montaigne.fr,
 www.college-montaigne.fr,503 Service Unavailable,503 Service Unavailable,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.college-montesquieu.fr,403 Forbidden,403 Forbidden,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 college-montherlant-neuilly-en-thelle.fr,500 Internal Server Error,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -25692,7 +25828,7 @@ crij-npdc.fr,200 OK,200 OK,,,ADULLACT,
 www.crij-npdc.fr,301 Moved Permanently https://crij-npdc.fr/,301 Moved Permanently https://crij-npdc.fr/,,,ADULLACT,
 crijinfo.fr,301 Moved Permanently https://infojeunescvdl.fr/,301 Moved Permanently https://infojeunescvdl.fr/,,,ADULLACT,
 crijnormandie.fr,301 Moved Permanently https://www.info-jeunes-normandie.fr,Connection failed,,,ADULLACT,
-www.crijnormandie.fr,301 Moved Permanently https://www.info-jeunes-normandie.fr,Connection failed,,,ADULLACT,
+www.crijnormandie.fr,301 Moved Permanently https://www.info-jeunes-normandie.fr,Connection reset by peer,,,ADULLACT,
 crijrhonealpes.fr,Timeout,Timeout,,,ADULLACT,
 www.crijrhonealpes.fr,Timeout,Timeout,,,ADULLACT,
 crillonlebrave.fr,308 Permanent Redirect https://www.crillonlebrave.fr/accueil.html,308 Permanent Redirect https://www.crillonlebrave.fr/accueil.html,,Commune,ADULLACT,
@@ -26135,7 +26271,7 @@ dahlenheim.fr,301 Moved Permanently https://www.dahlenheim.fr/,301 Moved Permane
 www.dahlenheim.fr,200 OK,200 OK,,Commune,Wikidata,
 daignac.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.daignac.fr,200 OK,200 OK,,Commune,Wikidata,
-daix.fr,301 Moved Permanently https://www.daix.fr/,301 Moved Permanently https://www.daix.fr/,,Collectivité,ADULLACT,
+daix.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.daix.fr,301 Moved Permanently https://daix.fr/,301 Moved Permanently https://daix.fr/,,Collectivité,DILA open data,
 dalhunden.fr,301 Moved Permanently https://www.dalhunden.fr/,301 Moved Permanently https://www.dalhunden.fr/,,Collectivité,ADULLACT,
 www.dalhunden.fr,200 OK,200 OK,,Collectivité,Wikidata,
@@ -26635,7 +26771,7 @@ dossierfacile.fr,301 Moved Permanently https://www.dossierfacile.logement.gouv.f
 www.dossierfacile.fr,301 Moved Permanently https://www.dossierfacile.logement.gouv.fr/,301 Moved Permanently https://www.dossierfacile.logement.gouv.fr/,,,Ajout manuel de Julien Palard,
 douadic.fr,301 Moved Permanently https://douadic.fr:443/,200 OK,,Commune,DILA open data,
 www.douadic.fr,301 Moved Permanently https://www.douadic.fr:443/,301 Moved Permanently https://douadic.fr/,,Commune,ADULLACT,
-douains.fr,503 Service Unavailable,503 Service Unavailable,,Commune,ADULLACT,
+douains.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.douains.fr,503 Service Unavailable,503 Service Unavailable,,Commune,DILA open data,
 douarnenez-communaute.fr,301 Moved Permanently https://www.douarnenez-communaute.fr/,301 Moved Permanently https://www.douarnenez-communaute.fr/,,EPCI,ADULLACT,
 www.douarnenez-communaute.fr,200 OK,200 OK,,EPCI,ADULLACT,
@@ -26759,8 +26895,8 @@ duerne.fr,301 Moved Permanently https://www.duerne.fr/,301 Moved Permanently htt
 www.duerne.fr,200 OK,200 OK,,Commune,DILA open data,
 duhort-bachen.fr,301 Moved Permanently http://www.duhort-bachen.fr,301 Moved Permanently http://www.duhort-bachen.fr,,Commune,ADULLACT,
 www.duhort-bachen.fr,200 OK,200 OK,,Commune,DILA open data,
-duingt.fr,200 OK,200 OK,,Commune,ADULLACT,
-www.duingt.fr,301 Moved Permanently https://duingt.fr/,301 Moved Permanently https://duingt.fr/,,Commune,Wikidata,
+duingt.fr,301 Moved Permanently https://www.duingt.fr/,301 Moved Permanently https://www.duingt.fr/,,Commune,ADULLACT,
+www.duingt.fr,200 OK,200 OK,,Commune,Wikidata,
 duisans.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.duisans.fr,200 OK,200 OK,,Collectivité,DILA open data,
 dulcie-september.fr,200 OK,200 OK,,,Redirection depuis www.dulcie-september.fr,
@@ -27283,7 +27419,7 @@ eckartswiller.fr,301 Moved Permanently https://www.eckartswiller.fr/,301 Moved P
 www.eckartswiller.fr,200 OK,200 OK,,Commune,DILA open data,
 ecke.fr,200 OK,200 OK,,,ADULLACT,
 www.ecke.fr,200 OK,200 OK,,,ADULLACT,
-eckwersheim.fr,301 Moved Permanently https://www.eckwersheim.fr/,301 Moved Permanently https://www.eckwersheim.fr/,,Commune,ADULLACT,
+eckwersheim.fr,Timeout,Timeout,,Commune,ADULLACT,
 www.eckwersheim.fr,200 OK,200 OK,,Commune,Wikidata,
 ecla-jura.fr,301 Moved Permanently https://www.ecla-jura.fr/,301 Moved Permanently https://www.ecla-jura.fr/,,EPCI,ADULLACT,
 www.ecla-jura.fr,200 OK,200 OK,,EPCI,ADULLACT,
@@ -27394,7 +27530,7 @@ clg-marienoel-joigny.eclat-bfc.fr,Connection reset by peer,Connection reset by p
 clg-masson-blamont.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-mayme-marsannay-la-cote.eclat-bfc.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-mbastie-dole.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-clg-mbrezillon-orgelet.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+clg-mbrezillon-orgelet.eclat-bfc.fr,Server disconnected,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-mclavel-avallon.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-mcolucci-rougemont-le-chateau.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-mgondry-charny-oree-de-puisaye.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -27438,7 +27574,7 @@ lyc-bonaparte-autun.eclat-bfc.fr,200 OK,200 OK,,Établissement scolaire,Ajout ma
 lyc-chaignere-blanzy.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-closmaire-beaune.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-cnledoux-besancon.eclat-bfc.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-lyc-conde-besancon.eclat-bfc.fr,Server disconnected,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+lyc-conde-besancon.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-condorcet-belfort.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-cuvier-montbeliard.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-dugast-dumorey-chalon-sur-saone.eclat-bfc.fr,Connection reset by peer,Connection reset by peer,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -28587,7 +28723,7 @@ www.escazeaux.fr,Timeout,Timeout,,,ADULLACT,
 eschau.fr,302 Moved Temporarily http://www.eschau.fr/wp-signup.php?new=eschau.fr,302 Moved Temporarily https://www.eschau.fr/wp-signup.php?new=eschau.fr,,Commune,ADULLACT,
 www.eschau.fr,200 OK,200 OK,,Commune,Wikidata,
 eschbourg-graufthal.fr,200 OK,200 OK,,Collectivité,DILA open data,
-www.eschbourg-graufthal.fr,301 Moved Permanently https://eschbourg-graufthal.fr/,301 Moved Permanently https://eschbourg-graufthal.fr/,,Collectivité,ADULLACT,
+www.eschbourg-graufthal.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 eschentzwiller.fr,301 Moved Permanently https://www.eschentzwiller.fr/,301 Moved Permanently https://www.eschentzwiller.fr/,,Collectivité,ADULLACT,
 www.eschentzwiller.fr,200 OK,200 OK,,Collectivité,DILA open data,
 escherange.fr,301 Moved Permanently https://escherange.fr:443/,200 OK,,Commune,ADULLACT,
@@ -30187,7 +30323,7 @@ rimbach.zell.free.fr,200 OK,Cannot connect,,Collectivité,DILA open data,
 commune.zigliara.free.fr,200 OK,Cannot connect,,Commune,Wikidata,
 zutkerque.free.fr,200 OK,Cannot connect,,,ADULLACT,
 www.zutkerque.free.fr,Name or service not known,Name or service not known,,,ADULLACT,
-moitron.free-h.fr,Timeout,Timeout,,Collectivité,Wikidata,
+moitron.free-h.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Collectivité,Wikidata,
 fregouville.fr,301 Moved Permanently http://www.fregouville.fr/,301 Moved Permanently https://www.fregouville.fr/,,Commune,ADULLACT,
 www.fregouville.fr,200 OK,200 OK,,Commune,DILA open data,
 freissinieres.fr,301 MOVED PERMANENTLY https://www.freissinieres.fr,301 MOVED PERMANENTLY https://www.freissinieres.fr,,Commune,ADULLACT,
@@ -30205,7 +30341,7 @@ www.fremereville.fr,200 OK,200 OK,,Commune,DILA open data,
 fremicourt.fr,308 Permanent Redirect https://www.fremicourt.fr/,308 Permanent Redirect https://www.fremicourt.fr/,,Commune,ADULLACT,
 www.fremicourt.fr,Timeout,Timeout,,Commune,DILA open data,
 fremifontaine.fr,Name or service not known,Name or service not known,,Commune,ADULLACT,
-www.fremifontaine.fr,200 OK,200 OK,,Commune,Wikidata,
+www.fremifontaine.fr,Name or service not known,Name or service not known,,Commune,Wikidata,
 fremontiers.fr,tlsv1 alert internal error,tlsv1 alert internal error,,Commune,ADULLACT,
 www.fremontiers.fr,tlsv1 alert internal error,tlsv1 alert internal error,,Commune,Wikidata,
 supmaritme.frenac.fr,Name or service not known,Name or service not known,,,Ajout manuel de Laurent Joubert,
@@ -32464,7 +32600,7 @@ recette.ecodex.antai.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-c
 entreprises.antai.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,import-from-ct-logs.py
 admin.entreprises.antai.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
 www.entreprises.antai.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,import-from-ct-logs.py
-api.fps.antai.gouv.fr,Timeout,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
+api.fps.antai.gouv.fr,Timeout,sslv3 alert bad certificate,,Gouvernement,CT logs,import-from-ct-logs.py
 api-sandbox.fps.antai.gouv.fr,Timeout,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 api-staging.fps.antai.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
 backoffice.fps.antai.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -32669,7 +32805,7 @@ www.portail2signature.ants.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.
 ppd.ants.gouv.fr,403 Forbidden,403 Forbidden,,Gouvernement,Ajout manuel de Bastien Guerry,
 admin.ppd.ants.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
 ants-gci.ppd.ants.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-bvxu.ppd.ants.gouv.fr,Timeout,Timeout,,Gouvernement,https://crt.sh/?id=8512025096,import-from-ct-logs.py
+bvxu.ppd.ants.gouv.fr,302 Found https://ppd.ants.gouv.fr,302 Found https://ppd.ants.gouv.fr,,Gouvernement,https://crt.sh/?id=8512025096,import-from-ct-logs.py
 immatriculation.ppd.ants.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
 www.immatriculation.ppd.ants.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 moncompte.ppd.ants.gouv.fr,Timeout,Timeout,,Gouvernement,Ajout manuel de Julien Palard,
@@ -33057,7 +33193,7 @@ relais.dac-ag.aviation-civile.gouv.fr,Name or service not known,Name or service 
 dac-n.aviation-civile.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 mail.dac-n.aviation-civile.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 dac-ne.aviation-civile.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-mail.dac-ne.aviation-civile.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
+mail.dac-ne.aviation-civile.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 dac-o.aviation-civile.gouv.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 mail.dac-o.aviation-civile.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 dac-s.aviation-civile.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,ADULLACT,
@@ -33440,7 +33576,7 @@ relais.sac-oi.aviation-civile.gouv.fr,Temporary failure in name resolution,Tempo
 mail.sac-spm.aviation-civile.gouv.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 relais.sac-spm.aviation-civile.gouv.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 salledelecture-ext.aviation-civile.gouv.fr,Timeout,403 Forbidden,,,CT logs,import-from-ct-logs.py
-ftp.scta.aviation-civile.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
+ftp.scta.aviation-civile.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 www.scta.aviation-civile.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 mail.seac-nc.aviation-civile.gouv.fr,Timeout,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 relais.seac-nc.aviation-civile.gouv.fr,Timeout,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
@@ -34915,7 +35051,7 @@ smaprod.dume.chorus-pro.gouv.fr,Name or service not known,Name or service not kn
 smatest.dume.chorus-pro.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,CT logs,import-from-ct-logs.py
 tst.dume.chorus-pro.gouv.fr,Timeout,"400 Data after `Connection: close`:
 
-  b'<!doctype html>\n<html lang=""fr"">\n    <head>\n<script type=""text/javascript"">\n  var _event_transid=\'151767987\';\n  var _event_clientip=\'20.189.179.81\';\n  var _event_clientport=\'55304\';\n</script>\n\n        <meta charset=""utf-8"">\n        <title>Utilitaire DUME</title>\n    <base href=""/"">\n        <meta name=""author"" content=""AIFE""/>\n        <meta http-equiv=""content-language"" content=""fr"">\n        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">\n        <meta name=""description"" content=""Le DUME est une d\xc3\xa9claration sur l\xe2\x80\x99honneur permettant aux entreprises d\xe2\x80\x99attester de leur comp\xc3\xa9tence, de leur situation financi\xc3\xa8re ainsi que de leurs capacit\xc3\xa9s lorsqu\xe2\x80\x99elles r\xc3\xa9pondent \xc3\xa0 un march\xc3\xa9 public au sein d\xe2\x80\x99un Etat de l\xe2\x80\x99Union europ\xc3\xa9enne. Il est utilis\xc3\xa9 comme preuve pr\xc3\xa9liminaire dans l\xe2\x80\x99offre administrative des proc\xc3\xa9dures de passation de march\xc3\xa9s publics."">\n        <link rel=""icon"" type=""image/png"" href=""assets/img/Favicon-CommandePubliqueWordPress.png"">\n        <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">\n    <link rel=""stylesheet"" href=""styles.b82abf26849b1246ac13.css""></head>\n    <body role=""document"">\n    <p id=""pId"" tabindex=""-1"" class=""sr-only""></p>\n        <dum-app-root></dum-app-root>\n    <script type=""text/javascript"" src=""runtime.a66f828dca56eeb90e02.js""></script><script type=""text/javascript"" src=""polyfills.ee5d9ca6b6d87365a35e.js""></script><script type=""text/javascript"" src=""scripts.9f57d3d255ead6fbf793.js""></script><script type=""text/javascript"" src=""main.b71736295475217f1196.js""></script></body>\n</html>\n'
+  b'<!doctype html>\n<html lang=""fr"">\n    <head>\n<script type=""text/javascript"">\n  var _event_transid=\'151927592\';\n  var _event_clientip=\'135.232.232.66\';\n  var _event_clientport=\'56336\';\n</script>\n\n        <meta charset=""utf-8"">\n        <title>Utilitaire DUME</title>\n    <base href=""/"">\n        <meta name=""author"" content=""AIFE""/>\n        <meta http-equiv=""content-language"" content=""fr"">\n        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">\n        <meta name=""description"" content=""Le DUME est une d\xc3\xa9claration sur l\xe2\x80\x99honneur permettant aux entreprises d\xe2\x80\x99attester de leur comp\xc3\xa9tence, de leur situation financi\xc3\xa8re ainsi que de leurs capacit\xc3\xa9s lorsqu\xe2\x80\x99elles r\xc3\xa9pondent \xc3\xa0 un march\xc3\xa9 public au sein d\xe2\x80\x99un Etat de l\xe2\x80\x99Union europ\xc3\xa9enne. Il est utilis\xc3\xa9 comme preuve pr\xc3\xa9liminaire dans l\xe2\x80\x99offre administrative des proc\xc3\xa9dures de passation de march\xc3\xa9s publics."">\n        <link rel=""icon"" type=""image/png"" href=""assets/img/Favicon-CommandePubliqueWordPress.png"">\n        <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">\n    <link rel=""stylesheet"" href=""styles.b82abf26849b1246ac13.css""></head>\n    <body role=""document"">\n    <p id=""pId"" tabindex=""-1"" class=""sr-only""></p>\n        <dum-app-root></dum-app-root>\n    <script type=""text/javascript"" src=""runtime.a66f828dca56eeb90e02.js""></script><script type=""text/javascript"" src=""polyfills.ee5d9ca6b6d87365a35e.js""></script><script type=""text/javascript"" src=""scripts.9f57d3d255ead6fbf793.js""></script><script type=""text/javascript"" src=""main.b71736295475217f1196.js""></script></body>\n</html>\n'
      ^",,Gouvernement,CT logs,import-from-ct-logs.py
 edi.chorus-pro.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
 edi-qualif.chorus-pro.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -35071,7 +35207,7 @@ cohesion-territoires.gouv.fr,301 Moved Permanently https://www.cohesion-territoi
 avisau.cohesion-territoires.gouv.fr,Server disconnected,200 OK,,Gouvernement,Ajout manuel de Julien Palard,
 demo.avisau.cohesion-territoires.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,
 demo2.avisau.cohesion-territoires.gouv.fr,503 Service Unavailable,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
-preprod1.avisau.cohesion-territoires.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,
+preprod1.avisau.cohesion-territoires.gouv.fr,503 Service Unavailable,503 Service Unavailable,,Gouvernement,CT logs,
 preprod2.avisau.cohesion-territoires.gouv.fr,503 Service Unavailable,certificate verify failed,,Gouvernement,CT logs,
 cartes.cohesion-territoires.gouv.fr,200 OK,200 OK,,Gouvernement,Ajout manuel de Julien Palard,
 www.cartes.cohesion-territoires.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -35497,7 +35633,7 @@ supervision.integration.francetransfert.culture.gouv.fr,Name or service not know
 prod.francetransfert.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 recette.francetransfert.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Ajout manuel de Bastien Guerry,
 supervision.recette.francetransfert.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-supervision.francetransfert.culture.gouv.fr,Timeout,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
+supervision.francetransfert.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
 franche-comte.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,ADULLACT,
 www.franche-comte.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Wikipedia,
 gestion-sub.culture.gouv.fr,403 Forbidden,403 Forbidden,,,CT logs,import-from-ct-logs.py
@@ -35512,7 +35648,7 @@ contrib.histoiredesarts.culture.gouv.fr,401 Unauthorized,401 Unauthorized,,Gouve
 ile-de-france.culture.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 www.ile-de-france.culture.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 infolettres-internes.culture.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-infolettres-ministere.culture.gouv.fr,Timeout,Timeout,,Gouvernement,Ajout manuel de Julien Palard,
+infolettres-ministere.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Ajout manuel de Julien Palard,
 inventaire.culture.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,Ajout manuel de Julien Palard,
 www.revue.inventaire.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 www.inventaire.culture.gouv.fr,200 OK,wrong version number,,Gouvernement,Ajout manuel de Bastien Guerry,
@@ -35531,7 +35667,7 @@ www.legrandparis.culture.gouv.fr,Name or service not known,Name or service not k
 www.lenotre.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 lesportesdutemps.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 www.lesportesdutemps.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-lettre-hn.culture.gouv.fr,301 Moved Permanently https://archeologie.culture.fr/archeologie1418,wrong version number,,Gouvernement,Ajout manuel de Julien Palard,
+lettre-hn.culture.gouv.fr,200 OK,wrong version number,,Gouvernement,Ajout manuel de Julien Palard,
 liberationdeparis.culture.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,
 limousin.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,ADULLACT,
 www.limousin.culture.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://www.data.gouv.fr/fr/datasets/listes-des-sites-gouv-fr/,
@@ -35859,7 +35995,7 @@ swarm-1.infra.geo.data.gouv.fr,Name or service not known,Name or service not kno
 swarm-2.infra.geo.data.gouv.fr,Connection failed,Connection failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 tiles-ipfo-1.infra.geo.data.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Ajout manuel de Julien Palard,
 tiles-ipfo-2.infra.geo.data.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Ajout manuel de Julien Palard,
-web-1.infra.geo.data.gouv.fr,200 OK,certificate verify failed,,Gouvernement,Ajout manuel de Bastien Guerry,
+web-1.infra.geo.data.gouv.fr,Timeout,Timeout,,Gouvernement,Ajout manuel de Bastien Guerry,
 link-proxy.geo.data.gouv.fr,307 Temporary Redirect https://link-proxy.geo.data.gouv.fr:443/,204 No Content,,Gouvernement,CT logs,import-from-ct-logs.py
 arena.management.geo.data.gouv.fr,307 Temporary Redirect https://arena.management.geo.data.gouv.fr:443/,200 OK,,Gouvernement,CT logs,
 db.management.geo.data.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -41650,7 +41786,7 @@ www.mescollectesformation.emploi.gouv.fr,Name or service not known,Name or servi
 mesdemarches.emploi.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,Ajout manuel de Julien Palard,
 monactiviteformation.emploi.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,ADULLACT,
 info.monactiviteformation.emploi.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,import-from-ct-logs.py
-intra.monactiviteformation.emploi.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,import-from-ct-logs.py
+intra.monactiviteformation.emploi.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
 www.monactiviteformation.emploi.gouv.fr,302 Moved Temporarily https://info.monactiviteformation.emploi.gouv.fr,302 Moved Temporarily https://info.monactiviteformation.emploi.gouv.fr,,Gouvernement,CT logs,import-from-ct-logs.py
 monsuividucontrole.emploi.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,Ajout manuel de Julien Palard,
 www.monsuividucontrole.emploi.gouv.fr,200 OK,200 OK,,Gouvernement,Ajout manuel de Bastien Guerry,
@@ -42537,7 +42673,7 @@ ivan.esante.gouv.fr,Timeout,200 OK,,Gouvernement,CT logs,
 ma-cps.esante.gouv.fr,Timeout,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
 mail.esante.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 status.mie.esante.gouv.fr,200 OK,200 OK,,Gouvernement,https://crt.sh/?id=8598521064,import-from-ct-logs.py
-moncompte-enreg.esante.gouv.fr,Timeout,200 OK,,Gouvernement,CT logs,import-from-ct-logs.py
+moncompte-enreg.esante.gouv.fr,Timeout,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
 mos.esante.gouv.fr,200 OK,200 OK,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 o3sis.esante.gouv.fr,200 OK,200 OK,,Gouvernement,Ajout manuel de Julien Palard,
 o3sis-pprod.esante.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -44356,7 +44492,7 @@ etg.dscr.interieur.gouv.fr,Timeout,tlsv13 alert certificate required,,,CT logs,i
 sir.etg.dscr.interieur.gouv.fr,Timeout,tlsv13 alert certificate required,,,CT logs,import-from-ct-logs.py
 testoa.etg.dscr.interieur.gouv.fr,Timeout,tlsv13 alert certificate required,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 preproduction.ppm.dscr.interieur.gouv.fr,Timeout,sslv3 alert handshake failure,,Gouvernement,CT logs,import-from-ct-logs.py
-qualification.ppm.dscr.interieur.gouv.fr,Timeout,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
+qualification.ppm.dscr.interieur.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,import-from-ct-logs.py
 preproduction.siv-tsp.dscr.interieur.gouv.fr,Timeout,Timeout,,,CT logs,import-from-ct-logs.py
 sir.preproduction.siv-tsp.dscr.interieur.gouv.fr,No address associated with hostname,No address associated with hostname,,,CT logs,import-from-ct-logs.py
 qualification.siv-tsp.dscr.interieur.gouv.fr,Timeout,200 OK,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
@@ -44696,8 +44832,8 @@ edition.miviludes.interieur.gouv.fr,certificate verify failed,certificate verify
 www.miviludes.interieur.gouv.fr,403 Forbidden,403 Forbidden,,Gouvernement,CT logs,import-from-ct-logs.py
 mobile.interieur.gouv.fr,403 Forbidden,403 Forbidden,,Gouvernement,Ajout manuel de Bastien Guerry,
 mon-transport-exceptionnel.interieur.gouv.fr,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=M04WL97maQnvmA_nNoyeW0XX_9s&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=qymmZhNfGOr1-BgRGtvk6hqHoT_xVmPzJmmO8Rr_1A4,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=_gW6oJ1ASxnBVqcyWZPk1QNoDyI&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=Bm8it_jAbqkiUKnjDwXHVGcL0n_Qd82yvMz1CcwKHZI,,Gouvernement,https://crt.sh/?id=8398665216,import-from-ct-logs.py
-dsr.mon-transport-exceptionnel.interieur.gouv.fr,303 See Other https://auth.sso.interieur.rie.gouv.fr/saml/singleSignOn?SAMLRequest=hZJPbxoxEMW%2Fysr3%2FYuAYgESZLMSUtpG0PaQS2WZgVjy2tsZm6bfvuNFSeglvdjSeJ7n%2FZ69JNXbQW5ieHZ7%2BBWBQvbSW0dyPFiJiE56RYakUz2QDFoeNp8fZFNUckAfvPZW3Eg%2BVigiwGC8E9muXYmfs%2B39dDLv2nnXfaq76aKpp0233bbN%2FaKd1ItOZD8AiftXguUsIoqwcxSUC1yqmllezfN69q2ay7qR1eRJZC0zGKfCqHoOYSBZlooBCyJfGBcADUQseC3OPl6KE5bJeUnGnS0czNl9ZX933hGkKR%2Fx6GuT1BGR99z0gzXaBJF1HjWMsa7ESVmCZP6R%2Bc0F3iqb1zjSsNgDHgAvRsP3%2FcO79SNh0XuXB1SOBo8hhxcNQ5I5sDdArzA9WOtdOXgKe2AFWxTrZUKUY364JhMg59c7Rp2uya%2BKZXnbs7z%2BjC%2FMvGsfPWP9SVC9%2Bk8kqWKO%2BWlslaNpw9EwLM%2F4fYegAgcQMIIo19eR%2F%2F6%2F9V8%3D&RelayState=https%3A%2F%2Fdsr.mon-transport-exceptionnel.interieur.gouv.fr%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=ORnIEuUP6DGKLn0LOrMlXdD0DahnHod5LtZYV3ZP6hFHdBM37XyOWRa7sjShQLQ8XVzp3pPIwAkZBFTvl63K4FbTljOxLvy0QVdpuGcabaT2G5KhN87ovkB0JpD6nuUF%2FDqsJyLipQPPzCJWvEBIc1US1xddn5071kfzIZOMb3WIbJg9jKJdx4ZN43EQ5hrUBxp1qekmpTmE62512SkyuuzrB2fN4Mhw2%2BAFZwTMDN%2FN7cjiVM2DQY%2F7NSr8Zw6UAfvUGhhc7owfkXOQIBGyYMa8sWm%2Bqrt7WzNAxg6tVspUIJqKaKyxnC2e6GZ%2BHXY74UMH3LOavTzjEQi2g5BpC10voQY4yBxdBG01otgJbZ47MfCH6%2BNYHJjRdyQ9ilG8IyXUjeW7R168W1nEFag7Z62B6BtsWRrK4kUNVEb0Oh04ja4jXOYG4RvcrBPGWPCuoQiMRD72w8OJlqpJSo%2FHgKbVxPQzOIoynt4W9VsqI0WbAaSy6M7veA6pAZwyDrfX,303 See Other https://auth.sso.interieur.rie.gouv.fr/saml/singleSignOn?SAMLRequest=hZJPbxMxEMW%2Fysr3%2FQubFiuJtGmIFKlAlUAPvSDLmaSWdu1lZhzKt2e8USFcysWWxvM87%2FfsOZmhH3UX%2Bdnv4EcE4uxl6D3p6WChInodDDnS3gxAmq3ed5%2FudVNUesTAwYZeXUneVhgiQHbBq2y7XqjvVffhff3xtpm1bbtade9WdSf7ZrZqq9t6vWlV9ghI0r9QIhcRUYStJzaepVQ1s7y6yevZ1%2BpG142umieVrYXBecOT6pl5JF2WRgALolA4z4AOIhayFqcQz8URy%2BS8JOdPPezdyX8Rf3fBE6Qpb%2FHYS5O2EVH23A1j76xjlW0CWphiXaij6QmS%2BQfhd2f4U%2Ble40jD4gC4Bzw7C99293%2BtHwiLIfic0XgaA3IOLxbGJPPQXwG9wgzQ98GXYyDegSjEolrOE6Ke8sMlOYZcXu8Qbbomvyjm5XXP%2FPIzPgvzdv0QBOtXghrMfyJJFXfIj1Ornkw7iUZgZcbPOwTDEgBjBFUuLyP%2F%2FX%2FL3w%3D%3D&RelayState=https%3A%2F%2Fdsr.mon-transport-exceptionnel.interieur.gouv.fr%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=TD6aNefS0FXoo6goxY%2B2wg730o2vAwg7JTP0HTSJQ2X7zGPmzgOgYo2D7NGWlEcy3j2dBWTr%2FjhGKQa4UMWERZrt6NgDFH0r%2FGT1AHdJO3tFQdp4TGYD%2BAk%2BfikURWWQMqPQQa1WGuOHSP2Qf4N3Un%2FXpZ9aHH%2BgpVno7N%2FuxtQPqYnSMm9yudAm%2Bb8fQKQujBrQnhTzlF1oruif8x2%2BcTw5kDk8T%2FFZ3Fb8AdQRDwpLVCGPeOPAjgc0DHD3SBm4pBFOlxDHJoJR0dEk2QHplMUPPepDMT9eFCc4l8aupBJoYJsh%2F3DixKDI2rUWSLUViYEUGD6iTGxdWhlJGI3PGwDB6wOidCk9sLpemKVb9t8pUCxVz3BPKRWz0wcVa2TWeT%2BTC%2FRJKULRUVLvb3OAtCGAdyjs4FZH2kNC6zRonKgvtGQhLnUJpXrJ4nDBrqgwfE1Ikjqcf%2FPSk%2FS94GxKtXXNnyrk%2By2Svgo8zVYj9mLbIgRO2q7PnSSTRYMEH36T,,Gouvernement,https://crt.sh/?id=8422980930,import-from-ct-logs.py
-www.dsr.mon-transport-exceptionnel.interieur.gouv.fr,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=IzqWJPrs9KQStDWcHhen3378Ius&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=GRHFkjD3HmAoHCBbs8iB2Eba9QODS1uM7usjthi7c6k,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=itphpG_JHS_YFQAr5N_Tt5uXN3I&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=d937VK3jvwdLkY_gD65alw9H-cVxdJ1VyjJRNZscbQ4,,Gouvernement,https://crt.sh/?id=8402239282,import-from-ct-logs.py
+dsr.mon-transport-exceptionnel.interieur.gouv.fr,303 See Other https://auth.sso.interieur.rie.gouv.fr/saml/singleSignOn?SAMLRequest=hZJbaxsxEIX%2FyqL3vdhN7FTYBl%2ByYEjbYLd56EsR8tgRaKXtzMhN%2F31Ha9K6LwkICWbn7JzvSDMyne%2F1MvFz2MHPBMTFS%2BcD6eHDXCUMOhpypIPpgDRbvV9%2BetDjqtE9Ro42enUleVthiADZxaCK7Wauftw0y9V41aza6e3ovv3QbtaT9uNo3d7fTVfj6c1EFU%2BAJP1zJXIRESXYBmITWErNeFI2d%2BVo8rW51SNZzXdVbITBBcOD6pm5J13XRgAroli5wIAOElayV6eYztUR6%2By8JhdOHvbuFL6Iv3UMBHnKWzz20qRtQpSzdF3vnXWsijaihSHWuToaT5DNPwq%2FO8PfyvI1jjwsdYB7wLOz8G338M%2F6gbDqYigZTaA%2BIpfwYqHPsgD%2BCugVpgPvY6j7SLwDUYhFtZhlRD3khwtyDKXc3iHZ%2FJvyopjV1z2zy8v4LMzbzWMUrN8ZqjPvRJIr7lAeh1Y9mHYSjcDKjF9rBMMSAGMCVS8uI%2F9%2Ff4s%2F&RelayState=https%3A%2F%2Fdsr.mon-transport-exceptionnel.interieur.gouv.fr%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=XrFJ8kKzw1l3Lv%2FJJ66v%2FWvkTe%2FFHumPGVgYmGcF72tvbbeZZjX4%2FMfJc%2Fisbr2EsIREKZiGhd24jWKaz%2FvparOYBjQ59C4im%2B2RD01EHBm0ggaxT2hDuV3T%2BQ7K8R6IOK8JGqBZXbAyhKXA8wvSWh3gIqzOcKRIdr51KhjUenYXyY6sGVYLQ85uw2zCOzLAg0hW4TuHQjgl0trUPuQHr7X30V4W%2FGu2u7gKvgGj2tWfJyotuZTJ9UED87MY9X60lGOkKjayqUR6Q8K6jVVqZ0kUxIut6eLB25hko5Mkf83UofTE3XO5dZN%2BkxGQXRkV9FG9NtdqiLVtlrodQkg3LfpsuvKNLQm%2FcfdUqj2zIp%2BjXlb1bTaywqRKMGbJvuCQccoCkPQGsJLxTniNTCn%2BMJCh1hyTnaee0zsZzUHStAwR3K8hrbHhDSzbcaJvaFj6i1QhWEPWHoH8USyHfpoRFrXj0BP2y%2FJowfznwrEXGUunHC6jUsbp20%2FlGkuM6xM8,303 See Other https://auth.sso.interieur.rie.gouv.fr/saml/singleSignOn?SAMLRequest=hZJPaxsxEMW%2FyqL77ipOYrzCNixeGwz5h9320EsR8tgRaKWtZuSk376jNWndS3qRYDRP835PmqPu3aDaRK9%2BBz8TIBXvvfOoxoOFSNGroNGi8roHVGTUvn18UJNKqiEGCiY4cSX5XKERIZINXhTbbiF%2BrDbT9WR618yaiWxv2027ma2b23XXyEbedbIRxTeIyP0LwXIWISbYeiTtiUtyMi3lrLyZfpH36uZeyea7KDpmsF7TqHolGlDVtWbACjFU1hNECylWvFankM7VMdbZeY3Wnxzs7ck%2Fs79V8Ah5ymc85tKkTIqR99L2g7PGkig2IRoYY12Io3YI2fwL89sz%2FKm0H3HkYamHuId4tga%2B7h7%2BWj9grPrgS4ra4xAilfBuYMgyD%2B4K6AOmB%2BeCr4eAtANWsEWxnGdENeYXl2gJSn69QzL5mvKimNfXPfPLz3hi5m33EhjrV4bq9X8iyRV7KI9jqxpNW46GYXnG2yqCJg6AYgJRLy8j%2F%2F1%2Fy98%3D&RelayState=https%3A%2F%2Fdsr.mon-transport-exceptionnel.interieur.gouv.fr%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=45CGJiIMexqu6EZnFu6N1u7A8tswJMVR1GFQjVqzdZOSXXpl7l46F6OvwRDUankwWP9fM%2FmHgVRMNps35J5Avg%2B0wr5%2BiHw35HrKriV3Zv8IEGXAk9e5F3wia3j%2FtWNiLdOWXurkeQD8CdgPe3H%2FLtg2rn0q3hKQsnfaoiDxkssyW51HCnGoEmcCV%2BXCWu1M4LEBUesiEMPhfq0e%2FKjHWFC2D2I1uD9TxMeE6gsH5EC%2BNAgS1IoWi5LvgJrIKkhsTAqWp1ImYkmmDOoUmbECLXEfG3yAJCSN5oHv8B0irFuE%2FfUxRyLf1dOTwQiHZEv5RcuGXEKMpamv4vV1zgzay8%2FkhLwvQbVMBxlzffj13KcdvFPxtunsj7AMBm5lVcrGY4575vjnF3RFFmWlRJ9npKDxn5ZYnKVbE%2FhWaMB51eEUkrcJ3sZenv%2FayAiYd3LSVuMJE1gZi%2BCtWjHIet1S%2Bk61kOQV5bqvFKLoqvNow5x%2F%2FaaSC8TjYDJAIRYZ8D0i,,Gouvernement,https://crt.sh/?id=8422980930,import-from-ct-logs.py
+www.dsr.mon-transport-exceptionnel.interieur.gouv.fr,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=DEoqPtB0m18PMPlxR2vQGWE02OI&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=TK7YkBBFEOf18zPsGd6FJaaO92BVr9baqv1MzFBwfX4,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=00FVEsv_qEESlFXz4F-mJ9pJ_UA&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=y0_z9bFDf4cVpdrRPCr4-vJMNwHQUv67fNn3gvZsSDU,,Gouvernement,https://crt.sh/?id=8402239282,import-from-ct-logs.py
 fc.mon-transport-exceptionnel.interieur.gouv.fr,303 See Other https://dsr.mon-transport-exceptionnel.interieur.gouv.fr/mellon/login?ReturnTo=https%3A%2F%2Fdsr.mon%2Dtransport%2Dexceptionnel.interieur.gouv.fr%2F&IdP=https%3A%2F%2Fauth.sso.interieur.rie.gouv.fr%2Fsaml%2Fmetadata,303 See Other https://dsr.mon-transport-exceptionnel.interieur.gouv.fr/mellon/login?ReturnTo=https%3A%2F%2Fdsr.mon%2Dtransport%2Dexceptionnel.interieur.gouv.fr%2F&IdP=https%3A%2F%2Fauth.sso.interieur.rie.gouv.fr%2Fsaml%2Fmetadata,,Gouvernement,https://crt.sh/?id=8398661641,import-from-ct-logs.py
 www.fc.mon-transport-exceptionnel.interieur.gouv.fr,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=fMwZvTCFEnQcTDTtp0MWuZxfpsQ&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=tr4dM2w8eXN-FScJRkjdrE5xOkOGKT8ythbTVLymsMQ,302 Found https://auth.sso.dsr.interieur.gouv.fr//oauth2/authorize?response_type=code&scope=openid%20email%20profile%20agentdata&client_id=site_oidc-client-id&state=w5w9HQYTxWq8d1v_QZb4-0kT21U&redirect_uri=https%3A%2F%2Fmon-transport-exceptionnel.interieur.gouv.fr%2Flogin-callback&nonce=4DescbikGo2doXxBTnxWbiGBdap4xTjcvuZUkEcGKYw,,Gouvernement,https://crt.sh/?id=8402239528,import-from-ct-logs.py
 img.mail.mon-transport-exceptionnel.interieur.gouv.fr,301 Moved Permanently https://img.mailin.fr/,301 Moved Permanently https://img.mailin.fr/,,Gouvernement,https://crt.sh/?id=8390487604,import-from-ct-logs.py
@@ -45539,7 +45675,7 @@ echange-ext.recette.pfe.justice.gouv.fr,Name or service not known,Name or servic
 picasso.justice.gouv.fr,Timeout,404 Not Found,,,CT logs,import-from-ct-logs.py
 plano-atigip.justice.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,CT logs,import-from-ct-logs.py
 plex.justice.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-plexe.justice.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
+plexe.justice.gouv.fr,Connection reset by peer,Connection reset by peer,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 preprod.plexe.justice.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 podcast.justice.gouv.fr,Timeout,Timeout,,Gouvernement,CT logs,
 porte-parole.justice.gouv.fr,No address associated with hostname,No address associated with hostname,,Gouvernement,ADULLACT,
@@ -50644,7 +50780,7 @@ www.securite-informatique.gouv.fr,No address associated with hostname,No address
 securite-routiere.gouv.fr,403 Forbidden,301 Moved Permanently https://www.securite-routiere.gouv.fr/,,Gouvernement,Ajout manuel de Julien Bouquillon,
 alcool.securite-routiere.gouv.fr,403 Forbidden,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 audit.securite-routiere.gouv.fr,403 Forbidden,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
-auth.securite-routiere.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
+auth.securite-routiere.gouv.fr,403 Forbidden,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 autoecoles.securite-routiere.gouv.fr,200 OK,200 OK,,Gouvernement,CT logs,
 audit.autoecoles.securite-routiere.gouv.fr,403 Forbidden,certificate verify failed,,,CT logs,import-from-ct-logs.py
 qualif.autoecoles.securite-routiere.gouv.fr,403 Forbidden,403 Forbidden,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -53390,11 +53526,7 @@ alzheimer-collecte.solidarite.gouv.fr,Timeout,Timeout,,Gouvernement,https://gith
 www.alzheimer-collecte.solidarite.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 www.solidarite.gouv.fr,Timeout,Timeout,,Gouvernement,https://www.data.gouv.fr/fr/datasets/listes-des-sites-gouv-fr/,
 solidarites.gouv.fr,200 OK,200 OK,,Gouvernement,https://crt.sh/?id=8396791387,import-from-ct-logs.py
-bmla.solidarites.gouv.fr,302 Found https://solidarites.gouv.fr,"400 Bad status line:
-  Expected HTTP/, RTSP/ or ICE/:
-
-  b'GIF89a\x02'
-    ^",,Gouvernement,https://crt.sh/?id=8392417686,import-from-ct-logs.py
+bmla.solidarites.gouv.fr,302 Found https://solidarites.gouv.fr,302 Found https://solidarites.gouv.fr,,Gouvernement,https://crt.sh/?id=8392417686,import-from-ct-logs.py
 www.solidarites.gouv.fr,301 Moved Permanently https://solidarites.gouv.fr//,301 Moved Permanently https://solidarites.gouv.fr//,,Gouvernement,https://crt.sh/?id=8396791387,import-from-ct-logs.py
 solidarites-sante.gouv.fr,301 Moved Permanently https://sante.gouv.fr,Connection reset by peer,,Gouvernement,Ajout manuel de Bastien Guerry,
 cns.solidarites-sante.gouv.fr,certificate verify failed,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
@@ -53784,7 +53916,7 @@ www.agent.tchap.gouv.fr,Name or service not known,Name or service not known,,Gou
 chat.agent.agriculture.tchap.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 matrix.agent.agriculture.tchap.gouv.fr,Timeout,200 OK,,Gouvernement,Ajout manuel de Julien Palard,
 matrix-sir.agent.agriculture.tchap.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
-matrix1.agent.agriculture.tchap.gouv.fr,Timeout,certificate verify failed,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
+matrix1.agent.agriculture.tchap.gouv.fr,Timeout,Timeout,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 turn.agent.agriculture.tchap.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,https://github.com/tb0hdan/domains/blob/master/data/france,
 matrix.agriculture.tchap.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
 matrix-sir.agriculture.tchap.gouv.fr,Name or service not known,Name or service not known,,Gouvernement,CT logs,import-from-ct-logs.py
@@ -54934,7 +55066,7 @@ www.greta-alsace.fr,200 OK,526 <none>,,,ADULLACT,
 greta-aquitaine.fr,301 Moved Permanently https://greta-cfa-aquitaine.fr/,certificate verify failed,,,ADULLACT,
 www.greta-aquitaine.fr,301 Moved Permanently https://greta-cfa-aquitaine.fr/,certificate verify failed,,,ADULLACT,
 greta-ardechedrome.fr,200 OK,200 OK,,,Redirection depuis greta-viva5.org,
-www.greta-bip93-formation.fr,301 Moved Permanently https://greta-bip93-formation.fr/,certificate verify failed,,,ADULLACT,
+www.greta-bip93-formation.fr,301 Moved Permanently https://greta-bip93-formation.fr/,301 Moved Permanently https://greta-bip93-formation.fr/,,,ADULLACT,
 greta-cfa-aquitaine.fr,301 Moved Permanently https://siteweb.gca-formation.fr/,200 OK,,,ADULLACT,
 www.greta-cfa-paysdelaloire.fr,200 OK,200 OK,,,ADULLACT,
 greta-cher.fr,301 Moved Permanently https://www.greta-cher.fr/,301 Moved Permanently https://www.greta-cher.fr/,,,ADULLACT,
@@ -55783,7 +55915,7 @@ les-pervenches.hom-age.fr,301 Moved Permanently https://www.hom-age.fr/residence
 hombleux.fr,301 Moved Permanently https://www.hombleux.fr/,301 Moved Permanently https://www.hombleux.fr/,,Commune,ADULLACT,
 www.hombleux.fr,200 OK,200 OK,,Commune,Wikidata,
 hombourg-haut.fr,200 OK,200 OK,,Commune,ADULLACT,
-www.hombourg-haut.fr,200 OK,200 OK,,Commune,DILA open data,
+www.hombourg-haut.fr,Timeout,Timeout,,Commune,DILA open data,
 hombourg68.fr,301 Moved Permanently https://www.hombourg68.fr/,301 Moved Permanently https://www.hombourg68.fr/,,Commune,ADULLACT,
 www.hombourg68.fr,200 OK,200 OK,,Commune,DILA open data,
 hommarting.fr,301 Moved Permanently http://www.hommarting.fr/,301 Moved Permanently https://www.hommarting.fr/,,Commune,ADULLACT,
@@ -56081,7 +56213,7 @@ www.inrae.fr,200 OK,200 OK,,,Ajout manuel de Julien Palard,
 inrap.fr,403 Forbidden,403 Forbidden,,,Ajout manuel de Laurent Joubert,
 www.inrap.fr,403 Forbidden,403 Forbidden,,,Ajout manuel de Julien Palard,
 inria.fr,200 OK,200 OK,,,Ajout manuel de Laurent Joubert,
-www.inria.fr,301 Moved Permanently https://www.inria.fr:443/,200 OK,,,Ajout manuel de Julien Palard,
+www.inria.fr,200 OK,200 OK,,,Ajout manuel de Julien Palard,
 inse27.fr,301 Moved Permanently https://www.normandiesudeure.fr/,301 Moved Permanently https://www.normandiesudeure.fr/,,EPCI,Ajout manuel de Bastien Guerry,
 www.inse27.fr,301 Moved Permanently https://www.normandiesudeure.fr/,301 Moved Permanently https://www.normandiesudeure.fr/,,EPCI,Ajout manuel de Julien Palard,
 insee.fr,302 Moved Temporarily https://www.insee.fr//,302 Moved Temporarily https://www.insee.fr/,,,Ajout manuel de Laurent Joubert,
@@ -56213,7 +56345,7 @@ isse.fr,No address associated with hostname,No address associated with hostname,
 www.isse.fr,200 OK,200 OK,,Commune,Wikidata,
 issel.fr,301 Moved Permanently http://www.issel.fr/,certificate verify failed,,Commune,ADULLACT,
 www.issel.fr,certificate verify failed,certificate verify failed,,Commune,DILA open data,
-issenheim.fr,Timeout,200 OK,,Collectivité,Wikidata,
+issenheim.fr,200 OK,200 OK,,Collectivité,Wikidata,
 www.issenheim.fr,301 Moved Permanently https://issenheim.fr/,301 Moved Permanently https://issenheim.fr/,,Collectivité,Wikidata,
 issigeac.fr,301 Moved Permanently http://www.issigeac.fr,Connection failed,,Commune,ADULLACT,
 www.issigeac.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -56720,7 +56852,7 @@ kogenheim.fr,301 Moved Permanently https://www.kogenheim.fr/,301 Moved Permanent
 www.kogenheim.fr,200 OK,200 OK,,Commune,Wikidata,
 kolbsheim.fr,200 OK,200 OK,,Commune,Wikidata,
 www.kolbsheim.fr,301 Moved Permanently https://kolbsheim.fr/,301 Moved Permanently https://kolbsheim.fr/,,Commune,ADULLACT,
-kourou.fr,Timeout,Timeout,,Collectivité,ADULLACT,
+kourou.fr,308 Permanent Redirect https://www.kourou.fr/,308 Permanent Redirect https://www.kourou.fr/,,Collectivité,ADULLACT,
 www.kourou.fr,Timeout,Timeout,,Collectivité,Wikidata,
 kreiz-breizh.fr,301 Moved Permanently https://www.kreiz-breizh.fr/,301 Moved Permanently https://www.kreiz-breizh.fr/,,EPCI,ADULLACT,
 www.kreiz-breizh.fr,200 OK,200 OK,,EPCI,DILA open data,
@@ -57167,7 +57299,7 @@ www.lacali.fr,certificate verify failed,certificate verify failed,,EPCI,ADULLACT
 lacalmette.fr,500 Internal Server Error,500 Internal Server Error,,Commune,Wikidata,
 www.lacalmette.fr,301 Moved Permanently http://lacalmette.fr/,certificate verify failed,,Commune,ADULLACT,
 lacambe.fr,301 Moved Permanently http://www.lacambe.fr/,certificate verify failed,,Commune,ADULLACT,
-www.lacambe.fr,200 OK,certificate verify failed,,Commune,Wikidata,
+www.lacambe.fr,503 Service Temporarily Unavailable,certificate verify failed,,Commune,Wikidata,
 lacanau.fr,301 Moved Permanently https://www.lacanau.fr/,301 Moved Permanently https://www.lacanau.fr/,,Commune,ADULLACT,
 www.lacanau.fr,200 OK,200 OK,,Commune,Banatic,import-base-nationale-sur-les-intercommunalites.py
 lacapelle-biron.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -57324,7 +57456,7 @@ www.lachapellevendomoise.fr,200 OK,200 OK,,Commune,DILA open data,
 lachapelleviel.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.lachapelleviel.fr,200 OK,200 OK,,Collectivité,DILA open data,
 lacharente.fr,301 Moved Permanently https://www.lacharente.fr//,301 Moved Permanently https://www.lacharente.fr//,,Conseil départemental,ADULLACT,
-www.lacharente.fr,Timeout,Timeout,,Conseil départemental,ADULLACT,
+www.lacharente.fr,200 OK,200 OK,,Conseil départemental,ADULLACT,
 lacharitesurloire.fr,200 OK,200 OK,,Commune,Wikidata,
 www.lacharitesurloire.fr,200 OK,200 OK,,Commune,Wikidata,
 lacharmee.fr,301 Moved Permanently https://www.lacharmee.fr/,301 Moved Permanently https://www.lacharmee.fr/,,Commune,ADULLACT,
@@ -58026,7 +58158,7 @@ www.lanzac.fr,301 Moved Permanently http://lanzac.fr/,certificate verify failed,
 laon.fr,200 OK,200 OK,,Collectivité,Ajout manuel de Julien Palard,
 www.laon.fr,403 Forbidden,200 OK,,Collectivité,Ajout manuel de Julien Palard,
 laons.fr,200 OK,200 OK,,Commune,ADULLACT,
-www.laons.fr,301 Moved Permanently https://laons.fr/,301 Moved Permanently https://laons.fr/,,Commune,Wikidata,
+www.laons.fr,403 Forbidden,403 Forbidden,,Commune,Wikidata,
 www.lap61.fr,Connection failed,Connection failed,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lapagelocale.fr,301 Moved Permanently https://lapagelocale.com,301 Moved Permanently https://lapagelocale.com,,Commune,Wikidata,
 www.lapagelocale.fr,301 Moved Permanently https://lapagelocale.fr,301 Moved Permanently https://lapagelocale.fr,,Commune,ADULLACT,
@@ -60116,7 +60248,7 @@ lormespetitevilledufutur.fr,301 Moved Permanently https://www.lormespetitevilled
 www.lormespetitevilledufutur.fr,503 Service Temporarily Unavailable,503 Service Temporarily Unavailable,,Commune,Ajout manuel de Matthieu FAURE,
 lormont.fr,301 Moved Permanently https://www.lormont.fr/,301 Moved Permanently https://www.lormont.fr/,,Commune,ADULLACT,
 www.lormont.fr,200 OK,200 OK,,Commune,Wikidata,
-lornay74.fr,200 OK,200 OK,,Commune,ADULLACT,
+lornay74.fr,301 Moved Permanently http://www.lornay74.fr/,200 OK,,Commune,ADULLACT,
 www.lornay74.fr,200 OK,200 OK,,Commune,Wikidata,
 loroux-bottereau.fr,301 Moved Permanently https://www.loroux-bottereau.fr/,301 Moved Permanently https://www.loroux-bottereau.fr/,,Commune,ADULLACT,
 www.loroux-bottereau.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -60607,7 +60739,7 @@ www.lycee-ismael-dauphin.fr,403 Forbidden,certificate verify failed,,Établissem
 lycee-jacques-brel-lormont.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lycee-jacques-coeur.fr,200 OK,certificate verify failed,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lycee-jacques-duhamel-dole-jura.fr,522 <none>,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-www.lycee-jbpoquelin.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+www.lycee-jbpoquelin.fr,301 Moved Permanently https://lycee-jbpoquelin.fr/,301 Moved Permanently https://lycee-jbpoquelin.fr/,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lycee-jdb.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lycee-jderomas.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lycee-jdlf.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -60915,7 +61047,7 @@ www.lyceemorez.fr,200 OK,Connection failed,,Établissement scolaire,Ajout manuel
 lyceemozart.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyceenobelclichy.fr,Name or service not known,Name or service not known,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyceenordbassin.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-lyceepalissygien.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+lyceepalissygien.fr,503 Service Unavailable,503 Service Unavailable,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyceepapeclement.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyceeparcsaintjean.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 www.lyceepasteur.fr,200 OK,certificate verify failed,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -62008,7 +62140,7 @@ mairie-chereng.fr,301 Moved Permanently https://www.mairie-chereng.fr/,301 Moved
 www.mairie-chereng.fr,200 OK,200 OK,,Commune,Wikidata,
 mairie-cherisy.fr,301 Moved Permanently https://www.mairie-cherisy.fr/,301 Moved Permanently https://www.mairie-cherisy.fr/,,Commune,ADULLACT,
 www.mairie-cherisy.fr,200 OK,200 OK,,Commune,Wikidata,
-mairie-cheroy.fr,200 OK,200 OK,,Commune,Wikidata,
+mairie-cheroy.fr,500 Internal Server Error,500 Internal Server Error,,Commune,Wikidata,
 www.mairie-cheroy.fr,500 Internal Server Error,500 Internal Server Error,,Commune,Wikidata,
 mairie-chevillonsurhuillard.fr,301 Moved Permanently https://mairie-chevillonsurhuillard.fr:443/,200 OK,,Commune,DILA open data,
 www.mairie-chevillonsurhuillard.fr,Timeout,Timeout,,Commune,Ajout manuel de Matthieu FAURE,
@@ -62182,7 +62314,7 @@ mairie-cras-sur-reyssouze.fr,301 Moved Permanently https://mairie-cras-sur-reyss
 www.mairie-cras-sur-reyssouze.fr,301 Moved Permanently https://www.mairie-cras-sur-reyssouze.fr:443/,301 Moved Permanently https://mairie-cras-sur-reyssouze.fr/,,Commune,ADULLACT,
 mairie-crasvillelamallet.fr,200 OK,200 OK,,Commune,Wikidata,
 www.mairie-crasvillelamallet.fr,301 Moved Permanently http://mairie-crasvillelamallet.fr/,301 Moved Permanently https://mairie-crasvillelamallet.fr/,,Commune,ADULLACT,
-mairie-cravanche.fr,Timeout,Timeout,,Commune,ADULLACT,
+mairie-cravanche.fr,301 Moved Permanently http://www.mairie-de-cravanche.fr/,certificate verify failed,,Commune,ADULLACT,
 www.mairie-cravanche.fr,301 Moved Permanently http://www.mairie-de-cravanche.fr/,certificate verify failed,,Commune,Wikidata,
 mairie-creancey.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.mairie-creancey.fr,301 Moved Permanently https://mairie-creancey.fr/,301 Moved Permanently https://mairie-creancey.fr/,,Commune,DILA open data,
@@ -62352,7 +62484,7 @@ mairie-de-vaujany.fr,301 Moved Permanently https://www.mairie-de-vaujany.fr/,cer
 www.mairie-de-vaujany.fr,200 OK,200 OK,,Commune,DILA open data,
 mairie-deauville.fr,301 Moved Permanently https://www.mairie-deauville.fr/,301 Moved Permanently https://www.mairie-deauville.fr/,,Commune,ADULLACT,
 www.mairie-deauville.fr,200 OK,200 OK,,Commune,Wikidata,
-mairie-degre.fr,500 Internal Server Error,500 Internal Server Error,,Commune,Wikidata,
+mairie-degre.fr,200 OK,200 OK,,Commune,Wikidata,
 www.mairie-degre.fr,301 Moved Permanently https://mairie-degre.fr/,301 Moved Permanently https://mairie-degre.fr/,,Commune,ADULLACT,
 mairie-delme.fr,301 Moved Permanently https://www.mairie-delme.fr/,301 Moved Permanently https://www.mairie-delme.fr/,,Commune,ADULLACT,
 www.mairie-delme.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -63383,7 +63515,7 @@ www.mairie-longpont91.fr,200 OK,200 OK,,Commune,Wikidata,
 mairie-longprelcs.fr,301 Moved Permanently https://www.mairie-longprelcs.fr/,301 Moved Permanently https://www.mairie-longprelcs.fr/,,Commune,ADULLACT,
 www.mairie-longprelcs.fr,200 OK,200 OK,,Commune,Wikidata,
 mairie-longuesse.fr,200 OK,200 OK,,Commune,Wikidata,
-www.mairie-longuesse.fr,200 OK,200 OK,,Commune,Wikidata,
+www.mairie-longuesse.fr,301 Moved Permanently https://mairie-longuesse.fr/,301 Moved Permanently https://mairie-longuesse.fr/,,Commune,Wikidata,
 mairie-longwy.fr,301 Moved Permanently https://www.mairie-longwy.fr/,301 Moved Permanently https://www.mairie-longwy.fr/,,Commune,ADULLACT,
 www.mairie-longwy.fr,200 OK,200 OK,,Commune,Wikidata,
 mairie-lons.fr,301 Moved Permanently https://www.mairie-lons.fr/,301 Moved Permanently https://www.mairie-lons.fr/,,Commune,Ajout manuel de Bastien Guerry,
@@ -63615,7 +63747,7 @@ mairie-meyzieu.fr,301 Moved Permanently https://www.meyzieu.fr,Connection failed
 www.mairie-meyzieu.fr,301 Moved Permanently https://www.meyzieu.fr,Connection failed,,Commune,Wikidata,
 mairie-mezel.fr,Name or service not known,Name or service not known,,,ADULLACT,
 www.mairie-mezel.fr,Name or service not known,Name or service not known,,,ADULLACT,
-mairie-mezieres-sur-couesnon.fr,301 Moved Permanently https://mezieres-sur-couesnon.bzh,Connection reset by peer,,Commune,Wikidata,
+mairie-mezieres-sur-couesnon.fr,301 Moved Permanently https://mezieres-sur-couesnon.bzh,Connection failed,,Commune,Wikidata,
 www.mairie-mezieres-sur-couesnon.fr,301 Moved Permanently https://mezieres-sur-couesnon.bzh,Connection failed,,Commune,Wikidata,
 mairie-mezieres-sur-ponthouin.fr,301 Moved Permanently https://www.mairie-mezieres-sur-ponthouin.fr,Connection failed,,Commune,ADULLACT,
 www.mairie-mezieres-sur-ponthouin.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -64672,7 +64804,7 @@ mairie-saintvallierdethiey.fr,302 Moved Temporarily http://www.saintvallierdethi
 www.mairie-saintvallierdethiey.fr,302 Moved Temporarily http://www.saintvallierdethiey.com,Connection failed,,Commune,ADULLACT,
 mairie-saintvincent.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.mairie-saintvincent.fr,200 OK,certificate verify failed,,Commune,Wikidata,
-mairie-salaise-sur-sanne.fr,301 Moved Permanently https://mairie-salaise-sur-sanne.com/,Connection reset by peer,,Commune,ADULLACT,
+mairie-salaise-sur-sanne.fr,301 Moved Permanently https://mairie-salaise-sur-sanne.com/,Connection failed,,Commune,ADULLACT,
 www.mairie-salaise-sur-sanne.fr,301 Moved Permanently https://mairie-salaise-sur-sanne.com,Connection failed,,Commune,Wikidata,
 mairie-salaunes.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.mairie-salaunes.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -66791,7 +66923,7 @@ www.marcelcave.fr,200 OK,200 OK,,Commune,Wikidata,
 marcellaz-albanais.fr,200 OK,Connection failed,,Commune,ADULLACT,
 www.marcellaz-albanais.fr,200 OK,200 OK,,Commune,Wikidata,
 marcellus47.fr,301 Moved Permanently http://www.marcellus47.fr/,301 Moved Permanently https://www.marcellus47.fr/,,Commune,ADULLACT,
-www.marcellus47.fr,200 OK,200 OK,,Commune,Wikidata,
+www.marcellus47.fr,403 Forbidden,403 Forbidden,,Commune,Wikidata,
 marcenat15.fr,301 Moved Permanently http://www.marcenat15.fr,tlsv1 alert internal error,,Commune,ADULLACT,
 www.marcenat15.fr,200 OK,tlsv1 alert internal error,,Commune,Wikidata,
 marcenod.fr,301 Moved Permanently https://www.marcenod.fr/,301 Moved Permanently https://www.marcenod.fr/,,Commune,ADULLACT,
@@ -66822,7 +66954,7 @@ marciac.fr,301 Moved Permanently https://www.marciac.fr/,301 Moved Permanently h
 www.marciac.fr,200 OK,200 OK,,Commune,Wikidata,
 marcieu.fr,Name or service not known,Name or service not known,,Collectivité,ADULLACT,
 www.marcieu.fr,Name or service not known,Name or service not known,,Collectivité,Wikidata,
-marcigny.fr,Name or service not known,Name or service not known,,Commune,ADULLACT,
+marcigny.fr,302 Moved Temporarily http://www.marcigny.fr,Connection failed,,Commune,ADULLACT,
 www.marcigny.fr,Name or service not known,Name or service not known,,Commune,Wikidata,
 marcilhac.fr,301 Moved Permanently https://www.marcilhac.fr/,200 OK,,Commune,ADULLACT,
 www.marcilhac.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -67854,7 +67986,7 @@ mezieres-lez-clery.fr,200 OK,200 OK,,Commune,Wikidata,
 www.mezieres-lez-clery.fr,301 Moved Permanently http://mezieres-lez-clery.fr/,301 Moved Permanently https://mezieres-lez-clery.fr/,,Commune,Wikidata,
 mezieresengatinais.fr,200 OK,200 OK,,Collectivité,Wikidata,
 mezieressurissoire.fr,301 Moved Permanently http://www.mezieressurissoire.fr/,certificate verify failed,,Commune,ADULLACT,
-www.mezieressurissoire.fr,Temporary failure in name resolution,Temporary failure in name resolution,,Commune,Wikidata,
+www.mezieressurissoire.fr,301 Moved Permanently http://mezieressurissoire.fr/,301 Moved Permanently https://mezieressurissoire.fr/,,Commune,Wikidata,
 mezilhac.fr,301 Moved Permanently https://www.mezilhac.fr/,301 Moved Permanently https://www.mezilhac.fr/,,Commune,Wikidata,
 www.mezilhac.fr,200 OK,200 OK,,Commune,Wikidata,
 mezire.fr,302 Found http://127.0.0.1,302 Found http://127.0.0.1,,Collectivité,ADULLACT,
@@ -68811,7 +68943,10 @@ clg-duvivier.monbureaunumerique.fr,"400 Data after `Connection: close`:
 clg-eble.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-erasme.monbureaunumerique.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-esplanade.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-clg-etangs.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+clg-etangs.monbureaunumerique.fr,"400 Data after `Connection: close`:
+
+  b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZ'
+     ^",500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-europe.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-farenc.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-ferry-bogny.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
@@ -68829,7 +68964,7 @@ clg-galois.monbureaunumerique.fr,"400 Data after `Connection: close`:
 
   b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZl/MhG9lYg62lpACc9xMbDibXVkVBd02tdlpeV9OLYpJBl1tjVbGB68WUNzFo2tLWyt7m2/PHksrSx////H2Ud+wAAAQB0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ByUAAC5JSURBVHja7J0JYBNV/senloaCQGrSWpFS1ESTSZs0Z5M0m6YhwUJIoRTQQAUkbQqJFErFUmhLobXQUko57CIIyOHBJYIIKgiK4HIpKx54rK6ut6vr+t911133/1//75iZzCTpgQ1n51fI8ea9X95nvu/K5M17hKTnGSHveUbwOvM68zrzOvM68zrzOvM68zrzOvM68zrzOvM6X6jO6T3PeJ15nXmdeZ15nXmdeZ15nXmdeZ15nS+izrKeZ7zOvM68zrzOvM5Xmc5pPc94nXmdeZ15nXmdeZ15nXmdeZ15nXmdeZ15nbups6HnGWHueUboe571SObMnmeEtucZoe55xuvcQ3TuiW2YsecZoet5RpDYepTOqp5ntM49yXideZ15na8tnXtq/8zX52u8PqOrnz1M555YtsU9z3rkfbEyTY+zHlmfZTJe556gM7+eAb+eAa8zrzOvM68zrzOvM68zrzOvM68zrzOvM68zrzO/bgW/PknP0lkm0xAc02hwELxESDDPIFCm0YRE46alritGjqchQmJyo1xandNIXWZmcDZkZqbaQhp1IEStgo9atU6lBsE6kiQtaiYmiKYzkjAiK0Rl0anVIKKKE09FkmnsIBCms3CiAE+XVGeZhjSN4FpKuir//vvvP08uux/asjL0mEakbWPHMiUTaXI5J+0ao3DEiDwibQ07UFhBEhqSEzQij6zgvDdcSqEJIHPmwt9wLTl92d3A7pehp7snlqGnZaRuDTfeOLGF5KQVkiNAqJ1M5sZLJEl1IjelZhvnvUAjv6Q6E+pxIcyJvvsRs2MGgm3tj55K7GRLSMQRGjnnfZ4EMjuIEObfbCMsIcwO7ulbY5BcWp21gHmcMGh523yoTJc7cNluxW/vryBTQfZMdCyQaqGDTE4Uwhd5KGyNBjEjnfOoeCZ0bnSJTCRoieKKRKFwIfO5Avtl0HmESEzffiR2iGWErwKY2AefNlXY8dsKAjKvceBoEqhcikRjt0NOkUMsdjjEBHoNdV6Y4kA/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'
      ^",500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-clg-gaudinettes.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+clg-gaudinettes.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-goncourt.monbureaunumerique.fr,200 OK,200 OK,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-grande-saule.monbureaunumerique.fr,"400 Data after `Connection: close`:
 
@@ -68946,10 +69081,7 @@ clg-otfried.monbureaunumerique.fr,"400 Data after `Connection: close`:
 
   b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZl/MhG9lYg62lpACc9xMbDibXVkVBd02tdlpeV9OLYpJBl1tjVbGB68WUNzFo2tLWyt7m2/PHksrSx////H2Ud+wAAAQB0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ByUAAC5JSURBVHja7J0JYBNV/senloaCQGrSWpFS1ESTSZs0Z5M0m6YhwUJIoRTQQAUkbQqJFErFUmhLobXQUko57CIIyOHBJYIIKgiK4HIpKx54rK6ut6vr+t911133/1//75iZzCTpgQ1n51fI8ea9X95nvu/K5M17hKTnGSHveUbwOvM68zrzOvM68zrzOvM68zrzOvM68zrzOvM6X6jO6T3PeJ15nXmdeZ15nXmdeZ15nXmdeZ15nS+izrKeZ7zOvM68zrzOvM5Xmc5pPc94nXmdeZ15nXmdeZ15nXmdeZ15nXmdeZ15nbups6HnGWHueUboe571SObMnmeEtucZoe55xuvcQ3TuiW2YsecZoet5RpDYepTOqp5ntM49yXideZ15na8tnXtq/8zX52u8PqOrnz1M555YtsU9z3rkfbEyTY+zHlmfZTJe556gM7+eAb+eAa8zrzOvM68zrzOvM68zrzOvM68zrzOvM68zrzO/bgW/PknP0lkm0xAc02hwELxESDDPIFCm0YRE46alritGjqchQmJyo1xandNIXWZmcDZkZqbaQhp1IEStgo9atU6lBsE6kiQtaiYmiKYzkjAiK0Rl0anVIKKKE09FkmnsIBCms3CiAE+XVGeZhjSN4FpKuir//vvvP08uux/asjL0mEakbWPHMiUTaXI5J+0ao3DEiDwibQ07UFhBEhqSEzQij6zgvDdcSqEJIHPmwt9wLTl92d3A7pehp7snlqGnZaRuDTfeOLGF5KQVkiNAqJ1M5sZLJEl1IjelZhvnvUAjv6Q6E+pxIcyJvvsRs2MGgm3tj55K7GRLSMQRGjnnfZ4EMjuIEObfbCMsIcwO7ulbY5BcWp21gHmcMGh523yoTJc7cNluxW/vryBTQfZMdCyQaqGDTE4Uwhd5KGyNBjEjnfOoeCZ0bnSJTCRoieKKRKFwIfO5Avtl0HmESEzffiR2iGWErwKY2AefNlXY8dsKAjKvceBoEqhcikRjt0NOkUMsdjjEBHoNdV6Y4kA/9hrs+DQkwgNi+hMcYonMLkGfixI6LofOI8TML1dp6elly5ARcgI2LRoSv9WoELMExSpTCdGb9DSVCeJIYJ8jVzM6L0yxo24oXQWCFoows4b6ABg1nSTR58pwd5V+GerzOMYSiVtuQBX4fp9EBv8I/Pbu5ahsL6TjwdfbDBJCh5jt6E5EXVDnbQYZE7RQQCQGP0NIyMCplBFGyOxACS/xOAzrzDKThHwTM1do4GlJM76JmrS7K9NC2zCTSJJOZiJmGYxJZrJ0lsiZoIWiNFYbNsJOoCM6pLPmcqw3FNpuj3DIKJ0rDHikRem8SRPKnAxUwjrjqFydJaE60x9AFQqWzpd4XSmq3U5mLFVMlOXPBJZfgeufsWwGfiuHzEIca03yCKRYWpd0roA6L0zECdeAtgNO0KJ0Bu1H2mXROdhug6ZWg+YfSOx2giwrK4OT+NFbgxzW51SHmGm3x12QzuNEVOsMirOGrTMekV9ynUGBltMjfjn5JuqPezFjz/Pw6Xx/1G6novZYnqZKRi1xBzqnh+m8ZhttsPxQOsOShHqLS64zu14RZXgc9gM19sTjsPM+3D9j/TRGyCwwUDqLwnROCW+3g7bQINHQOms029ZUaC61zgvhZ2uYMw1qWj5iFi+jxp7oFOQ70uCAcY0d11MdZK6QpZGoTxbJ0rg6/4ajsyA9dOwJCoiK0rkiOXENKDiXVGfjiHELR2ChsGnk5GL2eBsNv/++zUGsGTdu4Rox1plMBl0t0FlD5uEXKNA0btwIkQbEG5dClQcYNC5FlgiSjltIGyog6eBzTSI7UbFmDVV4Ltl6BqSREIsqQPsZNFC9Kjdt2iTuDx83Vfi+Ac8isYwk7Q6BQyKnpsXaRRUODRhOyQ0iEehmUSABXxOkTxSMB4IEDiLd7hCxDOpMgs8VGQiSqKjYdikXViDQJQw7bIfZp0KjkYAWHDSzqIm2y2AEuwSE2uEzHcWOUqG4BjoQueLGCwaxTEIdgV5ldrtdcsnXrUBVj2vpcrkcP8rT0VN6WETmDTsUvwyNF+Kbm5Dxzq9Pwq9PwuvM68zrzOvM68zrzOvM68zrzK8Tx68Tx68Tx68Tx68Tx68Tx68fxq8TdwXpnJYGHy3EtbBO3P8mJyff1oWm4OOP4aMmOTx18i3B95r/zcxM/pgTRaO54taJ+13iRx+bbjMaQw4F36ajB+J3v4PPHw3mRgSpP/oonYoE3w82Gn+AMdLTaS844RW1Tpxgr063VyC/3SR8VZco0u29UXfjjbqUT0y36waZ9poG/VdoSpTrBCaTSQBjDxJ+YtorvxGkSdlLp9bp7hCa9t6q23v7JyYYTyDQmRJNn/xXJ7/R9IlgEJ30sq1DE0HnwcRtpts+HpwuNqX/OCTd9Gdj4m0//JlIF4o/Mn38UfqfPzIO+fEH08fGH7HOwo8I4ceE6Qfjn29DqQHRYKPw4/QhqcbBgz/6AeoMhDX9mP5xohG4+8F0+XUOX6YFSCgUqBJFKtUn7xuE/71d+F/TLQKk1yCTSmWAr/a+L9SpBAIYe9BelSrldtXeG2EQTJ04aNCtt5p+Uhk+Ue0dBN6D4yCmaZAKpBbCxINwwitqXak/DoaPQ34kSdOgW0yJr/4oTCQ/HgLD7jCR5KA/w1f/AY9//CMKA7GHDAEBiX8Mpr7VdCv5aiI5+A78HsQ03QFTD34VRfnjFbfeEFRGpXr/k/dvB8olmn661ZSi+gmInCKCOquEtw8S3a4y3SgSYp2FBsEn74NgIG0wdeLt7ycKkM7vCwcNYnR+/xODYe8gGHSF6fzqj/hpSOqt+M0QINegHwcPuWMQ1FDz8WAg1x1DBv+IRBs0ZPBgqNuQVHbqW38c/Oot5I+DSPIW8OrVV8nBg0iY+j+pg1NvgUHXwrpSt5gG9bh14l5NvYrW6ujB67jy68Tx6z7y68Tx68Tx68RdJffFavh14npEfeZ17hk6SzsxhdIGTKlU0KbEAQppd+3Xe/6le0Z0ni0FzEQGyhPMXwYMV3QXu1ueLx5zhtJmtikyMhQ2sx7d0wsN3sCrp4JB5jJ+FXB3PV8sZpAfcL4VNr024nVxrR6oBLN+4dTd93xxmDOgECBbmR38HJAJMnfh1NHwfFGYlXqzUmnOVOs6/A1Ep9bCaHrlBSBHxfNFYFaAD1Pq1Tp2vnQqLzYVJ1Sn1ittenNXW7MInnW6Mtq4wR14jj4zlALmC5tarfK63T5f5aYqaJsqfT7C7VWpgxHMXZY61LOujCT8gYMDNkIbcDDgJ8gyXRc8R53ZrLeZM5mPVXllVavjFxWwbVHb0Uq3V8fkLdMGBOkCcohn0j/gvS3r1s7bvv3xOXPmPP749nnz1m3ZeBBwd+Y5yswKvd6mZa4ceTVVbYA3KSkhIZuyhISkpILYgvjVlW4LE09v0+s7K99cz0ZiwEvr5m1/ZwywLGzg1RwAvm7LQaKsY8/RZVaALlJNbx7h9bUugryA1Mo2AA6wY5dU+Y1UTJUadLQdQ3M8k/6NT63dztDmZDEGuLfPOzNAU9aR56gyg4zpdVTGyhAxBs51NpeXTJsJ/haUN09wQm6IHV9Fa63S6TuGZnu2AOJ52zHw8KH3jZ00ZTSwKWPvGjoS0kPqdQNorSN5jiazUqvX4stkOhXxLCIGeM75Mycuh7ez+sAffJqdX46wk2Jj2yrdKh1Oou0ImuN5wJl570DinJFjR9/5ANvuHD1paE4Oot5ykDzenucoMisy9ZnUpcEyXxsmzm3OrwSsvuUs8wGbCLGzQQlvlVnKOoVmeTYefG8d0nj4XaPveSCC3Tl2JKbe6Kcch3mOHrMCDH2pDyGrFhUg4vKJALcy3AB40YKpVmtCQWybz0ulAgNmRTsFm/GcNmD9vHcg8SSo8D3hBkOnjAfUj8/bEiAje44eM8iYBZpKRRxFIldPn+hbXtSeVfqKSpywgMdvSlOhhBbwNSEiM+25TOXeuHIDEDln7J0RgWnseyYBredsXzfgp4ieo8asV+OMWVS+1QVJQGTnzOWVRbOLOrDlE5urYa1+1n2cyppaHwGZ8VymeW/ldkA8dHT7wBT2sLuA1LvnbZRbIniOFrONyliZBVZlgDx9duXszqyoqCTXmhBb0BqEtoUh054tXv97695BIt9zZ2d2zz2ThsPyzYK2RZtZoVZbjMi5rA1U5ezckqLZEzu32ZXT+gDo2FY3Smu0qNWhVTro2Y2Qh0+6p3NkSD16fA6EJsM9R4lZC8aCcH6JhVgNkZ2LiyZ2zYrynRAa9NQwOanShVbpoOf3Vg7Myho5pUvEEHrYUAg9gAzzHB1mm06Hl+U4DpovgLx09oyu2uz8CQA6vtJthEsxkDodt3QzntM30sjDgEWkfPrpp18BBp7gu2F3QujdKw8Cv16O56gwK+iMkVUQOXfxxPyu28R8WLzjfdTmnDod+6s+7bmMHPDUBlCwpyDiSPb00w/sKfQAa/gSYgNmCA0aspWBUM9RYdarLNivbxFovnJLGOTZ7cMHD82Y5rQmxT7pxi4sKnbbzXj2r18Lmq9J7SIPe2UPk8j15QeAGpaG0SOz5szbQoR4jgazgs4YAdovq3U+WnYGrjxTJFW2zoxo+VWsQzNKcsGQ7FkKWqUKNmNBz++tGwNa7GFwZD06ksqveNg1Ys8HqyDz6GFThmfBdozrORrMWiP2ebwKjr4m5E/DNrMKHNvaunRauIUcyp+PSjcFbQwKTXvGJfvedpEbg8guVwYF3Ti6cfSwsbBK+0mO5ygwKygtUMkGTTbmWDytCn3A1qNLl4Zghx+aCUv3apqZEZrxrIEleyT6/hQJm4W887XXXjsJnms+WLWqsbFx9OihOaB0kxzPUWDWUx7drahkT1sMbcHSKioXW1cvWLp0McvYh5biQ9NA6Y6NXU5Bk/S1Ddpz2sanBoKSPToIzeYePayRqcs7P/9w9+7dz4BXH+xA0I2wdIO2m+05Cswqtsyjpi1AtriKKaBbV7+4gGUlnENU4LRmVjNG6qjDKrbMQ0dPgRYBu/EVF5XAD5G3b98OzsGe53cA5ilTGu/KGTNvi5ztufvMNo7M5QtKoLG4EHRJ0BZwDy3ACUqcbKHxlTvaM4lknjSFstFcGzZs1Ze0uxMf7t4ADQidsQtCw0QcoZVRYdbSYkCZ+1Bg+ZyBBQu6vKSKc6h3Gw5fPN2aVErXaBIPmWjPxPp1QOYpLONAN65qYJh3b9/wwY4dG3aB1ycB8xTIjIQmWZ67z0y1M2lFUObpJeXIpm3lQj+5H/GWl5dM5A4t322Dp6N8/vzJ1uzYeA3dSaNjlOefBqzfAGrzlEmUhUI3rmJasMBugLxqx/M1sBUb+Py5czD+fTlZu5/ypwU9d5tZSd0t6n6yADTa5bQt7R0CHQND55eHIP9pyf4Xy5sn98m1ZmdbC0qr3NSCRbAI0p7J91aCRnsSyzhqN65aVUi785zYANTd8QE8CTXbBx4aP3T8cHjZbE7cRjLoudvMWjnFDIv2BCAYtPKYmCe50L0h9Pzy1lDkRTFWyAvNmlAKWjHkTA47UtozAVuw+zDt2LFsaGiNjat2MMzS4l0bnn/+g8IMYLUPzhnDXA4FhTud8dxtZh1eQdVdBMcj0+dTFhMO3RbTHIYcn5QQvPSdDQs3XqJLDttXynP6QVS0IS+2ELkRs4vx2bCnwZWBmK9jQYNxSdBzd5kzSDR/KN29uiDb6qSIp08HzIvCobnIGY/ExhawLveDwh1b6cbzkUhwGHt2p78HWu2RY0OMxb1qB909Y9iMDJfLpcjYyWZ+PG4AyXjuLrOSnjS1H7ba02lrbgbQS0Kgn1WEIsfiS/40c1LpUYpZrpAynteD6jwUk951113h2Oee38UCdlEzLQpfm8tinhO3j2Q8d5fZTM2Kgz2VddR0DnRSCDTXwpCzs0GF1lCgNint2Q97qnsxMGS+614u9rlzz4PBJpsXyqzYed3cB8ewK7Sf8dxdZi2Vs5dhTzVhMsuam2cldAAdARlW6JflSGlCL6U9B0ATlnMfBr7rPmD3AqOhT506dW7zl1IGmFZZUfj5dXPnBJlBbxWgmPXdZlbjde3dR0ATVj2BY00dQUdEBsxH8JKZmkwp5Vl+EjZh9yHa+2hkxk6dOoSRGWAXxj5xHbtow0bsJEF77i6zimJ+CPTOuRNGsW1CU5O1PejIyOBb9EO34JzppJRn+b4VA7OGc4CHIgMvDo0fD5CxxC5GZUDt2nkdV+as7XH7CNpzd5lJNvMorjmdTdbsiNDtIIOG+yE3zplRSnmWP4OYKV2Hsmz8+PGbN2d9mYFhXUGNXcUnrguRGTTcz8hpz1Fl7hNqzshKt4MMR2I0M8llHhpu48ePHL456/cZGBP8uYtdCg/4K677HCOzmecwzGS3mdM6ZO7jzLUmxIdAK/5Uijrm7I6ZKc/kM+uzwpmBxiNHDs/J+r3LRatc/9fPT9T5AydeA8RhyJCZjBZzeofMU6c6qxMSuN+kpFWlpZGR2cxp0nSaeQVkHo+NBqaRKYkVSg9Avo62uQ+GIrN0Tus2s5zNPDXMnE6r9cmt0tAhZ2xEZC6znGEGX54B4niWjRwJkXO+xBJ7lB5l/V8BKmWAOBQZ1mcyasx4z2vEbHWGmzV3dXgT9u6iDpjx/i+AGXuW71sPmEeGGSrYsCoDYoQMWaHBGTVjQpEB8z6C9tzt+sxhzg01a+7SSF3VuwntMMdSzBJQn7FnYt8K0D8PHz4cYHKQc35PSeyBBRsgQ1jMG0aM+yrac7fbbQlmRuOwriJLpc/OoqGt6B/1Pzb2ZYaZ8kzUrgDjMAjNMYiMiYHBQddcijYSMLB5cbVRY7bgnPkRc5hVL21v6ImhQ6LDsSfOmV0lpTxraleA8XYOMi4yKtQem8dmKwbMj0dmZZhX1mpoz90ee9qxqwOxSZGQ25/A+mxMBObS+AO34pyBsSfluWbFUzkUM82dA1tsDySGyJ7Cwg9DRiChlpMVt7JGQ3vuLrMe58x/ID6pU5WrQpQOg04o7XcA12K7Xkp5lrmfWp/FYkYGkKli7TEXFkLmx8cM7Ij5nbgtbsZzd5lt1JryZFtBqGrWEJUfKf1TGDQ3AWy2sTu7Ukp59ru3wEaMi3wSFGybB0kMzfzh3PZkRvPlcnJAE0YynrvLrJBIcM5aY7M7Qy6N7QQ6tvRlzCyRZUgpzzJy44q1m7O4KsNqjCUuhqb+8MF32ivaOAlswhjP3b4eRmA5NMtDK/RSRdgYO3bRux1Bg+r8kx+LIQdHac+gQnOYs04qaeJCMxxpfg6KdjvMdJK4lW4N47nbzCpqIX0yvqAT5IKCpIKkEOhmNnNSaT8vZjbAa4CUZx/51PrnNweJocqgezLjYv0aHGqGja5DoTfE7aKKtiEK1wClemqjDvdRduHOjYAMr3EmhUGHFG3szAB/S6M8+8A36DMs5t+DekwBFxYDZkD8eHvIdCJYtIOeu82ssNuRMz+ncM+XRkCGV7zCoHOzWUWb9CNfdgm6b4jyLKthCZ2V5fHQwMDglT5Qlzsu2TkD49a5ZUHP3f/tJo0S+nhbgbUam9Xa1DsUOQGzZSclcbqsJ63ZVKpc2GpTYpDoGO2Z3LLiD5sp6KwxLGJgr3UwGMkJyryPZHmOwm90VM78R2ITmDGndVZvDjKa8FqdWw2hF7Ggn0xghqxWMCDxUznD8wFoz7cOeGr95s1wKAKZixlibyAQ2B0cjKBSwO6k6EHM83BAwvLcfWa6CAbIJQXMiNuakNA7BLkaHajmQD8CpwziA1Dmn3w4YxLcy9GeKaHRCAwxUxqf+Cu+AhRs3rKC/1nDtnmgBZOwPEfhN3dSLLFDA0InUd8gc6uzExb1DiLDOb65+EguC/qRAvTNBH/phDIjP3axhToltGcCCL3j0GY06hyDietO7DzxOXXRi92PUVoHiUeORDKzPUeB2WbADu3utlj6KzQi6x1Ers5lvlEHoR9BtZw6Elv6kJfyY6BvlmE8A6HPHDp0aCSAHnOyFtjOz+k+Cn/nYmMHTwJCHhkX9wzJ8RyNeUOEGHvUfBNb4JzqhFdHGGgoJcVFXThhoIOHQHhC6RskLXMaU91pz6DpXvGHQ4fGwysFY+bMnYuuieALQAiMS80q1iNHjl8bN88t43iOBrNNTAvdNzaBvigEyBIWvfs3iotzvQhBv/tIUvBQH2sp6Jt9VM6Csx9pzwFy31PrVx0aT0HDyyH48k8OfR1hOBcbf+OE15Oej4urpWWmPEdlHiAth/2nN2Kzqat/TidoruAvrdZqICTnwmD4IViyLZQPRzqrK6M9+2DpXnWOgqauDOSgohu8QMY1fGhHXNyushDPUWG2iamKB75SxlYzaLnoC2UulzjioYJgyTaI2be+MZ5lNStp6OG0lJh3KPqHsTkGr5KeWxm31ivzcT1HZ14v6aDKoLsytiCXJajTGU4cfigJtNluWgwLZ5xGe7YTB1eueGvVqSAcfeV3aPD6Lz42Pnhd+NS6uHk1RKjn6DArDFQZNLiPsKC7aAD5ZTelp9jOHagHPZMbAfS5U4cOIVmHRjZ4IHgQIteSYZ6jNGdd70CeA3a79yHQeI/qOvAoiHzEG8A5MzhC78igPNt9dnIfUvreoV20e6cgZHuY52jdj0GKqJXXIXRs6K91HZizACLTG3KJyLALZ0HPEPq9xlP3doEa/p63aiVALvOFe44Wc4bdQa837z0SG5s9akKXiCc0xYKC7aWTOiQR7mwPeobF+6Wnx97bqd0H/v7wFCrYETxH7V4jpZjJmvvl+NikCV2y7NLSNw64mYyJI92uzHgO+MjalSvWvzXlvk7triln4uLW1pCGQATP0bunTB/cAtp94I3YWOuEyR3zTp7cVFAa268siOzQR7wszPJMeNfFrXjprUl3dWyToMi7vIQvouco3i+pDmbNXwYqdUH15OmT27fpTQmlpfGHy/zMZtkibTvXwlmefd59K+NWvPf0pA6J18fFzTupkrTjOZr3xeqCWbO7D/QD1NbJ0yNiT58OiEFNfugn9x2MyiJ1uz8AsDz7yJpdcXHrX3qrcWwk3rFjG9+CxLu8pK89z1G9/1klYuq0we99+Y3Y0tjspubp4dY8Kwlo3O+0mhEZZEzXwcQqtmeZqnZdHCjh7wHs0JlyjW+dQcQ1ZRJxu56je5+7mpU1g//4y/3iS8H3xVnNbO7m5lkFsYD4odO6IHGHKod69hGWml3zIPZLb731dOMUOCty0pTGp99666UVcYj4uKYjz9FllmpFomDWxH7vgcNvxMeWInBkCUngHQB+4/BPgJiRwiBqp/mK7Fls0Fi8+9YC7LgV61+ibD3kBcD/4y3T+Dr0HGVm8DVfEPw8sTjgLjtw+KE34uMRKrDY+Pg3Hnr5QJk7IGbFExhsnS5bwfUMRigq78lda+dBcGzz5q3dddKrIn2+TjxHm1mq0AgckJaxgNurKztw+ubD0G4+faCszAuBxXQc0KoKiK6syhLq2WAnylTes7Un/wfayZoar6oM9E6sCO14jjozqHoOkDfuUomBgN+NzR8IcA8ZQGx1F9ehCfcMahC1bhuh8RkMXfN8EZilSo1A1OWVI0UCTdcXEouO54vBDH92EYgcXciWQyQw6KUXYtHwfHGYpdJMg0DQWd4cAoEh84LXD+u+54vFDDoXu6AjSYAQAon2V60T113PF48Z3hMmBpmLkDuHCGRLTNqkv9a65zmKzBkZ1OKLZrNer8f74ZASUMxg9kAGoYlgnoA5JMZMFAHENJup5Rsz2ptxE2XPUWHOQCvwgcyodSqVxWgMroVptFhIuczgoDKExDHI5KTFwo5ktKhUOjVaw1CJ129kaC+G52gwZ1D5ygQZY39iMHcoFO9cT78LjQOylknljY18MTxHqWxnUGUPFT20+iS1rBNlcHka7gsVtdibGmYIFURcDkPL90XwHO02DN8ZgZYZRcuqIgvZrJAJVyrpZVgzOl/9MXqeL2a7faVad5l/6XnGM/PMPDPPfE0wG3UXazvHzra4tNkibWQb0n0HD1ABF5wNnSWU2WKTXuumzOQyk2bptW82ksus7AHMUgvP3AlzBvpWqFerwPc+0gJXQVdkXMPMGZBWa5E56lNSUgQieEFDAF+IZRatLcJ3x6ueGW7coJWLBSkCA6llremvMGvTDIKUeodGh3e5uHaYM2xquyBFpMG0Lk9Dw56zZ/ecbWgodKFFVJRpjpYU4qplzohkClJgL0Z0roazvopN//znV1/169fvoXffXbOt7uweeMhVnGLLuEqsS8wZdrfU43J5tKcPf/XZZ59++sQTT7zwxKOPPvfc26+//nO/o++u2RkoLmzRX1PMCkmdx3sA8H766W+xAehHH4XUgPvt139+w1eou9aYNSLXyX6PPvHb33KQn3uMsrcf/j9P8TbztcWcXu86+dVvf/sdBQyQXwAaQ9yHoT127P887pZrqz4rjPWus/984rvvnngCA79Ai/wwtmPamp3XGHOGrt5z9p+ffvsdokWlGtRibAD42Ou9ztaGMKeYGEt2dDOPDpNJe2EpDCaToavMFkVkU7cA5u++BcCP3XzDzTe/fvj06RtuOPwzeLj52MPHvsgtP1tbl2Jjp2Axm0x5EkV3DDBnXlgKyNz+0a4xZ67x7En97FuAfNpT6NL+3N8F7PQbhaBjPn19U1NueW1NnUAZwkx9qgVuAm+4+pi1LYXe1G+/fe7tY55CvecfP9/g2moDzGZphqewPLf'
      ^",500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
-clg-pagnol-wasselonne.monbureaunumerique.fr,"400 Data after `Connection: close`:
-
-  b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZl/MhG9lYg62lpACc9xMbDibXVkVBd02tdlpeV9OLYpJBl1tjVbGB68WUNzFo2tLWyt7m2/PHksrSx////H2Ud+wAAAQB0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ByUAAC5JSURBVHja7J0JYBNV/senloaCQGrSWpFS1ESTSZs0Z5M0m6YhwUJIoRTQQAUkbQqJFErFUmhLobXQUko57CIIyOHBJYIIKgiK4HIpKx54rK6ut6vr+t911133/1//75iZzCTpgQ1n51fI8ea9X95nvu/K5M17hKTnGSHveUbwOvM68zrzOvM68zrzOvM68zrzOvM68zrzOvM6X6jO6T3PeJ15nXmdeZ15nXmdeZ15nXmdeZ15nS+izrKeZ7zOvM68zrzOvM5Xmc5pPc94nXmdeZ15nXmdeZ15nXmdeZ15nXmdeZ15nbups6HnGWHueUboe571SObMnmeEtucZoe55xuvcQ3TuiW2YsecZoet5RpDYepTOqp5ntM49yXideZ15na8tnXtq/8zX52u8PqOrnz1M555YtsU9z3rkfbEyTY+zHlmfZTJe556gM7+eAb+eAa8zrzOvM68zrzOvM68zrzOvM68zrzOvM68zrzO/bgW/PknP0lkm0xAc02hwELxESDDPIFCm0YRE46alritGjqchQmJyo1xandNIXWZmcDZkZqbaQhp1IEStgo9atU6lBsE6kiQtaiYmiKYzkjAiK0Rl0anVIKKKE09FkmnsIBCms3CiAE+XVGeZhjSN4FpKuir//vvvP08uux/asjL0mEakbWPHMiUTaXI5J+0ao3DEiDwibQ07UFhBEhqSEzQij6zgvDdcSqEJIHPmwt9wLTl92d3A7pehp7snlqGnZaRuDTfeOLGF5KQVkiNAqJ1M5sZLJEl1IjelZhvnvUAjv6Q6E+pxIcyJvvsRs2MGgm3tj55K7GRLSMQRGjnnfZ4EMjuIEObfbCMsIcwO7ulbY5BcWp21gHmcMGh523yoTJc7cNluxW/vryBTQfZMdCyQaqGDTE4Uwhd5KGyNBjEjnfOoeCZ0bnSJTCRoieKKRKFwIfO5Avtl0HmESEzffiR2iGWErwKY2AefNlXY8dsKAjKvceBoEqhcikRjt0NOkUMsdjjEBHoNdV6Y4kA/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'
-     ^",500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
+clg-pagnol-wasselonne.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-paraison.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 clg-passepierre.monbureaunumerique.fr,"400 Data after `Connection: close`:
 
@@ -69209,7 +69341,7 @@ lyc-veil.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,É
 lyc-vogt-commercy.monbureaunumerique.fr,Server disconnected,Cannot connect,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-voisin.monbureaunumerique.fr,"400 Data after `Connection: close`:
 
-  b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZl/MhG9lYg62lpACc9xMbDibXVkVBd02tdlpeV9OLYpJBl1tjVbGB68WUNzFo2tLWyt7m2/PHksrSx////H2Ud+wAAAQB0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ByUAAC5JSURBVHja7J0JYBNV/senloaCQGrSWpFS1ESTSZs0Z5M0m6YhwUJIoRTQQAUkbQqJFErFUmhLobXQUko57CIIyOHBJYIIKgiK4HIpKx54rK6ut6vr+t911133/1//75iZzCTpgQ1n51fI8ea9X95nvu/K5M17hKTnGSHveUbwOvM68zrzOvM68zrzOvM68zrzOvM68zrzOvM6X6jO6T3PeJ15nXmdeZ15nXmdeZ15nXmdeZ15nS+izrKeZ7zOvM68zrzOvM5Xmc5pPc94nXmdeZ15nXmdeZ15nXmdeZ15nXmdeZ15nbups6HnGWHueUboe571SObMnmeEtucZoe55xuvcQ3TuiW2YsecZoet5RpDYepTOqp5ntM49yXideZ15na8tnXtq/8zX52u8PqOrnz1M555YtsU9z3rkfbEyTY+zHlmfZTJe556gM7+eAb+eAa8zrzOvM68zrzOvM68zrzOvM68zrzOvM68zrzO/bgW/PknP0lkm0xAc02hwELxESDDPIFCm0YRE46alritGjqchQmJyo1xandNIXWZmcDZkZqbaQhp1IEStgo9atU6lBsE6kiQtaiYmiKYzkjAiK0Rl0anVIKKKE09FkmnsIBCms3CiAE+XVGeZhjSN4FpKuir//vvvP08uux/asjL0mEakbWPHMiUTaXI5J+0ao3DEiDwibQ07UFhBEhqSEzQij6zgvDdcSqEJIHPmwt9wLTl92d3A7pehp7snlqG'
+  b'<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd""><html><head><meta name=""viewport"" content=""width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0""><style type=""text/css"">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9Inh'
      ^",500 Internal Server Error,,,Redirection depuis www.lp-gabriel-voisin.ac-reims.fr,
 lyc-vuillaume.monbureaunumerique.fr,Server disconnected,500 Internal Server Error,,Établissement scolaire,Ajout manuel de Michaël Bideault (Villes Internet),
 lyc-zay.monbureaunumerique.fr,"400 Data after `Connection: close`:
@@ -70783,7 +70915,7 @@ neville.fr,301 Moved Permanently http://www.neville.fr/,200 OK,,Commune,ADULLACT
 www.neville.fr,200 OK,200 OK,,Commune,Wikidata,
 nevoy.fr,301 Moved Permanently http://www.nevoy.fr/,301 Moved Permanently https://www.nevoy.fr/,,Commune,ADULLACT,
 www.nevoy.fr,403 Forbidden,403 Forbidden,,Commune,DILA open data,
-saint-samson.new.fr,302 Found https://sedo.com/search/details/?partnerid=324561&language=us&domain=new.fr&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage,tlsv1 unrecognized name,,Collectivité,ADULLACT,
+saint-samson.new.fr,302 Found https://sedo.com/search/details/?partnerid=324561&language=us&domain=new.fr&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage,302 Found https://sedo.com/search/details/?partnerid=324561&language=us&domain=new.fr&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage,,Collectivité,ADULLACT,
 www.saint-samson.new.fr,302 Found https://sedo.com/search/details/?partnerid=324561&language=us&domain=new.fr&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage,302 Found https://sedo.com/search/details/?partnerid=324561&language=us&domain=new.fr&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage,,Collectivité,Wikidata,
 eye.news-aphp.fr,Timeout,Timeout,,APHP,Ajout manuel de Julien Palard,
 nexon.fr,301 Moved Permanently https://www.nexon.fr/,301 Moved Permanently https://www.nexon.fr/,,Commune,ADULLACT,
@@ -70836,7 +70968,7 @@ nieppe.fr,301 Moved Permanently https://www.nieppe.fr/,301 Moved Permanently htt
 www.nieppe.fr,200 OK,200 OK,,Commune,Wikidata,
 nieul-le-dolent.fr,301 Moved Permanently https://www.nieul-le-dolent.fr/,301 Moved Permanently https://www.nieul-le-dolent.fr/,,Commune,ADULLACT,
 www.nieul-le-dolent.fr,200 OK,200 OK,,Commune,Wikidata,
-nieul-sur-lautise.fr,200 OK,200 OK,,,ADULLACT,
+nieul-sur-lautise.fr,Timeout,Timeout,,,ADULLACT,
 www.nieul-sur-lautise.fr,503 Service Unavailable,Timeout,,,ADULLACT,
 nieul-sur-mer.fr,301 Moved Permanently https://www.nieul-sur-mer.fr/,301 Moved Permanently https://www.nieul-sur-mer.fr/,,Commune,ADULLACT,
 www.nieul-sur-mer.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -71311,7 +71443,7 @@ www.offlanges.fr,200 OK,200 OK,,Commune,DILA open data,
 offranville.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.offranville.fr,200 OK,200 OK,,Collectivité,Wikidata,
 offwiller.fr,301 Moved Permanently https://www.offwiller.fr/,301 Moved Permanently https://www.offwiller.fr/,,Commune,ADULLACT,
-www.offwiller.fr,200 OK,200 OK,,Commune,DILA open data,
+www.offwiller.fr,Timeout,Timeout,,Commune,DILA open data,
 ofgl.fr,No address associated with hostname,No address associated with hostname,,,Ajout manuel de Bastien Guerry,
 ofii.fr,403 Forbidden,200 OK,,,ADULLACT,
 www.ofii.fr,403 Forbidden,200 OK,,,ADULLACT,
@@ -72973,7 +73105,7 @@ plechatel.fr,301 Moved Permanently https://www.plechatel.fr/,301 Moved Permanent
 www.plechatel.fr,200 OK,200 OK,,Collectivité,Wikidata,
 pledeliac.fr,503 Service Unavailable,certificate verify failed,,Commune,ADULLACT,
 www.pledeliac.fr,200 OK,200 OK,,Commune,Wikidata,
-pledran.fr,301 Moved Permanently https://pledran.bzh/,301 Moved Permanently https://pledran.bzh/,,,ADULLACT,
+pledran.fr,Connection failed,Connection failed,,,ADULLACT,
 www.pledran.fr,Connection failed,Connection failed,,,ADULLACT,
 pleguien.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.pleguien.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -73959,7 +74091,7 @@ www.quarante34.fr,200 OK,200 OK,,,ADULLACT,
 quarouble.fr,308 Permanent Redirect https://www.quarouble.fr/,308 Permanent Redirect https://www.quarouble.fr/,,Commune,ADULLACT,
 www.quarouble.fr,200 OK,200 OK,,Commune,DILA open data,
 quarrelestombes.fr,200 OK,200 OK,,Commune,DILA open data,
-www.quarrelestombes.fr,200 OK,301 Moved Permanently https://quarrelestombes.fr/,,Commune,Ajout manuel de Matthieu FAURE,
+www.quarrelestombes.fr,301 Moved Permanently http://quarrelestombes.fr/,301 Moved Permanently https://quarrelestombes.fr/,,Commune,Ajout manuel de Matthieu FAURE,
 quatz.fr,Name or service not known,Name or service not known,,Collectivité,Wikidata,
 quatzenheim.fr,200 OK,200 OK,,Commune,DILA open data,
 www.quatzenheim.fr,301 Moved Permanently https://quatzenheim.fr/,301 Moved Permanently https://quatzenheim.fr/,,Commune,ADULLACT,
@@ -74900,7 +75032,7 @@ rosieres-aux-salines.fr,Timeout,301 Moved Permanently https://www.rosieres-aux-s
 www.rosieres-aux-salines.fr,200 OK,200 OK,,Commune,Wikidata,
 rosieres-en-haye.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.rosieres-en-haye.fr,302 Found https://rosieres-en-haye.fr/,200 OK,,Commune,Wikidata,
-rosieres-santerre.fr,301 Moved Permanently https://www.rosieres-santerre.fr/,301 Moved Permanently https://www.rosieres-santerre.fr/,,Commune,ADULLACT,
+rosieres-santerre.fr,202 Accepted,202 Accepted,,Commune,ADULLACT,
 www.rosieres-santerre.fr,200 OK,200 OK,,Commune,Wikidata,
 rosieres-tarn.fr,301 Moved Permanently http://www.rosieres-tarn.fr/,certificate verify failed,,Commune,ADULLACT,
 www.rosieres-tarn.fr,200 OK,certificate verify failed,,Commune,Wikidata,
@@ -74975,7 +75107,7 @@ rougeries.fr,301 Moved Permanently http://www.rougeries.fr/,wrong version number
 www.rougeries.fr,Name or service not known,Name or service not known,,Commune,Wikidata,
 rougiers.fr,301 Moved Permanently https://www.rougiers.fr/,301 Moved Permanently https://www.rougiers.fr/,,Commune,ADULLACT,
 www.rougiers.fr,200 OK,200 OK,,Commune,Wikidata,
-rougiers-infos.fr,403 Forbidden,403 Forbidden,,,ADULLACT,
+rougiers-infos.fr,200 OK,200 OK,,,ADULLACT,
 www.rougiers-infos.fr,403 Forbidden,403 Forbidden,,,ADULLACT,
 rougnac16.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.rougnac16.fr,301 Moved Permanently https://rougnac16.fr/,301 Moved Permanently https://rougnac16.fr/,,Collectivité,Wikidata,
@@ -75289,7 +75421,7 @@ www.saint-amand-magnazeix.fr,Temporary failure in name resolution,Temporary fail
 saint-amand-sur-fion.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.saint-amand-sur-fion.fr,200 OK,200 OK,,Commune,Wikidata,
 saint-amand-villages.fr,301 Moved Permanently https://www.saint-amand-villages.fr/,301 Moved Permanently https://www.saint-amand-villages.fr/,,Commune,ADULLACT,
-www.saint-amand-villages.fr,200 OK,200 OK,,Commune,Wikidata,
+www.saint-amand-villages.fr,301 Moved Permanently https://www.www.saint-amand-villages.fr/,200 OK,,Commune,Wikidata,
 saint-amans-soult.fr,301 Moved Permanently http://www.saint-amans-soult.fr/,301 Moved Permanently http://www.saint-amans-soult.fr/,,Commune,ADULLACT,
 www.saint-amans-soult.fr,200 OK,200 OK,,Commune,Wikidata,
 saint-amant-de-boixe.fr,301 Moved Permanently https://www.saint-amant-de-boixe.fr/,301 Moved Permanently https://www.saint-amant-de-boixe.fr/,,Commune,DILA open data,
@@ -76412,7 +76544,7 @@ saint-ouen-les-vignes.fr,301 Moved Permanently https://www.saint-ouen-les-vignes
 www.saint-ouen-les-vignes.fr,200 OK,200 OK,,Commune,DILA open data,
 saint-ouen-sur-morin.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.saint-ouen-sur-morin.fr,404 Not Found,certificate verify failed,,Collectivité,Wikidata,
-saint-ouen-thouberville.fr,301 Moved Permanently https://www.saint-ouen-de-thouberville.fr,certificate verify failed,,Commune,DILA open data,
+saint-ouen-thouberville.fr,301 Moved Permanently https://www.saint-ouen-de-thouberville.fr/,301 Moved Permanently https://www.saint-ouen-de-thouberville.fr/,,Commune,DILA open data,
 www.saint-ouen-thouberville.fr,301 Moved Permanently https://www.saint-ouen-de-thouberville.fr,certificate verify failed,,Commune,Ajout manuel de Matthieu FAURE,
 saint-ours-les-roches.fr,301 Moved Permanently https://www.mairiesaintourslesroches.fr/,301 Moved Permanently https://www.mairiesaintourslesroches.fr/,,Commune,ADULLACT,
 www.saint-ours-les-roches.fr,301 Moved Permanently https://www.mairiesaintourslesroches.fr/,301 Moved Permanently https://www.mairiesaintourslesroches.fr/,,Commune,Wikidata,
@@ -78283,7 +78415,7 @@ saintremydeblot.fr,301 Moved Permanently https://www.saintremydeblot.fr/,301 Mov
 www.saintremydeblot.fr,200 OK,200 OK,,Commune,Wikidata,
 saintremydunord.fr,Name or service not known,Name or service not known,,Commune,ADULLACT,
 www.saintremydunord.fr,Name or service not known,Name or service not known,,Commune,DILA open data,
-saintremyenbouzemont.fr,301 Moved Permanently https://www.saintremyenbouzemont.fr/,301 Moved Permanently https://www.saintremyenbouzemont.fr/,,Commune,ADULLACT,
+saintremyenbouzemont.fr,301 Moved Permanently https://www.saint-remy-bouzemont-saint-genest-et-isson.fr/,301 Moved Permanently https://www.saint-remy-bouzemont-saint-genest-et-isson.fr/,,Commune,ADULLACT,
 www.saintremyenbouzemont.fr,200 OK,certificate verify failed,,Commune,Wikidata,
 saintremylhonore.fr,No address associated with hostname,No address associated with hostname,,Commune,ADULLACT,
 www.saintremylhonore.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -79614,7 +79746,7 @@ seraincourt95.fr,301 Moved Permanently https://www.seraincourt95.fr/,301 Moved P
 www.seraincourt95.fr,200 OK,200 OK,,Commune,Wikidata,
 serandon.fr,301 Moved Permanently https://www.serandon.fr/,301 Moved Permanently https://www.serandon.fr/,,Commune,ADULLACT,
 www.serandon.fr,403 Forbidden,403 Forbidden,,Commune,DILA open data,
-seranon.fr,301 Moved Permanently https://mairiedeseranon.fr/,Connection reset by peer,,Collectivité,Wikidata,
+seranon.fr,301 Moved Permanently https://mairiedeseranon.fr/,Connection failed,,Collectivité,Wikidata,
 www.seranon.fr,301 Moved Permanently https://mairiedeseranon.fr/,Connection failed,,Collectivité,Wikidata,
 seranvillers-forenville.fr,308 Permanent Redirect https://www.seranvillers-forenville.fr/,308 Permanent Redirect https://www.seranvillers-forenville.fr/,,Commune,ADULLACT,
 www.seranvillers-forenville.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -80098,7 +80230,7 @@ www.smbo95.fr,200 OK,200 OK,,Collectivité,Banatic,import-base-nationale-sur-les
 smbvas.fr,200 OK,200 OK,,Collectivité,ADULLACT,
 www.smbvas.fr,301 Moved Permanently https://smbvas.fr/,301 Moved Permanently https://smbvas.fr/,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
 smbvb.fr,200 OK,200 OK,,Collectivité,ADULLACT,
-www.smbvb.fr,301 Moved Permanently https://smbvb.fr/,301 Moved Permanently https://smbvb.fr/,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
+www.smbvb.fr,200 OK,200 OK,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
 smbvl.fr,301 Moved Permanently http://www.smbvl.fr/,301 Moved Permanently https://www.smbvl.fr/,,Collectivité,ADULLACT,
 www.smbvl.fr,200 OK,200 OK,,Collectivité,Banatic,import-base-nationale-sur-les-intercommunalites.py
 smdlyon.fr,301 Moved Permanently https://www.smdlyon.fr/,301 Moved Permanently https://www.smdlyon.fr/,,,ADULLACT,
@@ -82367,7 +82499,7 @@ uphf.fr,301 Moved Permanently https://www.uphf.fr/,301 Moved Permanently https:/
 www.uphf.fr,200 OK,200 OK,,Université,ADULLACT,
 upmc.fr,Timeout,Timeout,,,ADULLACT,
 www.upmc.fr,302 Moved Temporarily https://www.sorbonne-universite.fr,302 Moved Temporarily https://www.sorbonne-universite.fr,,,ADULLACT,
-upoghjudoletta.fr,301 Moved Permanently https://www.upoghjudoletta.fr,301 Moved Permanently https://www.upoghjudoletta.fr,,Commune,ADULLACT,
+upoghjudoletta.fr,301 Moved Permanently https://www.upoghjudoletta.fr,tlsv1 alert internal error,,Commune,ADULLACT,
 www.upoghjudoletta.fr,200 OK,200 OK,,Commune,DILA open data,
 urbeis.fr,301 Moved Permanently https://urbeis.fr:443/,200 OK,,Commune,DILA open data,
 www.urbeis.fr,301 Moved Permanently https://www.urbeis.fr:443/,301 Moved Permanently https://urbeis.fr/,,Commune,ADULLACT,
@@ -83137,7 +83269,7 @@ www.venez.fr,200 OK,200 OK,,Collectivité,DILA open data,
 venizel.fr,301 Moved Permanently https://www.venizel.fr/,301 Moved Permanently https://www.venizel.fr/,,Commune,ADULLACT,
 www.venizel.fr,200 OK,200 OK,,Commune,DILA open data,
 venizy.fr,503 Service Unavailable,503 Service Unavailable,,Commune,ADULLACT,
-www.venizy.fr,503 Service Unavailable,503 Service Unavailable,,Commune,DILA open data,
+www.venizy.fr,200 OK,200 OK,,Commune,DILA open data,
 vennecy.fr,301 Moved Permanently https://www.vennecy.fr/,301 Moved Permanently https://www.vennecy.fr/,,Commune,ADULLACT,
 www.vennecy.fr,200 OK,200 OK,,Commune,Wikidata,
 venon.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -83181,7 +83313,7 @@ www.verdalle.fr,200 OK,200 OK,,Commune,Wikidata,
 verdelais.fr,301 Moved Permanently https://www.verdelais.fr/,301 Moved Permanently https://www.verdelais.fr/,,Commune,ADULLACT,
 www.verdelais.fr,200 OK,200 OK,,Commune,Wikidata,
 verderel-les-sauqueuse.fr,301 Moved Permanently http://www.verderel-les-sauqueuse.fr/,certificate verify failed,,Commune,ADULLACT,
-www.verderel-les-sauqueuse.fr,200 OK,certificate verify failed,,Commune,DILA open data,
+www.verderel-les-sauqueuse.fr,200 OK,Connection failed,,Commune,DILA open data,
 verdigny.fr,301 Moved Permanently http://www.verdigny.fr//themes/access_log.php,301 Moved Permanently http://www.verdigny.fr//themes/access_log.php,,Commune,ADULLACT,
 www.verdigny.fr,500 Internal Server Error,500 Internal Server Error,,Commune,ADULLACT,
 verdille.fr,200 OK,200 OK,,Commune,ADULLACT,
@@ -83709,7 +83841,7 @@ villars.fr,301 Moved Permanently https://www.villars.fr/,301 Moved Permanently h
 www.villars.fr,200 OK,200 OK,,Commune,Wikidata,
 villars-colmars.fr,301 Moved Permanently https://www.villars-colmars.fr/,301 Moved Permanently https://www.villars-colmars.fr/,,Commune,ADULLACT,
 www.villars-colmars.fr,200 OK,200 OK,,Commune,DILA open data,
-villars-en-pons.fr,Timeout,Timeout,,Collectivité,ADULLACT,
+villars-en-pons.fr,Connection reset by peer,Timeout,,Collectivité,ADULLACT,
 www.villars-en-pons.fr,403 Forbidden,Timeout,,Collectivité,Wikidata,
 villars-en-provence.fr,301 Moved Permanently http://www.villars-en-provence.fr/,301 Moved Permanently https://www.villars-en-provence.fr/,,Commune,ADULLACT,
 www.villars-en-provence.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -84166,7 +84298,7 @@ www.ville-cercottes.fr,200 OK,200 OK,,Commune,Wikidata,
 ville-cergy.fr,301 Moved Permanently https://www.cergy.fr/,tlsv1 unrecognized name,,Commune,ADULLACT,
 www.ville-cergy.fr,301 Moved Permanently https://www.cergy.fr/,tlsv1 unrecognized name,,Commune,Wikidata,
 ville-cernay.fr,200 OK,200 OK,,Commune,ADULLACT,
-www.ville-cernay.fr,200 OK,200 OK,,Commune,Wikidata,
+www.ville-cernay.fr,Timeout,Timeout,,Commune,Wikidata,
 ville-cesson.fr,301 Moved Permanently https://www.ville-cesson.fr/,certificate verify failed,,Commune,ADULLACT,
 www.ville-cesson.fr,200 OK,200 OK,,Commune,Wikidata,
 ville-cesson-sevigne.fr,301 Moved Permanently https://www.ville-cesson-sevigne.fr/,301 Moved Permanently https://www.ville-cesson-sevigne.fr/,,Commune,ADULLACT,
@@ -84605,7 +84737,7 @@ ville-fecamp.fr,301 Moved Permanently https://www.ville-fecamp.fr/,301 Moved Per
 www.ville-fecamp.fr,418 ,418 ,,Commune,Wikidata,
 ville-feignies.fr,301 Moved Permanently https://www.ville-feignies.fr/,certificate verify failed,,Commune,ADULLACT,
 www.ville-feignies.fr,200 OK,200 OK,,Commune,Wikidata,
-ville-fenain.fr,301 Moved Permanently http://www.ville-fenain.fr/,200 OK,,Commune,ADULLACT,
+ville-fenain.fr,200 OK,200 OK,,Commune,ADULLACT,
 www.ville-fenain.fr,200 OK,200 OK,,Commune,Wikidata,
 ville-ferrierelapetite.fr,301 Moved Permanently https://www.ville-ferrierelapetite.fr/,301 Moved Permanently https://www.ville-ferrierelapetite.fr/,,Commune,ADULLACT,
 www.ville-ferrierelapetite.fr,200 OK,200 OK,,Commune,DILA open data,
@@ -85725,7 +85857,7 @@ ville-riez.fr,301 Moved Permanently https://www.ville-riez.fr/,301 Moved Permane
 www.ville-riez.fr,200 OK,200 OK,,Commune,Wikidata,
 ville-rilhac-rancon2.fr,302 Moved Temporarily http://rilhac-rancon.fr,Connection failed,,Commune,ADULLACT,
 www.ville-rilhac-rancon2.fr,404 Not Found,certificate verify failed,,Commune,Wikidata,
-ville-rillieux-la-pape.fr,200 OK,certificate verify failed,,Commune,ADULLACT,
+ville-rillieux-la-pape.fr,certificate verify failed,certificate verify failed,,Commune,ADULLACT,
 www.ville-rillieux-la-pape.fr,200 OK,certificate verify failed,,Commune,Wikidata,
 ville-rimplas.fr,301 Moved Permanently http://www.ville-rimplas.fr/,301 Moved Permanently https://www.ville-rimplas.fr/,,Commune,ADULLACT,
 www.ville-rimplas.fr,200 OK,200 OK,,Commune,Wikidata,
@@ -88008,7 +88140,7 @@ belgentier.net,200 OK,certificate verify failed,,Collectivité,ADULLACT,
 www.belgentier.net,Temporary failure in name resolution,Temporary failure in name resolution,,Collectivité,Wikidata,
 belle-isle-en-terre.net,301 Moved Permanently https://www.belle-isle-en-terre.net/,301 Moved Permanently https://www.belle-isle-en-terre.net/,,Commune,ADULLACT,
 www.belle-isle-en-terre.net,200 OK,200 OK,,Commune,Wikidata,
-bendejun.net,301 Moved Permanently http://www.bendejun.net/,certificate verify failed,,Commune,ADULLACT,
+bendejun.net,301 Moved Permanently http://www.bendejun.net/,301 Moved Permanently https://www.bendejun.net/,,Commune,ADULLACT,
 www.bendejun.net,200 OK,certificate verify failed,,Commune,DILA open data,
 mairie.bermerain.net,Name or service not known,Name or service not known,,Commune,DILA open data,
 www.mairie.bermerain.net,Name or service not known,Name or service not known,,Commune,Ajout manuel de Matthieu FAURE,
@@ -88806,7 +88938,7 @@ www.villeneuvesurcher.net,301 Moved Permanently https://villeneuvesurcher.net/,3
 vitry-le-francois.net,301 Moved Permanently https://www.vitry-le-francois.net/,301 Moved Permanently https://www.vitry-le-francois.net/,,Commune,ADULLACT,
 www.vitry-le-francois.net,200 OK,200 OK,,Commune,Wikidata,
 vivadom.net,Timeout,Timeout,,,ADULLACT,
-www.vivadom.net,404 Not Found,404 Not Found,,,ADULLACT,
+www.vivadom.net,404 Not Found,certificate verify failed,,,ADULLACT,
 bonnut.voila.net,200 OK,certificate verify failed,,Collectivité,Wikidata,
 javernant.voila.net,200 OK,certificate verify failed,,Collectivité,Wikidata,
 senlis.voila.net,200 OK,certificate verify failed,,Collectivité,Wikidata,
@@ -89646,7 +89778,7 @@ clic2marne.org,301 Moved Permanently https://acte-de-mariage.org,Timeout,,,ADULL
 www.clic2marne.org,301 Moved Permanently https://acte-de-mariage.org,Timeout,,,ADULLACT,
 clic6.org,301 Moved Permanently https://www.clic6.org/,301 Moved Permanently https://www.clic6.org/,,,ADULLACT,
 www.clic6.org,301 Moved Permanently https://www.mattwalenergy.com/,301 Moved Permanently https://www.mattwalenergy.com/,,,ADULLACT,
-clicdespaysdebresse.org,403 Forbidden,403 Forbidden,,,ADULLACT,
+clicdespaysdebresse.org,200 OK,200 OK,,,ADULLACT,
 www.clicdespaysdebresse.org,301 Moved Permanently http://clicdespaysdebresse.org/,Timeout,,,ADULLACT,
 cliclivradoisforez.org,Timeout,503 Service Temporarily Unavailable,,,ADULLACT,
 www.cliclivradoisforez.org,Timeout,503 Service Temporarily Unavailable,,,ADULLACT,
@@ -90648,7 +90780,7 @@ www.sainterose.re,200 OK,200 OK,,Commune,Wikidata,
 saintjoseph.re,Timeout,Timeout,,Commune,Wikidata,
 www.saintjoseph.re,Timeout,Timeout,,Commune,DILA open data,
 saintleu.re,301 Moved Permanently https://www.saintleu.re/,301 Moved Permanently https://www.saintleu.re/,,Commune,ADULLACT,
-www.saintleu.re,Timeout,200 OK,,Commune,Wikidata,
+www.saintleu.re,200 OK,200 OK,,Commune,Wikidata,
 saintlouis.re,403 Forbidden,403 Forbidden,,Commune,Wikidata,
 www.saintlouis.re,403 Forbidden,403 Forbidden,,Commune,Wikidata,
 saintphilippe.re,200 OK,200 OK,,Commune,Wikidata,
